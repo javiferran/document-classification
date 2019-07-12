@@ -6,6 +6,7 @@ __pycache__/
 Data/*
 HDF5_files/*
 Tobacco3482/*
+.ipynb_checkpoints/*
 
 # C extensions
 *.so
