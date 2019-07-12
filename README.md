@@ -12,4 +12,4 @@ SmallTobacco_csv.py: creates csv file with image and class from a SmallTobacco j
 
 hdf5_test.py: reads inputs csv with images directories, class (and page segmentation to be added) and creates train, validation and test hdf5 datasets (select compression method). For images datasets, open image and stores it (cv2 library).
 
-HDF5_pytorch_SmallTobacco.py: implementation of dataloader which reads hdf5 file and CNN Text + MobilnetNet concatenation
+HDF5_pytorch_SmallTobacco.py: implementation of dataloader which reads hdf5 file and CNN Text + MobilenetNet concatenation
