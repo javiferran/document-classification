@@ -1,0 +1,53 @@
+| Ly
+2 | INBIFO institut ftir biologische Forschung GmbH - Kéin PRIORITY
+| [| Report P 0500/3237 97/10/8 Page 48
+ry
+us
+“ BATCH DOSE MUTAGENICITY (rev. /plate) REGRESSION ANALYSIS
+NO.
+Re PLATE M SE RSD REGR. SD CORR. TEST
+} COEF. COEF.
+i 1 2 3
+iy (ng/ (2) (rev./ (rev. /
+io plate) mg) mig)
+4 0798 «40.200 «6©13)«15 0S B«12.0 2.1 30.0
+to: 0.400 20 17 12 16.3 2.3 24.7
+0.600 24 18 13 18.3 3.2 30.0
+~ 0.800 17 #18 13 16.0 1.5 16.5
+: 1.000 22 20 14 18.7 2.4 22.3 7 4 0.489 = 4
+0799 «0.200 «20 «20 «13)=«17.7 2.3 22.9
+: 0.400 15 9 412 12.0 1.7 25.0
+iy 0.600 21 417 #12 16.7 2.6 27.1
+| 0.800 17 20 14 17.0 1.7 17.6
+1.000 17 12 14 14.3 1.5 17.6 0 4 -.0I7= L
+0800 «(0.2000 «18 «(16 «615 «(16.3 0.9 9.4
+0.400 14 #19 21 18.0 2.1 20.0
+0.600 15 13 18 45.3 1.5 16.4
+0.800 22 20 17 19.7 1.5 12.8
+1.000 17 16 22 18.3 1.9 17.5 3 4 0.286 = L
+| oso. 0.200 17 #10 4 13.7 2.0 25.7
+; 0.400 #15 12 9 12.0 1.7 25.0
+| ! 0.600 18 41 32 20.3 6.2 52.6
+0.800 15 #19 17 17.0 1.2 11.8
+| 1.000 20 19 12 17.0 2.5 25.6 6 4 O.348= L
+| 7 al 0.200 - 14.9 1.1 24.5
+le 0.400 - + - 14.6 1.2 27.7
+[RY 0.600 - . 17.7 1.7 33.5 -
+! 0.800 - - - 17.4 0.8 15.0
+1.000 -  - 17.1 1.0 21.0 4 2 0.2525 4
+
+ 
+
+Table 32 MUTAGENICITY OF TPM WITH S9 ACTIVATION IN STRAIN TAL535,
+VIRGO-CA
+
+Remarks: date of assay: 04-MAR-97
+regression analysis: using Poisson weights
+test: statistically significant difference from 0
+N: nonlinearity, L: linearity
+
+970917 11:04:58 P. 1 USER_DISK:[IT_A_HIMUT_3237.LIS;12
+
+ 
+
+€bZZLZp90e

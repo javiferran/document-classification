@@ -1,0 +1,39 @@
+INBIFO Institut fiir biologische Forschung GmbH - K6ln PRIORITY
+Report P 0500/3237 97/10/10 Page 10
+
+In order to confirm the sensitivity of the indicator organisms, the responsiveness of the tester
+strains was determined in each mutagenicity assay using the positive control substances
+daunomycin, which is diagnostic for strain TA98; methyl methanesulfonate (MMS), NaNg, and
+2-methoxy-6-chloro-9-(3-(2-chloroethyl}aminopropylamino)acridine (ICR-191) for TA100; NaNs
+for TA1535; and ICR-191 for TA1537 (Table 5). The strain-specific response to the diagnostic
+mutagens was comparable to the results obtained in previous studies ? and those published in
+literature (Table 6).
+
+In order to confirm the effectiveness of the metabolic activation system, its activity was
+determined by the mutagenic response of all tester strains to the promutagens
+2-aminoanthracene (2-AA) and 2-aminofluorene (2-AF) for each SQ mix preparation (Table 5).
+The mutagenicity of 2-AA and 2-AF ® indicated sufficient metabolic activity of the $9 mix and
+was comparable to the results obtained in previous studies (Table 6).
+
+In order to confirm the consistent sensitivity of the indicator organisms to the test substance
+investigated, an aliquot of a mainstream smoke condensate (MSC) stock batch from the
+standard reference cigarette 1R4F used as long-term control and stored at approximately
+-75 °C since the first quarter of 1993 was assayed for mutagenicity in the presence of the
+metabolic activation system S9 (Table 7). The specific mutagenicity value of the IR4F-MSC for
+strains TA98 and TA100 was comparable to the results obtained in previous studies (Table 16).
+No mutagenicity was detected for strain TA1535, and strain TA1537 showed an. approximately
+80 % lower sensitivity towards MSC than strains TA98 and TA100.
+
+The specific mutagenicity of the TPM of the standard reference cigarette 1R4F, which was
+smoked and assayed in parallel with the test substances (internal control, Table 8 to Table 15),
+was similar to previous data for strains TA98 and TA100 with S9 activation (Table 16). No
+mutagenicity was detected for strain TA1535, and strain TA1537 with S9 activation showed an
+approximately 90 % lower sensitivity towards TPM than strains TA98 and TA100.
+
+* negligible deviation from range of historical data for NaN, in TA100: 10 % lower than historical mean
+2-AF in strain TA1535 is reported fo be not mutagenic and in strain TA1537 to be weakly mutagenic
+(De Flora et al., 1984). For these strains, 2-AA indicated sufficient metabolic activity of the S9 mix;
+negligible deviation from range of historical data for 2-AF in TA98: 26 % fower than historical mean,
+and for 2-AA in TA1535: 12 % lower than historical mean.
+
+os9Lb2790z

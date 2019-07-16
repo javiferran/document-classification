@@ -1,0 +1,22 @@
+Summary
+
+The real time fast evolved gas analysis/Fourier Transform infrared (Fast EGA/FTIR)
+method developed in this study was successfully applicd to study the gas phasc compound
+evolution of cellulose pyrolysis. The effects of different pyrolytic conditions, such as heating
+rate, gas flow rate, and the residence time of the vapor phase in the heated zone, on cellulose
+pyrolysis products were demonstrated. Tl was found that the final gaseous compounds were
+significantly affected by the pyrolytic conditions applied. Cellulose samples treated with
+different additives were found to have different yields of formaldehyde, CO, and CO, formation.
+Both the maximum temperature of formaldehyde formation and the amount of formaldehyde
+formed were dependent on the sample-heating rate. Levoglucosan (1,6-Anhydro-B-D-
+glucopyranosc), a major component of cellulose tar, is found to be the major precursor of
+formaldehyde formation. This was supported by experimental results on levoglucosan pyrolysis.
+By this technique, evolved gases arc analyzed at fast heating rates and information regarding
+formation profiles and reaction mechanisms is obtained. In the two heating zone experiments,
+CO formation was found to be highly dependent on the temperature set at the second zone, while
+CO: was only slightly affected by the additional healing, indicating further decomposition of
+vapor products to produce CO, The two heating zone furnace provides links on primary and
+
+secondary reactions.
+
+2078582274

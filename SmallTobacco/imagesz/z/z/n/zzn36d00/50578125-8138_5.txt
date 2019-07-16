@@ -1,0 +1,44 @@
+384
+
+the rate of agonist-induced desensitization by ACh (Clapham and Neher,
+1984; Role, 1984; Downing et al., 1987 and Downing and Role, in
+preparation).
+
+SP modulation of the rate of AChR desensitization is reminiscent of
+results from extensive studies of desensitization of Torpedo (Huganir et
+al., 1986) and muscle (Albuquerque et al., 1986; Middleton et al., 1986:
+Eusebi et al., 1987) AChRs. In these systems it seems likely that the rate
+of AChR desensitization is mediated by phosphorylation due to
+activation of a second messenger system. In light of these findings, we
+have investigated the possibility that a second messenger mechanism is
+also involved in SP modulation of nicotinic AChR desensitization in
+embryonic chick sympathetic neurons.
+
+Concurrent application of ACh and SP evokes a macroscopic current
+that decays at a faster rate than in response to ACh alone, reflecting an
+enhancement of agonist induced desensitization (Clapham and Neher,
+1984; Role, 1984; Margiotta and Berg, 1986). We wished to investigate
+whether this SP-elicited enhancement of the rate of nicotinic receptor
+desensitization is reflected at the microscopic single channel level, and if
+this were the case, whether a second messenger-dependent mechanism
+is involved.
+
+Using the cell-attached patch clamp configuration with 7-15 pM
+ACh in the pipette, we primarily observed the S and M channel types
+described in ED 9-ED 11 chicks. Since we see relatively few L type
+openings it is possible that L is desensitized under these recording
+conditions.
+
+The design of the experiments investigating SP modulation of chick
+nicotinic AChR function is schematized in Figure 3A & B, Single channel
+current activity is monitored with ACh in the pipette. SP is subsequently
+applied to the remainder of the cell and changes in single channel
+activity is observed. If SP is enhancing the rate of receptor
+desensitization, one would expect a decrease in the frequency of opening
+of ACh-activated channels and an increase in the clustering of openings.
+The single channel conductance should remain unchanged as initially
+described by Sakmann et al., (1980) in muscle. Also, ‘because of the high
+resistance seal obtained with the cell-attached patch clamp protocol, the
+channels activated by ACh in the patch of membrane are physically
+
+50578130

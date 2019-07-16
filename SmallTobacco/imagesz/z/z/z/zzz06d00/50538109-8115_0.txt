@@ -1,0 +1,127 @@
+Role of myosin light-chain phosphorylation in endothelial
+
+cell retraction
+
+REBECCA SHELDON, ALAN MOY, KATHY LINDSLEY,
+SANDRA SHASBY, AND D. MICHAEL SHASBY
+Department of Medicine, University of Iowa College of Medicine
+and the Veterans Administration Hospital, Iowa City, lowa 52242
+
+Sheldon, Rebecca, Alan Moy, Kathy Lindsley, Sandra
+Shasby, and D. Michael Shasby. Role of myosin light-chain
+phosphorylation in endothelial cell retraction. Am. J, Physiol.
+265 (Lung Cell. Mol. Physiol. 9): L606-L612, 1993.—
+Endothelial cells retract centripetally when they are exposed to
+histamine and when extracellular calcium is chelated. This cen-
+tripetal retraction implies that a centripetal tension must be
+expressed in the cells. We asked whether phosphorylation of the
+light chain of myosin (MLC) was important for the retraction to
+occur, and, by inference, expression of the tension. In human
+umbilical vein endothelial (HUVE) cells and in porcine pulmo-
+nary artery endothelial (PPAE) cells tryptic peptide maps in-
+dicated that MLC was phosphorylated by myosin light-chain
+kinase (MLCK). Activity of MLCK is inhibited by ML-9, a
+kinase inhibitor with relative specificity for MLCK, and when
+MLCK is phosphorylated by the adenosine 3',5'-cyclic mono-
+phosphate (cAMP)-dependent kinase. Pretreatment of HUVE
+cells or PPAE cells with ML-9 or forskolin-aminophylline (to
+increase cell cAMP) reduced basal MLC phosphorylation and
+prevented an expected increase in MLC phosphorylation fol-
+lowing exposure of HUVE cells to histamine. Pretreatment of
+HUVE cells with MU-9 or forskolin-aminophylline prevented
+HUVE cell retraction (measured as an increase in permeability
+of a monolayer of HUVE cells) in response to histamine. Pre-
+treatment of PPAE cells with ML-9 or forskolin-aminophylline
+prevented PPAE cell retraction in response to chelation of ex-
+tracellular calcium. These data support the hypothesis that
+phosphorylation of MLC is an important component of endo-
+thelial cell retraction.
+
+tension; substrate adherence; calcium
+
+INFLAMMATORY EDEMA is associated with separation of
+adjacent endothelial cells (2, 4, 15, 17, 19, 24, 25, 28).
+Although there are multiple reports documenting this,
+the mechanism of cell separation is not well explained.
+
+Agents that chelate calcium and interrupt calcium-
+dependent cell-cell and cell-substrate adhesion cause
+edema and separation of adjacent endothelial cells (19,
+25). These observations suggest that separation may re-
+sult from loss of tethering between cells and between
+cells and substrate. They also imply that a constitutive
+centripetal tension opposes the tethering, and unop-
+posed expression of this constitutive tension contributes
+to cell retraction when the tethering is released.
+
+Other investigators have suggested that the separa-
+tion of adjacent endothelial cells involves initiation or
+augmentatios of a centripetal tension that is mediated
+by actin and myosin (22, 29). This position is based on
+the observation that 100 uM calcium, ATP, myosin
+light-chain kinase (MLCK), and calmodulin caused
+phosphorylation of the light chain of myosin (MLC) and
+contraction of the actin cytoskeleton of endothelial cells
+after their cell membranes were removed with detergents
+(22, 29, 30).
+
+L606
+
+We previously observed that histamine caused retrac-
+
+- tion of human umbilical vein endothelial (HUVE) cells,
+
+that this was prevented by pretreatment of the cells with
+agents that increased cell adenosine 3',5'-cyclic mono-
+phosphate (cAMP), and that the increased cAMP did
+not prevent histamine from increasing calcium in the
+HUVE cells (4). More recently we found that MLCK
+constitutively phosphorylates MLC in HUVE cells (0.21
++ 0.02 mol phosphate/mol MLC), that histamine in-
+creases MLC phosphorylation (0.19 + 0.05 mol
+phosphate/mol MLC), and that cAMP reduces the con-
+stitutive level of phosphorylation (to 0.06 + 0.02 mol
+phosphate/mol MLC) and prevents the increase in
+phosphorylation expected after histamine exposure (18).
+Although these experiments were consistent with the
+idea that cAMP prevented the response to histamine by
+preventing MLC‘ phosphorylation, activation of the
+cAMP-dependent kinase could also have other effects on
+the cytoskeleton of the cells that might contribute to
+inhibition of retraction. In the experiments described
+in this paper we extend these observations by deter-
+mining the effects of inhibition of MLC phosphoryla-
+tion by two very different mechanisms on the retrac-
+tion of endothelial cells in response to an increase in
+centripetal tension (histamine) and to a loss of tether-
+ing (calcium chelation).
+
+METHODS
+
+Materials. Tissue culture supplies were obtained from the
+Cancer Center, University of Iowa. Fetal bovine serum was
+obtained from Hyclone, Logan, UT. Polyclonal rabbit immuno-
+globulin G antimyosin antibody against human platelet myosin
+was obtained from Biomedical Technologies, Stoughton, Ma.
+Protein A, Staphylococcus aureus cell suspension, and rat brain
+protein kinase C were obtained from Calbiochem, San Diego,
+Ca. Histamine, aminophylline, forskolin, 1-(5-chloronaptha-
+lene-1-sulfonly!) -1H-hexahydro-1,4-diazepine (ML-9), 1-(5-iso-
+quinolinylsulfonyl)-2-methyl-piperazine) (H-7), Di-histidine,
+Di-glutamie acid, ethylene glycol-bis($-aminoethyl ether)-
+N,N,N',N’-tetraacetic acid (EGTA), phosphoserine, and phos-
+phothreonine were obtained from Sigma Chemical, Si. Louis,
+MO. TPCK trypsin was from Worthington. [°*Pjorthophos-
+phate and [y-"2P]ATP were obtained from New England
+Nuclear, Boston, MA. [2°S]methionine was obtained from ICN,
+Irvine, Ca. Transwells were purchased through Costar, Cam-
+bridge, MA. Smooth muscle myosin light-chain kinase (MLCK)
+and turkey gizzard MLC were gifts from Dr. James Selle,
+National Heart, Lung, and Blood Institute. All other chemicals”
+were reagent grade.
+
+Cell culturing. Cultured HUVE cells were prepared by colla-
+genase treatment of freshly obtained umbilical veins as de-
+scribed (4). Cultured porcine pulmonary artery endothelial
+(PPAE) cells were obtained by scraping freshly obtained por-
+cine pulmonary artery as described (25). Harvested cells were

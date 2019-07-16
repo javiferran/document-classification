@@ -1,0 +1,47 @@
+Many avenues for the investigation of the mechanism
+
+of smoke formation are available with the TOF that
+
+are not readily feasible with other mass spectrometers.
+This is due to the fact that a TOF has an easily acces-
+sible open source, and experiments can be run inside
+
+the source. Many of the already proven techniques
+mentioned below have obvious applications to our studies
+of reactive intermediates in cigarette smoke.
+
+a. Flash Photolysis and Flash Pyrolysis
+
+Time resolved mass spectrometry has been applied
+to Flash photolyzed reactions. Ketene and oxides of
+nitrogen reactions, which we are involved with, have
+been studied with this technique.
+
+ 
+
+Kistiakowsky, G.C. and Kydd, P.H., J. Am. Chem. Soc., 79, ©
+4825 (1957). ; ~~
+
+Norrish, R.G.W. and Porter, G., Proc. Roy. Soc. (London),
+A210, 439 (1952).
+
+ 
+
+b. Vastola and Pirone have used a TOF system to study
+the primary reaction mechanisms in the pyrolysis of coal.
+
+ 
+
+Price, D. and Williams, J. E., Time-of-Flight Mass Spectro-
+metry, Pergamon Press, New York (1969).
+
+Transient intermediates in the decomposition of ammonium
+perchlorate have been studied using TOF.
+
+Hackman, E. E., Hessen, H. H., and Beachell, H. C., J.
+Phys. Chem. Vol 76, No. 24, 3545 (1972).
+
+Time-of-Flight mass spectrometry has also been extensively
+used in detection of negative ions.
+
+DLEPLSO00T

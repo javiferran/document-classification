@@ -1,0 +1,65 @@
+PHILIP MORRIS U. S. A.
+
+INTER-OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: R. Comes Date: April 5, 1990
+
+From: CKY Tatum CY MMi
+
+Subject: Smoking Chamber Resul'ts: High Basis Weight Paper I
+
+Cigarette models made with a series of medium basis weight papers: were
+
+tested in the smoking chamber. All cigarettes were smoked at initial
+conditions of 72 degrees Fahrenheit and 60% relative humidity.
+
+The following, models were made using a 45 g/m basis weight paper
+treated with various amounts of monobasic potassium phosphate: additive:
+
+Base Sheet KH, PO), (analyzed) &-Port. (1)
+
+Sample
+
+id Code Ext Coeff
+X8D9ICRI KC P8&Lx 0% (base sheet) 1.25
+X8D9CRJ -1 " 2.2% 1.06
+X8D9CRO " 9.8% 0.72
+X8D9CRP " 14.1% 0.56
+
+All models were made with Marlboro filler with aftercut.
+
+All results: are listed in the attached tablles. The data presented is
+averaged for the number of runs and/or cigarettes smoked as indicated in the
+appropriately labeled columns. Data generated on the CORESTA prototype
+smoking machine for both static and dynamic conditions are also reported.
+
+Results are the average of three 5-cigarette runs for each model.
+
+Comments concerning individual analyses and testing conditions: are
+listed below.
+% Gases are measured by on-line analyzers. Measurement staxts. one minute
+after the mixing fan is turned on. Concentrations are determined by
+
+computer which subtracts the average baseline readings (background)
+from average plateau readings obtained after mixing. Data are reported
+
+for Co, co, and NO.
+
+TEOM particulate mass is collectedi during separate filive-cigarette runs.
+
+*
+Measurement is achieved using the TEOM mass monitor. The number
+concentration, based on particles per cubic centimeter per cigarette, .
+is determined simultaneously using the CPC particle number monitor. ca
+* Opacity is determined by a newly installed instrument called a
+The device
+
+transmissometer (a product of Thermo Environmental).
+measures: the reduction of the amount of light transmitted to the
+
+instrument's detector caused by the presence of cigarette smoke. As
+with. the on-line analyzers, measurement starts one minute after the
+
+P9S9TSb>

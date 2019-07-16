@@ -1,0 +1,147 @@
+L608
+
+Autoradiographs were developed using Kodak X-OMAT AR
+film. The relative isoform distribution was quantitated using an
+Image Quant laser densitometer.
+
+Two-dimensional peptide mapping of myosin tryptic peptides.
+Immunoprecipitate from *2P-labeled cells was dissolved in SDS
+sample buffer as above, separated by an 8-15% polyacrylamide
+gradient gel, and electrophoresed at 200 V for 4-5 h at 21°C.
+The °*P-labeled MLC was cut from the wet gel into small pieces
+and washed three times for 30 min with 40% methanol, 10%
+acetic acid, and 50% water and then an additional three times
+with 10% methanol for the same time period. The washed gel
+slices were subsequently dried under nitrogen and then digested
+with 1 ml of 60 ug/ml of TPCK-trypsin (Worthington) in 50
+mM ammonium bicarbonate at 37°C for 4 h. The digest was
+collected and stored at 4°C. The remaining gel was further
+digested with 1 ml of 30 yg/ml trypsin for an additional 20 h,
+Digests were pooled and lyophilized. Peptides were resuspended
+in 1 ml of water and lyophilized.
+
+Digest was resuspended with 30 ul of electrophoresis buffer
+(acetic acid:formic acid:water, 9:3:88), spotted on a plastic 20 x
+20 x 0.20 mm silica P 60 thin-layer chromatography plate (EM
+Science). Peptides were electrophoresed toward the cathode at
+900 V at 4°C for 45 min (12). Peptide migration was monitored
+by the movement of acid fuschin dye toward the anode. Plates
+were then dried and subjected to ascending chromatography
+using 1-butanol:acetic acid:pyridine:water (49:8:38:30). Plates
+were then dried, wrapped in cellophane, and autoradiographs
+were developed using Kodak X-Omat AR film.
+
+In vitro phosphorylation assays. Standards for tryptic peptide
+maps of MLC were generated in vitro from turkey gizzard MLC
+or platelet MLC phosphorylated with either smooth muscle
+MLCK(,or rat brain protein kinase C (PKC). Phosphorylation of
+MLC by MLCK was carried out in a volume of 200 yl using 20
+mM Tris-HCl (pH 7.6), 5 mM MgCl, 200 »M CaCl, 1 mM
+[y-22P]ATP (400-1,000 cpm/pmol), 2 »M calmodulin, 7 »g/ml
+smooth muscle MLCK, and 3.25 mg/ml turkey gizzard smooth
+muscle MLC or 50 ug/ml human platelet MLC. The reaction
+was initiated with ATP at 25°C for 10 min and terminated by
+precipitating the assay mixture with 40 yl 100% trichloroacetic
+acid (TCA). Samples were microcentrifuged, and the precipitate
+was washed three times with 1 ml of 10% TCA. The pellet was
+resuspended with 200 ul of SDS-sample buffer and 0.1% brom-
+phenol blue and made alkaline with 1 N NaOH.
+
+Phosphorylation of MLC by PKC was carried out in a final
+volume of 400 ul using 20 mM Tris-HCl (pH 7.6), 5 mM MgCl,
+200 uM CaClo, 1 mM [y-22P]ATP (400-1,000 cpm/pmol), 50
+ug/ml phosphatidylserine, 0.8 wg/ml of 1,3 diolein, and 2.7
+ug/ml of PKC at 30°C for 60 min. Phospholipids were stored in
+chloroform and evaporated under a constant stream of nitrogen.
+Phospholipids were then resuspended in Tris buffer and soni-
+cated at 4°C for 5 min using a Branson 200 sonicator. The
+reaction was initiated with the labeled ATP.
+
+Calewlating the stoichiometry of MLC phosphorylation. Quan-
+titative phosphorylation of MLC was determined using laser
+densitometry of autoradiographs made from the two-dimen-
+sional gels of 9°S-labeled MLC immunoprecipitated from the
+cells, There were two phosphorylated isoforms of MLC (desig-
+nated A and B) and each phosphorylated isoform could exist as
+an unphosphorylated (A or B), monophosphorylated (A’ or B’),
+or diphosphorylated (A” or B’) isoform. The light intensity of
+each phosphorylation state of each isoform was integrated on
+the densitometer. The light intensity of each phosphorylation
+state for each of the isoforms was then expressed as a fraction
+(fxn) of the total for that isoform, for example
+
+en LI(A)
+Fraction A = LI(A) + LI(A’?) + LI(A’)
+
+ 
+
+MYOSIN AND ENDOTHELIAL RETRACTION
+
+where LI is light intensity. Fractions for B isoforms were cal-
+culated similarly. Phosphorylation stoichiometry was then cal-
+culated by the following formula
+
+mol phosphate/mol of isoform A = Fzn A’ + 2x Fxn A” and
+
+mol phosphate/mol isoform B = Fxn B’ + 2 x Fxn B”
+
+Statistical analysis. Data are reported as means + SE. Com-
+parisons between two groups were made using the Student’s ¢
+test. Comparisons between more than two groups were made
+using analysis of variance and individual groups comparisons
+were done using a Tukey highly significant difference test for
+post hoc comparisons of means. Differences were considered
+significant at the P < 0.05 level.
+
+RESULTS
+
+Tryptie peptide mapping. We previously reported that
+MLCK mediates basal and histamine stimulated phos-
+phorylation of MLC in HUVE cells (18). In these experi-
+ments we found that MLCK also mediates basal phos-
+phorylation of MLC in PPAE cells. Figure 1
+demonstrates that the tryptic peptide map of MLC from
+PPAE cells is similar to the map of MLC phosphorylated
+in vitro by MLCK, but is not similar to the map of MLC
+phosphorylated in vitro by PKC. The activity at the ori-
+gin in the PPAE cells represents peptide diphosphory-
+lated on ser! and thr!® and some undigested peptide
+which we and others have described in other cells (8, 12,
+18). Hence, the tryptic peptide maps indicated that MLC
+was constitutively phosphorylated by MLCK,in both
+HUVE and PPAE cells and by MLCK in histamine
+stimulated HUVE cells.
+
+Stoichiometry of phosphorylation and effects on retrac-
+tion. MLCK can be inhibited by phosphorylation with
+the cAMP-dependent kinase or by exposure to ML-9, a
+kinase inhibitor with selective specificity for MLCK (5, 7,
+10). As we previously observed, histamine increases MLC
+phosphorylation in HUVE cells by activation of MLCK
+(18). Pretreatment with forskolin-aminophylline or
+ML-9 for 10 min prevented this increase in MLC phos-
+phorylation (Fig. 2). Forskolin-aminophylline and ML-9
+were equally effective at inhibiting MLC phosphorylation
+in response to histamine.
+
+We measured the change in permeability of monolayers
+of HUVE cells to dextran as an index of cell retraction in
+response to histamine. Pretreatment of HUVE cell mono-
+layers with forskolin-aminophylline or with ML-9 pre-
+vented the cell retraction seen with histamine alone
+(Fig. 3).
+
+EGTA did not change constitutive MLC phosphoryla-
+tion (Con) in PPAK cells (Con 0.37 + 0.02, EGTA 0.33 +
+0.02 mol phosphate/mol MLC). Pretreatment of PPAE
+cells for 10 or 30 min with forskolin-aminophylline or
+with ML-9 reduced constitutive phosphorylation of MLC
+to 0.09 + 0.03 and 0.06 + 0.04 mo! phosphate/mole MLC,
+respectively (Fig. 4).
+
+We also measured the permeability of PPAE cell mono-
+layers to dextran as an index of cell retraction in response
+to chelation of extracellular calcium with EGTA. Pre-
+treatment of PPAE cells with forskolin-aminophyiline or
+ML-9. prevented the cell retraction seen with EGTA
+alone (Fig. 5). In contrast, pretreatment of PPAE cell

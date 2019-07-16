@@ -1,0 +1,146 @@
+Tue JouRNAL oF Bipwocscat CHemistry
+Vol. 265, No. 10, Issue of May 25, pp, 46874690, 1980
+Printed in U.S.A.
+
+‘Role of Chemical Reagents in the Activation of Rat Hepatic
+
+Glucocorticoid-Receptor Complex*
+
+(Received for publication, December 3, 1979, and in revised form, February 11, 1980)
+
+Mohammed Kalimi+ and Karen Love
+
+From the Department of Biochemistry, Albert Einstein College of Medicine, Yeshiva University, New York, New York 10461
+
+The effect of sulfhydryl modifying reagents on the
+activation of hepatic glucocorticoid-receptor complex
+wag studied. Unactivated (preincubated at 0°C) (*H}
+dexamethasone-receptor complex pretreated with N-
+ethylmaleimide or iodoacetamide at 0°C and then
+treated at 25°C was unable to bind to rat liver nuclei.
+On the other hand, [*H]dexamethasone-receptor com-
+plex first incubated at 25°C and then treated with N-
+etbylmaleimide or iodoacetamide showed marked bind-
+ing to nuclei, comparable to that obtained with acti-
+vated cytosol. The results suggest that sulfhydryl mad-
+ifying reagents act at the level of unactivated glucocor-
+ticoid-receptor complex, blocking its activation and
+binding ta nuctei.
+
+It was previously shown that pyridoxal phosphate
+inhibits the binding of “activated” dexamethasone-re-
+ceptor complexes to DNA-cellulose in vitro (Cake, M.
+H., DiSorbo, D, M., and Litwack, G. (1978) J. Biol. Chem.
+253, 4886-4891). We have characterized both the N-
+ethylmaleimide-treated and the pyridoxal phosphate-
+treated [*Hjdexamethasone-receptor complexes by
+agarose gel filtration and sucrose-gradient centrifuga-
+tion; we found that whereas pyridoxal phosphate-
+treated cytosol at 0°C showed a considerable amount
+of a smaller fragment of the receptor that was unable
+to bind to nuclei, N-ethylmaleimide-treated cytosol was
+totally devoid of this smaller fragment, and resembled
+untreated, unactivated cytosol. The sulfhydryl modify-
+ing reagents would appear to tock the receptor into an
+intact unactivated form as opposed to pyridoxal phos-
+phate that degrades the molecule into smaller units.
+Thus, N-ethylmaleimide treatment may be valuable in
+the purification of the unactivated form of the receptor
+to homogeneity.
+
+ 
+
+The formation of the ghucocorticoid-receptor complex in
+the cytoplasm of the target cells for the hormone, and its
+activation and translocation to the nuclear acceptor sites, are
+believed to be of primary importance in the induction of
+certain enzymes in hepatoma and liver cells (1-3}. We have
+shown previously that the binding of glucocorticaids to the
+receptor proteins is markedly inhibited by treatment of the
+rat liver cytosol with various sulfhydryl modifying reagents
+(4). Subsequently, Young e¢ a. (5), using Mouse mammary
+tumors and hamster kidney (BHK) cell lines, observed that
+
+* This work was supported by Grants AM24059-01 and AG 00374
+from the National Institutes of Health. The costs of publication of
+this article were defrayed in part by the payment of page charges.
+This article must therefore be hereby marked “advertisement” in
+accordance with 18 U.S.C, Section 1734 solely to indicate this fact.
+
+} Present address, Department of Physiology, Medical College of
+Virginia, Richmond, Virginia, 23298. To whom correspondence should
+be addressed.
+
+sulfhydryl modifying reagents not only inhibit the binding of
+glucocorticoids to the receptor proteins but also inhibit the
+hinding of preformed hormane-veceptor complex to DNA. It
+was not clear, however, whether sulfhydryl reagents block the
+activation of glucocorticoid recepter-complex or its subse-
+quent binding to nuclear receptor sites. Although some un-
+derstanding has been achieved concerning the phenomenon
+of temperature-dependent activation of rat liver glucocorti-
+coid-receptor complex, the precise mechanism of in vitro
+activation is not yet known (6-10). The present paper reports
+evidence suggesting that sulfhydryl reagents block the acti-
+vation of the glucocorticoid-receptor complex ( per se) and not
+its subsequent binding to nuclear acceptor sites.
+
+EXPERIMENTAL PROCEDURES
+
+Methods
+
+Materials—[1,2,4-"H]Dexamethasone (31 Ci/mmol) was obtained
+from New England Nuclear, with radiochemical purity periodically
+checked by thin layer chromatography as described previously {11}.
+Nonradioactive dexamethasone, pyridoxal 5’-phosphate, &-mercap-
+toethanol, and iodvacetamide were purchased from Sigma. N-ethyl-
+maleimide was obtained from Fluka AG Chemische Fabrik, Switzer-
+land.
+
+Male Sprague-Dawley rats (from Charles River Breeding Labora-
+tories}, 150 ta 200 g, were adrenalectomized bilaterally 7 to 9 days
+before use and were maintained on standard Purina Chow, 0.9% NaCl
+solution, and water ad libitum.
+
+Preparation of Cytosol—Animals were killed by cervical disloca-
+tion, and the livers were perfused in situ with ice-cold TS buffer (10
+mM Tris-HCl, 0.25 m sucrose, pH 7.5) and homogenized in a solution
+(1:2, w/v) of the same buffer, The homogenates were filtered through
+cheesecloth and centrifuged at 2,000 x g in a Sorvall SS 34 rotor at
+2°C for 10 min to sediment a crude nuclear pellet, The cytosol fraction
+was prepared by centrifuging the homogenate at 240,000 x g for 60
+min at 0-4°C. The upper fatty layer was discarded and the cytosol
+was carefully removed and used for steroid binding studies. The
+cytosol was diluted to yield a protein concentration of approximately
+2 mg/ml. The cytosol was then incubated with 5 107 m ("H]-
+dexamethasone in the presence or absence of a 1000-fold excess of
+nonradioactive dexamethasone. After incubation for 2 h at 0°C to
+allow maximal binding, the specific macromolecular-bound fraction
+of steroid was determined using the charcoal-dextran technique (12).
+
+Treatment of Cytosol with Chemical Reagents—Pyridoxal 5’-phos-
+phate, iodoacetamide, and N-cthylmaleimide were prepared in con-
+centrated stock solutions (100 mm, pH 7.5) prior to use in the
+experiments. Cytosol containing pyridoxal 5’-phosphate, iodoaceta-
+mide, or N-ethytmaleimide was incubated for 30 min at 0°C in the
+dark.
+
+Nuclear Binding Assay—Nuclei were purified fram the 2,000 x g
+pellet using 1.8 »1 sucrose in 10 mm Tris, pH 7.5, containing 0.025 w
+KCl and 3 mm MgCl: as previously described (13). The washed nuclei
+were suspended in homogenization buffer. Aliquots of the nuclear
+suspension containing 50 yg of DNA were centrifuged at 2,000 x g
+for 5 min at O°C and the supernatant fractions were discarded.
+(H]Dexamethasone-treated cytosal (0.2 ml) was added and a final
+volume of 1 mi of reaction mixture was made by addition of humog-
+enization buffer. The nuclei were resuspended by gently stirring with
+@ Vortex mixer, and the suspension was incubated fur 30 min at 0°C.
+Following incubation, the nuclei were removed by centrifugation at
+
+4687
+
+ 
+
+ 
+
+40033964

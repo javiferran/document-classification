@@ -1,0 +1,40 @@
+13
+
+miners. The principal differences among competing theories are in their treatment of
+smoking, but since r-S correlations are not very strong, these differences have little
+effect on the results.
+Unrecognized confounding factors
+
+ttis logically possible that there is some unrecognized confounding factor (UCF)
+which is causing our discrepancy. Of course a UCF could invalidate any
+epidemiological study, and few if any epidemiological studies have included as
+thorough. investigation as ours of confounding factors.
+
+Let us consider the properties of a UCF necessary to explain our discrepancy:
+
+(a) it must have a very strong correlation with lung cancer, at least comparable
+
+to that of smoking, but still be unrecognized as such
+
+{b) it must have a very strong correlation of opposite sign with radon levels
+
+{c) it must not be strongly correlated with any of our socioeconomic variables,
+
+or with pressure, temperature, or other weather variables
+
+(d) it must be operative in the great majority of geographical areas.
+
+Requirement (1) means that in addition to causing lung cancer and being
+unrecognized as such, it must have increased in importance by orders of magnitude
+since the early part of this century, it must have affected males much more than
+females until mid-century with females closing the gap in recent years, it must be an
+order of magnitude more important in smokers than in non-smokers, etc. Requirement
+(2) is atso difficult since correlations between radon and other factors have been
+
+Studied extensively and are nearly all rather weak; also factors affecting radon levels
+
+*
+
+wee,
+
+LeL2EpSz07z

@@ -1,0 +1,46 @@
+INBIFO Institut fir biologische Forschung - Kdéln
+06 Jul.00 NDA/MWO X:AMWON\QA\CHECKS\300013370.D0C
+
+UBERPRUFUNG VON P 0500/3370 DURCH QA SEITE-NR.: 1 von 2
+
+:
+
+TITEL: In Vitro Mutagenicity of Mainstream Smoke Condensate of the Research
+Cigarettes 99.KY.267, 99.KY.268, 99.KY.269, 99.MY.160, and 99.MY.159
+Mouse Lymphoma TK Assay
+Project PARAMETER 3 (BLEND) Set 1 Samples
+(PT)
+
+PRUFZEITPUNKT: vor Ausgang des Study Plans (3.Jul.2000)
+
+UBERPRUFTER PARAMETER BEANSTANDUNG
+
+Study Plan
+Test System and Procedures Das Cleansing der Stammkultur sollte nicht
+ausfihrlich im Study Plan beschrieben
+werden, da es vorab durchgefthrt wurde
+und daher nicht Teil dieser Studie ist. Es
+sollte in einer SOP beschrieben werden.
+
+Statistics and Evaluation Die Formulierung, dass das Testverfahren
+als vorldufig anzusehen ist, ist zu allgemein,
+da es auch die Interpretation zulasst, dass
+je nach Datenlage auch ein anderer
+statistischer Test durchgefihrt werden
+
+~ kann.
+
+ 
+
+BEMERKUNG: Studie nach den GLP-Grundsatzen des ChemG
+
+06.Jul.2000 &
+
+QA: DATUM/ZN
+
+  
+ 
+
+S€lLvecsose
+
+3.KWas

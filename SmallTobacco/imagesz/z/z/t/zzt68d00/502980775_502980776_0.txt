@@ -1,0 +1,64 @@
+HIGHLIGHTS 5:48 PM MON., 23 JAN., 1984
+BIGBEHAVIORAL RESEARCH
+
+i.Smoke Component Dose (Chamberlin, Reynolds)
+
+Software has been developed for the HP-84B computer which success-
+fully transmits positioning and valving commands to the human-mimnic
+smoking machine controller. The timing of the commands (one command
+every 40 milliseconds) appears to be entirely adequate. Software for the
+HP-1000 computer which translates puff-profile data into positioning
+commands is already on hand. Minor modifications of this software are
+required to incorporate valving commands. Once this is complete, a test
+in which full sets of commands will be generated, downloaded to the HP
+HP-86B, and transmitted te the smoking machine will be made. Assuming
+the success of this test, the smoking machine will be operational with-
+in a matter of days.
+
+2. Psychophysiology (Gilbert, Chamberlin, Ingram)
+
+Computer processing of the EEG data from the smoking and stress
+study is complete, including the generation of plots of EEG power spec-—
+tra. Essentially all other data from the smoking and stress study have
+been entered into computer data files, proofread and corrected. Statis-—
+tical analyses of these data are underway. Preliminary results should
+
+be available shortly.
+3. Nicotine Pharmacology (Lippiello, Davis, Robinson, Ingram)
+
+The first experiments with the new, tritiated, L-nicotine have
+been completed. The binding affininty (Kd ~ 20 nM) and maximum binding
+Capacity (Bmax ~ 100 fmoles/mg protein>d of the surine neuroblastona-as—
+sociated receptor sites agree well with our previously reported values.
+The Baax value translates into roughly 2000 binding sites per cell. Ex-
+periments to determine the pharmacological specificity of these sites
+
+have commenced. ©
+
+The Zeiss ICM405 phase/fluorescence microscope has been ordered. |
+
+Dr. John Robinson is attending the Winter Brain Research Confer-
+ence in Colorado. At this meeting, he will confer with Dr. Deaduwyler
+(Bowman Gray School of Medicine) and Dr. Dudek (Tulane University) in
+regard to establishing research protocols for the study of the effects
+of nicotine on the rat hypothalamus. It is hoped that this work can be
+carried out at Bowman Gray concurrently with recently funded work on the
+rat hippocampus. Additionally, Dr. Robinson will consult with Dr. Dead-
+wyler and Dr. Weodward (Univ. of Texas Medical Center at Dallas) in re-
+gard to generation of research proposals for the thorough investigation
+of the effects of nicotine on the rat brain by means of in-vive ionto-
+phoresis and/or imaging of metabolic sites of 2-deaexyglucose.
+
+4. Blood Chemistry (Davis, Ingram)
+
+( The procedure described.by Curvall, et al. (3. Chromatog., 232, 283-
+293 (4982]) for the extraction of nicotine and cotinine from blood plasma
+is under evaluation. Samples have bean extracted but chrosatographic re-
+
+Sults are not yet available.
+
+SLLO 86705
+
+eee nee an
+
+2 _ €

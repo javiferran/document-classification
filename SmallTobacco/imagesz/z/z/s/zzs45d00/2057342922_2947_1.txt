@@ -1,0 +1,43 @@
+~64-
+
+status, age, and smoking during pregnancy, infant's age, sex, birthweight, race, and
+sleeping position; and smoking by the father and other household members. Although
+results were adjusted for maternal smoking during pregnancy, less than 10% of the
+mothers changed their smoking behavior through pregnancy and the first year of the
+infant's life. There was a strong dose-response relationship observed between amount
+smoked by the mother and risk of SIDS (these ORs were not adjusted for any covariates).
+The researchers also found a significant relationship between recent paternal smoking and
+SIDS, with a crude OR of 2.4 (CI=1.9, 3.0) and an adjusted OR of 1.4 (CI-1.0, 1.8;
+adjusted for maternal smoking as well as the other covariates listed previously). They did
+not see a dose-response relationship for paternal smoking. Among infants whose mothers
+did not smoke (131 cases and 1081 controls), there appeared to be no difference in SIDS
+risk between infants whose fathers smoked and those with non-smoking fathers (OR=1.0,
+CI=0.6, 1.6), However, having a smoking father appeared to substantially increase the
+risk of SIDS among infants whose mothers smoked. The authors speculated that non-
+smoking mothers may be more likely than smoking mothers to insist that fathers smoke
+
+away from the child.
+
+Mitchell ef ai. also looked at the relationship between the number of smokers in the
+household and the risk of SIDS. Having any other smokers, excluding the parents, in the
+household resulted in a crude OR of 1.5 (CI=1.2, 2.0) and an adjusted OR of 1.2 (CI=0.8,
+1.6). When parents were included, there was a strong dose-response relationship between
+
+the number of household smokers and the risk of SIDS.
+
+4.2.3 Animal Studies of SIDS and Tobacco Smoke Exposure
+There is no animal mode! for SIDS.
+
+4.2.4 Discussion and Conclusions
+
+Existing data indicate a causal relationship between maternal smoking in general and risk
+of SIDS. Numerous studies have consistently found maternal smoking to be a significant
+predictor of SIDS, with ORs from well-controlled studies ranging from 1.8 to 3.1.
+
+EXTERNAL REVIEW DRAFT
+MARCH 1995
+
+CebSbessoe |
+
+I
+t

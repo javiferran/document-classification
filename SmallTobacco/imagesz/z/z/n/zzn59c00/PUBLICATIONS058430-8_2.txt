@@ -1,0 +1,123 @@
+ne
+
+  
+
+c-Sre Enhances Internalization of EGFR 30187
+A
+9 a
+: a
+wer . am
+2005
+z sod ,
+“
+o
+
+relative receptor mass
+
+ 
+
+6 3 10 1s » 2
+me (hours)
+
+Pic. 2. Effect of o-Gre on the basal half-life of EGFR, from
+pulse-chase experiments Data are gven in mean relative densiten-
+eter unite normalised to the mean +b readings. NR calls (closed
+squares) and SHR celis (closed circles) exhibit essenually equivaient
+turnover ratea in the abaence of EGF. Error bare represent the sandardg
+error of the mean.
+
+placed at 37°C in prewarmed DHB. The DHE was aspirated, and
+eacons cold EGF was added at regular time mtervala. At ench time
+pout, the unlabeled EGF was aspirated at 0 °C. and the cells were
+waabed x nines with ice-cold WHIPS buffer. Acid strip with ures wat
+tuned to remove any suriace-bound ligand, and internalized ligand was
+determined by solubilixing cells in 1 N NaOH 91 37°C for ih The
+recychng rate conatant could be computed from the alope of a plot of in
+C, versus ¢ (32), aeeuming that ligand degradation was negiigihie. To
+eseess Ube amount of degraded ligand, the unlabeled EGF chase was
+collected rather than aspirated and passed over s G-15 Sephadex onl.
+umn (34),
+
+RESULTS
+
+Previous work bas shown ab association of ¢-Sre with both
+EGFR (16-19) and endosomal membranes (24). These associ-
+ations, along with the increase in mitogenesis observed in cells
+overexpressing ¢-Src upon incubation with EGF (13), suggest a
+mechanusm of action for c-Sre in mitogenic signaling events
+that involves EGFR trafficking. To determine whether traffick-
+ing parameters are affected by c-Sre, the basal half-life of
+EGFR and EGF-induced internalization and recycling rate con:
+stante were measured as described under “Experimental
+Procedures.”
+
+C3H10T% myarine fibroblasts owererpressing EGFE alone
+(NR) or overexpressing beth c-Sre end EGFR (SHR) were ex-
+amined for effects of c-Src on the basal EGFR half-life by
+{*Shmethionine pulse-chase analyzie. Pig. 2 shows that EGFR
+in the NR cells and SHR calls exhibit turnover hali-times of
+approximately 20 and 22 h, respectively, in the absence of EGF.
+Thus, c-Sre overexpression has little or no effect on intrinsic
+EGFR turnover.
+
+EGF-induced endocytic rata constants (h,) for EGFR were
+measured for the following panal of C3H10T Abrobiasta: neo-
+mycin-resistant only (Neo), c-Sre overaxpressors (5H), Kinase
+defective c-Sre ovarexpressors (430), EGFR Ovwrexpressara
+(NR), and c-SrvEGFR double overexpreasors (SHR). Repre-
+sentative internalization deta sre ebewn m Fig. 3. The endo
+cytc rate constants are simply the slopes of the times shown
+Ponels A and B reflect rates at a low number of surface com-
+plazas (<30G/cail). It is clear that both of the cell mes overez-
+Preesing c-Sre (SHR and 5H} had increased endocytoxis rates
+compared to their respective counterparts, Panel C demon-
+Firates that the c-Src effect was not seex at all lewals of surface
+compiexes. The number of aurface complezes in pane! C ig 2
+orders cf magnitude higher than those in A or B. For this
+Grcumstance, the cells overexpressing ¢-Sre had the name en-
+
+is Pate as those with endogenous levela.
+The entire range of endocytic rate constants measured for
+
+PUBLICATIONS
+
+ 
+
+C, (cpm)
+
+ 
+
+o 1900 200 300 400 400
+IC, at (cpmemun)
+
+ 
+
+lone 0) F080 2onnd sens aco sone sen
+
+JC, dt (cpmemin)
+Pha. 3. Campariagn of the endocytic rute of EGFR and o-Sro’
+
++ EGFE overexprassors at two levels of surtace complenas. A and
+
+& represent endocytic rata at low C, (~3Xvcal]: C represents tha
+endocytic rate at high C, (20,000Qenll). A and C represent receptor
+overexpransors. NR iciosed cvcies) and SHR ‘closed aquares), 8 repre
+sents endogenens receptar levels, Nec iopen cirvies) and SH lopen
+squares).
+
+the various cel] lines is shown in Fig. 4. Fig 4A shows that a:
+the average number of surface EGF-EGFR compiezes drops
+below 5,000, the endocytic rate constant for the SHR cell line
+increased dramatically, whereas the rave constant for the NR
+eatt tine reeched a plateau. Neo and 5H cell lines aiso exhibited
+a difference in internalization rate constants in thus Tepon
+(Fig. 4B), the average 4, value for the Neo cell line was 0.042 =
+0,016, whereas the average value for the 5H cell line was
+0.096 = 0.014. These data demonstrate that c-Sre can cause an
+increase in EGFR internalization rate. The EGFR internalize-
+
+058432
+
+~~ 60163088
+
+a

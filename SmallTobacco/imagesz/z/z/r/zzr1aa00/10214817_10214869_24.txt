@@ -1,0 +1,61 @@
+i
+
+PROPOSED STUDIES
+Contract CTR-0030
+
+This Document Subject to
+Confidentiality Agreement
+
+2. CIR-82A. Characterization of ulmonary y_cytochromes involved
+in_smoke- -associated MFO-induction (Dr. ~ Wang). Continuation.
+a. Rationale.
+
+_An ongoing program has been the characterization of
+pulmonary MFO activity and the determination of the role of these
+enzyme systems in cancer susceptibility of the Tung (see CTR- 108).
+In collaboration with Dr. [. Wang (University of South Carolina,
+Charleston, SC), attempts have been made to characterize the types
+of P-450 cytochromes involved in MFO activity of pulmonary tissue by
+ultraviolet and visible spectroscopy and ael electrophoresis patterns. pulmonary
+cytochrome P-450's and comparison with the cytochrome P-450's induced from
+other known inducers of pulmonary MFO activity. Animals will be treated
+other known inducers of pulmonary MFO activity. Animals will be treated
+according to procedures mutually agreeable to boti: Dr. Wang ard ourselves,
+and micrasomes from pulmonary and hepatic tissues will be prepared.
+These tissue preparations are monitored for MFO activity and total
+protein end sent to Dr. Mang stored on dry ice. Results using these
+tissue preparations were presented by Dr. Wang in Progress Report #7
+(July 1, 1978-June 30, 1979). Data show that frozeh microsomal pre-
+parations can be shipped from NA to the University of South Carolina
+with very little, if any, loss of protein integrity. The various cyto-
+chromes P-450's could be easily identified by 2AGE from these frozen
+preparations. The hepatic microsomal preparations served as controls
+for the pulmonary tissue because specific change in, these hepatic
+cytochromes have been detected. Data from hepatic Lissue microsomes
+were just as expected; that is, treatment of the AHH inducible C57BL/6
+and C3H/Anf strains of mice with 3-methylcholanthrene or B-napthy] flavone
+resulied in the formation of high AHH activity and also a 53,000
+molecular weight protein bond; similar treatment of the AHH non-responsive
+DBA/2 strain resulted in no AHH induction and no new protein bond; TCDD-
+pretreatment caused induction of AHH activity in al] three strains and
+a concomitant production of this 53,000 molecular weight protein band,
+Attempts at finding these same protein band in pulmonary tissue from
+these same mice were unsucessful. Either the microsomal preparati ons
+had little, if any, new cytochromes, or the PAGE technique is not
+sensitive enough to detect these differences. New microsomal preparations
+from pulmonary tissue from C57BL/6 and D3A/2 mice treated either IT or
+IP with high doses of TCDD have been sent to Dr. Wang but PAGE anatysis
+of these preparations have not been completed. Even though no distinct
+protein changes have been observed to date, Dr. Wang has repor ted that
+the carbon monoxide binding spectrum of pulmonary tissue is quite
+different. from hepatic tissue. The question that now must be addressed
+is the effect of HFO-induction on this spectrum.
+
+b. Procedure.
+
+it was proposed last year to monitor the effects of whole
+cigarette smoke on pulmonary cytochrome P-450's. Because no change has
+been observed in the PASE profiles of these cytochromes, even under con-
+ditions where MFO induction has occurred, these studies were not initiated.
+
+-21- SF 0826206

@@ -1,0 +1,39 @@
+INBIFO Institut fir biologische Forschung GmbH - K6In BOR oD i &
+Report P 0500/3284 Page 5
+
+ 
+
+After each 20 + 2 cigarettes, heater cartridges of the lighters were cleaned either by sonication
+or by electrical heating. The lighters were operated in a 2-phase pulse density-modulated
+heating mode with 3 subphases of phase 1 (Table 3). The resistance to draw of each lighter
+and heater cartridge assembly was between 80 and 130 mm column of water. The Reference
+Cigarette 1R4F was smoked on a conventional 30-port INBIFO smoking machine, type SM85,
+
+connected to an in-house vacuum system for puffing.
+
+Phase Subphase On-Time Phase
+Duration Energy
+(s) W)
+1 a 0.25 5.12
+b 0.25 4.85
+c 0.25 4.78
+2 - 1.2 8.40
+total 1.95 23.15
+
+Table 3. Heating Mode for E-Series Lighters (according to Supplier)
+
+The TPM and GVP fractions were collected from the same puffs. The TPM from 80 puffs of the
+1R4F and from 360 puffs (E-0) and 480 puffs (E-240, E-480} of the YMF114 was collected on
+individual glass fiber filters (47 mm diameter) and then extracted with 8 ml of dimethyl sulfoxide
+(DMSO). The whole gas vapor phase, which passed through the same filter, was bubbled
+through 36 ml (1R4F) or 50 ml (YMF114) of phosphate-buffered saline (PBS) in a gas wash
+
+bottle. Approximately 1h after preparation, the smoke fractions were added to the cell cultures.
+
+For each TPM fraction, the yields of TPM, nicotine, and water were determined. The yields of
+dry particulate matter (DPM) and of tar were calculated. For each GVP fraction, the trapped
+amount of acrolein was determined. In addition, the number of puffs and the puff count were
+
+determined.
+
+2078576218

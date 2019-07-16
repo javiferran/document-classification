@@ -1,0 +1,55 @@
+OTHER SUPPORT
+
+I. JAMES T. KADONAGA -- Currently Active Support
+
+A. Council for Tobacco Research
+
+(a). Council for Tobacco Research, 900 Third Avenue, New York, NY 10022. Grant Number: 3171.
+PI: James T. Kadonaga. Title: “Mechanisms of Gene Activation in Eukaryotes."
+(b). Principal investigator: 15% effort on project.
+(c). From 01/01/92 through 12/31/94. Direct costs for entire project: $225,330
+(d). Annual direct costs: 01/01/94 through 12/31/94: 78,041
+(e). Specific Aims
+I. Assembly and characterization of higher order chromatin structures
+A. Attempt to reconstitute the 30 nm chromatin filament in vitro with a new Drosophila S-100
+extract.
+B. Identify and purify factors in Drosophila embryos that interact with scaffold (matrix)
+attachment regions.
+No overlap.
+- No adjustments.
+
+B. NIH GM41249
+
+(a). Public Health Service. National Institute of General Medical Sciences.
+Grant Number: 2 RO1 GM41249-06. PI: James T. Kadonaga
+Title: "Mechanisms of Transcriptional Regulation in Eukaryotes."
+(b). 24% effort on project.
+.(c). From 12/01/88 through 11/30/97. Estimated direct costs of entire project: $597,343
+(d). Annual direct costs:
+
+12/01/93 through 11/30/94 140,785
+
+12/01/94 through 11/30/95 146,336 (recommended support)
+12/01/95 through 11/30/96 152,109 (recommended support)
+12/01/96 through 11/30/97 - _ 158,113 (tecommended support)
+
+(ce). Specific Aims
+A. Identification and characterization of factors that are required for basal transcription in addition to
+TFIIB, TBP, TFIIF30, and polymerase
+1. Examination of fractions from the HeLa transcription system.
+2. Identification and characterization of factors from the Drosophila transcription system.
+3. Investigation of the transcriptional requirement for negatively supercoiled DNA.
+4. Study of the function of TFIIE. ;
+B. Examination of the molecular basis for distinct transcriptional properties of different promoters
+1. Perform in vitro transcription and gel shift analyses with a Systematic series of minimal
+promoters and promoter hybrids to identify key cis-acting elements that are responsible for
+differences in the mechanisms of basal transcription.
+2. Investigate the protein factors that are responsible for the promoter-specific effects that have
+been observed.
+C. Kinetics and mechanism of transcription with a purified transcription system
+1. - Determine the relative rates of assembly of the basal transcription factors into a functional
+transcription complex.
+2. Investigate the rates of assembly of the factors with different promoters as well as with
+- wild-type and mutant variants of selected promoters.
+3. Examine the kinetics of the transcription reaction with ‘wild-type and mutant variants of the
+‘basal transcription factors, such as TFIIB and TBP.

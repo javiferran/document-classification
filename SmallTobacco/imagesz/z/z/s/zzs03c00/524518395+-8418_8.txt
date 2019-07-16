@@ -1,0 +1,91 @@
+[DIMETHOMORPH] : ' Chronic Oral Study (83-1)
+
+(Thromboplastin time) |
+(Clotting time)
+(Prothrombin time)
+
+a. mn
+
+| X | Hematocrit (HCT)* [X | Leukoeyte differential count*
+
+[| X | Hemoglobin (HGB)* |X] Mean Corpuscular RGB (MCH)
+
+| X | Leukocyte count (WBC)* | X [| Mean Corpuscular HGB Cone. (MCHC)
+| X | Erythrovyte count (RBC)* }xX| Mean Corpuscular Volume (MCV)
+
+1X | Platelet count® [ X | Reticulocyte count
+
+| X | Blood clotting measurements
+
+i |
+
+I |
+
+|x|
+
+* Required for chronic studies
+
+Results ~ No biologically significant treatment-related variations in any of the examined
+parameters were found during the course of the study. Sporadic statistically significant
+variations of eosinophil, reticulocyte and monocyte counts, as well as the HCT and
+MCHC at collection periods of 26 weeks or less. were found. No-statistically or
+
+‘ biologically significant hematological differences from control animals were found in
+blood samples collected after 51 weeks of Dimethomorph treatment.
+
+Lactic acid dehydrogenase (LDH)
+
+Serum alanine aminotransferase (also SGPT or ALT)*
+Serum aspartate aminotrans{(erase (alsa SCOT or AST)*
+Gamma ylutamyl transferase (GGT)
+
+Glutamate dehydrogenase (GDH)
+
+ 
+
+b. Clinical chemistry
+
+Electrolytes Other
+
+{| X | Caleium* {|x| Albumin*
+
+| X | Chloride* | X | Creatinine*
+
+| [ Magnesium [ X | Blood urea nitrogen®
+
+| X | Phosphorus* |X[ Cholesterol*
+
+| X | Potassium* | | Globulins
+
+[| X | Sodium* { X | Glucose*
+
+Enzymes { X | Total bilicubin®
+
+1X | Alkaline phosphatase (ALK) 1x! Toual serum protcin (TSP)*
+| Cholinesterase (ChE) |} | Triglycerides
+
+| Creatinine phosphokinase (CPK)* [X | Serum protein clectrophoresis
+t | X | Albumin/Globulin Ratio
+
+I
+
+[
+
+|
+
+|
+
+* Required for chroniv studies
+
+Results - Although statistical differences occurred, most clinical chemistry results were
+unremarkable and of no biological significance. The study authors reported statistically
+Significant increases of ALK activity in dogs treated with 1350 ppm Dimethomorph from
+week 13 through the remainder of the study and the A/G ratio of female dogs treated
+with 450 or 1350 ppm Dimethomorph at weeks 13 and 51 of exposure (Table 4). The
+decreased A/G ratio of female dogs is not biologically significant. The increase in ALK
+activity was twofold (males) to threefold (females) by the end of the study and there was
+a wide variation in the ALK activities of dogs in all treatment groups, The significance
+
+eOrs LSPs
+
+June 1994 9

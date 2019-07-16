@@ -1,0 +1,64 @@
+and pathological circumstances. It is distinctly possible that the pertussis toxin
+receptor is the ecto-ADP-ribosyltransferase. We are currently attempting to purify
+and clone the PTR. We are using a variety of techniques including expression cloning
+in COS cells and affinity purification using biotinylated PT and streptavidin-agarose.
+We are also trying to see if we can use either NAD-agarose affinity chromatography
+and/or a photo-activatable NAD as a probe for purification.
+
+A major question we would like to address is the function of this enzyme. NAD
+is normally thought to be present in very low concentrations extracellularly (although
+it is interesting that we have been unable to find any published data for measured
+concentrations of extracellular NAD). Therefore one can ask why an ecto-enzyme
+would utilize a substrate that may (or may not) be present at concentrations below
+the Ky for this reaction (= 8.33 1M). A number of scenarios can be proposed. Like
+ATP, which is also normally present in low extracellular concentrations, NAD (and
+therefore ecto-ADP-ribosyltransferase activity) may play a role in the normal function
+of a cell; ATP serves as a neurotransmitter, binding to high-affinity purinergic
+receptors. Conversely, NAD may actually be present in much higher concentrations
+that previously supposed: we are now determining the concentration of NAD in a
+variety of extracellular biological fluids obtained from a number of normal and
+pathological conditions. It is also possible that NAD may be important in an
+inflammatory response in which there is cell breakdown and consequent leakage of
+intracellular contents, including NAD. We have preliminary data suggesting that, in
+a concentration-dependent manner, NAD inhibits the ability of PTg to stimulate
+tyrosine protein kinase activity in T cells, although has no effect on stimulation of
+increases in intracellular Ca2+, Furthermore, nicotinamide, but not ADP-ribose, is as
+effective as NAD in the inhibition, suggesting that this may not be due to NAD
+glycohydrolase activity (which would also generate ADP-ribose) but activation of the
+transferase which would generate nicotinamide as the sole soluble product of the
+reaction. We are currently testing the potential physiological significance of this
+observation in lymphocyte proliferation and function assays. It is possible that this
+activity may serve to attenuate a T cell response in an area of inflammation and thus
+be amenable to either experimental or therapeutic manipulation.
+
+In summary, we have discovered a novel ecto-enzymatic activity in human T
+lymphocytes that covalently modifies another plasma membrane protein on an
+extracellular domain. This enzyme is activated by the potent T cell mitogen pertussis
+toxin, but not by direct stimulation of the T cell antigen receptor. The goals of this
+proposal are to understand the function of this enzyme and its substrate in T cell
+physiology.
+
+References:
+
+1. Rosoff, P. M., Walker, R. and Winberry, L. (1987) JImmunol 139, 2419-2423.
+
+2. Rogers, T. S., Corey, S. J. and Rosoff, P. M. (1990) J Immunol 145, 678-683.
+
+3. Malavasi, F., Funaro, A., Roggera, S., Horenstein, A., Calosso, L. and Mehta, K. (1994) Immunol
+Today 15, 95-97.
+
+4. Zocchi, E., Franco, L., Guida, L., Benattt, U., Bargellesi, A., Malavasi, F., Lee, H. C. and De Flora,
+A. (1993) Biochem Biophys Res Commun 196, 1459-1465.
+
+5. Beckner, S. K. and Blecher, M. (1981) Biochim Biophys Acta 673, 477-486.
+
+6. Reilly, T. M., Beckner, S., McHugh, E. M. and Blecher, M. (1981) Biochem Biophys Res Commun
+98, 1115-1120.
+
+7. Nomura, F. and Noda, M, (1993) Hepatology 18, 870-873.
+
+8. Erlanger, B. F. and Beiser, S. M. (1964) Proc Natl Acad Sci USA 52, 68-74.
+
+9. Eide, B., Gierschik, P. and Spiegel, A. (1986) Biochem 25, 6711-6715.
+
+40042820

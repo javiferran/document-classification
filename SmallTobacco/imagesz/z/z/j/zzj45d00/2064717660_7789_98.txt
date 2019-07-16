@@ -1,0 +1,56 @@
+co
+
+C7
+
+ 
+
+ 
+
+(NBIFO Institut fiir biologische Forschung GmbH - KéIn
+
+PRIORITY
+
+ 
+
+Addendum to Report P 0500/3237 97/10/8 Page 6
+
+M
+
+ 
+
+TESTER DE- DOSE MUTAGENICITY (rev./plate) REGRESSION ANALYSIS
+STRAIN TER-
+
+ 
+
+MI- PLATE M SE RSD REGR. SD CORR. TEST
+NA- COEF. COEF.
+TION 1 2 3
+
+(mg/ (8) (rev./ (rev. /
+
+plate) mg) mg}
+
+TAI537 end 0.04 34 38 36 36.0 1.2 5.6
+
+0.08 55 83 54 64.0 9.5 25.7
+
+0.12 75 79 84 79.3 2.6 5.7
+
+0.16 96 89106 97.0 4.9 88 515 51 0.944 +HL
+
+ 
+
+Table AS MUTAGENICITY OF MSC WITH S9 ACTIVATION, LR4F,
+LONG-TERM CONTROL USING BATCH NO. 4512
+
+Remarks: date of assay: 09-APR-97: TA1537
+regression analysis: using Poisson weights
+test: statistically significant difference from 0
+N: nonlinearity
+L: linearity
+application volume: 50 yu] per plate
+
+970918 10:23:06 P. 1 USER_DISK:[IT_A_H]1R4F2_3237.LIS;3
+
+BG2/L2p90Z

@@ -1,0 +1,40 @@
+Grinding Areg
+
+Pilot studies have determined that the current Williams grinder would be too small to
+meet the increased throughput and greater grind fineness required for NBL. The
+following is a table showing the predicted through-put of the current Williams mill at the
+BL plant and the scaling factor provided by Williams for some larger grinders.
+
+Assumptions
+
+1. Production Dust and Hammermilled Burley Stem will be ground together.
+2. Grind fineness of 95%< 120 mesh is targeted.
+3
+
+. Ambient air or enough heat to maintain current 7% O.V. target for dust and
+
+stems.
+4. Internal classifier rather than sweco screens. NAS Ye
+wet
+via
+Williams Through-put
+
+Grinder Scaling Factor 95%< 120 mesh Cost (Williams Est.)
+
+Titan (BL Plant) 40% | 4,200 lb/hr
+
+Giant 68% 7,140 lb/hr $ 600,000
+
+Super Giant 100% 10,500 lb/hr $ 750,000
+
+Hercules 123% 12,900 lb/hr $ 900,000
+
+Considerations
+
+1, Current grinder capacity of Production Dust ground to 95%< 60 mesh is
+8,000 lb/hr. Current Production Dust usage rate is approx. 4,550 lb/hr.
+
+2. Additional heat will increase grinding throughput significantly i.e. 20 -30% at
+4% exit O.V.
+
+9686560506

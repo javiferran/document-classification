@@ -1,0 +1,146 @@
+MYOSIN AND ENDOTHELIAL RETRACTION
+_..PKC MAP
+
+MLCK MAP
+
+SEES
+
+    
+  
+
+ 
+
+Chromatography ——»~
+——— Chromatography ——»—
+
+(+4}—_——
+
+(+) ———-Electrophoresis ——_+ -)
+
+Unstimulated HUVE
+
+  
+
+—Chromatography—>
+—Chromatography——
+
+ 
+
+(+) Electrophoresis ———>(-) (+)
+monolayers with the protein kinase C inhibitor, H-7 (4 x
+10-5 M), did not prevent PPAE cell retraction in re-
+sponse to calcium chelation (change in peremability =
+Con 1.21 + 0.07, H-7 alone 1.22 + 0.08, EGTA alone 1.63
++ 0.06, H-7 + EGTA 1.77 + 0.07, n = 12 for each group).
+The same dose of H-7 did prevent an increase in mono-
+layer permeability in response to 1 X 1077 M phorbol 12,
+13-dibutyrate (data not shown).
+
+DISCUSSION
+
+The intent of these experiments was to further deter-
+mine the role of myosin light-chain phosphorylation in
+the retraction of endothelial cells. Schnittler et al. (22)
+
+0.5
+
+moles P/m MLC
+eo Pp 9
+Nn wo >
+
+S
+a
+
+6
+Con Hist cAMP-Hist Ml-9-Hist
+
+Fig. 2. Phosphorylation of MLC [mol phosphate/mel MLC (mol P/m
+MLC)] in HUVE cells in control state (Con), 30 s after exposure to
+histamine (Hist), 30 s after exposure to histamine following 10 min
+pretreatment with forskolin-aminophylline (2 x 1075 M and 1.2 x 1073
+M, cAMP-Histamine (Hist)] or 30 a after exposure to histamine fol-
+lowing 10 min pretreatment with 1-(5-chloronapthalene-1-sulfonlyl)-
+1H-hexahydro-1,4-diazepine (ML-9) (6 x 10-5 M, ML-9-Hist). Hist
+mo! P/m MLC was greater than control and control was greater than
+cAMP-Hist or ML-9-Hist, P< 0.05 (n = 10 monolayers for each group).
+MLC phosphorylation in HUVE cells exposed to cAMP or ML-9 for 80
+min was not different from that in cells exposed for 10 min (data nat
+shown).
+
+  
+ 
+
+Electrophoresis —-——> (-}
+
+Unstimulated PPAEC
+
+L609
+
+Fig. 1. Peptide maps of myosin light
+chain (MLC) phosphorylated in vitro by
+myosin light-chain kinase (MLCK, up-
+per left), MLC phosphorylated in vitro
+by protein kinase C (upper right), phos-
+phorylated in situ in human umbilical
+vein endothelial (HUVE) cells (lower
+left), and phosphorylated in situ in por-
+cine pulmonary artery endothelial
+{PPAE) cells. Peptide fragment identi-
+fied in upper left has been identified as a
+fragment containing phosphorylated
+Ser!®, Peptide fragments identified in
+upper right have been identified as frag-
+ments containing phosphorylated Ser or
+Ser? and Thr®. Fragments identified
+{lower) comigrate with that seen in up-
+per left, indicating that in PPAE and
+HUVE cells MLC is phosphorylated by
+MLCK. Fragmenis near origin in lower
+panels represent both diphosphorylated
+peptide and undigested fragments (18),
+Upper panels are standard in vitro maps
+for MLCK and protein kinase C.
+
+Electrophoresis ———> (7)
+
+and Wysolmerski and Lagunoff (29) have suggested that
+calcium initiated phosphorylation of MLC causes a con-
+traction of the endothelial cell cytoskeleton and that this
+mediates cell retraction. However, the experiments on
+which this position is based used cells whose membranes
+had been removed with detergents and required 50-100
+#M calcium, an unphysiological level. Indeed, at 1-5 4M
+calcium, very little contraction occurred (30).
+
+Endothelial and other cells also retract when tethering
+to adjacent cells and substrate is interrupted by chelating
+extracellular calcium (19, 20, 25). These observations
+would imply that there is a constitutive centripetal ten-
+sion in the cells that is expressed when tethering is in-
+terrupted. Since endothelial cell calcium stays in the
+nanomolar range even after stimulation with agents
+such as histamine, it is possible that the constitutive
+tension mediates cell retraction in response to agonists
+such as histamine, which could also affect cell tethering
+(4, 11, 27).
+
+1.6
+1.2
+0.8
+
+0.4
+
+  
+
+Change in permeability
+
+Con cAMP-Hist MI-9-Hist
+
+Fig. 3. Change in permeability to dextran of monolayers of HUVE cells
+exposed to control medium (Con), to histamine (1 x 10-5 M, Hist), or
+to histamine (1 x 10-> M) after pretreatment for 10 min with forskolin-
+aminophylline (2 x 10-5 M and 1.2 x 10-3 M, cAMP-Hist) or ML-9
+(ML-9-Hist). P < 0.05 for Hist vs. all other groups (n = 12 monolayers
+in each group).
+
+Hist

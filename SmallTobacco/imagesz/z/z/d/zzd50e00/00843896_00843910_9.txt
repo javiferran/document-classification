@@ -1,0 +1,95 @@
+of (a) trace constituents. of food, (b) gut contents. or (¢):
+
+products of the actions ofithe gut flora.
+(G) Openichain means the absence of! any ring structure.
+{H) Readily hydrolysed’ means known to. be or, in the
+
+absence. of any. contra-indication based on structure.,
+
+assumed to be hydrolysed either during food prep-
+aration or by. physiological processes after consumption.
+(I) Simply branched: means branched at C-C bonds, with
+branches. of two. or more C atoms, at not more than
+two points along the main chain, with no secondary
+branching: Multiple branching; consisting only of 1-car-
+bon: moieties, falls within: this definition of simply
+branched.
+(J) Sterically hindered’ means posing. steric hindrance. to
+a functional group: equivalent to. or greater than: that
+exhibited by o-tert-butyl or 2,6-disubstitution on an aro:
+matic ring.
+(K) Structurally closely related. means
+(a): a member, not more than two carbon atoms
+removed, in: a homologous. series. excepti ethoxy: and
+higher homologues.of a methoxy. compound;
+(b) a: primary: alcohol andi its aldehyde, or either of
+these and the corresponding carboxylic acid;
+(c) a secondary alcohol and the corresponding ketone:
+(d) structural isomers unlikely to. involve steric hin-
+drance of a functional group,
+
+(e) compounds with the same functional groups.. the
+remainder of the compound being known to be easily,
+and harmlessly metabolized:
+(f), non-sterically, hindered esters. thioesters. acetals.
+ketals and their components.
+
+Procedure for the decision tree
+
+In the light of the chemical structure of the. sub-
+stance andi using the accompanying, definitions,
+answer the following: questions, moving in the. order
+indicated by the question numbers in the ‘no’ on “yes*
+colunins’ untill a classification—I, I, or HI—is
+reached..In borderline cases, choose II in preference
+to. I, and HI in: preference to II. In cases where a
+structure is. subdivided into individual! residues, clas-
+sify the whole structure according to the: most conser-
+vative classification.of the separate residues. In treat-
+ing functional groups, consider the entire group, not
+the individual fragments (e.g. a thioamide, RCSNH;,
+is.a thioamide not a thione and an amine; a hydrazine,
+RNHNH,, is not two amines; an anhydride is not
+an ether andi two. vicinal ketones).
+
+Examples with: answers
+
+Ifi if (andi following step or
+‘no’ ‘yes’ classification)
+... proceed: to... . NH,
+1. Is the substance a. normal constituent of the body (F). or an 2: I oN nes,
+optical isomer. ofi such?, i I ye yy
+This question: throws into class I all normal constituents of body. Su owen
+tissues and fluids, including normal metabolites. Hormones are H
+excluded, as are, by implication, the metabolites of environmental NO YES
+and food contaminants or those resulting from. disease states. Q) (Class I)
+2. Does the substance contain any of the following functional 3 Tt No
+groups: an aliphatic (A) secondary amine or a salt thereof, cyano, CH,=CHCH,N=C=5 A
+N-nitroso, diazo (e.g. CH,N,),. triazeno: (RN—NNH;) or qua- ~
+ternary’ nitrogen, except in any of the following forms: SS
+>C=N*R,, >C=N7*H, or the hydrochloride or sulphate salt NO: YES:
+of a primary or tertiary amine? (3) (Class
+Questions 2; 3.and 4 are a means of placing in class III those 005)
+structures that contain elements or valency states often associated
+with enhanced toxicity. Halo-, nitro-, N-nitroso- and. diazo- com-
+pounds, organophosphates, quaternary nitrogen compounds
+(although note modifying comment), and similar xenobiotic. struc-
+tures should cause. "yes’ answers to questions 2 and 3 and.a ‘no’
+answer to: question 4.
+3. Does the structure contain elements other than carbon, Hydro- 5 4 i
+n, oxygen, nitrogen or divalent sulphur? CH3 CNH CHCl
+ge yg' 8 P NO YES
+(5): (4)
+4. Do all elements not listed in question 3 occur only: as (a): It 7 CHCly — NHso3No
+a sodium, potassium, calcium, magnesium or ammonium salt NS
+of a carboxylic acid, or (b) a sulphate or hydrochloride of an c j
+amine, or (c) a sodium, potassium or calcium sulphonate, sulpha- Ne
+mate or sulphate?: (If the answer is yes, treat as the free acid,, NO YES
+amine, unsulphonated or unsulphated' compound, except for the (Class (7)
+purposes of questions 24 and 33, and proceed.) 065)
+
+This is intended to let through, for further consideration, certain
+acid, amine, sulphonate and sulphate salts. Sulphamate salts are
+treated! as such because they are noti readily hydrolysed.
+
+GO6EPS00

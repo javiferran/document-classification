@@ -1,0 +1,60 @@
+**This memo is confidential to the business of the company: it should
+be carefully handled, is not transferable to another individual, and is
+not to be photocopied. **
+
+RECEIVED
+JUN 45 1990
+Ken Houghton
+
+POL MEMO 0239
+DATE: dune 4, 1990
+POL TEST NUMBER: 0239
+TITLE: POL 0239 - ART 3
+
+bescriprron: 8mg, 2000psi, Citric-Acid,DL blend, 25% reduced casing
+ne 8611-78-1, No A/C
+
+z -
+
+TEST REQUESTER: B. Hendicks/V. Willis
+
+POL STUDY LEADER: M. Jeltema
+
+ 
+
+  
+
+DATA ANALYZED/RESULTS: M. Jeltema YRS
+
+Soney Q-A-B
+PREPARED BY: J. Hall-Dabney
+es
+
+ 
+
+PURPOSE: To develop a database ‘of monadic ratings
+
+PROCEDURE [BALLOT]: Monadic NV85SN_
+
+SAMPLE SIZE: 1260 “ RETURNED: 65
+SMOKER GROUPS: Usable Returns
+
+8
+21 Brands (see Table) 707
+
+ANALYTICAL RESULTS: (See attachment)
+
+CIGARETTES MADE: 11/22/89 CIGARETTES SHIPPED: 11/9/89
+DATA DATE: 11/22/89 =
+RESULTS:
+
+Selected Mean Liking Scores |
+Total 22> -57- 79= 1.22- 1.72- Regression
+
+Cigarettes Panel -23 71 1.07 1.53 2.05
+0237 8mg DL no C/A 3.76 4.50 3.78 4.08 3.67 3.45 ~1.20
+0239 8mg DL 25%<C/no A 3.56 4.37 3.66 3.806 3.52 3.15 -1.41
+
+0234 8mg DL C/A 3.60 4.18 3.84 3.95 3.54 3.18 -1.40
+
+LOGSS69L02

@@ -7,9 +7,9 @@ import cv2
 
 #http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html
 
-hdf5_path = './HDF5_files/hdf5_small_tobacco.hdf5'
+hdf5_path = './HDF5_files/hdf5_small_tobacco_full.hdf5'
 
-file_read = open('./Data/SmallTobacco_ocr.csv', "rU")
+file_read = open('./Data/Small_Tobacco_cte.csv', "rU")
 reader = csv.reader(file_read, delimiter=',')
 
 #Original label csv reading into list
@@ -118,25 +118,6 @@ extract_ocrs(val_ocrs)
 extract_ocrs(test_ocrs)
 
 
-
-
-    # loop over validation addresses
-for i in range(len(val_addrs)):
-    # print how many images are saved every 1000 images
-    if i % 100 == 0 and i > 1:
-        print('Validation data: {}/{}'.format(i, len(val_addrs)))
-    # read an image and resize to (224, 224)
-    # cv2 load images as BGR, convert it to RGB
-    addr = val_addrs[i]
-    img = cv2.imread(addr)
-    img = cv2.resize(img, (224, 224), interpolation=cv2.INTER_CUBIC)
-    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-    # add any image pre-processing here
-    # # if the data order is Theano, axis orders should change
-    # if data_order == 'th':
-    #     img = np.rollaxis(img, 2)
-    # save the image
-    hdf5_file["val_img"][i, ...] = img[None]
 
 
 # a numpy array to save the mean of the images

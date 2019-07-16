@@ -1,0 +1,61 @@
+A literature search on RJR patents regarding paper additives was
+completed. Samples of Salem and Salem Lights 100mm as well as
+Newport and Newport Lights 100mm cigarettes were obtained as
+controis. The following analyses are in progress:
+
+SEM-X-RAY analysis of the ash
+
+SEM examination of the surface morphology of the paper
+
+Reflectance IR analysis of the paper
+
+Ion chromatography determination of anions and cations
+
+LC-UV analysis of paper extracts .
+
+GC-MS analysis of paper extracts and pyrolysis products
+GC-FTIR analysis of paper extracts
+
+8. Gas phase analysis
+
+YAW BW hr
+
+Results from the SEM-X-RAY and reflectance FTIR analyses have
+indicated differences between the Salem and Salem Preferred
+papers. Additional analyses are in progress.
+
+Analysis of Charcoal
+
+B. J. Craven distributed a memorandum, 10/6/94, describing the
+charcoal analysis of Japanese market Lark Lights cigarettes. The
+charcoal was found to be derived from coal.
+
+Analysis of Flavors
+
+Rich Stepnowski distributed a memorandum describing the analysis
+of three flavors for nicotine, memo 10/12/94. The memorandum
+confirmed information reported verbally to Product Development in
+7/94. Rich did not detect nicotine in the three flavors which
+were possible candidates to replace Lorillard flavor #064. The
+detection limit of the GC/MS analytical method that was used for
+these analyses was better than 1 ppm.
+
+PHOSPHINE PROJECT (B-603):
+
+Rob Stevens, Florian Perini and B. J. Craven completed the
+analysis of the Calgon carbon used to remove phosphine from air
+during a Danville warehouse fumigation. The ion chromatography
+results, completed by Florian, indicated that the “used" carbon
+contained large amounts of phosphate ion, indicating that the
+phosphine, when absorbed on carbon, was converted to phosphates.
+B. J.'s SEM-X-RAY results confirmed the presence of phosphorous
+in the “*used* carbon.
+
+Rob is now the leader of the Phosphine Project, B-603 and he is
+preparing a report on the activities of the project team. The
+report will include 1) background information concerning the
+phosphine project, 2) information on the development and testing
+of an automated phosphine monitoring system and 3} results from
+warenouse tests on phosphine monitoring and phosphine removal .
+
+LITTSP68

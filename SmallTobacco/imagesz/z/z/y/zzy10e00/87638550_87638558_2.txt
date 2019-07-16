@@ -1,0 +1,65 @@
+SAREE ENE CHER
+
+ 
+
+ 
+
+Extraction
+
+ 
+
+The round-bottom flasks which were used to concentrate the
+extracts were rinsed with Surfasil silconizing fluid which was
+diluted 1 to 9 with methylene chloride. Then, they were baked
+for 30 minutes at 110°C. After cooling, the glassware was rinsed
+with methylene chloride and allowed to air dry.
+
+ETU was extracted from the tobacco by blending 15 grams of
+tobacco for 2 minutes with 2.5 grams sodium acetate, 2.5 grams
+L-cysteine, 2.5 grams potassium fluoride, and 200 mL of methanol/
+water (3:2). The extract was filtered through glass microfibre
+filter paper into the siliconized round-bottom flask.
+
+Sample Cleanup
+
+For removal of interfering compounds, the extract was concen-
+trated at 40°C by rotary evaporation until its volume was approx-
+imately 15 mi. Gaschrom S (10 g) was added to the concentrate
+and shaken until the mixture was lump free. The mixture was
+poured onto the top of a 1 x 22 inch chromatography column
+Ortaerring-20y sof at tinier" Pewee -ebured” fromthe “ehromatogr eames ines “ect onamete ¢
+phy column with 300 mL of 2% methanol in methylene chloride.
+Water (5 mL) was added to the eluate containing the ETU, and it
+was concentrated in a siliconized round-bottom flask until all of
+the organic layer had been removed. After diluting to a known
+volume with water, the sample was ready for HPLC analysis.
+
+ 
+
+HPLC Method
+
+A Perkin Elmer Series 3B liquid chromatograph was equipped with a
+Burdick and Jackson OD5 octadecyl column of dimensions 250 mm x
+4.6 mm with a 5 pp particle size. The mobile phase was water,
+methanol (96:4) at a flow rate of 1.4 mL per minute. An injec-
+tion volume of 50 HL was used. ETU was monitored at 240 nm.
+Following each analysis the column was washed with methanol for
+20 minutes at 2 mL per minute, and then allowed to return to the
+initial equilibrium conditions. Using these conditions, the ETU
+eluted slightly after 4 minutes.
+
+Results and Discussion
+
+Analysis of Tobacco for the Presence of ETU
+
+Six cigarette tobaccos were analyzed for ETU. They were American
+bright, two Chilean burley grades, American burley, and Turkish.
+Tobacco was also collected from Kentucky Reference Cigarettes
+1R4F. When these tobaccos were analyzed a small, almost unde-
+tectable HPLC peak was seen at the same retention time as ETU.
+This peak was equivalent to a 0.03 ppm level of ETU or less in
+all of the tobaccos. For the Kentucky Reference 1R4F and the
+Turkish tobacco, GC-MS was used to establish that the peak was
+not ETU.
+
+2SS8E9L8

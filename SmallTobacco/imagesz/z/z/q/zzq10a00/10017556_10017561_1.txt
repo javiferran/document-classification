@@ -1,0 +1,41 @@
+t
+heur Gud
+
+- 62-
+
+associated with ligand-receptor complex, it will be expected to see some
+extra bands in addition to the receptor band after cross-linking,
+
+(2) To isolate and purify those specific proteins which are closely
+associated with ligand-receptor complex in the chathrin-coated structures.
+If we do find the specific proteins closely associated with ligand-receptor
+complex from the cross-linking experiment, next experiment will be to
+isolate and purify those specific proteins using cleavable cross-linkers
+such as dithiobis(succinimidy1 suberate) (DSP), thio-cleavabie; and
+disuccinimidy] tartarate (DST), periodate-cleabable. ‘The isolated clathrin-
+coated vesicles after reaction with cleavable cross-linker (DSP or DST),
+will be immunoprecipitated with antireceptor antibody. The
+immunoprecipitates will then be reacted with either reducing agents or
+periodate depending on the cross-linker used. ‘he specific proteins we are
+interested in will be further purified by gel filtration or ion-exchange
+column chromatography.
+
+(3) To make antibody againist the purified specific proteins, followed
+by examining the biological effect of these antibodies. ‘his experiment
+will be using purified specific proteins to make monoclonal or polyclonal
+antibody. The biological effect of these antibodies will be tested by
+measuring whether these antibodies can enhance the toxicity of cytotoxin-
+carrier conjugates. Since these antibodies will interact with the proteins
+in clathrin-coated structures, these antibodies may affect the stability of
+the clathrin-coated structures resulting in release of cytotoxin-carrier
+conjugates into cytoplasm.
+
+Taken together, the proposed work to characterize the structure of
+clathrin-coated pits may help us understand the intracellular pathway and
+the sorting mechanism of the internalized ligand-receptor complex.
+Furthermore, this information may also help us to select and design suitable
+ligands to be used for coupling with cytotoxic molecules. Such conjugates
+will be more toxic and specific to target cells and will be expected to have
+a longer half-life. Thus, the information derived from this study may help
+in the search for effective means to contro] the proliferation of malignant
+celis.

@@ -1,0 +1,21 @@
+TNO-report
+
+———
+B-92-0388
+
+May 1992 page 12
+
+5 TEST OF THE HYDROPHOBIC PROPERTIES OF THE MEMBRANES
+
+The membranes should have a hydrophobic nature without hydrophylic parts in order to act
+
+as a membrane stripper. Leaks between a water phase on one side of the membrane and a gas
+phase on the other side should not occur.
+
+All modules have been tested with tap water on the outer side of the fibres (shell side) and
+air on the inner side of the fibres. On the shell side an overpressure of 0.5 bar has been
+
+applied on the water. No leaks were detected with any module; thus, all modules were suit-
+able to act as a membrane stripper.
+
+Z02E1010S¢

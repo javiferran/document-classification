@@ -1,0 +1,57 @@
+4 ‘
+teween ee
+
+HKG2015 218
+Cell Biolagy International Reports, Vol. 7, No. 3, March 1983 207
+
+Differential association with cytoskeletal structures may explain
+these differences. If this hypothesis is correct, nonecross-1 inked
+SIg appears to be under cytoskeletal constraint, which is increased
+by cross-linking. The attachment of cross-linked Sig to the cyto-
+Skeletal matrix is supported by the experiments which show that
+cross-linked SIg is bound to actin which can be precipitated by
+myosin (Flanagan and Koch, 1978) and that cross-] inked SIg is assoc-
+iated with a detergent insoluble cytoskeleton (Braun, et. al.,
+1982). Non-cross-linked RT! is under relatively less constraint
+than SIg but under more constraint than thy-1. When RT] is cross-
+linked it is immobilized. Thy-1 is under little constraint and is
+only immobilized when 2 layers of cross-linking antibody are used.
+Thy-1 appears to undergo rapid lateral diffusion similar te that
+described for rhodopsin (Poo and Cone, 1974). The requirement for a
+second antibody layer to immobilize thy-1 suggests that the control
+mechanism of its mobility is different than SIg and RT]. Thy-1
+might not attach to cytoskeletal structures and might be immobilized
+only due to the formation of large aggregates.
+
+It fs probable that the insertion of membrane proteins influences
+their movement within the membrane. If a protein is not transmem-
+brane, such as thy-1, (Campbell et. al., 1981) a fast diffusion rate
+would be expected. Class [ histocompatibility proteins such as RT1
+are transmembrane and have an appreciable cytoplasmic domain (Ploegh
+et. al. , 1981). Such a cytoplasmic portion might be available for
+interaction with cytoskeletal structures. IgM appears to have only
+3 cytoplasmic amino acids (Rogers et. al., 1980) and yet has a
+relatively restricted mobility. I am currently employing biochea-
+ical techniques to explore the interactions of membrane proteins
+with cytoskeletal elements.
+
+Our FRAP data shows both similarities and differences to previously
+published data on the diffusion of lymphocyte membrane proteins.
+
+The D for SIg obtained in these experiments is somewhat larger than
+previously reported (Dragsten, et. al., 1979; Henis and Elson, 19u1,
+Peacock and Barisas, 1981). Uncertainties in the evaluation of W
+and F infinity, as well as species differences may contribute to the
+discordance. The ratios of D obtained for our cells, stained with
+cross-linking and non-cross=linking antibodies gives a valid esti-
+mate of the relative difference in membrane protein mobility in
+these experiments. The large immobile fraction of Sig when labeled
+with Fab’ is similar to that reported by some investigators (Peacock
+and Barisas, 1981), but somewhat greater than reported by others
+(Henis and Elson, 1981; Dragsten, et. al., 1979). The experiments
+of others (Dragsten, et. al., 1979), showed no difference in the 1)
+of Sly and thy-1 and a larger mobile fraction of Sly than for thy-1.
+However, they used Fab to label Sly and bivatent antibody to label
+thy-1. In our experiments using monovalent Fab' anti-thy-] the D of
+thy-1 was 8.4 tines that of Sig and the mobile fraction was times
+that of SIg. Similar to the experiments of Draysten, (Dragsten,

@@ -1,0 +1,113 @@
+STUDY ON THE BUTHIONINE SULFOXIMINE-INDUCED GLUTAIHIONE
+DEPLETION IN MICE: ANTAGONISTIC EFFECT OF
+ANETHOLDITHIOLTHIONE
+
+J.-M.W ARNET*,M.O.CHRISTEN**,M.THEVENIN*,C.MARTIN*,J.CESBRON**
+and J.-R.CLAUDE*
+*Laboratoire de Toxicologie, Faculté de Pharmacie, 75270 Paris Cedex 06, France
+**Laboratoire de Thérapeutique Moderne LTM, 92151 Suresnes Cédex, France
+
+fics
+
+Previous studies have shown that anetholdithiolthione (ADT) pretreatment exerts a preventive effect on th
+acetaminophen (AAP)-in duced lethality and hepatotoxicity in mice (1). The hypothesis of a mechanism f=
+action mediated by a glutathione-dependent phenomenon had to be considered and supports the present
+
+study using buthionine sulfoximine (BSO), a potent specific glutathione depletor via y-glutamylcysteine
+synthetase inhibition’
+
+\ 70 XN
+
+Animals and methods ”
+
+v
+Female Swiss mice (25+2g) were given either ADT alone (10 or 100 mg/kg p.o.) or BSO alone (0.5 mg/kg i-p.) or BSO (0.5 mg/kg ip.) 3b
+prior to ADT (10 or 100 mg/kg p.o.), Control mice were given saline solution. Mice were sacrificed 5 h after ADT administration (or & b
+after BSO administration). Cytosolic reduced (GSH) and oxidized (GSSG) glutathione content and glutathione-related enzyme activities
+(GSSG-reductase, GSH-peroxidase, GSH-S-transferases) were measured in the liver of treated and control groups.
+
+/
+
+: / urt/g
+Results and commentaries , .
+
+1- ADT effect /
+
+Oral treatment of mice with tow dosage of ADT (10 mg/kg) induced
+an increase in glutathione content, and specially in GSH content. A
+10-fold dosage of ADT was no more efficient, that can be due to a
+feedback competitive inhibition mechanism. There were variations
+neither in GSSG nor in glutathione related enzyme activities.
+
+ 
+
+1 PON aerate wate army,
+
+4 1 &
+2- BSO effect SoS
+vA
+
+a“
+
+LP. treatment of mice with BSO (0.5 mM/kg) induced a marked |
+
+—+4
+GSH x
+tansy t
+
+CSSRD
+
+decrease (50%) in GSH content without modification in GSSG. This
+depletion is due to the specific inhibitory effect exerted by BSO on
+gamma-glutamylcysteine synthetase and as attempted concerns the
+reduced glutathione that is synthesized only in cytoplasm.
+
+This effect induced a marked decrease in glutathione-dependent
+enzyme activities. such as GSH-peroxidase (33%), GSSG-reductase
+(30%) or GSH S-transferases (35%).
+
+ 
+
+Loner gnaacrmanet Conners one Ontireiatee enityine scteraes a sort O88 ond Ut etemirs mae
+vo Ma SsEG Ao AGSn rs natrenvng cevaee Ghee Meeen sean
+
+ 
+ 
+
+3- BSO+ADT effects
+
+Gest
+
+ADT administration in BSO-treated mice counteracted the decrease
+in GSH content and in glutathione related enzyme activities. This
+protective effect seems to be initiated with the low ADT dosage (10
+mg/kg), but was more evident with the high dosage (100 mg/kg),
+since glutathione content and the glutathione related enzyme
+activity values were quite similar to controls.
+
+ 
+
+keene GSN corners and GSereruted enzyme actrees mgermrets BSO- of BSO+AD! reste meee
+Miter Alen S582" AGivt Pa edaemnna cerenes Giet ST dimming ie oe
+
+eOnses Pat Sere aed te ate eating Hh Got PRaGs ST,
+Conclusion
+
+meas ‘ ay punt
+
+- ADT exerts an antagonistic effect on the BSO-induced y-glutamyicysteine synthetase inhibition. This effect
+was noticeable with ADT dosage as low as 10 mg/kg in mice given BSOatavery high dosage (0.5 mM/kg).
+Moreover, ADT alone was able to increase, in BSO-untreated mice, the liver cytosol reduced glutathione
+content. It can be concluded that ADT exerts a stimulating activity on the GSH synthesis, probably via the +
+glulamylcysteine synthetase enzyme activity. The preventive effect of ADT on AAP-induced kthality and
+hepatotoxicity in mice (1) couldbe explained at least partly by this mechanism.
+
+2501387695
+
+D. E: ropean Soctety oF BIOCHEMICAL PHARMACOLUG)
+Foo] |
+M. UW Twelfth European Workshop
+
+on Drug Metabolism
+
+l- J-M.WARNET & al., Pharmacol.Toxicol., 1989, 65, 63-64.

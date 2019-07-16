@@ -1,0 +1,51 @@
+-J3-
+
+B. Automated Methods. (Personnel: Diffee)
+
+During the past quarter, the Technicon Menthol Procedure was thoroughly
+investigated to develop an alternate procedure for the Robot Chemist Method.
+Factors studied included H2S0, concentration, DMAB reagent concentration,
+reaction temperature, reaction time, and sampling rate.
+
+Mixing problems exist In the flow system because of the high viscosity
+
+of the H2S0, solution (60% was the lowest H2S0, concentration that could be
+used). This results in a low sampling rate for the Technicon System (20 samples/hr
+
+vs. 60/hr. for the Robot Chemist).
+
+A collaborative study was run between the Robot Chemist and the Technicon
+AutoAnalyzer using factory samples for a one-week period. The same standards
+were used to calibrate both instruments, and all samples were taken from the
+same distillations. Al! calculations were done by computer from best curve
+fit. The AutoAnalyzer gave higher results over the study. Reasons for this
+
+difference are not apparent.
+
+An alternate procedure involving gas chromatography as the end determination
+is currently under investigation.
+
+lit. ROUTINE METHODS. (Personnel: Vanhoy, Boose, Conner, Gregory, Joran,
+Ridings)
+
+A. Cigarette Smoke Analyses
+
+ 
+
+Method Number
+Ammonia “ 377
+Formaldehyde 194
+Hydrogen Cyanide 469
+Multiple Port pH 1,413
+. Flare-up 3
+. Tota! 2,456
+B. Tobacco Analyses
+Method Number
+Kar! Fischer Moisture tt
+Saccharin 2
+Phosphate 38
+Total 15]
+
+0SL9 CzE0s.
+
+we een ee CLT Oe Re a) ere

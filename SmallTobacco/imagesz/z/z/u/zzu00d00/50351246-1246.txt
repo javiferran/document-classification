@@ -1,0 +1,106 @@
++ SEPARATUM + Printed in Switzerland - S.KARGER - Basel - Miinchen - Paris « New York » SEPARATUM - Printed
+
+' S.KARGER - Basel - Miinchen - Paris - New York
+
+ 
+
+Neuroendocrinology 44: 197-200 (1985}
+
+ne
+
+ 
+
+Purification and Sequence of a Novel Ovine Adrenal Medullary
+
+Peptide and Its Precursor
+
+Radmila Micanovic, Purnima Ray, William K. ruggel, Randolph V. Lewis
+
+Department of Biochemistry, University of Wyoming, Laramie, Wyo.. USA
+
+Key Words. Adrenal medulla - Peptide, bioactive « Precursor
+
+Abstract. A 24 amino acid polypeptide that does not originate from (pre)proenkephalin has been isolated from ovine
+adrenal chromaffin granules. ls sequence is: Arg-Leu-Pro-Gly-Glu-Leu-Arg-Asn-Tyr-Leu-Asp-Tyr-Gly-Glu-Glu-Val-
+
+Gly-Glu-Glu-Ala-Ala-Arg-Gly-Val. This peptide is generate
+partially sequenced. The proteolytic cleavage occurs at a tri
+
+banks shows very little homology to any known protein.
+
+In the course of our attempts to elucidate the steps in-
+volved in (pre)proenkephalin processing in both bovine
+and ovine adrenal medullary cells [for review see ref. 5], we
+have isolated a number of opioid and nonopiaid peptides
+derived from proenkephalin [6, 12, 13]. We have also ob-
+served a number of other peptides whose sequences were
+not contained in the prohormone sequence [1, 7]. These
+peptides were present in amounts equal to or greater than
+the proenkephalin fragments and exhibited no cross-reac-
+tivity with antisera against Met- and Leu-enkephalin. We
+present here the purification and sequence of a peptide and
+its precursor from ovine adrenal chromaffin granules that
+are not derived from proenkephalin and which may be phy-
+siologically active peptides secreted by the adrenal me-
+dulla.
+
+Materials and Methods
+
+Fresh ovine adrenal glands were obtained from the slaughter-
+house and kept on ice until dissection. Upon removal of the cortex,
+chromaffin granules were prepared from the medulla by differen-
+tial centrifugation as described elsewhere [2] and stored at -80°C
+until further processing. The granules were lysed in | Afacetic acid
+and 20 mM HCI containing 0.1% 2-mercaptoethanal (1:5 w/v).
+Phenylmethane sulfonylfluoride in acetone and pepstatin A in eth-
+anol (1 g/ml of each) were added as protease inhibitors just prior
+to lysis. The final supernatant from 40,000 g centrifugation (1 h) of
+the lysate was chromatographed on a Sephadex G-100 column a
+
+ 
+
+Received: July 27, 1984
+Accepted after revision: November 2, 1984
+
+d from a precursor molecule that has also been purified and
+ple Arg site. A search of the available protein sequence data
+
+.
+x 100 cm) ‘with lysis buffer lacking the protease inhibitors as an
+eluant. Column fractions were pooled by molecular weight ranges
+according to a previous work [8} yielding five peaks. Peptides of
+2,000-5,000 and 5,000-10,000 dalton were used in further purifica-
+tions.
+
+The high-performance liquid chromatography (HPLC) system
+with the Muorescamine postcolumn detection as described by Lewis
+[9] was used with acetic acid/pyridine buffer (0.5/0.2 Af, pH 4) and
+I-propanol us the organic modifier at a flow rate of 0.75 ml/min.
+The conditions for each chromatographic step are provided in the
+figure legends.
+
+Radioimmuncassays [10] were performed with antiserum ob-
+tained from [mmunonuclear (Stillwater, Minn., USA) using ['251]-
+Met- and Leu-enkephalin (New England Nuclear, Boston, Mass.,
+USA). Prior to assay, the samples were treated with trypsin (Milli-
+pore Corp., Freehold, N.J., USA) and carboxypeptidase B (Boch-
+ringer Mannheim, FRG) [1 I
+
+Amino acid analyses were carried out with the o phthalalde-
+hyde precolumn labeling method [4] using a Rainin Cig column. A
+Spectra Physics 8700 HPLC system and a Schoeffel/Kratos 950
+fluorometer were employed with an Alltech 3 Cig column (4.6 x
+150 mm). The gradient used was 50 mAfsodium acetate (pH 5.9) to
+80% methanol in the same buffer, with 1% tetrahydrofuran in the
+initial buffer.
+
+Amino acid sequences were determined on approximately $00
+pmol of peptide with the Applied Biosystem model 470A gas phase
+protein sequencer according to the procedure of Hewick et al. {3}.
+Phenylthiohydantoin amino acids were identified by HPLC (Beck-
+man 344 HPLC system) using a Bukerbond $ # diphenyt column
+(4.6 x 250 mm). The initial buffer was 66 mAf trifluoroacetic
+acid/4 mA acetic acid brought to ptl 5.6 with NaOH, and the final
+buffer was 3.5 mAf trifluoroacetic acid brought to pH 3.6 contain.
+ing 75" acetanitrile. Phenylthiohydantion amino acids were de-
+tected using a Schoetfel-Kratos 757 UV detector at 269 nm.

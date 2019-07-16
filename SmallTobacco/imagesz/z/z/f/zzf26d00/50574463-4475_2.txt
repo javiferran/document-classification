@@ -1,0 +1,48 @@
+216 !ONOPHORES AND ELECTROPHOTOLUMINESCENCE
+
+Some of the merits of the method are the following : 1) the
+use of a natural (biological) membrane, with all its consequences
+including comparison to other functional effects of ionophores
+within the same system, (II) microsecond time resolution, (III)
+the use of low ion concentrations, (IV) the possibility to study
+voltage dependence of ionophore action.
+
+I. INTRODUCTION
+
+A number of compounds, known as ionophores (we use the term
+in its general sense, to include both carriers and channels) have
+been found to mediate ion transfer through membranes [20,21].
+Their structure is usually well known, and the kinetic and
+mechanistic details of their action have been extensively
+investigated [£15-17,19-24] in both artificial model systems and
+biological membranes. In the former, electrochemical methods
+have prevailed, while in the latter the submicroscopic dimensions
+of most entities of interest (chloroplasts, chromatophores,
+mitochondria, retinal rods) prevented the application of standard
+electric measurement techniques; the action of ionophores has
+therefore been assessed indirectly, by their functional effects.
+Conversely, much has been learnt about energy transduction
+£19,21-25] and even structural details [14] of these natural
+membranes, from studies involving ionophores. The interpretation
+of the results has been based upon the (usually tacit) assumption
+that one can extrapolate ionophore behaviour in artificial
+bilayer membranes to the biological case. Due to the higher
+complexity cf the latter, it is not obvious that this can be
+done, although only little information on essential discrepancies
+exists [14] . Our contention is not that such extrapolation is
+incorrect, but rather that some efforts should be made to devise
+hetter methods for ionophore studies in biological membranes, by
+possibly making use of the special properties of such systems as
+compared to the artificial ones.
+
+We describe here an approach based on the optical monitoring
+of a strongly ion-conductivity dependent phenomenon induced
+within a biological system. The membrane chosen is the
+photosynthetic (thylakoid) one, due to its special features, and
+in particular its inclusion of functional pigments that can act
+as kinetically competent intrinsic optical probes for fast
+electrical events. The phenomenon under study is electrophoto -
+luminescence (3,5,8,12,27] , the mechanism of which is outlined
+in the theoretical section.
+
+50574465

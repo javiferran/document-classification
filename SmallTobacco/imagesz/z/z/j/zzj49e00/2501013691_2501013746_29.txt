@@ -1,0 +1,34 @@
+TNO-report
+
+eee
+
+B-92-0388 May 1992 page 30
+
+The measuring principle of the odorous sample is as follows: The odorous sample is diluted a
+number of times, with the help of a dilution unit (with dilution steps of a factor 2). Part of
+the diluted odorous air flow is presented for assessment to a panel of eight members,
+
+The members of the panel each sit in a separate “sniffing booth" (see figures 17 and 18).
+There are three sniffing beakers in each booth. From one of these beakers flows diluted odor-
+ous air, whereas the other two beakers present a flow of odourless air. An air flow of 20
+l/min flows from each beaker. The members of the panel have to indicate from which of the
+three beakers comes the diluted odorous air. Even though they may not observe a difference
+between the three beakers, they have to make a choice (a so-called forced three-way test).
+They indicate their choice by pressing one of the three corresponding buttons. The members
+of the panel are exposed to five or six consequent odour flows which increase in steps of a
+factor 2 in concentration. This is done at least four times per measurement. The odour flows
+are distributed arbitrarily among the three beakers. The reactions of the members are
+corrected for guessing, as they have a chance of 33.3 % of choosing the correct beaker. With
+the help of a computer program, the dilution factor is calculated (in numerical value corre-
+sponding with the odour concentration), where 50 % of the panel members are able to distin-
+
+guish the diluted odorous air from the odourless air,
+
+The air present in the measuring car is led about 40 times per hour over an active charcoal
+filter to keep it odourless. Moreover, a slight overpressure is maintained inside the truck to
+prevent leaking of odorous air into the truck. The members of the odour panel are hired
+through an employment agency. Heavy smokers and persons having a cold or heavily per-
+
+fumed are excluded. No requirements are made as to their individual sense or smell.
+
+U2Z2£ 101062

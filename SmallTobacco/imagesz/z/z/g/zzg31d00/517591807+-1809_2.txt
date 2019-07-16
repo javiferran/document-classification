@@ -1,0 +1,18 @@
+Table 1, Results of Smoke Analyses
+
+DET-111682-A DET~111682-B
+FTC 'Tar' (mg/cig) 10.1 15.5
+Nicotine (mg/cig) 0.59 1,08
+TPM H,0 (mg/cig) 1.2 2.8
+TPM (mg/cig) 11.9 19.4
+Puff Count 9.8 8.4
+MS CO (mg/cig) 17.6 18.9
+MS CO, (mg/cig) 56.0 $1.3
+SS ‘Tar’ (ng/eig) qo.) 13.3
+SS Nicotine (ng/cig) 2.38 2.87
+Ss co (mg/cig) 32.9 25.9
+
+Actual SS ‘Tar' delivery is less due to incorrect calibration of
+spectrophotometric method for cigarettes containing “carbonized” filler.
+
+608T 6SLTS

@@ -1,0 +1,47 @@
+RESPONSE CODE REQUEST
+Page 2
+
+Completed By; Lisa Drum Date: May 5, 1997
+
+Ae "USE THIS SIDE FOR CONVERSION ©.) 2.2
+pro 242 __ OR CONSUMER MISSION
+
+System _ CORPORATE CPBRC Special Process
+
+Conversion Program NA
+
+Program Group 200. Default Conv. SRC
+
+Source __§ Default Event
+
+Type 8
+
+Club Affiliation NA Bounceback Routine
+
+Club Status _ NA BB Spec. Process
+
+MFip __ 78D Promoting Brand
+Call Routine
+
+Spec. Processes NA ' ,
+
+Priority Code 2 - 3-5 Day Turnaround Program Routine
+
+Duplicate PIDg Noo Targeting Routine
+Status
+
+ 
+
+Flow
+| COMMENTS.
+
+ 
+
+ 
+
+Helpful Hints: System = Brand Sub-system(s) if this code is for evaluation and/or entry into conversion pgm.
+System = Conversion Sub-system if this code is for response to mailings from conversion pgm.
+Special Processes: 600 = Personal Selling source / 830 = Flow 2 (Ret/Med/Cont) source.
+Default Event = "BRC" for Flow 2 (Ret/Med/Cont) sources.
+
+gene 0920S

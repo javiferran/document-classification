@@ -1,0 +1,164 @@
+Table 1 Specificity of !*1-Lp(a) binding to 1J937 cells
+Inhibition. of Binding (%)
+
+ 
+
+Nonlabeled Proteins
+
+ 
+
+Unrelated Molecules
+Soybean trypsin inhibitor 1428
+Ovalbumin 1224
+Ribonuclease 946
+BSA 2
+Related Molecules
+Lp(a) W342
+Plasminogen 4542
+€-aminocaproic acid (EACA) 52+6
+LDL 6441
+LDL + EACA 1642
+
+ 
+
+USL-Lp(a) at 10M was added ta U937 cells (4 X 10%ml) in the presence of
+the indicated protein competitors. Soybean trypsin inhibitor, ovalbumin, ri-
+bonuclease and plasminogen were at 1 4M; BSA at 80 mg/ml; LDL at 0.25 pM
+and EACA at 0.2 M. Incubations were for 150 min at 37° C
+
+tained, similar to the binding inhibitable by nonlabeled Lp(a) (Table 1).
+The effective competitors, LDL and plasminogen, each produced dose-
+dependent inhibition of !°°I-Lp(a) (Fig. 1). Neither gave complete inhi-
+bition; in Fig. 1, a plateau was reached at 70% inhibition with LDL and
+56% inhibition with plasminogen. EACA also gave dose-dependent
+and partial inhibition. The relative inhibition of '1-Lp(a) binding by
+EACA and LDL was somewhat variable during the course of these stu-
+dies: in 10 experiments at a 10 nM input concentration of '5]-Lp(a), the
+percent inhibition by EACA or by LDL was 55 + 18%-and 49 + 23%,
+respectively. This dual, partial inhibition is consistent with two separate
+components of '?5[-Lp(a) binding, one dependent upon the lipoprotein
+character of Lp(a) and the second dependent upon the lysine binding
+function of apa(a), these latter sites being shared with plasminogen.
+
+To establish that the ability of Lp(a) to interact with these two clas-
+ses of binding sites was not an unique property of the particular Lp(a)
+isoform [the fast isoform containing apo(a) of Mr 280,000 was used],
+we compared its binding to that of a slow isoform {containing apo(a)
+of Mr 500,000]. Both isoforms were isolated from the same- donor
+by ullracentrifugation and lysine-Sepharose chromatography. At a
+10-12 nM input concentration, (150 min at 37° C), 3.3 X 10! and
+6.5 X 10* molecules of the fast and slow isoform were bound per cell,
+tespectively. Binding of the slow isoform was 69% inhibitable by
+0.2 M EACA and 53% inhibitable by 125 j1g/ml LDL, suggesting that
+this isoform also interacted with both plasminogen and lipoprotein
+binding sites.
+
+To determine whether the interaction of Lp(a) with other cells also
+was inhibited by plasminogen, "*]-Lp(a) binding to HUVEC was
+examined (Fig. 2). A significant component of the total binding of
+"°5]-Lp(a) to these cells was inhibited by plasminogen. EACA produced
+similar inhibition, suggesting that the plasminogen-sensitive interaction
+depended upon the lysine binding functions of Lp(a). LDL also was
+inhibitory. The combination of plasminogen and LDL was more in-
+hibitory than each component separately, suggesting that HUVEC also
+exhibit both plasminogen binding site-dependent and binding site-
+independent (LDL -inhibitable) binding of Lp(a), In controls, !25-plas-
+minogen binding was inhibited by EACA and nonlabeled plasminogen
+but not by LDL. ’
+
+To understand the basis for the lipoprotein dependent binding as
+well as ways to block it so as to measure Lp(a)’s interaction with plas-
+minogen binding sites exclusively, we characterized this interaction
+further. Various lipoprotein particles, LDL, HDL and acetylated LDL,
+
+160
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+5 80
+c
+a
+@ 60
+=
+8 40
+a
+a
+20
+a
+0 125 250 500 000
+nM LOL
+0 1250 2500 5000 10,000
+nM Plasminogen
+0 50 100 200 400
+mM EACA
+
+Fig. 1 Effect of plasminogen, EACA and LDL on the binding of "*I-Lp(a)
+to U937 cells. '"*I-Lp(a) (10 nM) was added to U 937 cells (4 10%mi) in
+the presence of the indicated concentration of competitor and incubated for
+120 min at 37° C. Symbols: LDL (©); plasminogen ([); EACA (A). (For all
+of the curves shawn in the panel, the standard deviation did not exceed 9% af
+the mean for each point)
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 1
+80 4
+60 4
+40 1
+20 1
+
+oO
+*51Lp(a} ‘|.Plasminogen
+
+Fig. 2 Lp(a) binding to endothelial cells. HUVEC, in 24-well dishes, were
+
+incubated with 50 nM radiolabeled ligands for 2h at 4° C in Hanks balance:
+
+salt solution containing 0.05 M HEPES, pH 7.4, 2.4 mM CaCl, and 0.8 mM
+
+MgSO,. In the presence of buffer, 2.6 X 10* molecules of '51-Lp(a) an
+
+3.4 X 10° molecules of plasminogen were bound per cell. Symbols: Buffer, I:
+
+LDL 800 nM &, plasminogen 20 4M, El; EACA 0.2 M, §; plasminogen
+20 eM plus LDL 800 nM, 1)
+
+were tested as inhibitors of !I-Lp(a) binding to U937 cells. In
+preliminary experiments, each lipoprotein was tested in dose titration
+experiments such as those shown for LDL in Fig 1, and each produced
+a similar inhibition curve. The data summarized in Table 2 were obtain-
+ed with a concentration of each lipoprotein particle that produced
+maximal inhibition. Lp(a) binding was partially inhibited by LDL,
+HDL and acetylated LDL. The extent of maximum inhibition was
+similar, ranging for 43 to 51%. The combination of EACA with each
+lipoprotein particle gave significantly greater inhibition than with the
+lipoprotein particles alone. In controls, the lipoproteins, but not EACA,
+inhibited binding of '5I-LDL to the cells (Table 2}; and EACA, but not
+the lipoproteins, inhibited '?"I-plasminogen binding. These data further
+support the existence of both a lysine binding site-dependent and a
+lipoprotein-dependent element of Lp(a) binding. In addition, these re-
+
+ 
+
+~ 40005201

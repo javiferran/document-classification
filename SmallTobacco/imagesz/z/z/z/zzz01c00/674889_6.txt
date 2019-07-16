@@ -1,0 +1,53 @@
+Brand By Class of Military Accounts
+
+1. Name of report and assicnment area.
+
+2. Period - This report covers only one time period.
+Time period used for compiling the report can be changed.
+
+3. Denotes classifications of military accounts. Refer to
+#4 in explanation of brand analysis report.
+
+4. For each brand/style by classification of military
+account, the following data is given:
+
+a. Frequency - The number of cases sold during
+the current period.
+
+b. Percent - The percentage of total overall sales.
+
+c. Row Percent ~ The given brands’ percentage of
+total sales within the account classification.
+
+d. Column Percent - The classification's % of overall
+sales.
+
+5. Totals - Columns are totalled down and across.
+
+Supervisors - Will be provided with Region and National totals.
+
+£po2z2.T029
+
+ 
+
+670172043
+
+PRODUC]
+
+ 
+
+ED FROM
+
+ 
+
+B&W WEI
+
+ 
+
+ 
+
+I
+W
+rn
+4
+I

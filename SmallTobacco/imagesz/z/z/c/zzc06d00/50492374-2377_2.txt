@@ -1,0 +1,61 @@
+expression of IL-1 and iL-1ra in inbred mouse strains that exhibit high or low binding of either
+3H-nicotine or '51-bungarotoxin (Collins, 1989, Marks, 1992) will be examined. Subsequent
+to establishing base-line expression, in collaboration with Dr. Collins, | will chronically
+administer nicotine to these animals to enhance the expression of high affinity *H-nicotine
+binding sites, and to determine if the expression of IL-1 is altered as anticipated from cell
+culture studies. The brains from animals that have been nicotine treated or controls have
+been prepared and are available from Dr. Collins. IL-1 expression in these studies will be
+determined by in situ hybridization using *°S-labeled riboprobes.
+
+Conversely, IL-1 as a mediator of inflammation acts upon the CNS to induce increases in core
+body temperature. Does elevated IL-1 affect the expression of nAChR subunits? Mice will
+be administered IL-1 (intravenous or intraventricular) and alterations in nAChr determined by
+in situ hybridization.
+
+Collectively these studies will provide the first insight into the co-regulation of nAChRs and
+a cytokine in the CNS. They will also provide the basis for further investigation of interactions
+between the expression of CNS receptor systems, cytokines, and trophic factors.
+
+References
+
+Bandtlow, C.E., M. Meyer, D. Lindholm, M. Spranger, R. Heumann, and H. Thognen. 1990.
+Regional and Cellular Codistribution of Interleukin 1 and Nerve Growth Factor
+mRNA in the Adult Rat Brain: Possible relationship to the regulation of nerve
+growth factor synthesis. /. Ce/f Biology, 111: 1701-1711.
+
+Collins, A.C. and M.J. Marks. 1989. Chronic nicotine exposure and brain nicotinic receptors -
+influence of genetic factors. Prog. Brain Res., 79:137-146
+
+Deyerle, K.L., J.E. Sims, S.K. Dower, and M.A. Bothwell. 1992. Pattern of IL-1 receptor gene
+expression suggests role in noninflammatory processes. J. /mmunol. 149:
+1657-1665.
+
+Fagan, A.M. and F.H. Gage. 1990. Cholinergic Sprouting in the Hippocampus: A Proposed
+role for IL-1. Experimental Neurology, 110: 105-120
+
+Friedman, W.J., L. Larkfors, C. Ayer-lelievre, T. Ebendal, L. Olson, and H. Persson. 1990.
+Regulation of B-Nerve Growth Factor expression by inflammatory mediators in
+hippocampal cultures. J. Neurosci. Res. 27: 374-382.
+
+Marks, M.J., J.R. Pauly, S.D. Gross, E.S. Deneris, |. Hermans-Borgmeyer, S.F. Heinemann,
+and A.C. Collins. Nicotine binding and nicotinic receptor subunit RNA after
+chronic nicotine treatment. J. Neurosci, 12: 2765-2784.
+
+Rogers, S.W., A. Mandelzys, E.S. Deneris, E. Cooper, and Stephen Heinemann. 1992. The
+expression of nicotinic acetylcholine receptors by PC 12 cells treated with NGF.
+
+J. Neurosci. 12: 4611-4623.3.
+
+Vandenabeele, P. and W. Fiers. 1991. Is amyloidogenesis during Alzheimer’s disease due to
+an IL-1/IL-6 mediated ‘acute phase response’ in the brain? Immunology Today,
+12: 217-222.
+
+VanDuijn, C.M., and A. Hofman. 1991. Relationship between nicotine intake and Alzheimer’s
+disease. BMJ 302: 1491-1494.
+
+Graves, A.B., C.M. Van Duijn, V. Chandra, L. Fratiglioni, A. Heyman, A.F. Jorm, E. Kokmen,
+K. Kondo, J.A. Mortimer, W.A. Rocca, $.L. Shalat, H. Soininen, and A.
+Hofman. 1991. Alcohol and tobacco consumption as risk factors for
+Alzheimer’s disease: A collaborative re-analysis of case control studies. Int. J.
+
+Epid. 20 :$48-S57.

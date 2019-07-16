@@ -1,0 +1,148 @@
+Cell
+1112
+
+Also, infectious poliovirus has been derived from a full-
+length cDNA clone (Racaniello and Baltimore, 1981), and
+chimeric viruses have been generated through recom-
+binant DNA techniques (Evans et al., 1989). In addition,
+infectious positive-strand RNA plant viruses have been
+generated from cDNA clones, and modifications have
+been introduced into their genomes via DNA manipulation
+(Ahiquist et al., 1984; Takamatsu et al., 1987; Dasma-
+hapatra et al., 1986).
+
+By contrast, because of the lack of an appropriate res-
+cue system, negative-strand RNA viruses have not been
+subjected to site-specific modifications or foreign gene
+replacement. In this paper we describe a general proce-
+dure by which the genome of an influenza virus may be
+altered and the expression of an inserted foreign gene
+achieved. We believe that these results open new op-
+portunities in the negative-strand RNA virus field. For
+example, it should now become possible to study struc-
+ture-function relationships in influenza virus genes using
+site-specific mutagenesis. Previously, such studies could
+not be done using whole virus, and questions of patho-
+genicity —as they retate to specific regions or nuclectides
+in different genes—could be readdressed employing this
+system.
+
+Another area of interest concerns the improvement of
+live and killed influenza virus vaccines, Through the in-
+troduction of stable attenuation characteristics into in-
+fluenza viruses, it is hoped that a new generation of effec-
+tive live influenza virus vaccines will be developed, but
+even killed influenza virus vaccines may be improved by
+site-specific modifications in the genes of the prototype
+vaccine strain.
+
+Finally, several features of this system suggest that in-
+fluenza virus might be a useful vaccine vector for the ex-
+pression of foreign genes. One drawback of the vaccinia
+virus system and of other vectors is the limitation on
+repeated use of chimeric strains in the same individual.
+For example, it is unlikely that continued revaccination
+with different chimeric vaccinia viruses will be effective. In
+contrast, the availability of large numbers of influenza vi-
+rus variants could provide us with many candidates for
+constructing attenuated chimeric viruses for use in vacci-
+nation against a variety of antigens. Another interesting
+feature of the present system concerns the ability of in-
+fluenza virus to induce a vigorous secretory and cellular
+immune response. For example, infection of the respira-
+tory tract by chimeric influenza viruses may induce a
+strong secretory immune response in the genital system,
+with concomitant protection against a particular agent. In
+addition, chimeric iniluenza virus vectors may help in the
+large-scale production of specific proteins (antigens) in
+higher eukaryotic cells for use in vaccines or other appli-
+cations.
+
+Experimental Procedures
+
+Viruses and Cells
+
+Influenza A/PR/8/34 and AAWSN/33 viruses were grown in embryo-
+nated eggs and MDCK cells, respectively (Ritchey et al., 1976; Sugiura
+et al., 1972). RNP transfections were performed on human 293 ceils
+(Graham et al., 1977), MDCK cells, and MDBK cells (Sugiura et al.,
+1972).
+
+Construction of Plasmids
+Plasmid pIVACAT1, derived from pUC19, contains the coding region of
+the CAT gene flanked by the noncoding sequences of the influenza
+A/PRY8/34 RNA segment 8. This construct was placed under the con-
+trol of the T7 polymerase promoter in such a way that the AINA tran-
+script IVACAT1 contains, in 5'to 3 order: 22 nt derived from the 5’ termi-
+nus of the influenza virus NS RNA, an 8 nt linker sequence including
+a Bgtll restriction site, he CAT gene in negative polarity, and 26 nt de-
+rived from the 3° end of the influenza virus NS RNA (Figure 1).
+pPIVACAT1 was constructed in the following way: To obtain the correct
+5’ end in pIVACAT1, the EcoRI-Scal fragment of the CAT gene darived
+from plasmid pCM7 (Pharmacia) was ligated to a DNA fragment
+formed by two synthatic oligonucleotides, 5-ACTGCGATGAGTGGCA-
+GGGCGGGGCGTAATAGAT-3’(tep strand) and 5-CTAGATCTATTACG-
+CCCCGCCCTGCCACTCATCGCAGT-3' (bottom strand). For the 3’ end
+of the insert in plVACAT1, the SfaNI-EcoRI fragment of tha CAT gene
+was ligated to a DNA fragment made up of the synthetic oligonucleo-
+tides 5CTAGACGCCCTGCAGCAAAAGCAGGGTGACAAAGACATAA-
+TGGAGAAAAAAATCACTGGGTATACCACCGT TGATATATCCCAATCG-
+CATCGTAAA-3' (top strand) and 5'-GTTCTT TACGATGCGAT TGGGAT-
+ATATCAACGGTGGTATACCCAGIGAT TT TTT TCTCCAT TATGTCTT TG-
+TEACCCTGCTTTTGCTGCAGGGCGT-2' (bottom strand). Oigonucle-
+tides were synthesized on an Applied Biosystems DNA synthesizer,
+These 5° and 3’ constructs were ligated into pUC19 shuttle vectors
+digested with Xbal and EcoRt, grown up, cut out with EcoRI and Bglll
+(5' region) and Xbal and EcoRI (3’ region}, and ligated into Bglll- and
+Xbal-cut pPHV (M. K., unpublished data). The latter plasmid is similar
+to pVWT (Parvin et al., 1989) except that it contains a Bglil site separat-
+ing the nancoding terminal sequences of the influenza A virus NS RNA
+segment. pIVACAT2 was obtained in a similar way using a variant of
+PPHY that contains three adjacent point mutations (Figure 1). The final
+clones pIVACAT1 and piVACATe (Figure 1) were grown up and the DNA
+was partially sequenced starting from the flanking pUC sequences
+and reaching into the CAT gene. No deviations from the expected se-
+quences were found with the exception of a silent G to A transition in
+the CAT gene at position 106 relative to the start of both RNAs.
+
+T? RNA Synthesis
+
+Plasmids plVACAT1 and pIVACAT2 were digested with Hgal (Figure 1)
+to allow run-off transcription. The 5 nt overhang generated by this en-
+zyme was filled in with Klenow enzyme (BRL), and the DNA was puri-
+fied over a spin column (Boehringer). The T7 polymerase reaction was
+performed using standard procedures in the presence of ANasin
+(Promega). Template DNA was removed with RNAase-free DNAase |
+(Promega). The RNA was purified over Qiagen tip-5 columns (Qiagen,
+Inc.) and quantitated using silver-stained 4% polyacrylamide geis. NS
+RNA was prepared from plasmid pHgaN$ (Parvin et al., 1988) in the
+same way.
+
+Purification of Influenza A Virus Polymerase
+
+and in Vitro Transcription
+
+The RNA polymerase complex was purified from influenza A/PR/G/34
+as described (Parvin et al., 1989). In vitro transcription of unlabsied
+IVACAT1 or HgaNS RNA tempiates was carried out using the condi-
+tions described previously (Parvin et al., 1989). Radiolabeled tran-
+scripts were analyzed on 4% polyacrylamide gels.
+
+RNP Transfection of MDCK, MDBK, and 293 Cells
+
+Far RNP transfection, 36 mm dishes containing approximately 10°
+cells were treated with 1 mi of a solution of 300 ug/ml DEAE-dextran,
+0.5% dimethyl sulfoxide in PBS-gelatin (0.1 mg/ml gelatin) for 30 min
+at room temperature, following a protocol kindly provided by Dr. J. Or-
+tin. After removal of this solution, 200 11 of PBS-gelatin containing 1
+ug of RNA (1-2 yl), 20 ul of the purified polymerase preparation, and
+4 ut of RNasin was added to the cells and incubated for 1 hr at 37°C.
+This was followed by the addition of gradient-purified influenza Af
+WSN/33 virus (moi >10; 293 cells and MDCK cells) or AAWSN/33 seed
+virus (moi ~1; MDBK celis). After incubation for 1 hr at 37°C, 2 ml of
+sither DMEM plus 10% FCS (293 cells), REM (MDBK cells), or MEM
+(MDCK cells) was addad. In other experiments MDBK cells were first
+infected and subsequently RNP-transfected. Harvesting of cells was
+done in NET buffer or in medium, using a rubber policeman (MDBK
+and MDCK celis) or by gentle suspension (293 cells). Cells were spun
+down and the pellets were resuspended in 100 ul of 0.25 M Tris bufter

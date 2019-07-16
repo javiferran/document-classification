@@ -1,0 +1,98 @@
+PROCEEDINGS OF THE SOCIETY FOR EXPERIMENTAL BIOLOGY AND MEDICINE 179, 288-295 (1985)
+
+A System for Monocytic Differentiation of Leukemic Cells HL 60 by a Short
+Exposure to 1,25-Dihydroxycholecalciferol (42098)
+
+GEORGE P. STUDZINSKI, AMARJIT K. BHANDAL, AND ZAMIR 5S. BRELVI
+Department of Pathology, UMDNJ-New Jersey Medical School, Newark, New Jersey 07103
+
+ 
+
+Abstract. The human promyelocytic cell Jine HL 60 can be induced to differentiate toward
+more mature myeloid or monocytic forms by a variety of agents. This process is thought to
+require several days of exposure to the inducer, thus making it difficult to identify the early
+cellular changes which are fundamental to the differentiation program, and to relate the
+induction to phases of the cell cycle. In order to study the kinetics of leukemic cell differentiation
+we have developed a system for the induction of rapid monocytic maturation in a subpopulation
+of HL 60 cells. The cells are exposed to 10°? M 1,25-dihydroxycholecalciferol for 4 br in
+serum-free medium. Subsequent incubation in a complete medium results in cellular differen-
+tiation recognizable by several criteria (phagocytosis, nonspecific esterase reaction, adherence
+to substratum, cell morphology) beginning at [0 hr from the exposure to the inducer.
+Approximately 20 hr later 30-40% of the cells in culture show the differentiated phenotype
+and are capable of phagocytosis. The proportion of differentiated cells in culture decreases
+thereafter. This system has been utilized to study the expression of c-myc oncogene in relation
+to the kinetics of maturation, and it was found that the inhibition of the expression of this
+gene precedes the onset of phenotypic differentiation by approximately 8 hr, is transient, and
+is accompanied by a brief retardation of cell proliferation, which resumes the normal rate
+within 24 hr of the exposure to the inducer. © 1985 Society for Experimental Biology and Medicine.
+
+a
+
+at
+
+HL 60 cells, isolated from a patient with
+a promyelocytic leukemia (1), have provided
+a useful model for maturation of leukemic
+cells. In culture, these cells show a low level
+of spontaneous differentiation, and essentially
+complete conversion to terminally differen-
+tiated forms can be induced by a variety of
+chemical compounds. For instance, dimethyl
+sulfoxide (2) and retinoic acid (3) produce
+conversion in 6-10 days to predominantly
+granulocytic cellular forms, while phorbol
+esters (4), lymphocyte-conditioned medium
+(5), and vitamin D derivatives (6-9) induce
+the monocytic/macrophage pathway of dif-
+ferentiation after 3-7 days in culture.
+
+The long periods of time required for the
+phenotypic manifestations of the inducer ac-
+tion suggest that a complex series of steps is
+necessary for the expression of the differen-
+tiation program, and indicate to some that
+the process is stochastic in nature (10, 11).
+However, a relationship to a specific cell
+eycle event cannot be ruled out in experi-
+mental systems which utilize periods of in-
+duction greater than 24 hr, since this repre-
+sents almost an entire generation cycle for
+
+optimally growing HL 60 cultures. In this
+situation cells are successively recruited into
+the differentiation program as they repeatedly
+traverse the cell cycle in the presence of the
+inducer, making it impossible to relate
+changes in cell cycle-linked events to the
+maturation process.
+
+Several studies addressed the question of
+the minimal length of exposure of HL 60
+cells to the inducer which can result in
+phenotypic expression of differentiation sev-
+eral days later. Treatment with dimethyl sulf-
+oxide for 12 hr resulted in granulocytic dif-
+ferentiation of 20% of cells when examined
+6 days later (10). Monocytic differentiation
+of HL 60 cells with 1,25-dihydroxycholecal-
+ciferol (1,25(OH)2D3;), one of the most potent
+inducers of differentiation, appeared to re-
+quire an even longer period of induction of
+differentiation, being variously estimated as
+30 hr (11) of 18 hr (9), for a minimal
+expression of morphological or functional
+indicators of monocytic differentiation, as
+determined after a total of 4 (11) or 7 (9)
+days. These results suggested that, relative to
+events which occur at the molecular level,
+
+288
+
+0037-9727/85 $1.50
+
+Copyright © 1985 by the Society for Experimental Biology and Medicine.
+Ali rights reserved,
+
+a
+
+50285926

@@ -1,0 +1,64 @@
+16. The use of breath analysis to determine recent or long-
+term exposure to indoor VOC was described by LANCE WALLACE of the
+EPA. Breath analysis has been used extensively in occupational
+settings where individual VOC are in the parts per million range;
+indoor air concentrations are in the parts per billion range,
+
+Previous use of breath analysis led to the discovery that cig-
+arette smoking is the main source of exposure to benzene and sty-
+rene for active smokers, according to Wallace.
+
+A new, portable breath measurement system has been developed
+that allows subjects to breathe naturally, but still collects
+about 98-99% alveolar air.
+
+17. A coauthor of the Wallace paper, SYDNEY GORDON of the IIT
+Research Institute in Chicago, discussed a study he did to iden-
+tify unique VOC in exhaled breath of smokers.
+
+He analyzed the VOC in the breath of 26 smokers and 43 non-
+smokers in an effort to find possible biomarkers resulting from
+exposure to cigarette smoke.
+
+The EPA's ongoing TEAM (Total Exposure Assessment Methodology)
+Study measured exhaled breath concentrations of 20-25 target VOC
+from 200 smokers and 322 nonsmokers (using gas chromatography/-
+mass spectrometry). Smokers showed significantly elevated breath
+concentrations of benzene, styrene, ethylbenzene, and other com-
+pounds. The results suggested that there may be other compounds
+in exhaled breath that are better able to differentiate between
+smokes and nonsmokers. In his study, Gordon reexamined a subset
+of TEAM breath data seeking to identify markers in the breath of
+smokers that would be able to distinguish them from nonsmokers.
+
+He reported that overall, the breath components which discrim-
+inated best between smokers and nonsmokers were 2.5-dimethyl fur-
+an and 1-methyl-1,3-cyclopentadiene, with the former playing a
+dominant role in distinguishing between the two groups. Neither
+element was included in a recently compiled national VOC data
+base of 320 VOC, consisting of 261 such compounds measured in
+outdoor air and 66 measured indoors. However, 2,5-dimethyl furan
+has been identified as a major gas-phase constituent of tobacco
+smoke. It was previously identified in exhaled breath samples
+with a 60% occurrence frequency, but its potential as a marker of
+smoke exposure could not be determined from this Study because no
+distinction was made between smokers and nonsmokers.
+
+Gordon said 2,5-dimethyl furan appears to be an effective bio- .
+indicator of smoking and analysis of exhaled breath should pro-
+vide a reliable, noninvasive method for mass screening studies.
+
+18. Using an experimental box in which tobacco smoke was in-
+jected with a syringe, TOSHIE IWATA of Waseda University, Tokyo,
+found that more of the PM in the smoke adhered to the floor than
+to other surfaces. He determined this with a new technique based
+on infrared spectroscopy.
+
+= ee
+
+SS0008248
+
+ 
+
+The higher the concentration of smoke injected, the more PM
+was adhered.

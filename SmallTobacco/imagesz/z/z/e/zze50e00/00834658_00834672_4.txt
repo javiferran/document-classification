@@ -1,0 +1,96 @@
+and the next question 33. If not. then classify further by question
+12 et seg. Bridged-chain derivatives may be represented by struc-
+tures like the bicyclic ether 1,4-cineole while monocyclic aryl de-
+rivatives may be represented by compounds like benzaldehyde
+propylene glycol acetal or 3-pheny!-2-furancarboxaldehyde.
+
+12. Is it heteroaromatic (B)?
+
+This question separates the aromatic heterocyclics for the purpose
+
+of considering whether they are polynuclear (question 14) or un-
+substituted (question 13).
+
+13. Does the ring bear any substituents?
+
+14. Does the structure contain more than one aromatic (B) ring?
+
+15. Is it readily hydrolysed (H) to mononuclear residues? (If yes,
+treat the mononuclear heterocyclic residues by question 22 and
+any carbocyclic residue by question 16.)
+
+16. Is it a common terpene (D)-hydrocarbon, -alcohol, -aldehyde
+or -carboxylic acid (not a ketone)?
+Questions 16 and 17 deal with terpenes. A hydrocarbon terpene
+that is a common terpene (D) and has not already been put in
+class I by question 5, would go into class I by question 16.
+
+17. Is the substance readily hydrolysed (H) to a common terpene
+
+(D), -alcohol, -aldehyde or -carboxylic acid? (If the answer is
+
+yes, treat the hydrolysed residues separately and proceed to 18
+
+for the terpene moiety and to 19 for any non-terpenoid moiety.)
+Since there may be substances that are hydrolysed to two or more
+residues, one of which is a terpene, treat the residues separately
+from question 18 onward to conclusion.
+
+18. Is the substance one of the following:
+(a) a vicinal diketone; or a ketone or ketal of a ketone
+attached to a terminal vinyl group
+(b) a secondary alcohol or ester of a secondary alcohol
+attached to a terminal vinyl group
+(c) allyl alcohol or its acetal, ketal or ester derivative
+(d) allyl mercaptan, an allyl sulphide, an allyl thioester
+or allyl amine
+(e) acrolein, a methacrolein or their acetals
+(f) acrylic or methacrylic acid
+(g) an acetylenic compound
+(h) an acyclic aliphatic (A) ketone, ketal or ketoalcohol with
+no other functional groups and with four or more carbons
+on either side of the keto group
+(i) a substance in which the functional groups (E) are all steri-
+cally hindered (J).
+
+If if Examples with
+‘no’ ‘yes’ answers
+....proceed to....
+22 13 7 N ro
+Ge
+NO YES
+(22) (13)
+I 4 od : \ one >
+NO YES
+(Class (14)
+Hp
+22 18 NYS i
+VAY! AZ
+NO YES
+(22) (15)
+33 2 7 oo
+s cs
+O53
+Cred
+NO -YES
+(33) (22 & 16)
+(3) t : OH f H
+I ‘ N
+‘H ‘OH
+YES
+NO (Class
+(17) 1)
+—
+De
+NO YES
+(19) (18 & 19)
+“a OCH,
+fl HW CH,C—CH=CH,
+4 ocHs
+OCCHy
+u
+NO YES
+(Class (Class
+1) N)
+
+299PE800

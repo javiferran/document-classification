@@ -1,0 +1,32 @@
+“
+
+VY
+
+Preliminary Proposal page 3
+George Weinstock, Ph.D. February 11, 1993
+
+The implementation of the assay in eukaryotic cells will require the choice of
+suitable repeated sequences. As noted above, there are a variety of known sequences
+that undergo UCO, and these would provide a suitable target. The opsin genes on
+the X chromosome are particularly attractive because a large number of variants
+already exist and these could be used for reconstruction experiments in developing
+the assay. This assay would then allow us to determine the effects of different
+parameters on UCO. For example, we should be able to see if there are effects of
+DNA damaging treatments on UCO as well as whether DNA repair mutants (such
+as xeroderma pigmentosum strains) show increased UCO. It will also be possible to
+determine if UCO rearrangements are found at higher frequency with ageing and if
+there are tissue differences. We note that such an assay is different from some of the
+procedures that are currently in use in lower eukaryotic cells such as yeast. Those
+assays require cell survival and do not readily distinguish between duplication
+events that are caused by changes in chromosome number (e.g. by non-disjunction)
+from duplication events caused by true UCO. To my knowledge, there is no assay
+available at the present time that will detect UCO that occurs in mammalian cells in
+culture or in situ. The availability of this assay will thus not only serve to gain
+insight into the factors controlling UCO, but may also lead to a molecular diagnostic
+procedure for early detection of diseases caused by somatic UCO.
+
+It is anticipated that this project will span 3 years and be carried out by 2
+graduate students for their Ph.D. theses. The estimated direct cost for the first year is
+$60,000.
+
+50619007

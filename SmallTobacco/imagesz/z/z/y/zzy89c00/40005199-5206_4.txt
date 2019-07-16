@@ -1,0 +1,175 @@
+© 10 20 39 40 50
+
+26
+
+‘oe A
+
+°
+
+aol ——s |
+28
+
+28
+
+S52 ist 4 7
+Ba 3
+
+na o
+Bu i1oF eet? 4
+aa 2
++5 Bl
+
+3
+
+2 5 °
+
+—
+
+ 
+
+Bound
+(molecules/cell)xt0*
+0 A ener
+2. B
+ou & 25¢ 4
+i
+sa
+as 20+ $ a
+c
+52 9 8
+2 a
+as 1S/ G4 4
+4 pore
+ES 10+ 3 4
+oo 1
+az o
+@ 5 © 102030 40.5060 7
+=
+
+ 
+
+ 
+
+Bound .
+{molecules/cell)x10'
+L 1 L ——_— 1
+
+0 0.2 0.4 0.6 0.8 1.0 1.2 1.4
+Ligand Added (nM)
+
+Fig. § Concentration dependence of '¥J-Lp(a) (Panel A) and !"5{-plasmino-
+gen (Panel B) binding to cells. '5f-Lp(a) or '°I-plasminogen, were added
+to U937 cells (8 X L0/ml) at the indicated concentrations and incubated for
+120 min at 37° C. For both ligands, the binding isotherms were constructed in
+the presence of 250 nM LDL. For !**1-Lp(a), specific binding was calculated by
+subtracting counts bound in the presence of LDL + 0.2 M EACA. For
+2ST_plasminogen, specific binding was calculated by subtracting counts bound
+in the presence of 0.2 M EACA. Scatchard analyses of the data are shown in the
+insets
+
+sive; ie., the binding was reversible. Corroboration of this conclusion
+was obtained in analyses in which 0.2 M EACA was added to cells
+either simultaneously with '*5I-Lp(a) or 150 min after addition of the
+radiolabeled ligand. After an additional 150 min incubation, binding
+was measured in the two sets of samples. The level of 5I-Lp(a)
+binding in these samples was similar (37% when EACA was added
+simultaneously with the '"51-Lp(a) and 47% when the EACA was added
+after 150 min), indicating complete dissociation of bound Lp(a) from
+its plasminogen shared (EACA-inhibitable) binding sites.
+
+With the demonstration that the binding of Lp(a) to the cells was sa-
+turable, specific and reversible, we sought to determine the equilibrium
+binding parameters of Lp(a) for the cells. Increasing concentrations of
+'25]-Lp{a) were added to the cells in the presence of a high concentra-
+tion of unlabeled LDL (250 nM} to restrict its interaction to plasmino-
+gen receptors. Nonspecific binding was determined as counts bound in
+the presence of 0.2 M EACA + LDL. Plasminogen binding isotherms
+were constructed in parallel. Representative binding isotherms for
+Lp(a) and plasminogen are shown in Fig 5. Because of solubility limi-
+tations, high concentrations of Lp(a) could not be added. Nevertheless,
+the binding isotherm for Lp(a), as well as for plasminogen, provided
+evidence of approaching saturation. Scatchard plots of these data are
+shown as insets in Fig.5. The data points for both Lp(a) and plasmino-
+gen could be fit to a straight line, suggesting that a single affinity class
+of binding sites could mediate the interaction of each ligand, The values
+of Kd and B,,,, (number of binding sites) extrapolated from these cur-
+ves for Lp(a) and plasminogen, respectively, were: K,= 1.0 and 1.1 pM
+
+462
+
+Table 3 Binding parameters of Lp(a) and plasminogen for U 937 cells
+
+ 
+
+ 
+
+Parameter Lp(a) Plasminogen
+Ky (uM) 2.2422 34415
+Bag (sites X 10%cell) 1340.6 14.0464
+
+ 
+
+Values are derived from Scatchard plots of binding isotherms such as shown in ,
+Fig. 5 and are the means + S. E. of 3~4 experiments.
+
+Fable 4 Gangliosides and related molecules as inhibitors of Lp(a) and LDL
+binding to U 937 cells
+
+ 
+
+ 
+
+Compound Lp(a} Binding LDL. Binding
+% Inhibition % Inhibition
+None 0 0
+Gangliosides
+Gp, 86 78
+Gyn 3 70
+Gop » 81
+Gy 43 45
+Ganglioside components
+Galactose 6 0
+N-acetyl-D-galactosamine 0 0
+N-acetylneuraminic acid Q 0
+ceramides 0 27
+glucocerebrosides 0 0
+
+ 
+
+Gangliosides, sugars and ceramide were at 500 wM and glucocerebrosides
+were at | mg/ml, Radiolabeled ligands at 10 nM were incubated with U 937
+cells (4 X 10°ml) for 150 min at 37° C. % Inhibition refers to total binding.
+
+and 3.7 and 52 % 10° sites/cell. Thus, Lp(a) and plasminogen interacted
+with their shared sites with similar affinity but Lp(a} bound to 14-fold
+fewer sites. The binding parameters derived from several such experi-
+ments are summarized in Table 3. The Ky values for Lp(a) (2.2 uM}
+and plasminogen (2.1 .M) were similar, and the notable difference in
+the B,,.. for Lp(a) and for plasminogen- Lp(a) bound to ~10-fold fewer
+sites in the presence of LDL than plasminogen- was consistently
+observed. This difference was substantiated throughout the course af
+these studies: in 10 experiments at a 10 nM input concentration of
+either '25]-Lp(a) or 'I-plasminogen, 2.3 + 0.8 X 10 and 3.4 + 1.5 X
+10° molecules were bound/cell, respectively.
+
+Nature of the Lp(a) Binding Sites on Cells
+
+Gangliosides and cell-surface proteins with carboxy-terminal lysyl
+residues have heen implicated as plasminogen binding sites on cells
+(50, 51). We assessed the influence of gangliosides known to inhibit
+plasminogen binding on 'J-Lp(a) binding to the cells. Individual
+gangliosides (Gpjq, Gey, Gyj, and Gyy) were effective inhibitors of
+"°51-Lp(a) binding to U937 cells, producing >79% inhibition at
+500 .M, whereas constituents of the gangliosides (galactose, N-acetyl-
+D-galactosamine, N-acetylneuraminic acid, ceramides and glucocere-
+brosides) were non-inhibitory (Table 4). These results are similar to
+those which we reported previously for the effects of these molecules
+on plasminogen binding to cells (50). We verified that he ganglioside
+preparations did not cause a general perturbation of the cell membrane
+by demonstrating that they did not affect the binding of a radiolabeled
+monoclonal antibody (W6/32) to the U937 cells (50). As the inhibition
+of Lp(a) binding by the gangliosides exceeded 80% in some cases (see
+
+ 
+
+~ 40005203

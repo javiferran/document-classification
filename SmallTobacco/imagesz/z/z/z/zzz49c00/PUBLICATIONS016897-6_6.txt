@@ -1,0 +1,121 @@
+276
+
+[17,18]. These properties and the demonstrated
+requirement of Mg?’ for maximal enzyme activity
+in excess of that required for Mg2*- ATP complex
+formation indicate that the enzymes from these
+cell lines are similar to those of the erythrocyte or
+kidney [16,17]. The kinetic properties of the trans-
+formed cell extracts (maximal velocity. K,, for
+methionine, Mg?* optimum. product inhibition by
+S-adenosylmethionine) are not detectably different
+from extracts of normal fibroblasts and of re-
+vertants of the wansformed cells which grow either
+on methionine or homocysteine media.
+
+Regulation of mtracellular methionine and S-adeno-
+sylmethionine levels in transformed and normal cell
+dines
+
+IntraceNular methionine levels have been mea-
+sured in HeLa cells grown under similar condi-
+tions to those used in this study. When the
+methionine concentration in the medium was 100
+uM, the intracellular pool was estimated to be
+500-1500 »M [19). These values are at least 40-
+times higher than the measured K,, values for
+methionine for S-adenosylmethionine synthetase
+in all cell types measured here (Table IID. Thus,
+the synthetase is probably physiologically saturated
+with methionine in cells grown on Met* Hey
+medium. On the other hand, the rate of S-adeno-
+sylmethionine formation may be limited by the
+free methionine concentration in cells cultured in
+the Met” Hcy* medium. This effect may be espe-
+cially pronounced in methionine-dependent cells
+where the level of free metthonine is about 20-times
+lower than that found in methionine-independent
+cells when both cell types are in Met” Hey’
+medium (7). The lowered S-adenosylmethionine
+level of methionine-dependent cells in Met Hey*
+mecium [4] is thus likely to result from a smaller
+pool of methionine and not from any molecular
+defect in the S-adenosyimethionine synthetase in
+these cells. It is not clear why free methionine
+pools are reduced in transformed ceils grown un-
+der these conditions [7].
+
+Methtonme-dependence or homocysteme toxicity?
+Because ‘methionine-dependen’ cells are de-
+fined by their inability to grow in Met” Hey*
+medium, it is possible that their growth inhibiuion
+may be at least partially an effect of homocysteine
+
+PUBLICATIONS
+
+itself, perhaps as a result of overproduction of
+S-adenosylhomocysteine [4,7], a potent inhibitor
+of S-adenosylmethionine-dependent methylcrans-
+ferases [6]. This idea is supported by the faci that
+5’-methylthioadenosine. but not homocysieine, can
+replace methionine for the growth of the methio-
+nine-dependent human monocytic leukemia J112
+cells [20,21]. lt should be noted, however, that
+methionine-dependent W-256 rat cells can grow in
+homocysteine medium (100 »M) when supple-
+mented with only 1 2M methionine, a concentra-
+tion insufficient in itself to allow normal growih
+(3). In the later case, it would be necessary to
+Propose that methionine would exert a sparing
+effect on the homocysteine toxicity, possibly by
+allowing an increase in the level of S-adenosyl-
+methionine.
+
+Acknowledgements
+
+This work was supported by grants from the
+National Institutes of Health (GM.-26020) and the
+Amencan Heart Association (with funds contnb-
+uted in part by the Greater Los Angeles Affiliate)
+(to S.C.) and by grants from the National In-
+stitutes of Health (CA-27564) and the Council for
+Tobacco Research USA (1348, 1496) (to R.M. H.).
+J.O, M. was supported by a training grant from
+the National Institutes of Health {AM-07318), and
+R.M. H. was the recipient of a Research Career
+Development Award from the National Cancer
+Institute (CA-00804). This work was also sup-
+ported by the George A. Jacobs Memorial Fund
+for Cancer Research.
+
+References
+
+Mester. A. (1965) Bhochermsiry of the Amino Acids, Ind
+
+Ed., Vol 1. pp 202-209. Academuc Press. New York
+
+2 Hoffman, R.M. (1982) In Viiro 18, 421-423
+
+Hoffman, R.M. and Erbe. R.W. (1976) Proc Natl. Acad
+
+Sa. U.S A 73, 1523. 1$27
+
+4 Coalson. D.W., Mecham. J.0.. Siem, PH and Hoffman,
+RM. (1982) Proc. Nau. Acad. So. U.S.A 79, 4248-4251
+
+3 Caniom. GL. (1977) m The Biochemusiry of Adenosyl-
+metluonine (Salvatore, F.. Borek. E.. Zappia, V.. Williams-
+Ashinan, H.G and Schlenk, F.. Eds.) pp. 557-577, Col-
+umbia University Press. New York
+
+6 Canton, GL. and Chuang, P.K. (1980) mn Nawral Sulfur
+
+Compounds (Cavalhm. D. Gail, GE. and Zappia, ¥V.,
+
+eds), pp 67-80. Plenum Press, New York.
+
+w
+
+10335941
+
+016903

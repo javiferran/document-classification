@@ -1,0 +1,62 @@
+Infrared Physics, 1961, Vol. 1, pp. 187-196. Pergamon Press Ltd., Printed in Great Britain.
+
+LONG-PATH INFRARED SPECTROSCOPY FOR AIR
+POLLUTION RESEARCH
+
+E. R. STEPHENS*
+
+Franklin Institute Laboratories, Philadelphia, Pennsylvania
+
+ 
+
+(Received 30 September 1960)
+
+Abstract—Two long-path absorption cells have been designed and built for the measurement
+of gaseous contaminants in the atmosphere and for the laboratory study of reactions occurring
+in such atmospheres. These instruments are based on the White multiple-reflection system,
+having two large mirrors of 3 m radius of curvature at one end of the cell and a smaller mirror
+of the same radius at the other end.
+
+To avoid excessive losses of radiant energy, the image of the infrared source is magnified and
+demagnified to match the cell to the spectrometer. Optimum path for maximum absorption
+signal is reached when reflection losses reduce the energy to i/e of its initial value. This cor-
+responds to a path length of 120 m with the present cells although they have been successfully
+used at paths several times this length. It is possible to detect and identify many contaminants
+of importance in air pollution at concentrations of a few tenths of a part per million. The
+absorptions of water vapor and carbon dioxide make some regions of the spectrum opaque,
+but this interference is not serious over most of the spectrum.
+
+The first of these cells was used for laboratory studies in Philadelphia and the second was
+mounted in a laboratory trailer and taken to southern California where it has been in use
+since 1956 for the study of the atmosphere and related problems.
+
+     
+
+C ONE of the most serious problems encountered in air pollution research is that of obtaining
+adequate analytical methods. Often one must try to analyze a complex mixture whose
+composition can only be guessed and in which the components of interest are present in
+very minute amounts. Chemical methods applied to such a problem suffer from the short-
+coming that serious interferences may be caused by components whose presence is not only
+unknown but unsuspected. An example of this is the potassium iodide method used to
+measure “oxidant” in the Los Angeles atmosphere. Although most of the so-called “oxi-
+dant” is believed to be ozone, the question of how much of it might be other oxidizing
+agents is still unresolved.
+
+To meet the need for more specific analytical methods for the many substances of interest
+in air pollution. the Franklin Institute Laboratories have been developing the technique of
+long-path infrared absorption spectroscopy.
+
+The primary interest in this work, which is sponsored by the Smoke and Fumes Com-
+mittee of the American Petroleum Institute, has always been the chemistry of air pollution
+rather than optics, spectroscopy, or analytical methods per se. For this reason, previous
+publications") have emphasized the results of reaction studies and described only
+superficially the instrumentation used. This paper is written in the belief that more details
+of the long-path infrared technique may be of interest.
+
+reseeyeots eee
+
+AOL RESETS Oat Caate REE,
+
+* Now with Scart Research Laboratories, P.O. Box 66, Perkasie, Pennsylvania.
+
+. 187-

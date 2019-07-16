@@ -1,0 +1,86 @@
+56. Faller, D.V., Wilson, L.D., and Flyer, D.C. Mechanism of induction of class | major histocompatibility antigen
+expression by murine leukemia virus. 1987. Molecular Biology of Tumor Progression. Vol. 78, pp. 61-74.
+
+64. Reynolds, D., Serrafin, W., Faller, D.V., Wall, D.A., Abbas, A.K., Dvorak, A.M., Austen, K.F. and Stevens, R: Ke:
+immortalization of murine connective tissue-type mast cells at multiple stages of their differentiation by coculture of
+splenocytes with fibroblasts that produce Kirsten sarcoma virus. 1988. J. Biol. Chem., 263:12783-12791.
+
+65. Koka, P., Yunis, J., Passarelli, A.L., Dubey, D.P., Faller, D.V., and Yunis, E.J.: Increased expression of cbD4
+molecules on Jurkat cells mediated by HIV fat protein. 1988. J. Virology, 62:4353-4357.
+
+62. Faller, D.V., Wilson, L.D., and Flyer, D.C.: | Mechanism of induction of class | Major Histocompatibility Antigen
+expression by murine leukemia virus. 1988, J. Cellular Biochemistry, 36:297-310.
+
+66. Zullo, J.N. and Faller, D.V.: p21 v-ras inhibits c-myc and c-fos induction by PDGF. 1988. M.C.B., 8:5080-5085.
+69. Hannan, R., Kourembanas, S., Flanders, K. Rogelj, S., Roberts, A., Faller, D.V., and Klagsbrun, M.: Endothelial
+cells synthesize basic fibroblast growth factor and transforming growth factor-B. 1989, Growth Factors, 1:7-17.
+
+73. Faller, D.V., Crimmins, M.A.V., and Mentzer, S.J.: HTLV-I infection of CD4- or CD8-expressing cytotoxic T cell
+clones results in immortalization with retention of antigen specificity. 1988, J. Virology, 62:2942-2950.
+
+75. Offermann, M. K. and Faller, D. V.: Autocrine induction of MHC class | gene expression results from induction of
+8 interferon in oncogene-transformed BALB/c-3T3 cells, 1989 Mol. Cell. Biol., 9:1969-1977.
+
+76. Kourembanas, S. and Faller, D. V.: Platelet-derived growth factor production by human umbilical vein endothelial
+cells is regulated by basic fibroblast growth factor. 1989, J. Biol. Chem., 264:4456-4459.
+
+83. Offermann, M.K. and Faller, D.V.: Effect of cellular density and viral oncogenes on the Major Histocompatibility
+Complex Class | antigen response to y-interferon in BALB-c/3T3 calls. 1990, Cancer Research, 50:601- 605.
+
+85. Kadison, P., Poteat, H.T., and Faller, D.V.: The role of protein kinase A in tax frans-activation of the Human T Cell
+Leukemia Virus Type 1 Long Terminal Repeat. 1990, J. Virology, 64:2141-2148.
+
+88. Mundschau, L. and Faller, D.V.: BALB/c-3T3 fibroblasts resistant to growth inhibition by interferon-B exhibit
+aberrant PDGF, EGF, and FGF signal transduction. 1991, Molecular and Cellular Biology, 11:3148-3154..
+
+89. Kourembanas, S., Hannan, R. and Faller, D.V.: Oxygen tension regulates the expression of platelet-derived growth
+factor-B chain gene in human endothelial cells. 1990, J. Clinical invest., 86:670-674.
+
+90. Rake, J., Quinones, M., and Faller, D.V.: Inhibition of PDGF-mediated signal transduction by transforming ras:
+suppression of receptor autophosphorylation. 1991, J. Biol. Chem, 266:5348-5352.
+
+94, Quinones, M.A., Mundschau, L., Rake, J. and Faller, D.V.: Dissociation of PDGF receptor autophosphorylation from
+other PDGF-mediated second messenger events. 1991, J. Biol. Chem., 266:14055-14060.
+
+98. Mundschau, L.J. and Faller, D.V.: Oncogenic ras Induces an Inhibitor of Double-stranded RNA-dependent
+Eukaryotic {nitiation Factor 20-kinase Activation. 1992, Journal of Biological Chemistry, 267:23092-23098.
+
+401. Lichtman, A.H., Lee, L. and Faller, D.V.: Activated ras genes in murine T cells results in the step-wise progression
+of growth factor autonomy. 1994, Am.J.Path, in press.
+
+106. Kourembanas, S., McQuillan, L.P., and Faller, D.V.: Nitric oxide regulates the expression of POGF-B and
+endothelin-1 by vascular endothelium under both normoxic and hypoxic conditions. 1993, J. Clin. Invest., 92:99-104.
+114. Mundschau, L.J., Forman, L.W., Weng, H., and Faller, D.V.: Platelet-derived growth factor (PDGF) induction of egr-
+1 is independent of PDGF receptor autophosphorylation on tyrosine. 1994. J. Biol. Chem. (in press)
+
+117. Faller, D.V., Mundschau, LJ., Forman, L.W., and Quifiones, M.A.: v-mos suppresses PDGF-receptor
+autophosphorylation and inhibits PDGF-mediated signal transduction. 1994, J. Biol. Chem., 269:5022-5029.
+
+418. Mundschau, L.J., van de Mark, K., and Faller, D.V.: f-interferon resistance in BALB/c-3T3 fibroblasts: Dissociation
+of anti-viral and anti-proliferative activities of B-interferon. 1994, Cancer Molecular Biology, 1:107-120.
+
+122. Choi, S-Y and Faller, D.V.: The long terminal repeats of a murine retrovirus encode a trans-activator for cellular
+genes. 1994, J. Biol. Chem, in press.
+
+423. Mundschau, L.J. and Faller, D.V.: Platelet-derived growth factor-BB (PDGF-BB) induction of certain immediate
+early genes is mediated through the dsRNA-activated 68 kDa serine/threonine kinase, PKR. (1994) submitted.
+
+126. Mundschau, L.J, and Faller, D.V.: Endogenous inhibitors of the dsRNA-activated kinase PKR in normal and ras-
+transformed cells. 1994, Biochimie, in press.
+
+129. Chen, C-¥ and Faller, D.V.: Regulation of programmed cell death by p2 tras, protein kinase C and bel-2. (1994),
+submitted for publication.
+
+130. Chen, C-Y, Forman, L.W., and Faller, D.V.: The caicium-dependent T cell receptor signaling pathway for induction
+of immediate Early genes is regulated by p21-Ha-ras. (1994), submitted for publication.
+
+132. Vaziri, C and Faller, D.V.: Repression of platelet-derived growth factor (PDGF) type-8 receptor expression by
+mitogenic growth factors and transforming oncogenes in murine 373 fibroblasts. (1994), submitted for publication.
+133, Zubiaur, M. and Faller, 0.V.: A small G protein associates with the platelet-derived growth factor (PDGF) type-B
+receptor upon ligand binding. (1994), submitted for publication.
+
+134. Zubiaur, M., Forman, L., and Faller, D.V.: A role for activated p21 ras in inhibition of platelet-derived growth factor
+(PDGF) receptor activation. (1994), submitted for publication.
+
+135. Choi, S-¥ and Faller, D.V.: A novel transcript from the Long Terminal Repeats of a murine retrovirus associated
+with trans-activation of cellular genes. 1994, submitted for publication.

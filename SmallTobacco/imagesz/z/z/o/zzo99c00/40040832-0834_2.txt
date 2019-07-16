@@ -1,0 +1,70 @@
+1. To identify the Fe binding epitope by deletion analysis and site directed
+mutagenesis of our S cDNA clone and expression of modified S using vaccinia virus vector.
+
+2. To prepare synthetic peptides selected from the deduced amino acid sequence of the
+FcR CDNA that we have found to be partially homologous to S. To examine if these synthetic
+peptides inhibit the Fc binding ability of S. To raise antibodies to these peptides and
+determine the ability of these antibodies to bind 5.
+
+3. To examine proteolytic $1 and $2 fragments of $ for Fe binding ability.
+
+4. To determine whether MHV-S protein participates in antibody bipolar bridging via
+its Fe binding epitope.This term refers to binding of a single IgG molecule through its Fab
+portion to an antigenic epitope and through its Fe portion to an FcR-like epitope (24).
+
+5. To determine whether nonimmune rabbit or rat IgG protect MHV-infected cells from
+complement-mediated lysis or from ADCC.
+
+It would have been of interest to identify FcR-like negative mutants and compare their
+ability to induce demyelinating disease to that of wt of MHV. However, our results suggested
+that such mutants could not be selected using 2.4G2 anti-FcyR mab (see Appendix), suggesting
+that the sequences involved in Fe binding are essential for infectivity. This is also
+supported by our findings that the Fe binding activity of $ is conserved amongst several
+strains of MHV and MHV-JHM mutants that we have examined (see Appendix). Deletion analysis
+of our S cDNA clone will permit the identification of the Fe binding site and the modifica-
+tion of the molecule so that the Fe binding site is abolished. However, the lack of infecti-
+ous MHV plasmids precludes, at the present, the use of such modified S in vivo studies.
+As soon as such infectious MHV plasmids become available we will pursue these experiments.
+
+Significance. The molecular mimicry that we observed (4,5) between S viral antigen and
+FeyR may have important biological implications. Binding of polyclonal IgG to the FcR site
+of S may inhibit by steric hindrance the binding of specific anti-S antibody to S$ antigen.
+This will permit virus-infected cells to avoid destruction by immunological mechanisms such
+as ADCC or complement-mediated lysis. A different mechanism, achieving the same purpose,
+is antibody bipotar bridging, and has been described for Herpes virus (24).
+
+It has been established that MHV-JHM (a neurotropic virus) is an excellent model for
+Multiple Sclerosis. The studies we proposed here will investigate a novel molecular mimicry
+that we have identified (4,5) between FeyR and MHV S peplomer protein. This molecular
+mimicry may result in escaping of the virus-infected cells from destruction by immunological
+mechanisms. Identification of the role of this molecular mimicry will significantly improve
+our understanding of the disease and may lead to the development of new molecular approaches
+for the treatment of multiple sclerosis.
+
+References. 1.Cur.Tap.Microbiol . Immunol .130:25,1986.2.Science229: 292, 1985.3.Science230:
+1043, 1985.4. Virology, 176:70,1990.5.Adv.Exp.Biol.Med., in press .6.Comprehen. Virol .14:193, 1979,
+7.Acta Neurol .Pathol .24:76,1973.8.Science 195:693,1977. 9.Nature 305:150, 1983.10. Virology
+132:261,1984.11.Virology 168:162,1989.12.J. Immunol .136:3052, 1986.13.0.Virel .62:2505, 1988.14.
+J. Immunol .136:1454, 1986.15.0.Gen.Virol.70:1465,1989.16.J. Immunol .136:1548,1986.17.d.Virol .63
+33051, 1989. 18.).Gen. Virol .53:145, 1981.19. Virology115:334, 1981.20. Virology] 19:358, 1982.21.J.
+Virol. 64:3817,1990. 22.Nature 202: 1364,1964. 23. Int .Archs.Aller.App]. Immunol. 33:151, 1968,
+24.J.Virol .63:4479, 1989.25. Ann Rev. Immunol .6:381, 1988.26. Int .Arch.Aller Appl. Immuno} .41:689,
+1971.27.3.Exp.Med.140:779,1974.28.J.Exp.Med.150:580, 1979.29... Immunol. 108:558, 1972.
+
+COLLABORATIVE AGREEMENTS. Dr. J. Leibowitz, Associate Professor, Dept. Pathology & Lab.
+Medicine, UTHSC, Medical School at Houston will assist with deletion analysis of MHV S cDNA
+clones. Dr. C. Platsoucas, Professor, Dept. Immunology, M.0. Anderson Cancer Center, will
+collaborate in the ADCC and complement-mediated neutralization experiments.
+
+DURATION OF PROPOSAL AND ESTIMATED COST. The work proposed will require three years
+$465,880.
+
+of support. The estimatedydirect costs of doing this work are
+
+annval, ¥ 60, 000.
+
+ 
+
+ 
+
+40040834

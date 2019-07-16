@@ -1,0 +1,160 @@
+714 Medical Sciences: Miller ef ai.
+
+Table 1. Calcium mobilization after stimulation through sig
+receptors on WT and LMP? mutant EBV-derived LCLs
+
+ 
+
+Cell % cells % change slg level
+
+line* respondingt in calcium? and isotype’
+WTi4 25 28 44
+WT1S 25 47 39
+WI2 2 2 34 nw, 8
+WT3 34 42 93 pw, 8
+WT4 v7 26 3 yu, 6
+WTs 4 10 25 p, 6
+WT6 2 1 46 p, 8
+WT8 14 17 54,8
+WT10 4 7 36 p, 6
+WTiL 18 a” 63 p, 6
+WwTi3 24 40 73 we, 8
+WT 9 rR wy
+WIT7 35 €2 ay
+Wid 8 6 By
+WT12 19 31 SB y
+ES2 70 125 85 p, 8
+ES3 15 146 98 y, 8
+ES4 16 130 TT pb
+ESS 85 172 105 p, &
+ES6 78 176 79 w, 6
+ES8 80 159 200 2, 6
+ES10 79 179 87 w, 8
+ES11 79 205 111 p, 6
+ES1 74 116 66 y
+ES9 81 208 a ¥
+ES? 73 135 112 @
+19S1 71 143 159 p, 8
+1982 73 433 145 p, 6
+1983 69 131 138 p, &
+1984 72 134 182 n, &
+1955 83 267 93 p,
+1986 72 122 148 wp, &
+26087 65 135 79 us,
+26088 61 113 316 p, 8
+26089 56 106 288 yu, 6
+260810 69 200 251 p, 8
+26081 41 57 60 ¥
+26083 44 66 123 y
+26085 38 74 66 y
+26086 37 70 69
+26052 76 104 282 a
+26084 82 222 156 a
+
+*WT 1 to 6, WT B95-8 strain transformed LCL controls for the ES1
+to -11 LCLs (Fig. 1); WT7 to -11, P3HR1 strain transformed LCL
+controls for the 26081 to -10 LCLs (Fig. 1); WT12 to-15, WT P3HR1
+control LCLs for the 19S1 to -6 LCLs (Fig. 1).
+
+tPercentage of cells responding to anti-immunoglobulin treatment as
+monitored by flow cytometry of indo-1-loaded cells was determined
+as described (25).
+
+Percentage of change in intracellular calcium level was determined
+by comparing mean fluorescence of ceils before and after antibody
+treatment (25).
+
+§slg levels were determined by direct immunofluorescence staining
+of live cells with goat anti-human immunoglobulin antibody (25).
+Average mean fluorescence of 5000 cells is indicated. Immuno-
+globulin isotype was determined by staining as described above
+with isotype-specific antibodies for IgM, IgD, IgG, IgA, and IgE,
+and the isotype is indicated by the corresponding Greek letter,
+Average background mean fluorescence of LCLs processed for
+flow cytometry analysis in the absence of primary antibody was
+5.
+
+The observed differences in anti-immunoglobulin-mediated
+calcium mobilization was not dependent on the isotype or
+relative abundance of sig (Table 1). Most LCLs obtained after
+infection with WT or LMP2 mutant EBV recombinants were
+both Igy. and Igé positive. A few LCLs were Igy, Igy, or Iga
+
+Proe. Natl. Acad. Sci. USA 91 (1994)
+
+positive. All LCLs expressed immunoglobulin at levels sub-
+stantially above background (average mean fluorescence, 23—
+316 versus a background of 5), As previously observed when
+LMP2A was expressed in EBV-negative Burkitt lymphoma
+cells, WT infected LCLs tended to express lower levels of slg
+than LMP2 mutant recombinant-infected LCLs (Table 1) (25).
+However, even when matched for slg isotype and abundance,
+WT infected LCLs differed dramatically from LMP2 mutant
+recombinants in response to anti-immunoglobulin. For exam-
+ple, although WT13 and ES4 expressed both Igy: and Ig8 with
+similar abundance (average mean fluorescence 73 versus 77),
+only 24% of WT13 cells responded to anti-immunoglobulin
+treatment with only a 40% change in intracellular free calcium,
+whereas 76% of the ES4 cells responded with a 130% change
+in intracellular free calcium (Table 1).
+
+LMP2 Blacks Surface Immunoglobulin-Induced Activation
+of Lytic EBV Infection in WT LCLs. To determine whether
+LMP2A expression modulates tne immunoglobulin-mediated
+switch from latent to lytic infection, 17 WT and 16 ES
+recombinant EBV-infected LCLs were analyzed for sponta-
+neous and anti-immmunoglobulin-induced expression of Z, the
+BZLF1 immediate-early gene product, by immunoblotting.
+Six of 17 WT LCLs and 16/16 ES LCLs were nonpermissive
+for spontaneous Z expression, whereas 11/17 WT LCLs had
+a low level of spontaneous permissivity. After 48 hr of
+anti-immunoglobulin stimulation, only 4/17 WT LCLs
+showed any increase in Z protein levels after slg crosslinking.
+In sharp contrast, 14/16 ES LCLs had substantial increases
+in Z expression after anti-immunoglobulin treatment.
+
+Representative data are shown with five wild-type and five
+ES LMP? recombinant-infected LCLs, which were matched
+in having very little or no spontaneous permissivity for lytic
+EBY infection. The Akata cells were a positive control for a
+cell line that exhibits an increase in lytic EBY infection after
+slg crosslinking (22, 23). Akata cells were moderately per-
+missive for spontancous EBV replication and were substan-
+tially more permissive after anti-immunoglobulin crosslink-
+ing, as monitored by immunoblot with monoclonal antibody
+to the BZLF1 immediate-early gene product or with human
+antisera to EBV lytic cycle proteins, which include early
+replicative proteins (EA) (Fig. 3 Left). In contrast, the WT
+LCLs repeatedly yielded very little or no induction of Z or
+other replicative cycle EBV proteins after sIg crosslinking
+(Fig. 3 Left). In the experiment presented in Fig. 3, two WT
+EBV-infected LCLs, WT10 and WT6, had minimal sponta-
+neous Z expression and minimal Z induction upon anti-
+immunoglobulin treatment. In other experiments, the WT10
+and WT6 cell lines tad no spontaneous permissivity and no
+response to slg crosslinking. The five ES LCLs had no
+spontaneous Z or EA expression, whereas both Z and EA
+proteins were significantly induced after anti-immunoglobu-
+lin treatment (Fig. 3 Right).
+
+Immunofluores¢ence microscopy confirmed the absence
+of Z protein expression in the five ES cell lines before
+anti-immunogiobulin treatment, and in three of the five WT
+LCLs before and after anti-immunoglobulin treatment (data
+not shown). For the five ES LCLs, between 2% and 10% of
+the cells were brightly positive for Z protein after anti-
+immunoglobulin treatment. WT10 and WT6 were the only
+WT LCLs among the five WT EBV-infected controls for
+which, in some experiments, 0.5~1% of the cells were faintly
+positive for spontaneous Z protein expression, and 2-3% of
+the cells were faintly to moderately positive for Z staining
+after anti-immunoglobulin stimulation. Immunofluorescence
+for the gp110 late lytic cycle EBV protein was essentially
+negative in all WT 1.CLs that had been induced with anti-
+immunoglobulin, while induced ES LCLs were positive for
+gp110 expression in 2-6% of the cells.
+
+Pharmacological Activation of Protein Kinase C and In-
+crease in Intracellular Free Calcium Renders WT and LMP2-
+
+~~ 50691513

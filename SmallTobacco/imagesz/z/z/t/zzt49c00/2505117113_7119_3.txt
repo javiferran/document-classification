@@ -1,0 +1,63 @@
+CRC conTaact RESEARCH CENTER
+
+FORM NO, 103 6 CW94 KMP/BRW  [PERFORMIOLDIPUFFVOL] Form approved: lo Feb. 54 i
+
+DETERMINATION OF PUFF VOLUME PROJECT no.Ja] joo |
+
+Cigarette type : g Ut.606F Group code . :AQGR
+: Smoking machine no. : as" 4
+
+f: Factor of flowmeter _ 19.4 mh {mn
+
+        
+      
+    
+   
+ 
+
+ 
+      
+  
+
+Number of cigarettes - jo
+
+Pressure in smoking machine (mbar) 3.6
+
+   
+
+ 
+
+PUFF IALTITUDE RANGE | DIFFERENCE | TOTAL PUFF| MEAN REMARKS
+: VOLUME :
+
+cS (mi (a) (ml/puff)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OLLZLLSOS2
+
+Error codes:
+Acwriting, B : calculation, ¢ : mixing up,
+BD: reading, E : copy,
+
+F > other with exptanation
+WRONG
+WRONG | ooe >
+
+(a)C = (B-A)af * TNPUT

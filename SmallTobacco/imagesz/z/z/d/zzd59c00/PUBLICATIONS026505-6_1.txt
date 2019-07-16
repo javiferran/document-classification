@@ -1,0 +1,152 @@
+70
+
+guanylate cyclase, whereas sodium nitroprusside in-
+creases cyclic GMP by activating only the soluble form
+of guanylate cyclase.
+
+EXPERIMENTAL
+
+Materials
+
+Dulbecco's modified Eagle's medium (DMEM),
+Ham's F-12 medium, Hanks” balanced salt solution
+(HBSS), penicillin/streptomycin and glutamine were
+purchased from Grand Island Biological Co. lodo-gen
+and DSS were obtained from Pierce. Rat ANF-(101-126)
+was from Peninsuta Laboratories, Inc. Fetal calf serum
+was from Sterile “ystems Inc. Rat lung fibroblasts
+(A.T.C.C. CCL-192) were obtained from the American
+Type Cell Culture. Sep-Pak C,, cartridges wete from
+Millipore. All other reagents were obtained as previously
+described (Leitman er a/., 1985: Leitman & Murad,
+1986).
+
+Cell culture
+
+Rat lung fibroblasts were maintained and subcultured
+in Ham’s F-12 medium containing 10%, fetal calf serum,
+50 units of penicillin and 50 yg of streptomycin/m). and
+584 yg of glutamine/ml. The cells were grown with 5°,
+CO, in a humidified incubator maintained at 37°C.
+
+123]-ANF binding assay
+
+ANF was iodinated by adding 0.2 nmol of ANF to
+two microfuge tubes coated with lodo-gen (Salacinski
+et al., 1981). Then 1 mCi of Na'**] was added to each
+tube and the samples were incubated for 15 min at room
+temperature. Samples from both tubes were pooled and
+added to a Sep-Pak C,, cartridge to remove unbound
+radioactive iodide. The specific radioactivity, which
+ranged from 800 to 1300 Ci/mmol, was determined by
+self-displacement of unlabelled ANF in a binding assay
+using rat lung membranes.
+
+Lung fibroblasts were grown to confluence in.24-well
+plates. The cells were washed 2 times with I ml of
+serum-free DMEM containing !0 mm-Hepes, pH 7.3.
+The cells were incubated for 20 min at 37°C with
+various concentrations of ?*5]-ANF. The cells were then
+rapidly washed four times with tml of ice-cold HBSS
+containing 2? mg of bovine serum albumin/ml. The cells
+were solubilized with | ml of | M-NaOH and the amount
+of radioactivity was determined. Nonspecific binding was
+determined by the addition of | #mM-ANF to parallel
+
+shes.
+
+Cyclic GMP determination
+
+Confluent fibroblasts in 35mm culture dishes were
+washed twice with 2 ml of DMEM and then preincubated
+for lOmin at 37°C in 990 421 of DMEM containing
+10 mm-Hepes and 0.5 mv-isobutylmethylxanthine. ANF
+or sodium nitroprusside (10 zl) was added to the cells for
+various times. The medium was aspirated and then 750 jl
+of ice-cold 6°4 (w/v) trichloroacetic acid was added to
+the cells. The intracellular levels of cyclic GMP were
+measured by radioimmunoassay as previously descnbed
+(Leitman et ai., 1985; Leitman & Murad. 1986).
+
+Guanylate cyclase assay
+
+Confluent rat lung fibroblasts were washed and
+scraped off 150 mm culture dishes into ice-cold 50 mu-
+
+PUBLICATIONS
+
+10345738
+
+D.C. Leitman and others
+
+Tris/HCl, pH 7.4, containing 159 mM-NaC}l. The cells
+were centrifuged at 500 g for 5 min. The cell pellet was
+resuspended in O.5mi of 30 mm-Tris/HCl, pH 7.6,
+containing 1] mm-EDTA, 0.5 mm-phenyimethanesulphe-
+oy! fluoride and 0.01% bacitracin (buffer A) and then
+homogenized with a Polytron. The homogenate was
+centrifuged at 100000 g for | h at 4°C. The supernatant
+fraction was removed and assayed for soluble guanylate
+evclase activity. In order to remove soluble guanylate
+cyclase from the particulate fraction the pellet was
+resuspended and homogenized twice in | ml of buffer A
+containing 100 mm-KCl and centrifuged at 100000 g for
+lh. Finally, the pellet was homogenized in buffer A and
+centrifuged at 100000 g for Ih at 4 °C. The pellet was
+resuspended in 0.5 ml of 50 mm-Trnis/HCl, pH 7.6. and
+assayed for particulate guanylate cyclase activity.
+
+A 10x aliquot of either the particulate or soluble
+fraction was added to 100,y) of reaction mixture
+containing (finalconcentration) 50 mm-Tris/ HCI, pH 7.6,
+4mm-MgCl,, 1 mM-GTP, 1 mM-isobutyimethylxanthine,
+0.01%, bacitracin and a GYP-regenerating system
+comprising 15 mM-phosphocreatine and 20 yg of creatine
+kinase. After incubation for various times at 37 °C the
+reaction was terminated by the addition of 900 ,l of
+50 mm-sodium acetate, pH 4.0, and the samples were
+boiled for 3min. The samples were acetylated and
+amount of cyclic GMP formed was measuced by
+radioimmunoassay.
+
+Affinity cross-linking
+
+Confluent rat lung fibroblasts in 35 mm dishes were
+washed three times with 2m! of HBSS containing
+10 mm-Hepes, pH 7.3. The cells were incubated in 1 ml
+of HBSS containing 2nMm-'*5}-ANF for 1h at room
+temperature. Then 1 miof HBSS containing 0.4 mm-DSS
+(in dimethy! sulphoxide) was then added to the cells.
+After a 30 min incubation, the medium was aspirated,
+cells were washed with 2m! of HBSS, 400 zl of SDS
+sample buffer [62.5 mm-Tris/HCl. pH 68, 10% (v/v)
+glycerol and 2.3°% (w/v) SDS) was added to the cells and
+the plates were placed in boiling water for Jmin, The
+samples were divided into two portions and 2-
+mercaptoethanol (5%, v/v) was added to one portian.
+The samples were boiled and then subjected to
+SDS/PAGE on a 7.5%; separating gel (Laemmli, 1970).
+After electrophoresis, the gels were dried, stained for
+protein and then exposed to Dupont Cronex X-ray film
+at ~ 70°C.
+
+RESULTS
+
+ANF binding characteristics to rat lung fibrobfasts
+
+Fig. I(a) shows the time course of '*5|-ANF binding to
+tat lung fibroblast cells at 37 °C. Binding of ANF was
+rapid and the maximal binding was reached at 20-30 min.
+Thereafter, the binding remained relatively constant until
+40 min and then it began to decline. After 60 min the
+specific binding was approx. one-half of the binding that
+occurred at 30 min, suggesting that the fibroblasts were
+rapidly degrading ANF. The saturation curve shows that
+specific binding of ANF was saturable with increasing
+concentrations of ANF (Fig. 16). A Scatchard plot of the
+binding data was linear, suggesting that rat Jung
+fibroblasts contain a single class of ANF receptors (Fig.
+le). The equilibrium dissociation constant from four
+experiments was 0.66+0.077 nm and the 8, was
+
+026506

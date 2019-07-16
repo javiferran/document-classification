@@ -1,0 +1,138 @@
+Prac pedi Acad. Sci. USA
+Vov$8. pp. 8530-3533, October 1991
+Biochemistry
+
+Baculovirus-mediated expression of human apolipoprotein E in
+Manduca sexta larvae generates particles that bind to the low
+
+density lipoprotein receptor
+
+Daniet G. Gretcu*, STEPHEN L. SturLey*, Paut D. Friesent. Nancy E. Beckacet,
+
+AND ALAN D. Attre*$
+
+“Departments of Biochemistry and Comparative Biosciences, University of Wisconsin-Madison, Madison, WI 53706: ‘Institute of Molecular Virology and
+Department of Biochemistry, University of Wisconsin-Madisoa, Madison, W1 53706, and #Department of Entomology. University of California-Riverside,
+
+Riverside, CA 92521
+
+Communicated by Donald F. Steiner, July 1, 1991 (received for review March 18, 1991)
+
+ABSTRACT — Human apolipoprotein E (apoE) is a ligand
+for the low density lipoprotein (LDL) receptor and mediates the
+catabolism of several classes of lipoprotein particles, Binding of
+apoE to the LDL receptor requires association of apoE, with
+lipid in a vesicle or a lipoprotein particle. Because of this
+requirement, purified apoE or apoE derived directly from
+bacterial expression systems does not bind to the LDL receptor.
+To overcome this problem and to facilitate analysis of apoE
+structure, recombinant baculoviruses containing the human
+apoE cDNA fused to the polyhedrin promoter of Autographa
+californica nuclear polyhedrosis virus were constructed, The
+recombinant viruses were used to infect larvae of the tobacco
+horaworm Manduca sexta in vivo. High levels of lipoprotein
+particles containing human apoE were present in the he-
+molymph of infected larvae. In contrast to apoE produced by
+recombinant baculovirus-infected insect cells in vitro, these
+particles were excellent ligands for the LDL receptor.
+
+ 
+
+Human apolipoprotein E (apoE) is one of two known ligands
+for the low density lipoprotein (LDL) receptor (1). It provides
+the specificity required for the receptor-mediated clearance
+of certain classes of lipoproteins. Genetic variation at the
+apoE locus that results in defective receptor binding is
+associated with hyperlipoproteinemia and accelerated coro-
+nary heart disease (1).
+
+Although apoE is water-soluble when stripped from its
+lipid milieu, binding of apoE to the LDL receptor requires
+association of apoE with lipid in a vesicle or a lipoprotein
+particle (2). Thus, previous studies relating the structure of
+apoE to its function have relied upon denaturation followed
+by in vitro reconstitution of apoE with lipid (3). An alternative
+approach to the production of biologically active apoE would
+be to express this protein in a system that facilitates lipid
+association in vivo.
+
+In vertebrates, neutral lipids are transported in association
+with lipoprotein particles. This process is conserved in in-
+sects, such as the tobacco hornworm Manduca sexta (4, 5).
+Insect lipoproteins, like their mammalian counterparts, have
+a core of nonpolar neutral lipids surrounded by a monolayer
+of amphiphilic lipids (6). The insect apolipoprotein, apoli-
+pophorin III, has an amphipathic a-helical secondary struc-
+ture (7), a motif suggested to play a role in the lipid binding
+of mammalian apolipoproteins such as apoE (8).
+
+In insect larvae, the fat body is the site of synthesis of
+hemolymph lipoproteins (9) and is also a target of infection by
+baculoviruses (10). Therefore, we hypothesized that this in
+vivo system could be exploited to produce recombinant
+lipoprotein particles containing the products of heterologous
+
+ 
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked “advertisement”
+in accordance with 18 U.S.C. $1734 solely to indicate this fact.
+
+Oran
+
+apolipoprotein genes. Such recombinant lipoproteins might
+have similar biological properties to native mammalian lipo-
+proteins. In the present study, recombinant baculoviruses
+possessing a human apoE cDNA in place of the polyhedrin
+gene were constructed. After infection of M. sexta larvae,
+high concentrations of human apoE were secreted into the
+hemolymph in a lipid-associated and biologically active form.
+
+MATERIALS AND METHODS
+
+Production of Recombinant Baculoviruses. A 1.2-kilobase-
+pair (kbp) EcoRI~HindIIl fragment encoding the apoE-3
+cDNA from plasmid pHES3 (11) was tailed with BamHI
+linkers (Promega) and cloned into the BamHI site of pAcYM1
+(12), yielding pAcE3. An Aart II-Hinfl 1.1-kbp fragment
+corresponding to the apoE-3V cDNA from pHAE813 (13)
+was ligated into the Sma I site of pBluescript M13+ (Strat-
+agene), An 8-bp BamHI linker (Promega) was then inserted
+at the EcoRV site of this plasmid to produce p52-Bam. The
+1.1-kbp BamHI] fragnent from p52-Bam was ligated into the
+BamHI site of pAcYM1, yielding pAcE3V. The resulting
+plasmids were cotransfected with the wild-type baculovirus
+genome [Autographa californica nuclear polyhedrosis virus
+(AcNPV)] into Spodoptera frugiperda Sf-21 cells. Recombi-
+nant viruses encoding apoE-3 and apoE-3V (AcNPV-E3 and
+AcNPV-E3V, respectively) were selected, plaque-purified,
+and titered as described (14, 15).
+
+Infection of Cultured Insect Cells and Insect Larvae, Viruses
+were used to infect 4 x 10° Sf-21 cells per dish ata multiplicity
+of infection of 10. SF-900 (GIBCO) medium (2 ml) was
+harvested from infected cells 42 hr after infection. Fourth-
+instar larvae (day 2; average mass, 0.5 g; reared as described
+(16)] were injected with 1 x 10° plaque-forming units (pfu) of
+recombinant virus and administered a booster with 5 x 10°
+pfu the following day. Hemolymph was collected 6 days after
+infection and diluted 1:2 (vol/vol) with phosphate-buffered
+saline (PBS; 150 mM NaCi/2.8 mM KCI/1.5 mM KH,
+PO,/6.5 mM Na2HPO,, pH 7.4) containing § mM glutathione,
+0.002% phenylmethylsuifonyl fluoride, and 0.3 mg of benz-
+amidine per ml (PBSI). Media and hemolymph samples were
+subjected to sodium dodecyl sulfate /10% polyacrylamide gel
+electrophoresis (SDS/PAGE) (17). Immunoblotting (18) was
+performed with anti-human apoE monoclonal antibodies 1E
+and 13E (19) and alkaline phosphatase-conjugated goat anti-
+rabbit IgG (Sigma).
+
+ 
+
+Abbreviations: apoE. apolipoprotein E: LDL. low density tipopro-
+tein; ACNPY, Autographa californica nuclear polyhedrosis virus;
+Myr.-PtdCho, dimynistoy! phosphatidylcholine.
+
+§To whom reprint requests should be addressed at: Deparment of
+Biochemistry, University of Wisconsin-Madison. 420 Henry Mail,
+Madison, WI 53706.

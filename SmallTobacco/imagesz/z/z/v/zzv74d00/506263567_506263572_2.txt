@@ -1,0 +1,62 @@
+Results of the Factor Analysis and Acceptance Model
+
+In order to understand the underlying relationship between the
+attributes and between the attributes and overall acceptance, factor
+and regression analyses were performed with all subjects for all
+intervals.
+
+The resulting factors were:
+
+Overall] Intensity - Flavor Intensity, Odor Pleasantness,
+Impact, and Strength.
+
+Smoking Behavior - Ease of Lighting, Draw, Frequency of
+Puffing. Length of Smoking, Number of Cigarettes Smoked,
+and Ease of Use.
+
+aa a ee a NECTAR
+
+Smoking Quality - Consistency and Aftertaste.
+
+Other Heat Effects - Awareness of Odor and Temperature
+of the Rod.
+
+Novelty - Flavor Uniqueness and Awareness of the
+End of Smoking.
+
+A regression model was developed to predict overall acceptance. The
+factors that were included and their order of importance in the model
+were Overall Intensity, Smoking Behavior, and Other Heat Effects,
+
+The model can be interpreted as follows:
+
+Overall Intensity - Acceptance decreases as the product is perceived
+to have less flavor, less impact and strength, and a less pleasant
+odor.
+
+Smoking Behavior - Acceptance decreases as the product is perceived to
+be more difficult to light and draw, lasts a short amount of time,
+sives fewer puffs and less of them are smoked.
+
+Other Heat Effects - Acceptance decreases as the odor and the
+temperature of the rod is more noticeable.
+
+Comments for All Subjects
+
+It is difficult to form conclusions from comments since subjects were
+not required to provide comments. In general the comments paralelled
+the results of the quantitative data with one exception. The subjects
+were not asked to respond to any attribute that related to how they
+“felt" while smoking the product. However ,out of the 63 times comments
+were recorded, 16 of the comments included a reference to feeling
+better while smoking. Many subjects did not add comments to their
+
+mn
+oO
+a
+nN
+oa
+w
+mn
+oa
+so

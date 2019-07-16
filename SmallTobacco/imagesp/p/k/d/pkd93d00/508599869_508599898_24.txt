@@ -1,0 +1,31 @@
+Distribution of 14C—Nicotine in Cigarettes
+
+' Cigarette Sections
+
+T10
+T9
+
+_ Table 18
+
+3535.3
+3717.1
+3714.2
+3447.5
+4074.9
+5759.9
+5597.2
+1713.2
+1360.4
+1091.3
+0.0
+0.0
+
+Fi F2 TiT2 131413 16 17 18 Te T10
+
+14C—Nicotine Activity
+
+t
+[
+1
+
+£686 6980S

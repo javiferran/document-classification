@@ -1,0 +1,34 @@
+(NBIFO Institut fiir biologische Forschung GmbH - Kéin PRIORITY
+
+Report P 0500/3237 97/10/8 Page 3
+
+The Salmonella typhimurium strains TA98, TA100, TA1535, and TA1537 were used to detect
+mutagens which induce frameshift mutation and base-pair substitution. These strains,
+developed by Dr. Bruce N. Ames, Department of Biochemistry, University of California,
+
+Berkeley (U.S.A.), were received either from his laboratory (TA98, TA100) or from GSF ?
+(TA1535, TA1537).
+
+The tester strains are histidine auxotrophic mutants (TA98: hisD3052, TA100 and TA1535:
+hisG46, TA1537: hisC3076) derived from Salmonella typhimurium LT2. Mutation events are
+detectable in the tester strain bacteria by their reversion from histidine auxotrophy to
+prototrophy, which enables growth on histidine-deficient minimal glucose agar plates.
+
+The sensitivity of the tester strains to mutagenic compounds is enhanced by additional
+mutations such as the rfa wall mutation (resulting in an increase of permeability to large
+molecules) and a deletion in the uvrB gene (resulting in a deficient DNA excision repair
+system). In addition, TA98 and TA100 contain the plasmid pKM101 with the R-factor (resulting
+in an enhancement of an error-prone DNA repair system).
+
+The bacteria were maintained as stock cultures at -196 °C with 0.09 ml DMSO/mI culture. They
+were prepared from overnight cultures inoculated with the first cultivation of the master copies
+originally received (only TA98 and TA100),
+
+Approximately 10 pl of the thawed stock culture was used as inoculum for a fresh overnight
+culture. The tester strain bacteria were cultivated in 30 ml nutrient broth at 36 + 1 °C ina
+shaking incubator at 200 rpm (circular orbit: 19 mm) for approximately 11 h before harvest. The
+bacteria grew to a late logarithmic/early stationary growth phase.
+
+*  Geselischaft fir Strahlen- und Umweltforschung mbH, Neuherberg, F.R.G.
+
+G99LELP90e

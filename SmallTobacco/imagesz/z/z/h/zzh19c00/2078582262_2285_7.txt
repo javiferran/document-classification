@@ -1,0 +1,35 @@
+Results and Discussion
+
+As described in the experimental section, the infrared spectra and the temperature
+measurements are performed simultaneously. As the gaseous compounds are generated during
+the heating process, they are continuously flushed through the infrared cell and measured every
+80 milliseconds. Formaldehyde, CO, CO2, and hydroxyacetaldehyde monitored in this study
+have shown to have linear absorption-concentration relationships, by choosing the appropriate
+sample weight and flow rate. The gas evolution profile for cach molecule was constructed from
+the infrared absorption and time or temperature. From the gas evolution profiles, information
+such as the starting formation temperature, the completion temperature, the maximum formation
+temperature, as well as the sequence of formation of products was obtained. Although the "true"
+sample temperature is rather difficult to determine under the dynamic condition of a fast heating
+rate, average valucs of scveral measurements was taken as representative of the temperature of
+the sample. Table 1 summarizes the temperature data, including the initial and final
+temperatures of the sample, the time constant of temperature risc, the maximum formation
+temperature, and integrated areas of the evolution profiles which are directly related to the
+amount of compounds formed at the different heating rates. Although for the purpose of this
+study only three compounds, formaldehyde, carbon monoxide, and carbon dioxide were listed in
+Table 1, more than ten compounds were monitored simultancously during the pyrolysis of
+cellulose. In this table, differences in compounds generated at different temperatures indicale
+different precursors and reaction routes, and different heating rate dependencies. Formaldehyde
+and carbon monoxide formation were observed to have a strong heating rate dependence,
+forming more at higher heating rate, whereas carbon dioxide formation had little change upon the
+heating rate. The carbon dioxide maximum formation temperatures are also lower than that of
+formaldehyde and carbon monoxide, as indicated in Table 1. Further information on reaction
+
+kinctics and mechanism can be derived from the data listed in Table 1, and will be discussed in
+
+separate paper [32, 33]. The following sections illustrate some of the results obtained for
+cellulose pyrolysis.
+Formaldehyde formation The absorbance of formaldchyde was determined at
+
+different heating rates to cxamine their cffect in cellulose pyrolysis. Figure 3 shows the
+
+2078582269

@@ -1,0 +1,53 @@
+RJR R&D Statistical Support InterOffice Memorandum
+
+SUBJECT: Visible Sidestream Smoke Measurement DATE: January 24, 1985
+
+ 
+
+TO: Joe Inman FROM: Michael J. Morton
+
+Brand R&D
+
+INTRODUCTION
+
+Sidestream smoke measurements were taken on 52 products: 11 prototype
+products, 16 ultra low tar products, and 25 top brands. The measurements
+were made by Becky Dunn and John Aldridge. The sidestream smoke measures
+reported were visible absorbance values. Each number reported is the
+average of 3 readings. Two different devices were used to make the
+sidestream smoke measures. Forty-five products were measured on one device
+and the remaining 7 were measured on the other. Some products, a monitor
+product and NOW 85, were smoked on both machines to assess differences in
+the two devices, and to monitor the machines’ performance.
+
+The primary goal of the study was to determine which of the ll prototype
+products give off less visible sidestream smoke than all of the 41 commer-
+cial products. Additionally, a comparison was made of the two measurement
+devices and the visible sidestream smoke values for all products in the
+study were compared.
+
+I will first deseribe the results of a comparison between the two measure-
+ment devices and then I will describe the comparison that was made among the
+52 products.
+
+DEVICE COMPARISON
+
+An analysis of variance on the two measurement devices showed an average
+difference of about .0178 visible absorbance units between the two machines.
+(The newer machine read about .0178 lower than the original machine.) That
+difference was not quite significant at the .05 level (it yielded a p-value
+of .060). So there is some indication of a difference between the two
+machines, but it is not statistically significant at the standard level.
+The difference was relatively constant for both types of cigarettes that
+were used to monitor the machines. The difference was .0185 units for the
+so-called Monitor product (whieh had an average absorbance of about +75) and
+-0170 units for NOW 85 (which had an average absorbance of about .54).
+
+In the next section, comparisons are made between the products, both assum-
+
+ing that the two devices are indistinguishable, and after adjusting for the
+estimated device difference. The conclusion about which prototypes are dis-
+tinguishable from the other products is not changed according to which as-
+sumption is made.
+
+8£04 STé6Qag

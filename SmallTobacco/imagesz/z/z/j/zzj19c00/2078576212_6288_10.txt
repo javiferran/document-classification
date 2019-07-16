@@ -1,0 +1,31 @@
+INBIFO Institut fir biologische Forschung GmbH - K6In
+Report P 0500/3284
+
+ 
+
+6 Statistics and Evaluations
+
+For the analytical data, the number of values, the arithmetic mean, and measure of variance
+
+were given as descriptive statistics.
+
+In the NRU assay, for each smoke fraction per individual batch as well as for acrolein, the
+
+following evaluations were performed:
+
+- calculation of mean background-corrected absorbance values at each test substance
+concentration relative to the mean background-corrected value of the corresponding
+solvent control as well as calculation of the standard error (SE);
+
+- calculation of the ECs value by nonlinear least squares fit (regression analysis) to the
+
+S-shaped logistic function on the basis of puffs/ml or mmol/l.
+For each smoke fraction, the mean of the reciprocal ECso values obtained from the 3 batches
+was calculated and expressed as mil/puff, ml/mg TPM, mli/mg tar, and mi/cig. The mean
+reciprocal ECsp values of the smoke fractions of the test cigarette smoked in different lighter
+
+groups were calculated relative to those of the 1R4F smoke fractions.
+
+For acrolein, the mean of the reciprocal ECs» values expressed as |/mmol was calculated.
+
+2078576222

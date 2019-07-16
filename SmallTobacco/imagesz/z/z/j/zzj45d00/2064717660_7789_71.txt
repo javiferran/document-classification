@@ -1,0 +1,60 @@
+INBIFO institut fir biologische Forschung GmbH - Kéin PRIORITY
+
+ 
+
+ 
+
+ 
+
+i
+| | Report P 0500/3237 S7MO/9 Page 66
+|
+i
+I
+1
+{oo STRAIN CIGARETTE A CIGARETTE B RELA- STAT.
+To TIVE SIGN.
+| Pel CODE REGRESSION CODE REGRESSION DIF-
+COEFFICIENT COEFFICIENT FER-
+' ENCE
+(rev./ (rev./
+cig.) cig.)
+TA98 ~—sIR4F 36356 VIRGQ-CA 957 “1.90 +H
+VIRGO-CC 994 1.890 fH
+ae TALOO 1R4F 21576 VIRGO-CA 827 “1.85 +++
+; VIRGO-CC 932 -1.83) ++
+TAI535 IR4F (a) 60 VIRGO-CA (a) 14 -1.23 +
+VIRGO-CC (a) 26 -0.79 =
+TA1537 1R4F 3384 VIRGO-CA 99 +1.89 +
+VIRGO-CC 118 -1.87 +H
+
+ 
+
+Table 47 STATISTICAL ANALYSIS OF THE MUTAGENICITY ON A PER CIGARETTE BASIS
+WITH S9 ACTIVATION, t-TEST
+
+ 
+
+Remarks: date of assay: 25-FEB-97 (strain TA98),
+26-FEB-97 (strain TA100),
+04-MAR-97 (strain TA1535),
+05-MAR-97 (strain TA1537)
+
+mutagenicity per cigarette calculated using specific mutagenicity
+and TPM yield values, mean of 4 batches;
+
+io. relative difference: difference between the mutagenicity of
+
+| cigarettes B and A divided by the mean of them:
+
+Po, statistics: t-test modified according to Welch;
+
+null hypothesis: both means are equal
+
+(a) negative response
+
+970924 14:23:11 P. 1 USER_DISK:[IT_A HITITCIG_3237.LIS;15
+
+ 
+
+FELZLZpgoz

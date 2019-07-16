@@ -1,0 +1,93 @@
+TNO-report
+
+B
+
+-92-0388 May 1992 page 16
+
+7.2 Nitrogen dioxide
+
+The nitrogen dioxide was supplied from a lecture bottle.
+
+The measurements are summarised in Table 3.
+
+Table 3. Efficiency measurements for nitrogen dioxide
+
+   
+
+   
+
+Air flow Air speed Water flow Inlet Outlet Effic.
+l/min m/s l/min conc. conc.
+ppb ppb
+
+ 
+ 
+
+  
+   
+
+          
+
+  
+
+Celanese G240/11
+vo 0.4
+
+   
+
+L.0
+14.4 1.0
+22.5 1 -0
+
+  
+   
+
+   
+      
+          
+      
+   
+
+    
+     
+      
+    
+   
+
+0 0.4
+14.4 0.6
+14.4 0.6
+22.5 1.0
+Celanese G240/25
+"oO OS 1.0 1620 190 88
+12.1 0.4 1.0 1490 785 47
+19.4 0.6 1.0 1470 930 37
+26.4 0.9 1.0 1500 = 1020 32
+12.1 0.4 1.0 177 4g 72
+12.1 0.4 1.0 190 ss TL
+12.1 0.4 1.0 198 60 70
+19.4 0.6 1.0 188 64 66
+19.4 0.6 1.0 201 68 66
+26.4 0.9 1.0 215 94 56
+28.0 0.95 1.0 198 73 63
+Enka MD 020 CP 2N
+Ry 1.0 144 44 69 aS
+18.6 3.0 1.0 144 57 60 On
+32.0 5.2 1.0 139 64 S4 &
+—
+9.3 1.5 1.0 1095 870 21 Q
+18.6 3.0 1.0 1080 990 8 et
+24.0 3.9 1.0 1010 995 2 W
+Enka MD FP 2N eS
+, 5 1.0 1350 =. 1060 21 oN
+10.7 3.0 1.0 1290 = 1130 12
+15,3 4.5 1.0 1210  =1130 7
+Enka MD 020 CP 2N 2 in series
+TOO 145 22 85
+9.3 1.5 1.0 154 26 83
+18.6 3.0 1.0 181 43 72
+23.0 3.8 1.0 1 SL 66
+Enka LM 2P 06
+v2 SCS 0.2 142 82 39
+3 3.0 0.2 126 8B 290
+.6 6.0 0.2 105 718 26

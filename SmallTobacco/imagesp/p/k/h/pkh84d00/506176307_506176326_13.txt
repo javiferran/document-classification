@@ -1,0 +1,53 @@
+weights were determined for trimmed lungs, liver, kidneys,
+testes, adrenals, spleen, brain and heart.
+
+6.4.3.4.4.7.2 Tissue Collection
+
+Forty tissues were removed from each animal and fixed in a 10%
+neutral buffered formalin solution. The remaining tissues were
+preserved in a 10% neutral buffered formalin.
+
+6.4.3.4.4.7.3 Histopathology
+
+All respiratory tract and related lymph node tissues obtained
+from all animals and all gross lesions suspected to be test
+article related were blocked for slides, sections, stained and
+submitted for light microscopic examination. In addition, all
+forty tissues, from the tissue list, from rats in the air control
+and glycerol 0.66 mg/L exposure groups were blocked, sectioned,
+stained and submitted for light microscopic examination. All
+slides were stained with hematoxylin and eosin. Duplicate slides
+of lung and trachea from all groups were made and stained with
+PAS Alcian Blue to evaluate goblet cell changes.
+
+6.4.3.4.4.8 Hematology and Clinical Chemistry
+
+Hematological evaluations were conducted on all rats in each
+treatment group and air control. Blood was collected from the
+orbital sinus at scheduled necropsy. The hematology parameters
+evaluated were red blood cell count, white blood cell count,
+hemoglobin, hematocrit, mean cell volume, mean cell hemoglobin,
+mean cell hemoglobin concentration, differential cell count
+(Absolute and Relative), and platelet count.
+
+Blood for clinical chemistry evaluations was also collected from
+the orbital sinus of all rats on the day of scheduled necropsy.
+The following blood chemistry parameters were determined; BUN,
+ALT, AST, LDH, Glucose, Creatinine, Total Serum Protein, Albumin,
+Globulin (albumin/globulin ratio), GGT, Triglycerides,
+Cholesterol and Phospholipids.
+
+6.4.3.4.4.9 Statistical Analysis of Data
+
+Body weight, body weight gain, diet consumption, organ/body
+weight and organ/brain weight ratios were statistically analyzed
+for each sex by treatment group. The statistical evaluation was
+made by analysis of variance techniques. If ANOVA results were
+significant, multiple comparisons among group means were made by
+the least significant difference (LSD) criterion. All
+statistical tests were conducted at a 5% two-sided risk level.
+
+Statistical analysis of treatment-related lesions, including
+incidence of lesions and pathological findings were also
+
+Oce9 2190S

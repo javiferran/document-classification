@@ -1,0 +1,54 @@
+PD) is also available but test compounds including SIB1508 have been negative so
+far. This test is moved ad-hoc and late in the flow-chart
+
+Symptomatic aspects of AD and PD:
+
+Cognitive improvement following administration through the intended route of
+
+administration is accomplished using:
+
+- Object recognition in normal mice, possibly in rats (pending validation)
+
+- the radial arm maze in adult rats. Similar studies in aged rats (18 mo-old) are
+under consideration pending validation of the model for nicotinics
+
+- Object recognition in APP transgenic mice (test in validation stage). The
+APPLd2 mice (Moechards et al., see RPR238557 document) develop amyloid
+plaques and have a very early cognitive deficit in Watermaze and Object
+recognition. However, in the up-to-now tests, APPLd2 mice do not respond or
+have a much lower response to nicotinic agonists because of a 50% loss in
+nAChRs levels. Different tests conditions are in validation
+
+Disease model for PD relevant to motoric function include reversal of reserpine-
+induced hypolocomotion in rats and by evaluating test compound in the turning
+behavior in the 6-hydroxy-dopamine lesioned rat model.
+
+Disease modification aspects:
+Neuroprotective effect of test compounds is first evaluated using hippocampal
+slices by measuring the reversal of CA1 population spikes following glucose and
+oxygen deprivation.
+In vivo models of neuroprotection are investigated:
+-kainate and metamphetamine acute toxicity in rats respond to nicotine but not to
+RPR238557A (see report): test discontinued.
+- chronic treatment in rats (from age 12mo to age 18mo) is also envisaged to
+
+both: — -analyze the impact on the decrease of nAChR levels with age
+
+- analyze RAM performance (18 mo animals are impaired)
+
+Dependence liability:
+Drug discrimination for advanced candidate (status equivalent to former EDC) is
+conducted to evaluate the possible drug dependence liability of the candidate.
+
+Toxicology package:
+For each step in the Aventis preclinical and clinical development, the standard
+
+packages of safety/toxicology studies are conducted ( rats , dogs)
+
+RJR0000001371017583
+
+70035 3515
+
+ 
+
+yOLE 6262S

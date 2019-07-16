@@ -1,0 +1,62 @@
+‘Burn Rate
+
+ 
+
+-—
+
+ 
+
+R&D recommended QA consider adoption of Burn Rate as a
+standard QA method. Burn rate is typically used as a .
+
+. _ troubleshooting analysis. Burn rate will not be included in
+
+“ URP product specifications. At this point in VRP
+development I cannot build a strong case to support
+
+GA adoption of Burn Rate as 4 standard method unless burn
+rate presents itself as a significant problem to the
+consumer, a problem which could not be addressed by better
+control of the cigarette paper and blend properties which
+can be sontrolied before cigarettes are made. QA will
+identify the cost of fabrication, installation and ‘
+operation of a burn rate apparatus.
+
+R&D Staffing
+
+Dr. Michael Dube is no longer working on the project. Gary
+Anderson has been reassigned to the project and is the
+primary Visible Sidestream Measurement Technical Contact.
+
+FTC Tar / Moisture
+
+xot
+
+Central Laboratory Services is providing extensive
+unconditioned tar, FTC tar and moisture analyses in support
+of URP for the 85 & id mm VRP blends made at Whitaker Park,
+Tobaccoville and the R&D Pilot Plant with cigarettes being
+made jointly at Factory #1 and in the R&D Pilot Plant
+
+with varied machine set-up parameters, The extensive
+testing is aimed at correcting the problems noted in the
+March 19 & 28 test run in manufacturing. The testing load
+is equivalent to @ full Phase III's.
+
+prt
+
+dune 8. Newsome
+
+Wr. J. Ww. Mabe
+
+Mr. DB. H. Smith
+
+fir. J. W. Lawson
+
+fir. J. &. Craver
+
+Mr. F. A. Thacker
+
+Mr. R. L. Wall 1
+
+PSSE SrS0S

@@ -1,0 +1,64 @@
+DRAF'?-DRAFT-DRAFT—-DRAFT~-DRAFT-DRAFT-DRAFT—-DRAFT—DRAFT—-DRAFT—-DRAFT
+HIGHLIGHTS DATE: April 24, 1990
+BIOBEHAVIORAL RESEARCH -
+
+Psychophysiology of Smoking - Integration of analytical chemistry data with
+EEG, heart rate, task-performance, and mood/feeling rating data from the
+1989 EEG study was begun. Subjects were segregated into 3 groups based on
+pre- to post-smoking plasma nicotine ‘rise’. Appropriate analyses of
+Variance are underway.
+
+Drs. Reynolds, Robinson, and Pritchard met discuss a study to determine the
+optimal structure for DFC (Desire For Cigarette) measurement. Ina
+subsequent meeting, Drs. Robinson and Pritchard planned the detailed
+experimental design.
+
+Basic Sensory Research - Evoked brain potentials, respiration, and sensory
+data were collected from one subject during exposure to nicotine. This
+session completed collection of required evoked potential data for 6
+subjects. Collection of data from subject 5, an in-house volunteer, is all
+that remains for the completion of this phase of the work.
+
+Mr. Roger Jennings prepared computer files of sensory attribute data on ETS
+chemicals from recently published reports. Sensory information on
+chemicals in ETS will be incorporated into a relational database that
+contains other information on the compounds. The data base will be used to
+answer end-user questions on specific chemicals or sensory characteristics.
+UNIFY database software, currently on the Biobehavioral Division’s SUN
+computer, was evaluated by Mr. Jennings for use with the ETS data.
+
+Dr. Jim Walker attended the 12th annual meeting of the Association of
+Chemoreception Sciences. He presented a paper entitled "Effects of Odorants
+on Respiratory Behavior and Nasal Patency." It was timely, owing to a
+great deal of interest by meeting participants in the question of perceived
+irritation in humans. The following were noted at the meeting: an increase
+in research on primate gustatory and olfactory systems, renewed interest in
+"taste" sensations mediated by the olfactory system, increased
+representation of manufacturers of fragrances and others who use fragrances
+to enhance product appeal, increased competition among NIH-funded
+chemosensory centers, increased interest in the "olfactory deficit" in
+Alzheimer’ Ss disease, sophisticated use of voltage-sensitive dyes and video-
+imaging techniques, interest in the measurement of human respiratory
+behavior, an increase in the number of industrial chemosensory scientists
+conducting psychophysical studies, an increase in the number of
+chemosensory scientists in consumer product R&D, and increased interest in
+odorant-evoked potentials.
+
+Smoke Component Dose - Mr. Davis sought information from Dr. Brian Lawrence
+and Mr. Brian Smeeton (P&AT) about tea cultivation and the use of nicotine
+sulfate as a pesticide. Mr. Davis is preparing to survey a number of teas
+for potential nicotine content. We and others have observed nicotine in
+teas previously.
+
+Nicotine Receptor Pharmacology - Dr. Eric Fluhler continued to characterize
+
+ 
+
+the effects of nicotine on calcium flux in synaptosomes prepared from adult ~~
+
+rat brain. Results indicate that micromolar concentrations of nicotine
+Significantly increase intrasynaptosomal concentrations of calcium.
+Modulation of calcium levels is thought to help regulate the release of
+neurotransmitters from nerve terminals in vivo. The abilities of several
+
+f8OG 66L4G

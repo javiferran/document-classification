@@ -1,0 +1,58 @@
+3
+
+FUGACITY OF AROMATIC MATERIALS FROM SUGAR SOLUTIONS
+
+H.
+Paper by Herstein, Davis and Kononenko of Herstein Laboratories
+and Henry B, Hass of the Sugar Research Foundation
+The aroma of a food such as a fruit syrup is enhanced by the addition
+of sugar. The sugar actually increases the fugacity or volatility of the
+
+flavor components,
+
+In a model experiment, the volatility of n-heptaldehyde was determined
+from water, from a known glucose solution and from a sucrose solution of
+similar concentration. An inert gas was passed through each solution and
+then assayed for heptaldehyde content. The same volume of gas removed only
+a fraction of a gram (?) of the aldehyde from the water solution, but removed
+1.92 g. from the glucose solution and 3.42 g. from the sucrose solution, Thus
+(at 30°) sucrose has twice the "sugaring out" effect of glucose; this is at-
+
+tributed to its greater solubility.
+
+I. ISOLATION AND IDENTIFICATION OF FERMENTATION STEROIDS
+Paper by E, Vischer of Ciba, Ltd.
+
+Basel, Switzerland
+
+Steroids are extracted from fermentation broth by means of an organic
+solvent, Fatty impurities can be removed by solution of the steroids in
+90% methanol, and extraction of these impurities with petroleum ether. The
+steroids can be split into groups by countercurrent distribution, using
+benzene and 30% ethanol. The addition of an oxygen atom at the 1l-position
+by the fermentation mold renders these molecules more polar and makes possible
+the separation by countercurrent distribution. Steroids can also be separated
+by chromatography. Final purifications are by crystallization.
+
+Four major methods are used for the differentiation of the steroids.
+These are (1) ultra violet spectra, (2) a yellow color with sodium hydroxide
+solution, (3) a test with blue tetrazolium, which indicates the ~CO-CH20H
+
+grouping, and (4) a test with phosphoric acid, which indicates a double bond
+
+in conjugation with a keto group.
+J. BETA AND GAMMA CELLULOSE. A ORITICAL EXAMINATION OF SOME FACTORS
+
+INFLUENCING THEIR DETERMINATION
+Paper Otto Goldschmid and J Jeffe Ra er, Ine
+
+The classical method for the determination of B- and /~cellulose consists
+of dissolving both in aqueous alkali, followed by neutralization to cause the
+B-cellulose to precipitate. This method is inaccurate because of the precipi-
+tation of various amounts of y-cellulose along with the Bp. A newer and more
+accurate method, based on solubility alone, is discussed in this paper. A
+sample of the cellulose is leached with 10% sodium hydroxide; both p- and 7-
+
+ 
+
+C20 '9005

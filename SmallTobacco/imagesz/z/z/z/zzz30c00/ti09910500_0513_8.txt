@@ -1,0 +1,64 @@
+me)
+
+Veer
+
+Building B
+
+System Description. Building B is approximately eight years old and stands
+24 stories tall. There is a basement level, a mezzanine above the first
+floor, and a penthouse that houses one of two mechanical equipment rooms, the
+other being in the basement.
+
+The building comprises approximately 600,000 square feet of space and
+housed close to 1,200 commercial office tenants at the time of our inspection.
+Conditioned air is provided by two main air handler units (AHUs), one located
+in the basement and the other in the penthouse. Each are served by a cooling
+tower mounted on the roof and chillers located in the basement.
+
+The system is a variable air volume (VAV) type delivering air via 14 Vav
+boxes located in the ceiling volds of each floor. Heating requirements are
+met by perimeter located reheat boxes in the ceiling voids, there being no
+requirement to heat the core of the building. The two main air handlers
+operate in a similar manner.
+
+Fresh air is drawn to the building and fed to the air handlers via
+openings in the second floor and on the rooftop. One obvious potential
+problem with the second floor AHU concerned the location of its fresh air
+intake. The intake was located directly over the loading bay and was also
+immediately adjacent to the garage. During high activity in the garage and
+high use of the loading dock, it is probable that vehicle exhaust fumes
+(especially hot diesel fumes from trucks using the loading area) will be
+induced into the air intake. This could result in complaints on any of the
+floors, 1 through 13, served by this unit.
+
+In each air handling unit, the air then passes into a mixing chamber and
+then through a set of high quality two inch pleated panel filters. The single
+chamber heating and cooling system is followed by a twin variable pitch air
+supply fan arrangement, which feeds supply air into round vertical air supply
+ducts to the various floors.
+
+On each floor the final supply to the occupied areas was via 14 variable
+air volume boxes per floor, The VAV boxes were designed with a minimum set
+point for the dampers. However, this setting resulted in too powerful an air
+jet at the diffusers so the units were modified to do away with the minimum
+setting and subsequently they can close completely. The perimeter areas on
+each floor were equipped with reheat boxes which draw in return air from the
+ceiling void through a spun glass furnace filter, then an electric heating
+coil, and then back into the occupied areas.
+
+qe
+
+Return air from the office space enters the ceiling wetd through light
+troffers. The ceiling void acts as a return air plenum and thus it is
+important that these plenums are not compartmentalized, Air moves across the
+veid to stub ducts linking each void to the return air shaft located on the
+east side of the building. The low rise AHU draws air down this return shaft
+into the basement, The return air can be either exhausted through a set of
+eight exhaust fans per AHU, or it is mixed with a portion of fresh air ina
+prefilter chamber to start the cycle over again. It was noted at this
+inspection that the tenth floor ceiling voids had been partitioned from slab
+
+ae
+»t
+
+T10991-0508

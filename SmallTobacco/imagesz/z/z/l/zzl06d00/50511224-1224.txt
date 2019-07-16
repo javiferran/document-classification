@@ -1,0 +1,141 @@
+Pabliea Aim #L
+
+LE JOURNAL OF BIOLOGICAL CHEMISTRY .
+© 1989 by The Amencan Society for Biochemistry and Molecular Biology, [ne.
+
+Vol 264. Na. 33, Issue of November 25, pp. 19730-19739, 1989
+Printed in U.S.A.
+
+Immunoglobulin E Receptor Cross-linking Induces Oscillations in
+Intracellular Free Ionized Calcium in Individual Tumor Mast Cells*
+
+‘Received for publication, June 5, 1989)
+
+Paul J. Millardt§, Timothy A. Ryan, Watt W. Webbj, and Clare Fewtrellt
+From the {Department of Pharmacology, WDepartment of Physics, and the | School of Applied and Engineering Physics,
+
+Cornell University, Ithaca, New York 14853
+
+Fura-2 fluorescence in single rat basophilic leukemia
+cells was monitored to study the rise in intracellular
+free ionized calcium ([Ca*]) produced by aggregation
+of immunoglobulin E receptors. Repetitive transient
+increases in (Ca**],; were induced by antigen stimula-
+tion and were measured using digital video imaging
+microscopy at high time resolution. The {Ca?*], oseil-
+lations were not dependent upon changes in the mem-
+brane potential of the cells and were observed in cells
+stimulated with antigen either with or without extra-
+cellular Ca?*. Transient oscillations in [Ca?*], were also
+observed when calcium influx was blocked with La®*.
+These results suggested that during antigen stimula-
+tion of cells under normal physiological conditions,
+release of Ca** from intracellular stores makes an im-
+portant contribution to the initial increase in [Ca?*},,
+Oscillations in [Ca?*]; are not induced by elevating
+[Ca’*], with the calcium ionophore ionomycin. Mito-
+chondrial calcium buffering is not required for [Ca?*],
+oscillations to occur. The results show that rat baso-
+philic leukemia cells have significant stores of calcium
+and that release of calcium from these stores can par-
+ticipate in both the initial rise and the oscillations in
+[Ca**],.
+
+rr rr
+
+Rat basophilic leukemia (RBL)' cells are a tumor mast cell
+line that responds to stimuli that aggregate surface receptors
+for immunoglobulin E (IgE), generating a large rise in intra-
+cellular free ionized calcium ((Ca”*],) and ultimately resulting
+in secretion of mediators of immediate hypersensitivity. It
+has long been known that Ca** plays a critical role in the
+initiation and control of secretory behavior in many different
+eee
+
+* This work was supported by National Science Foundation Grants
+DCB 8702584, DIR 8716854 (to C. M. S. F.) and DMB 8609084 (to
+W. W. W.); by National Institutes of Health Grants GM 33028 and
+DHHS 08-T1RRO4224A (to W. W. W.); by United States Office of
+Naval Research Grant ONR N00014-89-J1656 (to W. W. W.); and in
+part by grants from the Cornell Biotechnology Program, which is
+sponsored by the New York State Science and Technology Founda-
+tion, a consortium of industries, the United States Army Research
+Office, and the National Science Foundation. The costs of publication
+of this article were defrayed in part by the payment of page charges,
+This article must therefore be hereby marked “advertisement” in
+accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+
+§ To whom all correspondence should he sent: Dept. of Pharma-
+cology, D-114 Schurman Hall, Cornell University, Ithaca, NY 14853-
+6401.
+
+‘The abbreviations used are: RBL, rat basophilic leukemia; AM,
+acetoxymethyl ester; [Ca’*],, intracellular free ionized calcium;
+EGTA, [ethylenebis{oxyethylenenitrilo}}tetraacetic acid; IgE, im-
+munoglobulin E; IP3, inositol (1,4,5)-trisphosphate; TPEN,
+NNN’ N’-tetrakis-i2-pyridylmethyl)ethylenediamine; HEPES, 4-
+{2-hydroxyethyl)-1-piperazineethanesulfonic acid; GTPyS, guano-
+sine 5’-3-0-(thio}triphosphate.
+
+ 
+
+cell types. Furthermore, studies in mast cells using Ca’*
+ionophores have established a causal relationship between the
+increase in [Ca**], and secretion (1, 2). Changes in (Ca?*], in
+RBL cells have largely been attributed to the influx of Ca2*
+from the extracellular medium (3-6). However, the involve-
+ment of releasable calcium stores in the control of cellular
+processes has been documented in many cell types, and cal-
+cium stores have recently been implicated in the generation
+of elevated [Ca’*}, in RBL cells? (5, 7, 8). Indeed, stores are
+sufficient to supply enough calcium to support much of the
+early phase of the rise in [Ca], in these cells (5).
+
+Digital video imaging of fluorescent indicators has been
+used to study changes in [Ca**], in a number of different cell
+types (9-18) including RBL cells (19). Current studies by us
+and by others have shown remarkable differences between the
+measurements of [Ca’*], in populations of cells and those
+obtained from the individual cells that comprise the popula-
+tion. In our early work (19), the [Ca?*]; responses of individual
+RBL cells stimulated by cross-linking surface IgE receptors
+were found to be preceded by lag times of variable length;
+once initiated, the rise in [Ca’*]; was much more rapid than
+might be predicted from fluorometric studies with cell suspen-
+sions. It has been observed that [Ca’*], in different types of
+cells stimulated with a variety of agonists fluctuates markedly
+(20), sometimes in concert with repetitive spiking of the
+membrane potential (21-24). Because of technical restrictions
+frequently associated with digital video microscopy, high time
+resolution measurements of [Ca’*]; have often been carried
+out using one cell at a time. Significant improvement of the
+temporal resolution of [Ca]; imaging measurements has
+allowed us to record simuitaneously the marked, frequently
+oscillating increases of [Ca’*], in many stimulated RBL cells.
+
+In this study, we have begun to characterize the (Ca?*];
+oscillations, to identify their source, and to determine what
+cellular components are involved in their control. We have
+found that oscillations in [Ca’*‘]; can still occur when the
+membrane potential is clamped and do not require calcium
+influx from the extracellular solution. The [Ca?"], oscillations
+appear to occur as the result of modulation of [Ca**]; by
+exchange with intracellular stores.
+
+MATERIALS AND METHODS
+
+Cell Preparation—Rat basophilic leukemia cells of the secreting
+subline 2H3 (25) were cultured as described previously (26). Cells
+were removed from flasks by treatment with trypsin-EDTA (GIBCO)
+in a calcium- and magnesium-free saline solution. Sensitization by
+incubation with a monoclonal IgE directed against the dinitrophenyl
+hapten was carried out in Eagle's minimal essential medium (GIBCO)
+supplemented with 10 mM Na-HEPES and 20% newborn bovine
+serum (GIBCO). RBL cells were suspended at. 10° cells/ml in a
+buffered saline solution which, for most experiments, contained 135
+
+ 
+
+* Mohr, F. C., and Fewtreil, C. (1990) Am. J. Physiol., in press.
+
+19730

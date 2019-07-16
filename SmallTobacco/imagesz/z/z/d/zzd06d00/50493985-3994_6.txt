@@ -1,0 +1,111 @@
+2424 PHELPS ET AL.
+
+DELETIONS SUBSTITUTIONS
+
+3} p1650
+
+S pt651
+
+   
+ 
+   
+  
+
+piesa & ptes2
+
+© ptes3
+
+6 piesa
+
+pi659 7) 51655
+
+pi6éa
+
+w
+
+“
+
+fre)
+a
+
+J. Vira.
+
+p1653
+piesa
+PIB5S
+21656
+pl657
+pl658
+P1659
+p1660
+
+WT
+
+ 
+
+FIG. 5. Mutations in CR3. The amino acid Sequence between 1-38 and P-98 is shown. The conserved cysteines are indicated by shading
+Analysis of protein stability by metabolical labeling of transfected COS-7 cells ts shown as previously described, Western blots are not shown.
+
+complexes containing the cellular uanscription factor E2F
+(1). The frans-activating properties of the HPV16 E7 protein
+are quite similar to those described for 12S E1A. HPV16 E7
+mediates transcriptional trans activation through the E2F
+transcription factor, and E7, like EIA, can disrupt cellular
+protein complexes containing E2F (34). ”
+
+The point mutations in domain 1 of E7 assayed in this
+study had no effect on transformation (p1460 and p1461);
+however, deletion of five conserved amino acids, PTLHE
+(p1469), completely eliminated the ability of E? to cooperate
+with ras. This deletion has no effect on the ability of E7 to
+associate with pRB in vitro (30). These results indicate that
+domain 1 plays a crucial role in cellular transformation
+independent of pRB binding and further indicate that al-
+though pRB binding is required for ras cooperativity, it alone
+is not sufficient. These data are in agreement with. other
+
+TABLE 1. Biological activity in domain 1
+
+ 
+
+ras cooperativity
+
+ 
+
+Plasmid (no. of times positives % trans
+ho. of experiments} activation
+pl460 3/3 - 100
+pli6l 33 7
+pli69 03 4
+
+analyses, indicating a critical role for CRI sequences of ELA
+(54) and of HPV16 E7 (3) in transformation that do not affect
+PRB association.
+
+Although previous analyses of the HPV16 E7 protein
+determined that domains I and 2 are required for transfor-
+mation, the domains of the protein involved in grams activi
+tion have not been well delineated. Some mutational analy-
+Ses indicated that the integrity of domain 2 is important for
+trans activation (15, 36); however, other studies concluded
+that either the entire polypeptide (51) or simply the carboxyl
+terminus (39) is required for érans activation. The results of
+the present study clearly indicate that it is the integrity of the
+CR2 sequences that is critical to rrans-activation activity and
+
+TABLE 2. Biological activity in domain 2
+
+ 
+
+ras cooperativity
+
+ 
+
+Plasmid {no, of times positive/ en
+ho. of experiments) .
+plas? a3 35
+plas 0/3 <5
+plat x3 97
+pls67 0/3 <3
+p1646 33 65
+plies 33 36

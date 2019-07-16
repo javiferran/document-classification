@@ -1,0 +1,157 @@
+ae eer eG rete et me
+
+CORONARY BLOOD FLOW IN RATS
+
+atrial injection. In group B the carotid catheter was
+advanced into the left ventricle from the very beginning,
+the first set of microspheres was injected. and then the
+left-ventricular catheter was pulled back into the carotid
+artery under blood pressure monitoring. In this way we
+ensured that the left-ventricular catheter was actually
+located in the right-carotid artery during the left-atrial
+injection iz: both groups and thus avoided interference
+with the distribution of microspheres in the root of the
+aorta or coronary arteries.
+
+The position of the left-atrial and left-ventricular cath-
+eters was always confirmed both at autopsy and by
+pressure tracings. The whole surgery lasted 90 min with
+45-60 min for the left-atrial cathetevization, thoracotomy
+time being approximately 30-45 min. Bleeding was ab-
+sent or minimal throughout the surgical procedure, and
+this was confirmed at autopsy along with the absence of
+pneumothorax.
+
+Microsphere methods, Radioactive microspheres, 15
+pm in diameter, labeled with “Sr and ‘Ce, were ob-
+tained dry from 3M (St. Paul, MN) with a specific activity
+of 10 mCi/g. They were suspended in 70% glucose solu-
+tion containing 0.05% polysorbate 80 as an antiaggregant
+agent and having a specific gravity approximately equal
+to that of the microspheres (1, 3). Before injection, the
+microspheres were mechanically and ultrasonically agi-
+tated for 15 min. They were then withdrawn in a PE-50
+tubing with a predetermined volume of 0.03 ml, corre-
+sponding to 60,000-65,000 spheres. The tubing was
+sealed, counted for 1 min before injection, and then
+connected to the left-atrial or left-ventricular catheter.
+In this series of experiments the number of counts per
+minute was always below the level at which counting
+efficiency is decreased by coincidence, so that the total
+dose in the tubing could be obtained directly. The micro-
+spheres were injected over 10 s and the tubing flushed
+with 0.2 ml of saline. Starting 10 s before the injection,
+blood was withdrawn by e Harvard pump from the left-
+femoral catheter at a constant rate of 1.03 ml/min for 70
+s. This rate of withdrawal assured a blood microsphere
+number greater than 400 (2), so that the variability
+related to the random distribution of the particles was
+minimal. The values for the first and second determina-
+tion averaged 901 x 96 and 999 + 136 (SD) microspheres
+for group A and 949 + 144 and 1,042 + 263 (SD) micro-
+spheres for group B. Blood pressure (and heart rate from
+the pressure tracing) was continuously recorded before,
+during, and after the injection. Two different sets of
+microspheres labeled with ''Ce or °Sr were successively
+injected through the left-atrial and the left-ventricular
+catheter in the same rat. At the end of the experiment
+the rats were killed with an overdose of pentobarbital.
+The heart, the kidneys, and the brain were immediately
+removed, cleaned of fat and fibrous tissues, and blotted
+dry. The tissue samples were placed in plastic vials,
+weighed, and counted for 5 min in a gamma-well counter
+(Packard mode! 578); the blood withdrawn from the left-
+femoral catheter was similarly counted and served as a
+reference sample.
+
+Calculation of blood flow and analysis of data. Blood
+flows were computed from the radioactivity in each sam-
+ple and the reference sample after appropriate correc-
+
+HKG1522010
+
+tions for decay, background, and overlapping (4, 13). The
+total dose injected was estimated as the difference in
+counts in the tubing before and after injection of micro-
+spheres. Absolute blood flow was expressed in milliliters
+per minute and relative blood flow, in milliliters per
+minute per kilogram body weight for cardiac output and
+in milliliters per minute per 100 g of wet tissue for organs.
+Relative resistance is expressed in arbitrary units and
+was obtained by dividing the meah aortic-arterial pres-
+sure before each injection of microspheres by the relative
+blood flow. . .
+
+Standard deviations, i.e. variances, were used to assess
+the variability of the data and were compared by the F
+test. Because the F test assumes a normal distribution,
+the data were tested for normality by the Wilk-Shapiro
+test. In only a few instances were the data not found to
+be nornial; in such cases, a logarithmic transformation
+was applied and always resulted in a normal distribution.
+Mean values were compared by a paired or an unpaired
+? test (after transformation of the data when required).
+In cases where variances showed a significant difference,
+comparison of means were obtained by an unequal-vari-
+ance ¢ test and a nonparametric test (Mann-Whitney
+test) (15). Statistical significance was determined as P
+< 0.05. All calculations (blood flows and derived values,
+or statistical tests) as well as storage of data were per-
+formed by the Prophet computer system using a specifi-
+cally designed program and the Prophet statistical pack-
+age.
+
+H95
+
+RESULTS
+
+The body weight was equal in both groups (307 + 28
+in group A and 302 + 27 in group B; P = NS).
+
+The mean values and variability of the general hemo-
+dynamic indices (mean arterial pressure, heart rate, and
+cardiac output) were similar in both groups and for each
+determination irrespective of the site of administration
+or the order of injection. The results obtained from the
+left-atrial injection were therefore pooled together as
+were those obtained from the Jeft-ventricular injection,
+thus forming two groups of data.
+
+The variability of mean arterial pressure, heart rate,
+and cardiac output was not significantly different be-
+tween left-atrial or left-ventricular injection series (Table
+1).
+
+Despite the similarity in systemic hemodynamic indi-
+ces, the dispersion of coronary blood flow measurements
+TABLE 1, Variability of blood flow
+
+determinations with left-atrial or left. _
+ventricular microsphere injection in rats
+
+ 
+
+ 
+
+ 
+
+ 
+
+Left- Arial Left: Ventricular P
+Injection Injection
+MAP, minHg 105 & 19 (212%) 104 + 19 (219%) NS
+HR, beata/min 379441 (4NH) 366 + 38 (210%) NS
+CO, ml-min"'-kg' 213 & 38 (218%) 208 26 (219%) NS
+
+ 
+
+Values are means + SD; values in parentheses ate SD expressed as
+& of mean (coefficient of variation). n = 20. MAP, mean arterial
+pressure; HR, heart rate; CO, cardiac output. P value for comparison
+of variance calculated by F test: NS, not significant. No statistically
+significant difference in mean values was found between the two groups
+(unpaired { test).
+
+ 
+
+a

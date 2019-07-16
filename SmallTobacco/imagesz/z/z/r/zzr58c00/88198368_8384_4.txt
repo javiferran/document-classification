@@ -1,0 +1,43 @@
+Preparation of Liver Homogenates
+
+Livers were minced and rinsed with cold Tris buffer. Sufficient
+buffer was added to produce a 25% w/v homogenate. The livers were then
+homogenized with a Brinkman Polytron® homogenizer. The livers were
+centrifuged at 10,000 x g at 0-4°C for 30 minutes to prepare the post-
+mitochondrial supernatants. The supernatants were then centrifuged at
+300,000 x g (ca. 55,000 rpm) for 30 minutes. The supernatants were
+discarded and the microsomal pellets were resuspended in the original
+volume of buffer and centrifuged again at 300,000 x g for 30 minutes.
+The microsomal pellets were stored frozen at -80°C for subsequent use.
+
+O-Demethylation of p-Nitroanisole (PNA)
+
+Liver microsomal suspensions were prepared by resuspending the pel-
+lets in the original volume of buffer. The suspensions were analyzed in
+duplicate for each group of five same sex rats for each treatment.
+
+Exactly 0.15 ml of each suspension was added to test tubes on ice con-
+taining the following: 0.15 mil of 250 units NADPH (Sigma Type X) in O.1M
+phosphate buffer pH 7.4, 1.5 ml of p=nitroanisole (3.0 uM), 1 drop MgCl
+(12.5 mM), 0.7 ml] phosphate buffer pH 7.4, The test tubes are then incu-
+bated for 30 minutes at 37°C with constant agitation at 100 rpm on a
+reciprocating shaker. Reactions were terminated by placing the test tubes
+on ice. Samples were then centrifuged at 5,000 x g for five minutes to
+pelletize protein. The supernates were then poured into cuvettes and the
+concentration of p-nitrophenol formed by O-demethylation of PNA was deter-
+mined spectrophotometrically at 420 nm using a tissue blank for back-
+ground correction.
+
+Hydroxylation of Aniline
+
+Liver microsomal suspensions were analyzed in duplicate for
+each group of five same sex rats for each treatment. One mi of each
+suspension was added to 25 ml Erlenmeyer flasks on ice containing three
+glass beads (6 mm) and 1.0 ml master mix (50.7 uM NADP*Na, 3280 uM
+nicotinamide, 500 uM glucose-6-phosphate, 500 uM MgClo and 250 units
+glucose-6-phosphate dehydrogenase [Sigma Type XV] in pH 7.4, 0.1M phos-
+phate buffer). Flasks were pre-incubated for two minutes at 37°C with
+
+-4-
+
+Z2LES6TSS

@@ -1,0 +1,45 @@
+DEVELOPMENTAL REGULATION AND MODULATION OF
+NEURONAL NICOTINIC ACETYLCHOLINE RECEPTOR CHANNELS
+
+Linda K. Simmons, Brenda L. Moss3, Stephen M. Schuetze* and Lorna Ww.
+Role
+
+Depts of Anatomy and Cell Biology in the Center for Neurobiology and
+Behavior, Columbia University College of Physicians of Surgeons and the
+$Dept of Biological Sciences, Columbia University, NY, NY 10032
+
+*The authors dedicate this chapter to the fond memory of their friend and
+colleague, Steve Schuetze.
+
+INTRODUCTION
+
+To date the best characterized receptor-channel complex is the
+muscle nicotinic acetylcholine receptor (AChR), Several studies
+demonstrate that muscle AChRs are subject to various forms of
+regulation. Distinct changes in channel properties, receptor distribution
+and subunit composition are observed over the course of development.
+Also, acute changes in the degree of receptor phosphorylation induce a
+functional change in the rate of receptor desensitization (for a review,
+see Schuetze and Role 1987). These extensive studies of muscle AChR
+regulation provide an important intellectual framework for studies of
+other ligand-gated channels in the central and peripheral nervous
+system.
+
+Initial studies of neuronal nicotinic ACh receptors suggest that
+there may be structural, pharmacological, and functional differences
+between muscle and neuronal nicotinic receptors (this volume). We are
+interested in two related problems pertinent to nicotinic AChR function:
+(1) how neuronal nicotinic receptors of the chick sympathetic ganglion
+neurons are regulated during development and following synapse
+formation and (2) how AChR function may be subsequently modulated
+by another transmitter present in these ganglia, the peptide substance P
+(SP).
+
+NATO ASI Series, Val. H25
+
+Nicotinie Acetylcholine Receptors in the Nervous System
+Edited by & Clementi et al.
+
+© Springer-Verlag Berlin Heidelberg 1988
+
+50578125

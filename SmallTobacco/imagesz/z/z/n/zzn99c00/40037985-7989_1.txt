@@ -1,0 +1,59 @@
+Introduction:
+
+Macrophage phagocytosis requires efficient signal transduction from the phagocytic receptors to
+the actin-based cytoskeleton (1). The signals that induce actin-cytoskeleton rearrangements and the
+mechanism of such a rearrangement are not yet known. One of the signal molecules is protein kinase C
+(PKC). Activation of PKC with phorbol esters profoundly enhances phagocytosis (2,3). However, little
+is known about the events after PKC activation, nor is it known how the PKC signal is transduced to the
+cytoskeleton to initiate the internalization of particles. One approach to these questions is to investigate
+the role of PKC substrates in these processes.
+
+Among the PKC substrates, the MARCKS (mmyristoylated glanine-rich C kinase substrate) and
+MacMARCKS has received much attention. MacMARCKS was so named because of its enrichment in
+activated-macrophages (4). Both MARCKS/MacMARCKS are membrane-associated, actin-binding
+proteins. These two proteins share an almost identical domain that contains PKC-phosphorylation sites
+and calmodulin- and actin-binding sites. This domain is named effector domain and deletion of this
+domain generated a dominant negative mutant of MacMARCKS (5).
+
+The cellular function of MARCKS/MacMARCKS was unknown. This grant is proposed to
+study the potential function of MacMARCKS, in macrophage phagocytosis.
+
+1. MacMARCKS mutation blocks macrophage phagocytosis:
+We have reported that MacMARCKS plays an important role in macrophage phagocytosis (5).
+This was demonstrated by expressing the effector domain deletion mutate (ED, a dominant negative
+i a mutate) of MacMARCKS in J774
+j on macrophage cells, which dramtically
+inhibited macrophage phagocytosis. For
+comparison, full-length MacMARCKS
+; os i : (FM) were also transfected into 774 cells.
+925458 /6864142 349448/608t87 1684537114 The control cells, as well as parental J774
+Phagocytic Index / Attachment Index (+ SD, n=3) cells (J774), showed normal phagocytic
+
+Fig. 1. activity.
+
+  
+
+2. MacMARCKS blocks integrin-dependent function, phagocytosis is one of them.
+
+We then started to explore the mechanism by which MacMARCKS mutation inhibited
+phagocyotisis. The first target examined was the F-actin formation during macrophage phagocytosis.
+Although MacMARCKS mutant-expressing cells can not phagocytose zymosan particles, it is still
+capable of binding the particles. In many instance we can observe that actin polymerized near this
+particles, in the same manner as the control cells. Thus it is very unlikely that MacMARCKS mutation
+has seriously impaired F-actin formation.
+
+At the same time we found that MacMARCKS mutation not only affect macrophage
+phagocytosis but also other 62 integrin-dependent cellular functions.
+
+Activation of 82 integrin is essential to many leukocyte functions including chemotaxing and
+phagocytosis (6,7,8). The activation of protein kinase C (PKC) is an essential step for the activation of
+B2 integrin (reviewed in 9,10) in most integrin-mediated cellular functions. However, it is not clear how
+PKC is integrated into the integrin-dependent signal transduction pathway, nor do we know the
+candidates that are phosphorylated by PKC and transduce the phosphorylation signals.
+
+Therefore we hypothesized that MacMARCKS may control phagoyctosis through its regulation
+of B2 integrin, because phagocytosis is part of the functions of [2 integrin in many cases.
+
+We first tested the effect of MacMARCKS mutation on PMA-stimulated macrophage spreading,
+
+40037986

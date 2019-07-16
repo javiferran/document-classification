@@ -1,0 +1,131 @@
+L610
+
+Con cAMP
+
+moles P/m MLC
+
+con MI-o
+
+Fig, 4. Phosphorylation of MLC (mol P/m MLC) in PPAE cells in
+control state and after treatment with forskolin-aminophylline (2 x
+10-5 M and 1.2 x 10-3 M, cAMP) or after treatment with ML-9 (6 x
+10-5M) for 10 min. cAMP and ML-9 decreased mol P/mol MLC, P<
+0.05. MLC phosphorylation in PPAE ceils exposed to cAMP or ML-9
+for 30 min was not different from that in cells exposed for 10 min (data
+not shown) (n 2 10 monolayers for each group).
+
+ow a
+pb &
+
+eeepe
+mh @
+
+bs
+
+GTA cAMP-EGTA
+
+Change in permeability
+
+ 
+
+2 = x
+
+°o an y a an wot
+9
+a
+a
+m
+
+MI-9-EGTA
+
+g
+
+EGTA
+
+Fig. 5. Change in permeability to dextran of monolayers of PPAE cells
+exposed to control medium (Con), to EGTA (2 x 10-3 M, EGTA), or to
+EGTA after pretreatment for 10 min with forskolin-aminophylline (2 x
+10-5 M and 1.2 x 10-8 M, cAMP-EGTA) or ML-9 (ML-9-EGTA). P<
+0.05 for EGTA vs. both other groups {n = 12 for each group).
+
+In the experiments described in this paper we did not
+address which of these paradigms is dominant. However,
+in both paradigms a centripetal tension is necessary for
+cell retraction to occur. In these experiments we have
+asked whether phosphorylation of MLC is necessary for
+cell retraction to occur.
+
+In both HUVE and PPAE cells we found that MLC
+was phosphorylated by MLCK. The activity of MLCK is
+inhibited when it has been phosphorylated by the cAMP-
+dependent kinase. Consistent with this, we found that
+forskolin-aminophyiline decreased basal and histamine-
+stimulated MLC phosphorylation in both HUVE cells
+
+MYOSIN AND ENDOTHELIAL RETRACTION
+
+and PPAE cells (5, 7, 10). ML-9 is a kinase inhibitor that
+acts by competing with ATP for binding to the kinase.
+MLCK is 1-1.5 logs more sensitive to ML-9 than are the
+cAMP-dependent kinase or a protein kinase C (10).
+ML-9 also decreased basal and histamine-stimulated
+MLC phosphorylation in both HUVE and PPAE cells.
+
+We stimulated HUVE cells to retract by exposing them
+to histamine, and we stimulated PPAE cells to retract by
+chelating extracellular calcium. Both ML-9 and activa-
+tion of the cAMP-dependent kinase were effective at pre-
+venting cell retraction in response to histamine and in
+response to chelation of extracellular calcium.
+
+Although we know that histamine increases MLC
+phosphorylation in HUVE cells, we do not know whether
+histamine causes HUVE cell retraction by increasing cen-
+tripetal tension alone or by increasing centripetal tension
+and by reducing tethering (18). Increased cAMP inhib-
+ited MLC phosphorylation in response to histamine, and
+if MLC phosphorylation contributes to centripetal ten-
+sion, cAMP prevented an increase in tension. A decreased
+level of tension could prevent retraction in response to
+histamine. However, in addition to increasing tension,
+histamine may also reduce tethering. The cAMP-depen-
+dent kinase might act on parts of the cytoskeleton, other
+than MLC, prevent the loss of tethering, and thereby
+prevent the retraction in response to histamine. Hence,
+although the effects of increased cAMP are consistent
+with the hypothesis that MLC phosphorylation is impor-
+tant for histamine-mediated cell zetraction, it was neces-
+sary to exanrine other systems to he more certain.
+
+Chelation of extracellular calcium interrupts tethering
+of cells to substrate and to adjacent cells by breaking the
+calcium-dependent binding of cell receptors to their ap-
+propriate ligand (1). In our experiments, increased cAMP
+prevented PPAE cell retraction in response to chelating
+calcium. Although cAMP might have acted on the cyto-
+skeleton to block a histamine-mediated decrease in teth-
+ering, it is very unlikely that it could prevent calcium
+chelation from severing the calcium-dependent binding of
+receptor and ligand. However, the reduction in MLC
+phosphorylation by cAMP could have prevented retrac-
+tion by reducing the constitutive centripetal tension.
+
+Because the cAMP-dependent kinase may have effects
+on the cytoskeleton in addition to inhibition of MLC
+phosphorylation, we also examined the effects of the ki-
+nase inhibitor, ML-9 on cell retraction in response to
+both stimuli. ML-9 prevented retraction and MLC phos-
+phorylation in both cell types. Although MLCK is 1-1.5
+logs more sensitive to ML-9, higher doses of ML-9 can
+inhibit the cAMP-dependent kinase. Since activation of
+the cAMP-dependent kinase inhibited retraction of both
+cell types to both stimuli, it is unlikely that inhibition of
+the cAMP-dependent kinase by ML-9 accounts for the
+ability of ML-9 to preven’. the retraction of HUVE or
+PPAE cells.
+
+Higher doses of ML-9 can also inhibit protein kinase C.
+Activation of protein kinase C actually reduces the per-
+meability of HUVE cell monolayers (31, D. M. Shasby,
+unpublished data). Hence, it is not likely that ML-9 in-
+hibition of protein kinase C accounts for the ability of

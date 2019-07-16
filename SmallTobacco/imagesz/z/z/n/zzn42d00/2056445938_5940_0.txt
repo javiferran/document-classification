@@ -1,0 +1,27 @@
+Magnesite Residue Analysis
+
+Starting Material
+Rehels Magnesium Hydroxide Powder USP - Lot #1094502
+
+Product
+
+Magnesite produced by reaction of Reheis magnesium hydroxide powder USP (Lot
+#1094502) in water with carbon dioxide gas at 180 degree centigrade and 600 psi
+for 24 hrs.
+
+Resi nerati
+A sample of the material is dissolved in boiling nitric acid and diluted with deionized
+
+waiter to a volume of 25 mL. The residue is precipitated under centrifugation (47,000
+G), washed, collected by filtration, dried, and weighed.
+
+Residues
+Material Wt Used Wt Residue % Residue
+Magnesium Hydroxide 1.6500 gm 0.00095 gm 0.0575
+Magnesite Product 1.1000 gm 0.00079 gm 0.072
+
+The residue has been analyzed by microscopy and found to contain smali amounts
+of various materials. Specific type and approximate amount of these materials will be
+discussed by the microscopy group.
+
+SEGSEPIGOS

@@ -1,0 +1,61 @@
+JUSTIFICATION OF GC-MS FOR PROJECT 0108
+
+Structure elucidation off GC peaks too small to be
+trapped and submitted to the Analytical Section.
+Often mass spec requires nearly a milligram of
+sample in order to obtain an identification. Many
+of the gas phase components of interest are much too
+small.
+
+Glass capillary columns have proven to be useful
+
+in separations involving reactive compounds because
+of the inertness of glass. Some work has already
+been done in this field on tobacco: smoke components.
+
+ 
+
+Bartle, K. D., et. al., J. Chromatog., 45, 256 (1969).
+
+Carugno, N. and Rossi, S., Beitrage zur Tabakforschung.
+Band 3, Heft 9, 555, Dec., L966.
+
+ 
+
+The only practical method for identification of peak compo-—
+
+ments on glass capillary columns is by GC-MS.
+
+In our studies using N-15 and 0-18. a GC-MS would nrove
+valuable in isotope ratio work. The Bendix TOF-2001
+mass spectrometer has a reported isotope ratio stability
+
+-of + 0.1%. In our proposed 0+18 study, there are definite
+
+advantages to using an in-lab GC-MS. An "insufficient
+sample'' report on traps taken from our GC and submitted
+to mass spec would surely ruin this experiment. The
+Finnegan mass spectrometer is not suitable for isotope
+ratio work.
+
+In the past, we spent a considerable effort in determining
+
+“ toluene/benzene ratios in smoke in order to find a cor-
+
+relation with biological data. After several months'
+effort in this direction, we discovered that the benzene
+peak we had been measuring contained about a 20% impurity
+which had not been reportedi by mass. spec. Our effort was
+set back many months by this. If we were running our own
+Spectra we probably would have been cognizant of this
+impurity. Extensive effort was. required to find a column
+to resolve these components. Deconvolution techniques
+using a GC-MS could have been used to: determine directly
+what percentage of this peak was actually benzene. It
+might be noted that this impurity has not been suitably
+
+CVEDZSOOOT
+
+identified. We are not sure whether it is methyl isopropenyl
+
+ketone or isoprene monoxide.

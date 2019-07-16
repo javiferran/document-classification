@@ -1,0 +1,56 @@
+Philip Morris USA CONFIDENTIAL
+PHILIP MORRIS U.S.A.
+
+INTEROFFICE CORRESPONDENCE
+Richmond, Virginia
+
+To: D. Self Date: June 2, 2000
+
+From: M. Chang we-
+
+Subject: May 2000 Monthly Summary, C2R200
+
+GROUP NAME: Materials and Elemental Analysis Group
+
+Activity Types of Samples Analytical Number | Number
+
+or activities Techniques | of of
+Samples | Analyses
+
+PO0165 Method Method development for collection of CVAAS
+Application mercury using Au-Pt trap for mainstream
+
+smoke.
+
+ 
+
+ 
+
+C2R200 AMA Activities | Miscellaneous Activities
+
+PO0165 Method Application
+
+The analytical precision curve for the two-stage gold amalgamation system was further studied with a
+concentration range from 0.1 ng up to 10 ng of Hg. As expected, the precision at the low concentration
+‘was not as good as at the high concentration, 5.9 % RSD for 0.1 ng Hg verse 0.3 % RSD for 10 ng Hg.
+The individual trap efficiency of 11 Au-Pt traps was studied by the purge-and-trap of 5 ng of Hg standard.
+The maximum difference was found being less than 1% that indicates the precise set-up for the two stage
+gold amalgamation system.
+
+The trap efficiency of Au-Pt gauze was studied by connecting two Au-Pt traps in serial and the mercury
+amount was analyzed independently. The amount of mercury breakthrough, based on the second Au-Pt
+trap, was found to be 1% for 5 ng of Hg and 1.5% for 10 ng of Hg.
+
+The instrament LOD, 0.011 ng, was determined based on 10 replicates of purge and trap of reagent blanks.
+The method LOD, 0.1 ng, was also determined based on 10 replicates of smoking blanks.
+
+3 ng of Hg was spiked onto the Au trap before smoking the 1R4F cigarette for method accuracy study.
+Only 60% recovery of Hg was recovered, which can not justify the performance of gold trap, Two reasons
+for this poor recovery, one is that the amount of Au was not enough to trap both mercury and volatile
+organic vapor passing through electrostatic precipitation, and the other is the deactivation of the Au trap
+caused by some organic vapor. To solve this problem, a catalyst converter is going to be placed before
+gold trap to decompose organic vapor before the gas phase of smoke entering the Au trap.
+
+gergoebeso7
+
+DOC CODE: P0622

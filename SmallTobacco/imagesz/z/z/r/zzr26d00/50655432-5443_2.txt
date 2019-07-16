@@ -1,0 +1,139 @@
+890
+
+trical subtraction of Pes from Pga. Pes, Pga, and Pdi
+were all displayed on our polygraph recorder (model VR-
+12, Honeywell/Electronics for Medicine, Pleasantville,
+NY).
+
+Ventilatory measurements. The subjects wore noseclips
+and breathed through a mouthpiece connected to a saliva
+trap and a two-way nonrebreathing respiratory valve
+(models 6900 and 2700, Hans Rudolph, Kansas City,
+MO). The subject inspired humidified air at 22-25°C and
+60-70% relative humidity. The humidifier was connected
+to an inspiratory pneumotachograph (model 3800, Hans
+Rudolph) heated to 87°C to prevent condensation. The
+pneumotachograph was connected to a variable reluc-
+tance pressure transducer (model MP45-871, Validyne
+Engineering, Northridge, CA), which in turn was con-
+nected to a sine-wave carrier/demodulator unit (model
+CD15-981, Validyne Engineering) that produced a direct
+current (DC) output signal that was transmitted to our
+polygraph recorder (model VR-12, Honeywell/Electron-
+ics for Medicine). Expired gas was directed through the
+respiratory valve into the expiratory pneumotachograph
+(model 3800, Hans Ruldoph), which was interfaced to
+our polygraph recorder in a manner identical to the
+inspiratory pneumotachograph. The respiratory valve
+and both pneumotachographs were mounted on a spring-
+counterbalanced support, allowing relatively free move-
+ment by the subjects during rest and treadmill exercise.
+The following parameters were computed for each subject
+from the airflow measurements noted above: minute
+ventilation (VE), tidal volume (V7), ventilatory fre-
+quency (Vs), and T1 per breath.
+
+Additionally, we used a mechanical analog system to
+clarify the phase relationships between airflow, Pes, and
+Pga. We noted that the three measurements remained in
+phase up to a frequency of 12 Hz; this was the highest
+frequency that we were able to generate with our me-
+chanical system. .
+
+Metabolic measurements. To measure Oz uptake (VO2)
+and CO, production (VC02), gas flow from the expiratory
+pneumotachygraph was directed to a 6-liter mixing
+chamber, which was sampled continuously by a polaro-
+graphic OQ, analyzer (Beckman OM-11, Beckman Instru-
+ment, Fullerton, CA) and an infrared CO, analyzer
+(Beckman LB-2).
+
+Inductance plethysmography measurements. Respira-
+tory excursions of rib cage and abdomen were measured
+using standard techniques with the Respitrace no, 300SC
+(Non-Invasive Monitoring Systems, Ardsley, NY). To
+minimize the effect of changes in spinal attitude on our
+measurements of rib cage and abdominal displacements
+during both rest and exercise, subjects were encouraged
+to maintain as nearly constant a standing erect posture
+as possible (15).
+
+EMG measurements. Surface EMGs of the inspiratory
+intercostal (EMG IC), sternomastoid (EMG SCM), and
+external oblique (EMG ABD) were recorded by silver-
+silver chloride electrodes connected to an EMG amplifier
+assembly (Moss Rehabilitation Center, Albert Einstein
+Medical Center, Philadelphia, PA) having a passband of
+0.1-1,000 Hz. All EMG signals were then passed through
+Butterworth filters (—3-dB points, 20 and 250 Hz, roll
+
+INSPIRATORY PRESSURE GENERATION
+
+off —24 dB/octave; model 255-5L, A.P. Circuit, New
+York, NY); we used this high-pass filtering at 20 Hz to
+minimize motion artifact. Additionally, the EMG of the
+crural diaphragm was recorded by a silver-wire esopha-
+geal electrode similar to that of Gross et al. (10); this
+electrode was then connected to the above-noted EMG
+amplifier assembly.
+
+EMG SCM was recorded from an electrode placed on
+the belly of the sternomastoid midway between the ster-
+num and the mastoid process. EMG IC was recorded
+from an electrode placed parasternally in the right second
+interspace. EMG ABD was recorded from an electrode
+in the midclavicular line midway between the iliac crest
+and the lower rib margin.
+
+Data Processing
+
+The output of all transducers and instruments was
+displayed on our two polygraph recorders (model VR-12,
+Honeywell/Electronics for Medicine, Pleasantville, NY).
+
+Non-EMG signals. Subsequently, these signals were
+digitized at 100 Hz by a 12-bit analog-to-digital converter
+that was connected to a computer (PDP 11/03, Digital
+Equipment Corp., Maynard, MA). The data were then
+stored on magnetic tape for later processing by a second
+computer (PDP 11/73, Digital Equipment Corp.)
+equipped with a graphics display terminal.
+
+EMG signais. The output of the polygraph recorder
+that displayed the EMG signals was stored on magnetic
+tape by an FM instrumentation recorder (model 3968-A,
+Hewlett-Packard). After completion of the experimental
+run, the instrumentation recorder was connected to the
+above-noted analog-to-digital converter and computer.
+All EMG signals were then sampled at a rate of 512 Hz
+and subsequently processed on our second computer (see
+above),
+
+We then computed a “moving average” representation
+for all EMG signals. A major problem with “moving
+average integration” of diaphragmatic EMG and EMG
+IC signals is contamination from the electrocardiogram,
+which is simultaneously recorded along with these sig-
+nals. Accordingly, we used our cross-correlation tech-
+nique for removing electrocardiogram (ECG) complexes
+from these signals (11). EMG SCM and EMG ABD
+signals showed no ECG contamination. Subsequently,
+we used a digital algorithm for computing a moving
+average representation for each of the EMG signals; the
+time constant of this moving average was 75 ms.
+
+Subjects
+
+We studied 11 male COPDs and 8 AMNs. The mean
+age of the COPDs was 66 + 2 (SE) yr and their mean
+forced expiratory volume at 1s (FEV,9) was 1.0 4 0.1
+liters; all COPDs had an arterial Poo, < 42 Torr. The
+mean age of the AMNs was 60 + 2 yr and their mean
+FEV,» was 3.7 + 0.2 liters. Informed consent was ob-
+tained from all subjects, and our study was approved by
+the Human Studies Committee of the Philadelphia Vet-
+erans Administration Medical Center.
+
+ 
+
+50655434

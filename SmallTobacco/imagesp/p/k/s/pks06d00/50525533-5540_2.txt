@@ -1,0 +1,42 @@
+William H. Gmeiner
+
+12 - Gmeiner, W.H., Sahasrabudhe, P., Pon, R.T., Sonntag, J., Srinivasan, S., and Iversen, PL.
+Preparation of oligomeric 2'-deoxy-5-fluorouridylate of defined length and backbone
+composition: A novel pro-drug form of the potent anti-cancer drug 2'-deoxy-5-fluorouridylate.
+Nucleosides and Nucleotides, 14(1&2): 243-253, 1995.
+
+13 - Gmeiner, Sahasrabudhe, P., and Pon, R.T. Use of shaped pulses for semi-selective
+excitation of imino 1H resonances in duplex DNA and RNA. Magnetic Resonance in Chemistry,
+33:449-452, 1995.
+
+14 - Gmeiner, W.H. Delivery of traditional anti-cancer drugs as oligedeoxynucleotides. Cancer
+Watch, 4:120-121, 1995.
+
+15 - Copple, B.L., Gmeiner, W.H., Iversen, P.L. Reaction between metabolically activated
+acetaminophen and phosphorothioate oligonucleotides. Tox. Appl. Pharm., 133:53-63, 1995.
+
+16 - Sahasrabudhe, P.V., Pon, R.T., Gmeiner, W.H. Effects of site-specific substitution of 5-
+fluorouridine on the stabilities of duplex DNA and RNA. Nucl. Acids Res., 23:3916-3921, 1995.
+
+17 - Sherman, $.A., Gmeiner, W.H., Kirnarskiy, L., Perini, F., and Ruddon, R.W. A linear 23-
+residue peptide reveals a propensity to form an unusual native-like conformation. Journal
+Biomolecular Structure & Dynamics, 13:441-446.
+
+18 - Gmeiner, W.H., Facelli, J. Quantum mechanical calculations and experimental
+measurement of N-terminal charge effects on 1HN and 1HCe chemical shifts in peptides.
+Biopolymers, 38:573-581, 1996.
+
+19 - Sahasrabudhe, P.V. and Gmeiner, W.H. The affinity of an oligodcoxynucleotide-peptide
+conjugate for an RNA hairpin loop depends on stereochemistry at the DNA-peptide junction.
+Journal of Biomolecular Structure & Dynamics, 13:585-591, 1996.
+
+20 - Zhang, W., Smithgall, T.E., and Gmeiner, W.H. Separation of NOEs from Degenerate
+Amide Protons in 13C/15N-Labeled Proteins Using a 3D 13C’-Edited NOESY-H(N)CO
+Experiment. Journal of Magnetic Resonance, 111:305-309, 1996.
+
+21 - Zhang, W. and Gmeiner, W.H. Improved 3D HCACO and (H)CACO-TOCSY
+Experiments. Journal of Biomolecular NMR, in press, 1996.
+
+22 - Babcook, D.M., Sahasrabudhe, P.V. and Gmeiner, W.H. Effect of lincar prediction on
+distance constraints obtained from quantitative evaluation of NOESY data in conjunction with
+complete relaxation matrix analysis. Magnetic Resonance in Chemistry in press, 1996

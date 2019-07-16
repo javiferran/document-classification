@@ -1,0 +1,40 @@
+P -/3100 13 Jun. 94 KHO/RPE 3100_txt.doc Page 1
+
+/ OSHA claimes that “A correlation between nicotine absorption and exposure to tobacco smoke
+
+\
+
+has been demonstrated, thus making nicotine an appropriate marker for tobacco smoke in
+pharmacokinetic studies” [59FR, 15974, April 5, 1994] and “It appears that the most effective
+strategy currently achievable would be to rely on nicotine (or cotinine) measurement as a specific
+marker of ETS exposure.” [59FR, 15998, April 5, 1994]. A we chg “ +s 4
+
+Nicotine as a specific marker of ETS exposure:
+
+However, as stated by S.L. Schwartz et al. [S.L. Schwartz et al., 1993] “Nicotine or cotinine
+biomonitoring can provide, at best, only semiquantitative information about exposure, and has
+only limited ability to estimate dose, duration and time since termination of exposure’. Balter et
+al. go even further [Balter et al., 1988], “The predominance of nicotine in the ETS gas phase
+implies that nicotine is not a satisfactory marker for the particle phase and, perhaps, not for
+whole ETS per se”. A necessary condition for nicotine as a valid surrogate marker for ETS would
+be that in real life situations nicotine is present and can be detected with sufficient proportionality
+to other characteristic and biologically relevant constituents of environmental tobacco smoke.
+Analytical measurements, however, under defined and reproducible conditions suggest “that
+some components of environmental tobacco smoke are dominated by contributions from other
+sources in indoor environments (e.g., CO, and to a lesser extent NO, and particles). On the other
+hand nicotine and some other components of environmental tobacco smoke (e.g., myosmine)
+are found in indoor environments at concentrations lower than would be expected. This is due to
+specific loss of gas phase material by deposition to the surroundings’. [Balter et al., 1988 and
+references cited there]. According to Eatough et al. [Eatough et al., 1990] “Environmental
+tobacco smoke will be a constantly changing mixture due to loss of material as a result of
+adsorption or decomposition and due to changes in gas/particulate phase equilibria for volatile
+species” and “These changes ... may preclude the accurate measurement of human exposure to
+
+specific compounds without actual measurement of the compounds of interest.”
+
+Given these complications, OSHA has to provide a quantifiable relationship between the
+measured nicotine (or cotinine) levels and the ETS dose taken up. This relationship must specify
+
+error limits in order to be applicable to safety procedures.
+
+89TGE0Z902

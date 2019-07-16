@@ -1,0 +1,31 @@
+REAL-TIME FAST EVOLVED GAS ANALYSIS BY FTLR METHOD: AN
+EXPERIMENTAL STUDY OF CELLULOSE PYROLYSIS
+
+8. Li, J. Lyons-Hart, J. Banyasz and K. Shafer
+Research, Development, and Engineering
+Philip Morris U.S.A
+
+P.O. Box 26583
+
+Richmond, VA 23261
+
+USA
+
+Abstract
+
+A two heating zone pyrolysis system capable of a heating rate of 40 °C/second and a
+flow rate of 70 ml/second was coupled to a rapid scanning Fourier transform infrared
+spectrometer (FTIR). This fast cvolved gas analysis system was applicd to the study of the
+simultaneous evolution of low molecular weight gas phase products, such as CO, CO», H20,
+CHa, CoHa, and CHO during the pyrolysis of ccllulosc. Different pyrolytic conditions, including
+heating rate, gas flow rate, and residence time, were tested to study their effects on the formation
+of gaseous compounds during cellulose pyrolysis. Efforts were made to achieve a well-
+controlled heating environment and sample temperature measurement, Levoglucosan, a major
+component of tar and a primary pyrolysis product, was also studied. Comparison of the pyrolysis
+products from cellulose and levoglucosan showed great similaritics and provided insights into the
+precursors and formation mechanisms of gas phase products. This experimental method
+provides not only a technique to analyze evolved gases in real time, but information on reaction
+
+mechanisms as well as a way to distinguish and control primary and secondary reactions.
+
+2078582262

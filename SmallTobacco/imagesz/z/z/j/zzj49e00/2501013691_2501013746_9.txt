@@ -1,0 +1,36 @@
+TNO-report
+
+ees
+
+B-92-0388 May 1992 page 10
+
+3.2 Monitoring of the concentrations of the compounds
+
+Formaldehyde was sampled in an absorber in 0.005 M HC! solution and measured colorime-
+trically using the pararosaniline method according to NEN 2795,
+
+Nitrogen dioxide was measured with a Environnement AC 30 NO, monitor based on
+
+chemiluminescence.
+
+Ammonia was measured with a NH3 monitor Thermo Electron Corporation model 14T, based
+on chemiluminescence.
+
+Acetone was measured with a Bruell & Kjaer monitor, based on thermo-acoustic detection.
+All air flows and water flows were measured with flowmeters.
+
+3.3. Membrane stripper tests
+
+A flow chart of the installation is given in Figure 4.
+
+In this flow chart FI means flow indicator and PI pressure indicator.
+
+Tap water
+
+“+ Membranestrioper
+
+ 
+
+O02E 1 O10S2
+
+Figure 4. Flow chart

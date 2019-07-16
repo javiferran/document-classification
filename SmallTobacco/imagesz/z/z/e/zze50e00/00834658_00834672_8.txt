@@ -1,0 +1,87 @@
+CCOSt
+
+ 
+
+Fig. 1. A schematic diagram of a decision tree for the estimation of probable toxicity. Assessors should
+(a) start with question 1, (b) proceed by ‘no’ — or \. ‘yes’, (c) move from any underscored number
+encountered to same circled number and (d) proceed to final classes I, II or II. Working downwards
+
+through the tree, the symbols designate the followin
+
+and low toxicity (@-@-@); heterocyclics (——):
+(-O-@-0): alicyclics (~—-).
+
+Definitions for use with the decision tree
+
+The use of this decision tree and these definitions
+presupposes a working familiarity with organic chem-
+istry, biochemistry and food chemistry. Even indivi-
+duals with a broad knowledge in these areas will find
+it useful to consult references such as the Merck Index
+(1976) and the ‘Weurman Report’ (Central Institute
+for Nutrition and Food Research TNO, 1973), for
+detailed information on natural occurrence in food,
+and Hawk’s Physiological Chemistry (Oser, 1965).
+
+Users should review these definitions carefully and
+refer to them frequently. Because they are fashioned
+to serve the needs of this paper, they differ in several
+minor, but important, respects from the meanings
+commonly attributed to these words and phrases. Ita-
+licized key words used in the procedure (pp.
+258-263) are followed by a letter, in paren-
+thesis, referring to the following definitions:
+
+(A) Aliphatic includes olefinic and polyolefinic, but not
+
+acetylenic or alicyclic compounds.
+
+(B) Aromatic means that the substance has at least one
+
+benzene, furan, thiophene, pyridine or pyrrole ring, how-
+
+ever substituted and whether or not it is fused to another
+ring.
+
+(C) Common component of food. In something as diverse,
+
+changing and occasionally uncertain as natural occur-
+
+& groupings: biological normality (@ @ @), high
+terpenoids (----); aliphatics (-O-O-O); aromatics
+
+rence, it is only possible to define a guideline, not a
+firm rule. For this decision tree, the term common com-
+ponent of food denotes a substance that has been
+reported in the recognized literature as occurring in sig-
+nificant quantity (approximately 50 ppm or more) in at
+least one major food, or in trace quantities at the ppm
+level or less in several foods, including minor or less
+frequently consumed foods. The latter include spices,
+herbs and ethnic specialities. This definition excludes
+natural of man-made contaminants, and hormones.
+(D) Common terpene means an isoprenoid compound
+(carbon skeleton made up of two or more 5-carbon iso-
+prene units), reported in the literature as a more than
+trace constituent of two or more generally consumed
+foods, either raw or as ordinarily prepared for consump-
+tion, without added ingredients.
+
+(E) Functional group is a portion (sometimes called a
+tadical) of an organic molecule consisting of a combina-
+tion of atoms of two or more elements {at least one
+of which is not hydrogen or carbon) and causing the
+molecule to exhibit a characteristic set of reactions. For
+the purpose of this classification this definition excludes
+carbon-carbon double bonds and aromatic rings.
+
+(F) Normal constituent of the body means any systemic
+constituent present at a normal physiological level,
+whether free or combined, except hormones. This in-
+cludes essential nutrients and major food constituents
+and the physiologically normal metabolites of each. It
+excludes transitory substances present only as a result
+
+P--RO
+
+999PE800

@@ -1,0 +1,51 @@
+. | J INBIFO Institut fir biologische Forschung GmbH - K6in PRIORITY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Addendum to Report P 0500/3237 97/N0/9 Page 20
+i
+i |
+ee CB eee | a ACTIVA- STRAIN CIGARETTE REGRESSION COEFFICIENT RELATIVE
+‘ | TION (rev. /mg TPM) TO LR4F
+po @)
+bo, M SE SD RSD N
+i )
+|
+I, WITHOUT TAI537 VIRGO-CA (a) 1 1 2 162.0 4 -
+| VIRGO-CC (a) 3 2 3 106.2 4 -
+| 1R4F (a) 8 2 5 55.2 4 -
+toa
+; | WITH $9 TAI537 VIRGO-CA 32 2 4 12.7 4 9
+Dt VIRGO-CC 38 3 7 184 4 10
+. TR4F 364 (b) 1836 9.8 4 100
+}
+pot
+i
+! Table A19 SPECIFIC MUTAGENICITY OF TPM
+
+: Remarks: date of assay: 09-APR-97
+I. ' regression coefficient (specific mutagenicity)
+i calculated using Poisson weights
+
+ 
+
+(a) negative response
+{b) calculated up to dose 0.2 mg TPM/plate
+
+M = 970924 15:11:13 P. 1 USER_DISK:[IT_A_HJSPEC2_3237.L1S;13
+
+ 
+
+eLiivly90z

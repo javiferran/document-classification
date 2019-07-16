@@ -1,0 +1,129 @@
+Atrial natriuretic factor receptors and cyclic GMP in fibroblasts
+
+"41 ANF bound (fmol/10° cells)
+
+Q 15 30 4 80 90 9 2 4
+
+Time {mini
+
+Fig. 1. '*53-ANF binding to confluent rat lung Abroblasts
+
+ 
+
+P8LANF ] [ned
+
+ 
+
+7”
+
+Bound/tree
+
+ 
+
+8 10 Qo 50 WO 150 200
+423). ANF bound ({mot/10° cells}
+
+(a) Time-course of specific ANF binding to fibroblasts. Confluent celis were incubated with 500 pm-'*5]-ANF for various times
+at 37°C. (5) Saturation curve of ANF binding to fibroblasts. Confluent cells were incubated with increasing concentrations
+of %1-ANF for 20 min in the absence or presence of 1 4M unlabelled ANF, Total (@). specific (©). and nonspecific (&) binding
+were determined as described in the Experimental section. (¢) Scatchard plot of the equilibrium binding data, Each point
+represents the mean of triplicate samples. The $.£.mM. of the uiplicate samples was less than 10°... The data presented from one
+experiment are representative of four experiments with similar results. In {c), Bmax, = 216 fmoi/i0° cells and Kp = 0.6 nM.
+
+ 
+
+216433 fmol bound/10* cells, which corresponds to
+130000 + 20000 sites/cell.
+
+Molecular characteristics of ANF receptors in rat lung
+fibroblasts
+
+The molecular characteristics of the ANF binding sites
+in rat lung fibroblasts were examined by covalently
+cross-linking '*51-ANF to its receptors with DSS. Fig.
+2(a) shows that under non-reducing conditions of
+SDS/PAGE two sites were specifically labelied. Approx.
+70°% of the binding sites had a motecular size of 66 kDa,
+while the remaining sites were of 130kDa. In the
+presence of #-mercaptoethanol most of the 130 kDa sites
+were converted to 66kDa (Fig. 24). However. a
+jow-abundance ANF-binding site of 130 kDa was still
+visible on the autoradiograms. Under the conditions
+used here, 66% of the total ANF receptors are
+cross-linked with '*i-ANF (results not shown).
+
+ANF and sodium nitroprusside increase cyclic GMP
+accumulation in rat lung fibroblasts
+
+ANF produced a rapid rise in cyclic GMP by 3 min
+and a maximai 100-fold increase in cyclic GMP occurred
+at 5 min in the presence of isobutylmethylxanthine (Fig.
+3a). The elevated levels of cyclic GMP were maintained
+for at least an additional 10min. A 5-fold increase in
+cyclic GMP was detected at an ANF concentration of
+nm and a 100-fold increase was observed at 100 nM
+(Fig. 35). Sodium nitroprusside produced about a
+350-fold increase in cyclic GMP by | min (Fig. 3a) and
+the maximal response occurred at 10min. A 2-fold
+increase in cyclic GMP accumulation was observed at
+10nmM, and I mmM-sodium nitroprusside produced a
+500—600-fold increase in cyclic GMP (Fig. 3c). The
+addition of sodium nitroprusside and a maximally
+effective concentration of ANF io rat lung fibroblasts
+resulted in levels of cyclic GMP that were additive (Table
+1). This observation suggests that ANF and sodium
+nitroprusside were increasing different pools of cyclic
+GMP by activating different isoenzyme forms of
+guanylate cyclase.
+
+Vol. 244
+
+PUBLICATIONS
+
+Effect of ANF and sodium nitroprusside on particulate
+and soluble guanylate cyclase activity - .
+
+Fig. 4(a) shows that !00nM-ANF increased the
+activity of the particulate enzyme by !0-fotd after 1 min.
+An increase in particulate guanylate cyclase activity by
+ANF was observed over a 15 min time tourse. The
+activity of the soluble enzyme was not altered by ANF
+(Fig. 45). In contrast, sodium nitroprusside did not alter
+the activity of the particulate enzyme (Fig. 4a), but
+produced a maximal 17-fold activation of soluble
+guanylate cyclase (Fig. 46).
+
+DISCUSSION
+
+ANF acts on a variety of tissues to elicit diverse
+physiologicat effects that serve to maintain blood
+pressure and intravascular volume. The precise cellular
+actions of ANF that mediate these effects are not known.
+In this study we demonstrated that rat lung fibroblasts
+possess ANF receptors that are coupled to guanylate
+cyclase and increased cyclic GMP formation. The lung
+fibroblast ANF receptors have a Kp of 0.66 nM.
+Surprisingly, rat lung fibroblasts have £30000 sites/cell,
+which is comparable with or greater than the number of
+ANF receptors reported for vascular {Hirata ef ai.,
+1984; Leitman er af, 1985; Schenk ef al., 1985; Leitman
+& Murad, 1986), adrenal cortical (D.C. Leitman &
+F. Murad, unpublished work) and kidney (Ballermann
+et al., 1985) celis. At the present time these are thought
+to be the major target tissues for ANF.
+
+Two forms of guanylate cyclase exist in most cells, and
+have different physicochemical properties (Murad, 1986),
+The membrane-bound form, known as the particulate
+enzyme, is composed of one peptide with a molecular size
+of 120-130 kDa (Kuno er a/., 1986), while the cytosolic
+or soluble form is composed of two subunits with
+molecular sizes of 70 and 82 kDa {Kamisaki et a/., 1986).
+The reason for the existence of two isoenzymes for
+guanylate cyclase is not clear. One potential advantage
+of having two isoenzymes is that the activation of each
+isoenzyme by various agents may lead to the elevation of
+
+026507
+
+10345739

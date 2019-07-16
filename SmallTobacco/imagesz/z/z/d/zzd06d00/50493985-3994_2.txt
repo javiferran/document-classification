@@ -1,0 +1,208 @@
+J. Vinon,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2420) PHELPS ET AL.
+cm cra cra /
+Ad SELA ; : ay : ]
+(289 aa) + . . 1 ut
+x By 16 wroim a
+Ad 5-ELA efelpfp tia El-{t]y(p tL] - - v[P|-|E viFpujr(eH zac Fplp(s op c Fisee
+15] 6 o 61) lat ital
+HPV 16 E7 GD|T|P TLH EY |MLIDL ~~ Obit rp Ly ichIzaLNe Ss Fe Cyr Ee
+HPV 18 E7 GP Kalt iglojrivin HL erow-frefroriensarso-see ee S|
+~ 7 . i
+HPV 6 E7 eruvercixiirivizis| --ofelelol-ewiellalck|sqnvosisen eee tS)
+HEV 11 E7 GRLVTLKorviLiDL! --QiPjPloj- PWiGiLinicyiEQLEOS|S ED Ic} 'C|P I Cy
+: ¢|
+SV40 T-Ag RE|EIS Lit|M[pi—-|LiL GIL] NAFN-|E/- E nitlriclsieie » -[els|s po Ic) HE KH
+19 99 me a9 a
+B ~ o
+F 1 fF 1
+HPV16 Toceacd----- fy e PDRIAN yw rv TFC paren fossines fekbinsns pavers Pore
+HPV18 IT DGVNHQHLPAR hed que calesau Els SADDL nrorkr irs vcpirca'saa
+0 | ARTE | B ey fy | fons)
+oq
+HPV6 ae ~oosccoppienarenecocospvas igs spony ipetnnensp vce hae
+HPVL1 wokkQDAg~~-~----~— PILTORY QILTCCCGCDSNVRLVVECEDGDIRQLQDLLLGTLNIVCPICA-FKP,
+FIG. 1. (Top) Amino acid sequence homology between Ad E1A, HPV16 E7, and S¥V40 T antigen (T-Ag). Amino acids identical to these
+
+ 
+
+in Ad type 5 E1A are boxed. (Battom) Amino acid sequence conservation in the carboxyl terminus of HPV E7, The carboxyl half of the E7
+proteins from HPV types 16, 18, 6, and 11 are compared. Amino acids conserved with respect to the HPV16 E? protein are boxed. The
+Cys-X-X-Cys motifs which are also found in CR3 of ELA are highlighted in black.
+
+teine, and the E? protein was immunoprecipitated with a
+polyclonal rabbit antiserum. In addition, Western blot anal-
+ysis of unlabeled, immunoprecipitated E7 protein was used
+to confirm the relative levels of stable E7 protein that
+resulted from introduction of the various amino acid alter-
+ations. Under these conditions, [*>S]cysteine labeling was a
+more sensitive method for detection of transiently expressed
+E7 protein. Data from representative protein gels arc shawn
+for each domain, and although somewhat different gel con-
+ditions and immunoprecipitation washes were employed for
+some experiments, a reconstructed wild-type E7 was always
+included as an internal control.
+
+Stability of HPV16 E7 mutants. The amino acid mutations
+in domains 1, 2, and 3 are depicted in Fig. 3, 4, and 5,
+respectively. Amino acids which are conserved with respect
+to Ad EIA are indicated by solid circles. The two point
+mutants in Fig. 3, pl460 and pl461, make comparable
+amounts of stable E7 protein compared with a reconstructed
+wild type, indicating that any biological effect is not a result
+of gross alteration of the intracellular stability of the mutated
+protein. By contrast, substitution of a single valine residuc’
+for D-14 and L-15 in p1468 which is analogous to that
+described for E1A (23) resulted in an unstable protein which
+was undetectable by either *S labeling or Western blot
+analysis. The deletion mutant (P-6 T-7 L-8 H-9 E-10), p1469,
+which has been previously described (30), also was found to
+encode a stable polypeptide.
+
+The introduction of various mutations into domain 2 of the
+E7 protein (Fig. 4) led to a substantial reduction in protein
+
+stability in only one cuse, that of pl455 (S-32 to C). Each of
+the other amino acid substitutions and deletions did not
+significantly reduce the intracellular stability of the protein.
+
+Amino acid changes in the carboxyl terminus of the E7
+polypeptide (Fig. 5} in many instances resulted in unstable
+proteins. Substitution or deletion of cysteine residues
+(p1650, pl651, p1656, and p1660) resulted in an unstabic
+protein that could not be detected by either **S labeling or
+Western blotting (data not shown). Deletions of six to eight
+amino acids in pl657, p1658, and p1639 each resulted in a
+partial reduction in protein stability; however, the deletion
+of the carboxyl-terminal Cys-X-X-Cys motif, p1660, had the
+most profound effect an the level of stable protein, since
+litle or no E7 could be detected. The amino acid substitu-
+tions in pl647, p1648, and pl649 were not assessed for
+protein stability, although, as will be discussed below, they
+were fully wild type in their biological characteristics, sug-
+gesting that they made stable E7 proteins. The introduction
+of premature termination codons resulting in the deletion of
+as few as nine amino acids (I-89 to stop) resulted in biolog-
+ically inactive mutant proteins presumably because of re-
+duced polypeptide stability (data not shown). These muta-
+tions were not analyzed further.
+
+Biological activity of the E7 mutant proteins. Each of the
+stable, mutated’ proteins was then assessed for biological
+activity (Tables 1 to 3). The two point mutations in domain 1.
+pl460 and pl461, demonstrated a wild-type capacity for
+cooperation with an activated ras oncogene in the transfor-
+mation of BRK cells in three separate experiments, Further-

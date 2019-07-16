@@ -1,0 +1,143 @@
+the HDL contained no detectable apoB-100. Lipoprotein concentrations were
+determined by a modified Lowry assay (36) and the apoprotein composition
+verified by SDS polyacrylamide gel electrophoresis (SDS-PAGE), Glu-plas-
+minogen was purified as described (16, 37}.
+
+Radiolabeling of proteins and lipoproteins. Lpta) and Lp(a)-free LDL
+were iodinated using the iodine monochlaride method (38, 39). Specific activi-
+ties were 0.60 + 0.03 and 0.56 + 0.02 pCi/ug for °5]-Lpfa) and "-LDL, re-
+spectively, and the '*]-Lp(a) and '°51-LDL preparations were 98 + 2 and 97 +
+3% precipitable, respectively, in 13% trichloroacetic acid. The integrity of the
+'25]-Lp(a) particle was assessed by immunoprecipitating the ligand with the pan
+apoB-100 specific monoclonal antibody, MB4? (40). 2ST-Lp(a) was 88% im-
+munoprecipitated under conditions where 91% of ”51-LDL was immunopreci-
+pitated. In addition, monoclonal antibodies to apota} (specificity verified with
+recombinant apo(a)) immunoprecipitated 90% of the "S1-Tp(a) under condi-
+tions where <2% of the ?5[-LDL preparation was immunoprecipitated. Plas-
+minogen was radioindinated using a modified chloramine T procedure as
+described (41).
+
+Cells. U937 manocytoid cells were grown in RPMI-1640 supplemented
+with 5% FCS, penicillin G (100 U/ml), 2 mM glutamine and streptomycin
+(100 wg/ml). Human umbilical vein endothelial cells (HUVEC) (second pus-
+sage) were cultured as described (42). Unless otherwise indicated, none of
+the cells were exposed wo medium containing lipoprotein-depleted serum.
+Thus, the high affinity apoB/E receptor for LDL was down regulated in the
+cells studied.
+
+Ligand binding assays. U937 cells, at 4 X 10¢%ml in Hanks’ balanced salt *
+
+solution, 0.05 M HEPES, pH 7.4 (HBSS) were incubated with 5] ligands and
+competitors in the presence of a final concentration of 0.1% bavine serum
+albumin [BSA (Calbiochem, La Jolla, CA)] for the times and under the divalent
+ion conditions indicated in each experiment. Bound and free ligands were
+separated by layering 50 1] triplicate samples over 300 pl of 20% sucrose in
+HBSS and centrifuged for 2.5 min in a Beckman microfuge (Beckman Instru-
+ments, Inc.), As the density of the sucrose solution is 1.08, "5]-Lp(a) that is not
+cell-associated should remain in the supernalant, Over the course of these ex-
+periments <0.04% of the added !25]-Lp(a) was recovered in the tube tips after
+centrifugation in the absence of cells, The tips of the tubes were cut off and
+counted in an Iso-Data gamma counter (Iso-Data, inc., Palatine, IL}. The num-
+ber of molecules or particles of ligand bound/cell was determined from the
+specific activities of the radiolabeled ligands. Unless otherwise indicated, ull
+binding data are presented as the means + standard deviations.
+
+Since Lp(a) is a large lipoprotein particle, we sought to verify that our
+binding assay provided sufficient separation of bound from free tigand. This
+was determined by applying the washing procedure used by Ho et al (43) to
+measure LDL. binding to celts. Briefly, binding assays were carried out in
+duplicate volumes of 200 1. Following the incubation, the tubes. were cen-
+trifuged in a Beckman Microfuge 12 at 12,000 rpm for 2 min at 22°C. The
+Supernatant was removed, the pellet was rinsed (but not resuspended) with
+Dulbecco's phosphate-buffered saline, 884 uM CaCl, and 20 mg/ml BSA
+(Buffer M) and centrifuged again at 12,000 rpm for 1 min at 22°C. The Super-
+natant was removed and the pellet was resuspended in 75 yl of Buffer M; 65 jal
+were then applied to a 20% sucrose cushion (300 il in Buffer M) and centri-
+fuged for 2.5 min at 22° C at 12,000 1pm. The results were compared for incu-
+bation mixtures that had been directly applied to the sucrose cushions without
+the washing step. At an input concentration of 10: nM STL p(a), 4.6 + 0.2 X
+10° and 5.3 + .04 X 10° molecules were hound per cell and total binding was
+inhibited by 72% and 76% by 0.6 uM unlabeled Lp(a) for the washed and
+unwashed conditions, respectively. At an input concentration of 10 nM
+"S[-plasminogen, 10+ 2,7 X 10% and 7.8 + 0.6 X 10* molecules were bound
+per cell and total binding was inhibited by 92% and 95% by 0.2 M EACA for
+the washed und unwashed conditions, tespectively. These results indicate that
+phase separation was not only adequate but also effective.
+
+Binding isotherms were constructed by adding increasing amounts of
+"51-Lp(a) or '51-plasminogen to cells for 150 min at 37° C, and the data were
+analyzed using the Delta Graph Program on a Macintosh [lIsi computer for
+curve fitting and Scatchard plots. For studies to measure reversibility of
+binding, '5I-Lp(a) was bound to U 937 cells for 150 min at 37°C ina volume
+
+ 
+
+of 200 il. Samples were then diluted to 10 ml with HBSS. Fifteen minutes
+later, the samples were centrifuged and the cell pellet was counted for radio-
+activity. Cell recovery, from the diluted volume, measured using *!Cr labeled
+cells, was determined to be >80%, To calculate percent reversible binding, the
+amount of "51-Lp(a} recovered with the diluted cell samples was compared ta
+that bound to the undiluted samples, correcting for celt recovery.
+
+For ligand binding analyses with confluent HUVEC monolayers. the cells
+were washed four times with HBSS supplemented with 23 mM CaCl, and
+0.8 mM MgSO, Then radiolabeled ligands and competitors were added in a
+volume of 200 wl. Following incubation for 2 h at 4° C the unbound "S]Heands
+were removed by washing four times with HBSS containing 0.1% BSA. The
+cell-associated "5[-ligands were extracted with 0.1% SDS (sodium dodecy]
+sulfate). This washing protocol is similar to that used to measure lipoprotein
+and plasminogen binding to adherent cells (44-46). When culture wells were
+treated with BSA alone, minimal Lp(a) binding was detected.
+
+Reagents. Gangliosides and related molecules, soy bean trypsin inhibitor,
+crystalline enolase from rabbit muscle and ovalbumin were from Sigma
+(St. Louis, MO). RNAse was from Worthington (Frechold, NJ). Trasylol was
+from FBA Pharmaceutical (New York, N.Y.). Porcine pancreatic carboxy-
+peptidase B (CPB) was from Calbiochem (La Jolla, CA). The cell line secreting
+the monoclonal antibody W6/32 was from American Type Culture Collection,
+and the purified IgG was a gift from Dr. Dario Altieri, The Scripps Research
+Institute, La Jolla, CA.
+
+Results
+
+Lp(a} Interacts with Cellular Binding Sites for Plasminogen
+and Lipoproteins
+
+As the focus of our studies was to characterize the interaction of
+Lp(a) with plasminogen receptors, conditions optimal for plasminogen
+binding (37° C without added divalent cations) were selected for analy-
+sis. Interactions with the high affinity apoB/E receptor for LDL (typi-
+cally measured at 4°C, in the presence of calcium and using cells
+grown in lipoprotein-depleted serum) should be minimized under these
+conditions. In addition, to minimize potential interactions with scaven-
+ger receptors, unstimulated U937 cells were used as this cell line exhi-
+bits minimal scavenger receptor expression (47) unless treated with a
+differentiation inducing agent (48). Under these experimental condi-
+tions, the interaction of '°5]-Lp(a) with U937 cells was examined. With
+"51-Lp(a) at 10 nM, time-dependent binding was observed that reached
+an apparent steady state at 120 min.
+
+To assess the specificity of this interaction, we compared the effects
+of nonlabeled Lp(a) and several other protcins on "3]-Lp(a) binding
+(Table 1). Nontabeled Lp(a) produced extensive inhibition (73%) indi-
+cating that the interaction of the radiolabeled ligand involved a limited
+number of binding sites, i.e., was saturable, Despite being present at a
+100-fold molar excess, four unrelated proteins produced minimal inhi-
+bition of binding (<15%), suggesting that the interaction of 'S]-Lp(a)
+with the cells was specific. Notably, <3% inhibition of binding was
+produced by albumin (80mg/ml BSA) at plasma levels. Plasminogen
+Was tested as a competitor. In contrast to the unrelated proteins, it prod-
+uced significant inhibition (459%). Trasylol, added with the plasmino-
+gen to neutralize any plasmin activity, did not eliminate the inhibitory
+effect of plasminogen. In addition, the lysine analog, EACA, produced
+52% inhibition of '"5I-Lp(a} binding, consistent with a contribution of
+the lysine binding site(s) within Lp(a) to its interaction with these cells,
+Despite the efforts to limit !°5I-Lp(a) binding dependent upon its lipo-
+protein character, LDL produced significant inhibition (Table 1). At
+250 nM LDL, 'I-Lp(a) binding was inhibited by 61%. When
+'I-Lp(a) binding was measured in the presence of a combination of
+0.2 M FACA and 250 nM LDL, 75% inhibition of binding was at-
+
+459
+
+40005200

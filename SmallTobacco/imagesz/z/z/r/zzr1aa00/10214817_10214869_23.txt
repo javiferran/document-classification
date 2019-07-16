@@ -1,0 +1,61 @@
+PROPOSED STUDIES _.
+Contract CIR-0030 = This Document Subject to
+
+Confidentiality Agreement
+
+C. Short-term Assays Relating to Possible Initiation Events,
+
+1. CTR-96. Inhibition of pulmonary DiA repair capacity after
+exposure to cigarette smoke. (Dr. RK. Rasmussen). Continuation.
+
+a. .Rationale.
+
+Collaborative studies with Dr. R. Rasmussen, (University
+of California at Irvine, Irvine CA, CA) are in progress to characterize
+the effects of whole cigarette smoke on the capacity of pulmonary tissue
+to repair DNA damage in in vitro assay. Previous results indicated that
+chronic exposure of BC3Fi/Cum mice to 2Al cigarette smoke resulted in én
+inhibition of repair and that this inhibition persisted for at least 6
+months after exposure was terminated. When these studies were extended
+to include exposures using 2R1 cigareties and C3N/An? mice,in additio: to
+EO3F1/Cum, no inhibition of rcpair was observed up to 27 weeks smoke ex~
+posure (sce Proaress Report). Differences in expcsure conditions could account
+account for the lack of inhibition with the 21 cigarette and to test this
+possibility, the following experiment is in progress.
+
+ 
+
+b. Procedure.
+
+The SEM JI B and C are being used to generate smoke from
+2R1 and 341 and 2Ai cigareites, BC3F1/Cum mice, 8-10 weeks old, have
+been adapted to smoke from all threc cigarette types. The following table
+describes the exposure conditions for each cigarette.
+
+ 
+
+Table 7
+
+Cigarette Smoke Smoke Total Sinoke Number of
+
+Type Concentration Exposure/Nin [xposure/Day Cigarettes
+(%) (sec) (sec)
+
+2R1 10 20/40 800 10
+3A] 10 30/30 3000 10
+2A1 10 30/30 3000 10
+Sham 0 0 0 0
+Shelf 0 0 0 0
+
+A
+. Mice will be shipped to Dr. Rasmussen after 2, 3,4, 5 and
+
+6 months smoke exposure for analysis of pulmonary DNA repair capacity. Mice
+from each group and time will be treated at MA with 3H-TdR to determine the
+labeling index in lung, trachea, liver, spleen, bladder and kidney (see
+CTR-107). Monthly weights are recorded on al1 mice and each smoke ex-
+posure is documented and entered on computer. Thus data wil? be available
+to estimate the dose of TPN for each cigarette type and a correlation made
+with the inhibition or lack of inhibition of pulmonary DNA repair capacity.
+
+-20- SF 0826205

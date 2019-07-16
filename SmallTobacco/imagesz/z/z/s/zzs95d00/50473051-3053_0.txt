@@ -1,0 +1,54 @@
+1) Synopsis of Current Research:
+There are many drugs of abuse, each of which has a distinctive pharmacology. For example,
+
+stimulant drugs (e.g., amphetamine and caffeine) and depressant drugs (e.g., alcohol and
+barbiturates) differ in their subjective effects, but both types of drugs are abused. It has been
+demonstrated in animal studies that certain brain areas play relatively more important roles in the
+development and maintenance of behaviors related to the rewarding properties of drugs of abuse.
+Two important pathways are the mesolimbic and mesocortical dopamine pathways, which emerge
+from the ventral tegmental area of Tsai (VTA). Projection of the neurons of the VTA to the nucleus
+accumbens (mesolimbic) and to the prefrontal cortex (mesocoitical) appear to be important for the
+expression of the rewarding properties of a wide variety of drugs of abuse. Most drugs of abuse
+increase neurotransmission through the mesolimbic-mesocortical sytems, either by increasing activity
+of VTA neurons (e.g., nicotine, opiates, ethanol) or by augmenting the release of dopamine in the
+terminal areas (e.g., cocaine and amphetamine). Because the VTA is one important area for the
+mediation of drug-induced reward, the study of how various abused substances affect neurons of
+the VTA is a critical for the treatment of addiction.
+
+The overall goal of my research is to develop a better understanding of the physiology and
+pharmacology of central reward systems. In order to approach this goal, I have developed a brain
+slice preparation of the VTA suitable for intra- and extracellular recording. Putative dopamine-
+containing neurons of the mesencephalon have been well characterized electrophysiologically in
+vivo; neurons in the brain slice appear similar to neurons studied in vivo. VTA neurons fire
+spontaneously in a slow (0.5 - 5 Hz), regular pattern. We have examined the effects of several drugs
+of abuse on this spontaneous activity. Among the agents we have examined are cocaine (Brodie
+and Dunwiddie, 1990) and ethyl alcohol (Brodie, et al., 1990). We are continuing our study of
+ethanol, by using intracellular recording in an attempt to determine the mechanism of action of
+ethanol-induced excitation of VTA neurons. Ethanol appears to cause a slight depolarization, a
+decrease in the action potential amplitude, and a decrease in the amplitude of the
+afterhyperpolarization (Brodie and Shefner, 1989). Further experiments are planned to determine
+whether any of these effects underlies the ethanol-induced excitation of VIA neurons.
+
+We have also investigated the effects of nicotine on the spontaneous activity of VTA neurons
+(Brodie, 1991). Nicotine excites VTA neurons in a concentration-dependent manner. VTA neurons
+possess an EC50 for nicotine-induced excitation of about 250 nM; therefore, VIA neurons are more
+sensitive to the excitatory effects of nicotine than many other central neurons. Furthermore, little
+desensitization to the effects of nicotine are seen at lower concentrations (less than 1 pM) (Brodie,
+1991). The response of VTA neurons to nicotine is blocked by hexamethonium or mecamylamine.
+VTA neurons also possess pirenzepine-sensitive muscarinic cholinergic receptors (Brodie and
+Mueller, 1988; Lacey, et al, 1988), so studies of nicotinic cholinergic receptors must be performed
+with specific nicotinic agonists, and/or in the presence of muscarinic cholinergic antagonists. With
+our preparation, a full range of concentrations of nicotine can be applied to the same VTA neuron,
+which would permit a more precise characterization of the specific receptor subtype involved in
+mediating nicotine-induced excitation of VTA neurons.
+
+2) Research Plan and Goals of Proposed Research
+Molecular biologists have identified a number of different subtypes of the nicotinic
+
+cholinergic receptor. It is known that the nicotinic cholinergic receptor is a pentamer formed from
+4 subunits: 2 « subunits, and one each of B, y (or e) and 8. Recent studies from a number of
+laboratories indicate that pharmacological specificity is conferred by the « and B subunits. Five
+forms of the « subunit («2 - #6) and four forms of the B subunit (B2 - 65) are found in rat brain.
+Different combinations of the various forms of these subunits constitute functionally different
+
+1

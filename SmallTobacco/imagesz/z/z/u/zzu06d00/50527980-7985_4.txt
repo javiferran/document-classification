@@ -1,0 +1,135 @@
+Expression of NFATp in PC12 Cells and in Neurons
+
+ 
+
+ 
+
+Fic. 4. Immunohistochemieal localization of NFATp in murine
+olfactory epithelium and olfactory bulb. Tissue sections were
+stained using antiserum directed against peptide 67.1 of NFATp and a
+fluorescent second antiserum. Mature receptor neurons in the olfactory
+epithelium (upper panel) and glomeruli in the olfactory bulb (lower
+panel) were specifically labeled.
+
+that two C-terminal peptides corresponding to the major alter-
+natively spliced forms of NFATp in T cells can he detected in the
+neuronal cells by Western blotting or immunvhistochemistry.’
+In view of the identical mobility of brain and T cell NFATp on
+SDS-polyacrylamide gels and the array of cormmon antigenic
+determinants, the simplest interpretation is that the neuronal
+and T cell isoforms are identical.
+
+Since this paper was submitted, NFATp mRNA has been
+detected in mouse brain by an RNase protection assay using a
+probe based on the sequence of T cell NFATp (37). This finding
+complements our demonstration that the functional NFAT p
+protein is expressed in a subset of cells in the nervous system
+and strengthens the case that the T cell and neuronal forms of
+NFATp are products of a single gene. More detailed RNase
+protection studies might show whether there are distinct neu-
+ronal isoforms of NFATp.
+
+The sequence of a second NFAT family protein, NFATe, has
+been reported recently (37). NFATc does not contain peptides
+67.1, 67.2, 72, or the C-terminal peptides recognized by our
+antisera and, therefore, would not have been detected in our
+experiments. It is unlikely, however, that NFATe is abundant in
+brain since RNase protection assays failed to detect the mRNA
+encoding NFATc (37). Further work will be required to deter-
+mine whether ather NFATp family proteins are present in the
+nervous system.
+
+An important question for future investigation is whether
+the fanction of NFATp is regulated similarly in neural cells and
+in T cells. In T cells, NFATp is recruited to participate in the
+transcription of several cytokine genes, including the genes for
+IL-2, IL-8, IL-4, granulocyte-macrophage colony-stimulating
+factor, and tumor necrosis factor a, by a mechanism that in-
+
+ 
+
+5A M. Ho, A. Raghavan, and P. G. Hogan, unpublished data.
+
+28185
+
+volves cytosolic calcium mobilization, activation of the calcium-
+and calmodulin-dependent serine/threonine phosphatase cal-
+cineurin, and translocation of NFAT+p from the cytosol into the
+nucleus (reviewed in Ref. 38). Activation of NFATp in neural
+cells may be regulated by the same signaling pathway, since
+increases in cytosolic calcium occur in response to electrical
+signaling and to neurotransmitters and since calmodulin and
+calcineurin are widely distributed in the brain (23, 24). The
+transcriptional activity of nuclear NFATp in T cells is further
+controlled in some cases by its association with other transcrip-
+tion factors. Transcription from the IL-2, IL-3, granulocyte-
+macrophage colony-stimulating factor promoters in T cells re-
+quires cooperation between NFATp and Fos/Jun family
+proteins (38), and it is likely that transcription of some neuro-
+nal genes will also require association of NFATp with these
+proteins. Fos/Jun family proteins are induced in the nervous
+system by growth factors and by a variety of other physiological
+signals (25-29). It remains possible, of course, that the activa-
+tion and transcriptional functions of NFATp are regulated by
+additional pathways in neural cells that differ from those in T
+cells.
+
+The experiments reported here document the presence of
+NFATp in the olfactory receptor cells of the murine nervous
+system and in the PC12 cell line. The cellular mechanisms that
+control the activation and transcriptional function of NFATp in
+neuronal cells can be addressed in studies of PC12 celts, for
+which a wealth of information is available about calcium-acti-
+yated, nerve growth factor-activated, and other signaling path-
+ways. Insights into the biological functions of NFATp in neu-
+rons may be obtained from a closer investigation of the
+distribution of NFAT» in the nervous system and the timing of
+its appearance in the.developing nervous system. Combined
+use of these approaches promises rapid progress toward under-
+standing the role of NFATp in neuronal gene transcription.
+
+Acknowledgment-—We are grateful ta Lisa Horowitz, who provided
+cryostat sections for the immunohistochemical experiments,
+
+REFERENCES
+
+1. Shaw, I-P, Utz, P.J., Durand, D. B., Toole, J. J., Fmmel, B.A. and Crabtree,
+G. R. (1988) Seience 241, 202-205
+2. Brabletz, T,, Pietrowski, l., and Serlling, E. (1991) Nucleic Acids Res. 19, 61-67
+3. Chuvpilo, $., Schomberg, C., Cerwig, R., Heinfling, A., Reeves, R., Grummt, F,
+and Serfling, E. (1993) Nucleic Acids Hey. 21, 5694-5704
+4, Cockerill, P. N., Shannon, M. B, Bert, A. G., Ryan, G. B., and Vadas, M. A.
+(1993) Proc, Natl, Acad, Sci. U. 8. A. 90, 2468-2470
+5. Goldfeld, A. E., McCaffrey, P. G., Strominger, J. L., and Rao, A (1993) J. Exp.
+Med. 178, 1865-1379
+6. Szabo, 8. J., Gold, J. 8, Murphy, T. L., and Murphy, KM, (1998) Mol. Cell.
+Biol. 13, 4793-4805
+7. Rooney, J. W., Hodge, M. R., McCafirey, P. G., Rao, A, and Glimcher, L. H
+(1994) EMBO J. 13, 625-632
+8. Jain, J., McCaffrey, P. G., Valge-Archer, V. E., and Rao, A. (1992) Nature 356,
+801-804
+9. Boise, L. H., Petryniak, B., Mao, X., June, C. H., Wang, C.-¥., Lindsten, T.,
+Bravo, R., Kovary, K., Leiden, J. M., and Thompson, C. B. (1993) Mol. Cell,
+Biol. 13, 1911-1919
+10. Castigli, E., Chatila, ‘I. A., and Goha, R. 8, (1998) J. Immunol. 150, 3284-3290
+1L Northrop, J, &,, Ullman, K. S., and Crabtree, G. R. (1993) J. Biol. Chem. 268,
+2917-2928
+12, Masuda, E. §., Tokumitsu, H., Tsuboi, A., Shlomai, J., Hung. P.. Arai, K.-L, and
+‘Arai, N. (1999) Mol. Cell, Biol. 13, 7399-7407
+19. Flanagan, W. M., Corthesy, B., Bram, R. J., and Crabtree, G. R. (1991) Nature
+352, 803-807
+14. Jain, J., McCatlirey, P. G., Miner, Z., Kerppola, T. K., Lambert, J. N., Verdine,
+G. L., Curran, T, and Rao, A. (1993) Nature 385, 352-365
+15. McCaffrey, P. G., Perrin, B. A., Soderling, T. B., and Raa, A, (1993) J, Biol.
+Chem. 268, 2747-8752
+IG. Schreiber, 8. L.. ai. } Crabtree, G. R. (1992) Immunol. Today 18, 186-142
+17. Tokumitsu, H., Masuda, E. S., Tsuboi, A, Arai, K, and Arai, N. (1993)
+Biochem. Biophys, Res. Commun. 196, 737-744
+18, McCaffrey, P. G., Luo, C., Kerppola, T. K., Jain, J. Badatian, T. M., Ho, A. M.,
+Burgeon, E.. Laue, W. S., Lambert, J. N., Curran, T., Verdine, G.L., Rao, A.,
+and Hogan, P, G. (1993) Science 262, 750-754
+19. Yaseen, N.R., Maizel, A. L., Wang, F., and Sharma, S. (1993) J. Biol. Chem.
+268, 14285-14298
+20. Choi, M.S. K., Brines, R. D., Holman, M. J, and Klaus, G. G. B. (1994)
+Immunity 1, 179-187
+21. Venkataraman. L,, Francis, D. A., Wong, 2, Liu, J., Rothstein, F L., and Sen,

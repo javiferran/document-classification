@@ -1,0 +1,151 @@
+B92
+
+INSPIRATORY PRESSURE GENERATION
+
+TABLE 1. Summary of external work, metabolic, ventilatory, and mean esophageal pressure measurements
+
+at four comparisuns
+
+ 
+
+COPDs
+“Peak work rate 0
+O, uptake, ml-min7!. kg 3.00.2" 4.0+0.3
+CO, production, ml. min™*-kg7! 2,640.1 3.240.2
+Ventilation
+Ve, l/min 11+tt 1441
+Vr, liters 0.740.1¢ 1.0+0.1
+Vy, breaths/min 2042 1642
+Tis 1.3+0.2 1.50.2
+Mean esophageal pressure —3,0+0.8* -7.340.8
+
+swing, cmH,0
+
+ 
+
+fs0-
+
+~~ CORDS”
+
+ 
+
+ 
+
+COPDs = AMNs RINE
+30.COC”*~*«SO 100 100
+U.0+1.0  17.0£1.0 15.0410 — 27.01.0F
+8940.6 13.7410 129412 27,341.04
+2843 2943 oad 4044 B0Lgt
+1440.1 1440.1 1940.1 1340.1 2,240.14
+2241 2242 2414 a1be 3442
+1.2401 1.040.1 V2e0" 0.740.1 0920.14
+“63212' 116408 -86406t -172413 16.9219
+
+ 
+
+Values are means + SE, Iso-VT, equal tidal volumes; Iso-Ve, equal minute ventilations; Iso-Pes, equal levels of mean esophageal pressun
+swings; AMNs, age-matched normal subjects; COPDs, chronic obstructive pulmonary disease subjects. At the lso-Pes comparison, th:
+measurements for the COPDs are the same as those at the Iso-VE comparison (see text). Mean esophageal pressure (Pes) swings were calculatec
+as the average inspiratory pressure swing across inspiration {ie., inspiratory time). At each of the four comparisons, group ¢ tests were used tc
+compute the statistical significance of each comparison between AMNs and COPDs. In the AMNs column of each comparison, * P < 0.01; + F
+
+< 0.001, $ P< 0.08.
+
+COPD data at 100% WR peak. Third, for the Iso-Pes
+comparison, AMNs data at 100% WR peak was com-
+pared with COPDs data at 100% WR peak.
+
+Model of Inspiratory Pressure Generation:
+Qualitative Analysis
+
+Pes-Pga inspiratory traces. Figure 5 presents the Pes
+and Pga inspiratory traces for both rest and the three
+exercise comparisons. Figure 5, A, C, E, and G, presents
+AMN data, whereas Fig. 5, B, D, and F, presents COPD
+data.
+
+AMNs. Figure 5, A, C, and E, shows clockwise traces
+with a fish hook to the right. The progression from A to
+C exhibits an increase in vertical orientation; this sug-
+gests that with moderately increased exercise levels, the
+ratio of Paw to Ppa increased.
+
+Figure 5G shows a vertical counter clockwise trace
+with a fish hook to the left, and an end-inspiratory point
+at an appreciably lower Pdi than the 90% TI point. This
+configuration indicates that during late inspiration at
+WR peak, Pdi tends to diminish in AMNs.
+
+Additionally, only Fig. 5G shows that the point indi-
+cating the mechanical start of inspiration (i.e., Msti) has
+a more positive Pga than the RP. This latter observation
+suggests that AMNs only exhibited Ppen at WR peak.
+
+COPDs. At rest, Fig. 5B shows a clockwise trace having
+a vertical orientation and a fish hook to the right. The
+early portion of inspiration is to the left of vertical,
+consistent with substantial intercostal-accessory muscle
+effort at the onset of inspiration. A comparison of A and
+B in Fig. 5 suggests that at rest, COPDs exhibit more
+Piam. Additionally, even at rest, Pdi is significantly lower
+at end inspiration than at 90% T1in COPDs.
+
+Figure 5, D and F, shows counter clockwise traces with
+fish hooks to the left and a decreasing Pdi after 50% TI.
+A comparison of D and F in Fig. 5 indicates that F shows
+a greater leftward inclination. These observations sug-
+gest that in COPDs, the Pram-to-Ppia ratio increased
+with higher intensities of exercise.
+
+Additionally, Fig. 5, D and F, shows that Pga at the
+mechanical start of inspiration (Msti point) is more
+
+positive than at RP, indicating that Peer increases with
+increasing intensities of exercise (F > D > rest).
+
+Model of Inspiratory Muscle Generation:
+Quantitative Analysis
+
+Supplementary Table 1' provides the statistical basis
+for our comments in this section regarding Ppra, Pian,
+and Pper.
+
+Determination of RP
+
+The means of the individual subject’s Pes values were
+~2.0 + 0.8 and -1.4 + 0.5 cmH,O for the AMNs and
+COPDs, respectively; the means of the individual sub-
+ject’s Pga values were 9.8 + 0.8 and 10.9 + 0.6 cmH20
+for the AMNs and COPDs, respectively. The means of
+the individual subject’s differences between Pga and Pes
+values were 11.8 + 1.0 and 12.4 + 0.9 cmH,0 for the
+AMNs and COPDs, respectively.
+
+Diaphragmatic Pressure
+
+Figure 6 presents Ppia data for the seven inspiratory
+intervals at rest and the three exercise comparisons.
+
+AMNs. At rest and at Iso-VT (i.e. 25% WR peak),
+AMNs exhibited a maximum Ppia at 90% TI with <2-
+cmH,0 decreases from this maximum to end inspiration
+(Vste). In contrast, at Iso-VE and Iso-Pes (i.¢., 50 and
+100% WR peak, respectively), maximum Pp, occurred
+at 75% Ti. At Iso-Ve, the decrease from maximum Ppra
+to the value at end inspiration was <2 cmH)0; in con-
+trast, at Iso-Pes, the decrease in Ppia from its maximum
+value to end inspiration was 7 cmH;0.
+
+COPDs. At rest, COPDs exhibited a maximum Pora at
+75% Ti with a decrease of 3 cmH,0 from maximum to
+end inspiration. At Iso-VT (i.e., 50% WR peak), maxi-
+mum Ppia occurred at 50% Ti with a decrease of 5 cmH20
+from maximum to end inspiration. In contrast, at both
+
+ 
+
+For table of statistical ‘summary of pressure changes across inspi-
+ration, order NAPS Document 04604 from NAPS % Microfiche Pub-
+lications, P. O. Box 3513, Grand Central Station, New York, NY 10017.
+
+50655436

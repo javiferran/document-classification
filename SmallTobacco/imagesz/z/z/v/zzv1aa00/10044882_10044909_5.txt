@@ -1,0 +1,38 @@
+ry
+
+ 
+
+Analysis of the Gaseous Phase of Cigarette Smoke 6.
+- WENO U6 4
+
+eomponents collected at -75°C were warmed to room temperature with
+
+a smal] flow of helium and held for 45 minutes. This step was
+mecessary to remove all the carbon dioxide, which would give a high
+response with the use of a thermal conductivity detector. The
+temperature was then increased to €0°C, and after 30 seconds, the
+constituents carried through e stripping column, on which water was
+
+removed, then cnto the chromatographic column. .
+
+Laurene, Lyerly and Young [14] did nct fractionate the gaseous
+phase of smoke after it was condensed at liquid nitrogen temperatures
+ina 2h inch, 1/4 0.D. copper tubing coil. The smoking machine, the
+Cigarette, the cbrom@tographic column, and the smoke trap were all
+connected to a gas sampling valve. After the smoking of one cigarevie,
+the gas valve was positioned to direct helium through the cold trap.
+
+ter ten minutes, the liquid nitrogen was removed and a previously
+heated [125°C] oil bath was raised to immerse the trap. Following
+emergence of COp from the column, the sensitivity was increesed to
+
+record the eluting of the orge;ic components.
+
+A similar trapping system was reported by Spears and Routh
+(27]. These authors studied different trep designs and found that
+spiral glass traps could be 97 per cent efficient for the collection
+at -80°C of isoprene, acetone, acetaldehyde, acrolein and toluene,
+if certain conditions were met. These conditions include the rela-
+tionskip between purr volume and trap volune, puff frequency, and
+
+number of puffs. The trap shown in Figure I is capable of collecting

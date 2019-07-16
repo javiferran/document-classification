@@ -1,0 +1,59 @@
+PHILIP MORRIS U.S. A.
+INTER-OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: R. Prasad ~~" "““Date: April 9, 1990
+
+From: Cc. R. Howe and R. Southwick
+
+Subject: Recovery of Tobacco Neutrals from Water Column Effluent
+
+The removal of hydrophobic organic compounds from aqueous effluents is
+a well-known technology. For example, Bitteur and Rosset (J. Food Science
+53, 141 (1988) describe the use of octadecyl-bonded silica (C-18) and
+styrene-divinylbenzene to recover blackcurrant aroma compounds from food
+plant waste water. These packings selectively retain organic compounds
+while inorganic salts and ionic organic compounds pass through unretained.
+We reasoned that the acidic water column effluent could be pumped through C-
+18 packing and the organic "flavor" components could be retained while the
+protonated bases, e.g., nicotine, would pass through.
+
+We have carried out an experiment to test this hypothesis (Notebook
+8889-69). Specifically, to 1000g of ART MPC solution was added at room
+temperature 20g of Baker reversed phase packing (octadecylsilane bonded to
+silica gel, 40 micron particle diameter). This suspension was stirred
+vigorously for one hour and then filtered through a coarse fritted glass
+funnel. The solids (yellowish in color) were washed with two 500ml portions
+of water. Nicotine analyses for the filtrate and washings were as follows:
+
+Filtrate 27.719
+
+lst Wash SO 675
+
+2nd Wash .038
+Total 28 .432¢
+
+The nicotine content of the initial solution was 29.4g; thus nearly 97%
+of the nicotine passed through the packing.
+
+After the second washing with water, the packing was air-dried for
+about 2 hours. The packing showed a weight gain of 0.25 grams. The dried
+
+packing was slurried with about 30ml 95% ethanol and filtered by suction. _
+
+The packing was rinsed with two 10-ml portions of ethanol, at which point
+the packing was colorless. After drying the packing weighed 19.5g, probably
+due to mechanical loss. The yellow ethanol solution has a rich tobacco
+aroma and will be evaluated by the odor profile panel; it is available for
+subjective evaluation in cigarettes as well.
+
+Since this result is so promising, we plan to perform additional
+experiments to evaluate the capacity of the C-18 packing. An alternate
+packing material is a styrene-divinylbenzene co-polymer.
+
+We will order some of this material for studies to compare with the C-
+18 data. The styrene-divinylbenzene packing can be used over a pH range of
+1-14 whereas the C-18 is limited to pH 3-6 by its chemical reactivity.
+
+SSTECSL2A6Q¢

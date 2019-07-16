@@ -1,0 +1,61 @@
+The total volume of each 0.4 sec. segment of a puff was obtained
+by extracting a subarray of the flow rate variable and executing the
+integration option in the Wave and Matrix Operation page. Equation 8 was
+empirically derived to determine the volume in cif for each segment,
+(vol/segment),
+
+Vol/Segment = (t/N-1)* Vd, . Eqn. (8)
+where t is the duration of each segment in seconds, N-1 is the default
+
+time scale in seconds; and Vd is the integrated volume obtained (by
+default) in the integration routine.
+
+Rabe
+
+EXPERIMENT
+
+-Full-flavor cigarettes werg chosen for this study and were conditioned
+at 60% relative humidity and 75°F for a minimum of 24 hours. Cigarettes
+were weight selected to fall within one half S.D. of the mean of 2000
+weighed (selected weight range = 1003 mg. +/- 11.4 mg.). Weight-selected
+cigarettes were then pressure-drop selected to fall within one half S.D. of
+the mean (pressure-drop selected range = 127.8 mm.H20 +/- 3.3 mm H20 at ,
+17.5 cc/sec Flow rate).
+
+The displacement volume of the, smoking machine’ s piston was adjusted
+to obtain a volume of about 70.0 cm. This adjustment is required to
+compensate for. leaks around the collection pad and produce a smaller puff
+‘volume at the cigarette. With the calibrated flow sensor and differential
+pressure transducers in place as indicated in Figure 1, a cigarette was
+loaded into the positive pressure smoking machine. Puff volumes for a lit
+cigarette were obtained with Asystant+ data acquisition software. Filamatic
+piston adjustments were made until a total integrated volume. of 35.0 +/-
+Icc was achieved. With the flow sensor and cigarette in place, smoking
+commences with simultaneous acquisition of puff profile data, and time
+resolved collection of smoke particulate within a 2.0 second puff. The flow
+sensor was removed after smoking the first cigarette as indicated in Figure
+‘5. This procedure reduces the dead volume between the butt end of
+the cigarette and the collection pad. A total of five cigarettes ¥ were
+smoked to a 28-mm butt length.
+
+The length of the mainstream smoke particulate deposit on the
+collection pad was 10.0 cm. Each pad was divided into five, 2.0-cm segments
+corresponding to 0.0 - 0.4, 0.4 - 0.8, 0.8 - 1.2, 1.2 -1.6, and 1.6 - 2.0
+second time segments during the puff. A specially designed cutter was used
+to ensure segment precision. The first segment of each collection pad was
+extracted with 10.0 ml aliquots of isopropyl alcohol with 50.0 srl of dilute
+internal standard. All remaining segments were each extracted in 25.0 ml
+aliquots of isopropyl alcohol with 25.0 wl of stock internal standard. Al}
+samples were extracted on a wrist action shaker for 20 minutes, then
+sub-sampled into gas chromatographic sampling vials and analysed on a | gas
+chromatograph.
+
+ur
+9
+©
+UT
+6
+Oo
+ce
+~J
+w&

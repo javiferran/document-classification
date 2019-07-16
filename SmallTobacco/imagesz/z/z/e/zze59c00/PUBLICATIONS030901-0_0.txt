@@ -1,0 +1,107 @@
+a VIROLOGY 184, 117-130 (1991}
+
+Department of Pathology and Microbiology and The Eppley institute, The University of Nebraska Medical Center, Omaha, Nebraska 68198
+
+ 
+
+FILE COPY
+
+Synthesis and Virus Production in Rat Cells in Vivo and in Vitro’
+
+XU LI AND SOLON L. RHODE II?
+
+Recewved February 14, 1991; accepted May 2. 1991
+
+We generated @ mutation in the gene for the nonstructural protein NS2 of Parvovirus H-1 in which the highly
+conserved dinucleotide AG at the 3' splica acceptor site of NS2 intron 1 wes mutated to CG, The mutation does not
+change the amino acid sequence for NS?. The splice acceptor (SA} mutant gene was introduced into the H-1 virus
+{H-1SA) and an infectious clone of Lulil (pLUH1SA). Tha A2 transcripts encoding NS2 were absent by both Northern
+blot and primer extension anelysis in the LuH1SA or H-1SA virus-infacted cells and the NS2 protein was undetectable
+in the infected ceil lysate by immunoprecipitation. These NS2 null mutant viruses were capable of lytic growth in cell
+lines that were derived from human, hamster, and dog, but they produced lower virus titers than wild-type H-1, The
+H.1SA virus nonproductively infected Rat2 rat fibroblasts and transformed Rat? cell lines: Analysis of synchronized
+infections of rat fibroblasts demonstrated thet H-1SA viral duplex replicative form ONA replication was reduced and
+that single-stranded progeny DNA was deficient compared to wild-type H-1.in addition, H-iSA viral protein synthesis
+was about 10% of wild-type virus and virions were nat detectable in rat fibroblasts. However, H-1SA mRNAs R1 and R3
+accumulated to wild-type levels. NS2 was also required for productive infection in newborn rats but not in newborn
+hamsters. These results indicate that NS2 plays an important role in the regulation of viral protein synthesis in rat cells
+
+£300
+
+Nonstructural Protein NS2 of Parvovirus H-1 Is Required for Efficient Viral Protein
+
+in vivo and in vitro, ©1991 Academic Press. Inc.
+
+INTRODUCTION
+
+Autonomous parvoviruses contain a linear, single-
+stranded (SS) DNA genome of about 5 kb. The geno-
+mic organization has been found to be identical among
+the radent parvoviruses. The viral genome encodes
+two overlapping transcription units; the early promoter,
+P4, at the left-hand end of the viral genome produces
+the transcripts R1 and R2 which synthesize the non-
+structural proteins NS1 and NS2, respectively, and the
+late promoter, P38, generates the R3 transcripts which
+are translated into the viral capsid proteins VP1 and
+VP (Cotmore and Tattersall, 1987).
+
+NS1 protein is coded for by a single exon and is
+predicted by the sequence to have a motecular weight
+of 76 kDa. However, NS1 migrates as several 84- to
+88-kDa bands on polyacrylamide gels. The slower mo-
+bitty of the B8-kDa form of NS1 is due to phosphoryla-
+tion {Rhode and Iversen, 1990: Iversen and Rhode,
+1990; Paradiso, 1984). NS1 accumulates in the nu-
+cleus and it is essential for viral DNA replication (Berns
+etal, 1988; Rhode, 1989; Tratschin ef a/., 1984: Li and
+Rhode, 1990), P4 and P38 promoter regulation (Labow
+etal, 1986; Rhode, 1985; Rhode, 1987b; Tratschin et
+
+‘We reported the preliminary data of tis study at the Amencan
+Society for Virology Annual Meeting, workshop No. 39, July 8-12,
+1990.
+
+* To whom requests for reprints should be addressed.
+
+PUBLICATIONS
+
+al, 1986), and cytotoxicity (Labow ef a/., 1987; Rhode,
+19872; Li and Rhode, 1990).
+
+NS2 is a much smaller protein with only 188 amino
+acids in parvovirus H-1 and migrates at 25-28 kDa on
+polyacrylamide gels. NS2 protein of minute virus of
+mice (MVM) has three isoforms (Morgan and Ward,
+1986; Jongeneel ef af, 1986; Clamens er a/., 1990;
+Cotmore and Tattersall, 1990) and H-1 should have at
+least two. The major one is encoded by three exons
+with a large intron and 4 smail intron removed during
+the splicing process. Exon 1 of NS2 shares the sarne
+Start codon at nucleotide 264 with the NS1 gene, thus
+NS2 and NS1 have an identical 84 amino acids at their
+amino terminus; exon 2, located at the carboxyl-ter-
+minus of the NS 1 gene. is translated in a different read-
+ing frame from NS1; exon 3 encodes only 6 amino
+acids. The minor isoform of NS2 is produced by using
+an alternative splice donor and acceptor site for intron
+2. Translation terminates betore its splice donor site,
+therefore its exon 2 is 6 amino acids longer than the
+major form of NS2 and there is no translated exon 3.
+Thus, the two isoforms of NS2 differ only by the 6
+amino acids at their carboxyl-terminal end (Rhode and
+Iversen, 1990; Iversen and Rhode, 1990) (Fig. 1).
+
+The function of NS2 has not been well defined. Since
+NS1 is essential to virus replication, it is difficult to sap-
+arate the gene of NS2 from NS1 and generate muta-
+tions in the NS2 gene without affecting the structure of
+NS1. To approach this problem, we have successfully
+
+0042-6822/91 $3.00
+Copynght @ 1891 by Academe Praga, inc
+Allnghte ol reproduction in eny form resenvad
+
+030901
+
+10350215

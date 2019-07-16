@@ -1,0 +1,56 @@
+PI: Geoffrey L. Greene
+
+Expression of MCP-1 mRNA was characterized in two additional human breast cancer cell lines
+(T47D and AU565). T47D cells express ER mRNA, although at much lower levels than MCF-7
+cells, whereas the AU565 cell line does not express ER. Again, unstimulated cells did not express
+detectable levels of MCP-1 mRNA. Treatment with CHX or TNF-o stimulated MCP-1 mRNA
+expression in both cell lines. However MCP-1 mRNA was suppressed by E2 only in T47D cells
+(50% suppression). The lack of response in AU565 cells is consistent with the absence of ER.
+
+Regulation of Additional genes by ER
+
+The original RNA differential display screen yielded several differentially regulated cDNA species
+including one (clone E3A1) whose expression was strongly induced in MCF-7 cells by 10 nM E2.
+Unstimulated MCF-7 cells do not express E3A1 mRNA, and the message is induced within two hour
+of stimulation with E2. This 711 base pair cDNA clone was sequenced and used to probe a multiple
+tissue Northern blot. The probe hybridized to a single 8 kb mRNA transcript expressed in the
+prostate, testis, ovary, small intestine, colon, peripheral blood leukocytes, and thymus. This partial
+cDNA is 98% identical to sequence from the 3’ end of the MN/ gene (3,4). An MNI cDNA probe
+hybridizes to an mRNA species with the same molecular weight as the E3A1 cDNA probe (3)
+Thus, we have isolated the same gene and found it to be regulated by estradiol in MCF-7 cells.
+
+Significance
+
+A major objective of our investigations is to determine the molecular mechanisms by which estrogens
+and estrogen antagonists differentially regulate proliferation and gene expression in hormone
+responsive tissues and cancers. The estrogen receptor (ER), which mediates most or all of these
+activities, is a member of a large family of intracellular ligand-activatcd transcription factors that bind
+to specific DNA hormone response elements (HREs) located in or near regulated genes. The result of
+this interaction is transcriptional enhancement or repression, depending on the composition and
+placement of the HRE as well as the cellular context of the responsive gene. Despite a wealth of
+information about the structure and composition of the estrogen receptor and its functional domains,
+little is known about the molecular mechanisms by which estrogens and their antagonists control
+proliferation in both normal and transformed cells and tissues. The rationale underlying this proposal
+is that information about the differential regulation of genes by estrogen agonists and antagonists will
+lead to a better understanding of the molecular mechanisms that are responsible for hormonal control
+of cell proliferation.
+
+The current results suggest that the method of RNA differential display is able to identify genes that
+are both induced and suppressed by estrogens in breast cancer cells and other tissues. The two genes
+identified and characterized thus far have not previously been shown to be regulated by estradiol.
+MCP-1, which is down regulated by estradiol, is a known cytokine produced by many cell types in
+response to mitogenic stimulation. This gene is selectively down regulated in MCF7 cells by
+estradiol but not by OH-T and ICI. Monocytes are frequently found in close association with tumors
+and are postulated to play an active role in the local tumor environment. Therefore, the specific
+modulation of a monocyte chemoattractant could be a significant component of tumor biology. The
+second transcript, MN-1, which is specifically induced in MCF-7 cells by E2 and not by OH-T or
+ICI, represents a gene that is involved in a balanced translocation (4:22) in a meningioma (3), and
+was also found as a fusion product with the TEL gene (4), a member of the ETS family of
+transcription factors, in an acute myeloid leukemia. Becausc the MN1 gene appears to be
+transcriptionally induced by estrogens in MCF-7 cells, it may also be regulated by estrogens in
+normal mammary tissue. Thus, the RNA display technique is likely to reveal novel mechanistic
+aspects of the differential regulation of proliferation and other specific cellular responses by estrogens
+and their antagonists. Such data should also prove useful for thc treatment of breast cancer,
+osteoporosis, and heart disease in women.
+
+Proposed_studies

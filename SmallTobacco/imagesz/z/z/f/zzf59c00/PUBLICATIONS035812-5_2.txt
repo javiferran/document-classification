@@ -1,0 +1,98 @@
+PH TaR Incorporation {CPM x10-Spy}
+
+Culture Duration (Doys)
+
+Figure J. T ceil prouferation in strum-supplemented vs serum-free
+medium. The extent of T cell proliferation was monitored, dy the incor-
+poration of 7H-TAR during 4 br intervals on alternate days of culture after
+stimulation with anu-T3. Medium supplements included 10° PCS (0),
+200 AM human transfermn @. dnd no protein additives (aj. The brackets
+represent lhe mean ¢ SEM of 91x separate experiments (®, 4). and of four
+separate experiments (8.
+
+taining media. As is shown in Figure 2A. the '=2IL 2
+concentration declined rapidly tin Uhe absence of serum
+(t% = 5 hr), whereas 10% FCS prevented comptetely the
+disappearance of '1-IL over a 12-hr interval. On the
+basis of these findings. the concentrations of FCS nec-
+essary to prevent IL 2 adsorption were determined and
+compared with the concentrattons of FCS required for
+support of maximal anti-T3-stimulated lymphocyte pro-
+Uferatton. The results displayed in Figure 2B make it
+evident that although 10% FCS 1g necessary for an opti-
+mal proliferative response, as tthe a5 0.1% FCS pratecta
+completely against IL 2 adsorption. Thus. serum ap-
+Peared to actively contribute some additional component
+necessary for proliferation beyond simply preventing the
+adsorptive loss of IL 2. In this regard. because low serum
+concentrations sufficed t¢ maintatn IL 2 in solution, it
+seemed likely that any of a number of purified proteins
+could also serve in this capacity. When monitored by the
+recovery of '*1-IL 2, the protective effect of FCS was
+equally provided by BSA. HSA, human igG. and even IL
+2 itself (Fig. 34). Moreover. 1 uM of any of these proteins
+protected against the loss of IL 2. In contrast. 10-fold
+higher concentrations of the smaller insulin molecule
+were required to mediate the same effect.
+
+The decline of the free '*1-1L 2 concentration through
+adsorptlon to the culture vessel dtd not of itself indicate
+that the molecule need be unavailable to the cells. There-
+fore, the biologic consequence of the disappearance of
+free IL 2 was assessed by using the IL 2 bioassay: the
+results of this experiment are also plotted tn Figure 34.
+The concentrations of BSA. HSA. and human [gG that
+protected against adsorptive toss of '?°1-1L 2 coincided
+precisely with the concentrations of these proteins nec-
+essary to support the proliferation of the IL 2-dependent
+cell ine CTLL, indicating that the detectable free radic-
+
+PUBLICATIONS
+
+      
+
+        
+
+ 
+
+' 1 OOF "O00 6
+
+Fetal Colf Serum (%)
+
+"RIL 2 after 12 he at BPC (®) are compared with the toncentralions of
+FCS necessary to Support T cell proliferation as monitored by °H-Tat
+incorporation 4 days after stimulation with antl-T3 (a). Maximum tncor-
+poration of 7+4-TdR/hour was t3.716 cpm + 746 SEM).
+
+labeled IL 2 concentrations accurately reflected the IL 2
+dtologic activity.
+
+Because these experiments were performed tn the ab-
+sence of ceils. the conditions dtd not mimic those of the
+in vitro T cell proliferation assays. Therefore. the prea-
+ence of freshly isolated Peripheral mononuclear cells on
+the adsorption of '**1-IL 2 was also assessed, The results.
+displayed graphically in Figure 38, reveal a remarkable
+cell concentration-dependent protective effect on the ad-
+Sorption of **°1-IL 2, It ts noteworthy that cell concentra-
+tons in excess of 10° cells/ml Prevent the disappearance
+of IL 2, whereas lower cell densities are progressively less
+effective. At cell concentrations below 10° cells/ml. ¢s-
+Sentlally no protection against IL 2 toss is evident.
+
+iL 2-promoted cett cycle progression in the absence
+of serum. Having established that high cell density and/
+or low concentration of serum or other Protein sources
+are required to prevent the adsorptive loss of exogenously
+Supplied IL 2. it became feasibie to investigate whether
+additional serum components are required for IL 2-pro-
+moted G, progression to the S phase. Therefore, to dis- -
+sociate T cell receptor-derived competence signals from
+G, progression signals emanating from the IL 2 receptor.
+IL 2 receptor-bearing cells were stimulated to reenter the
+active phases of the cell cycle by exposure to ri 2 (pM),
+elther in the presence of 10% FCS or in Medium suppic-
+
+035814
+
+10355235

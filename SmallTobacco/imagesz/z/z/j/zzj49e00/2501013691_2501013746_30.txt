@@ -1,0 +1,40 @@
+TNO-renort
+
+meee
+B-92-0388 May 1992 page 31
+
+The dynamic sampling method has been applied. The odorous sample is led directly from the
+source through Teflon tubing to the odour measuring truck.
+
+Air samples were taken from the inlet air and the outlet air of the membrane module. The
+odour concentration has been measured twice for both on the same day. By comparing both
+
+concentrations the filtration efficiency of the module can be calculated.
+
+Decipol_ method
+
+Professor P.O. Fanger from Denmark introduced recently (Indoor Air ‘87 Conference, Berlin)
+new units for air pollution: the source strength in olf and the perceived air quality in decipol
+[4]. The decipol represents the air quality perceived by the nose.
+
+The definitions of the olf and the decipol are based on the air quality caused by a standard
+person, perceived by humans.
+
+A standard person is defined as an average adult performing a sitting office task in a
+thermally pleasant climate and a hygienic standard of 0.7 bath per day.
+
+One olf is equal to odorous perceivable or irritant pollution emitted by a standard person.
+One decipol is equal to the perceived air quality in a room with a ventilation of 10 dm*/s
+where one person (1 olf) is present. Each source of pollution is expressed in the number of
+
+olfs to achieve the same dissatisfaction as the actual source [4].
+
+The measurements were performed with a trained panel [5,6]. A trained panel comprises a
+group of persons who are trained to judge air samples by comparing them with known levels
+of perceived air quality as shown in Figure 19. An initial training period of 1-2 hours during
+4 days and a 30-min retraining on the day of the measurement has been performed. The
+training of 6 persons was pertormed in a space with high air quality.
+
+The used reference gas was 2-propanone (acetone).
+
+I22E1010S2

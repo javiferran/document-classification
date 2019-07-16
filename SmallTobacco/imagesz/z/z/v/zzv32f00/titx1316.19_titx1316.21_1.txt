@@ -1,0 +1,59 @@
+bey
+j; Mateey
+fosris
+
+ce ee Pa a we eee be Wi
+Agta Ast?
+oni) Oe tx
+
+The quantity Ee may be related to pressure drop by the
+following expression
+
+in {1-E
+
+s) ~~ RP AB
+
+Vv
+
+where A is the cross sectional area of the filter tip, V
+
+the air velocity and B a constant characteristic of the filter
+material. For most commercial filters A has a value of approxi-
+mately .502 cm.” and V is 17.5 cm.”/sec. Using these values
+
+and converting to the base 10, the expression becomes
+
+log (1-E,) = -.0125 B
+AP
+
+The greater the value of B, the better the filter. Fordyce
+et al., Tob. Sci. V 70 (1961) have shown experimentally that
+this expression is valid for the range of pressure drop and
+materials which are used to make commercial filters. rc
+
+ye. Fa
+3 - oe
+
+Values of B, called Sigma by Fordyce, range from 2.0 for a
+5-denier cellulose acetate filter to 5.4 for a paper filter.
+Using smaller denier acetate fibers of about 2 denier, it is
+possible to obtain B values of 3 or even greater (3.5) by
+incorporating finely Givided additives. Although paper filters
+have limited commercial acceptance, specially designed cellu-
+lose filters have demonstrated B values in excess of 6.5.
+
+Using the range of B values of 2.0 for‘a poor acetate filter
+to 6.0 for a superior paper filter, one may calculate a
+practical range of E, for filters of the same pressure drop.
+USing a pressure drop of 6.0 cm. of H,O, which is easily
+within the commercial range, the obtainable efficiency range
+is estimated as .29 to .64.
+
+From this discussfYon, it should be clear that any filter
+material evaluation must involve both pressure drop and
+efficiency measurements. If two filters are compared at
+equal pressure drop, circumference and length, at several
+different points, values of B can be computed and valid
+eomparisons made.
+
+7a TITX 0032154

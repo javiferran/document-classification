@@ -1,0 +1,68 @@
+D1.383/ ger”
+
+Proposed Change Form
+
+ 
+
+©} 1. Originator: James L. Butler, Sr.
+
+2. Proposed change to: Parameter (Base Web Solubles)
+Lines 1 & 2
+3. Problem Statement:
+This tracking parameter is of no value to the #1 Operator in the MR (trending
+observed in this parameter does not impact controllable parameters in this
+process stage).
+4. List evidence, provide data to support need for change:
+Online control over this data resides in Stock Preparation.
+Nonconformance to Principle #7.
+
+5. Describe what will be improved if problem is resolved:
+What is the objective of making this change?
+Conformance to Principle #7.
+Move responsibility for online parameter performance to "closest to”
+and most knowledgeable.
+6. Identify probable causes of problem (attach C&E).
+Customer needs not clearly understood/identified at original implementayion.
+
+t.
+as mh
+
+SJ), Describe proposed SPC system change. \ L sit du <<
+
+Change tracking parameter to record & check.
+
+wp Soe
+We P/
+| e
+NS ae
+: y ys 8. Recommend measurements of effectiveness of proposed change.
+
+ 
+  
+  
+
+& 3 N/A
+
+2 9. Describe action plan for implementing proposed change {attach
+i if need more space).
+
+Gain SIT approval; communicate change to impacted personnel;
+update Systems Report (SPC Specialist).
+10. List personnel affected by change:
+
+Area Supt.
+
+SPC Specialists
+
+Quality Services
+
+MR Supvs.
+
+#1 & Upgrade #1 Operators
+
+¢ CUS afproved |
+
+D4 ~ all 7
+Sto h peo) EIF #101039
+
+60P2000S02

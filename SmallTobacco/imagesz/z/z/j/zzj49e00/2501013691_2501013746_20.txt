@@ -1,0 +1,39 @@
+TNO-report
+
+-eoooeoo nn eee
+
+B-92-0388 May 1992 page 21
+
+Some unexpected results are to be seen.
+
+The efficiency of the Celanese G240/25 module is at the same gas speed lower than
+that of the Celanese G240/11 module.
+This was not expected because the residence time of the air in the G240/25 module is
+
+larger than in the G240/11 module.
+
+- The filtration efficiency for NO, for the modules with 0.6 mm fibres, Enka LM2P06
+and Enka MDO20FP2N, is very low and lower than for the other modules. The
+measurements with the MDO20FP2N module were, however, performed with higher
+NO, concentrations (about 1300 ppb).
+
+Previous measurements with the Enka LM2P06 module showed an efficiency of 60%
+
+at 1.5 m/s and 47% at 3 ms with a NO, concentration of 250 ppm.
+
+Required membrane surface area
+
+The required membrane surface area for treatment of 100 m%/h of air is much larger for the
+Celanese fibres than for the Enka fibres of 0.6 and 1.8 mm. The risk for clogging is higher
+for the Celanese fibres: the fibre diameter is very small (0.24 mm). The use of the Celanese
+
+fibres is therefore less desirable. 2501013711
+
+The Enka modules with 1.8 mm fibres MDO20CP2N have the smallest pressure drop and the
+smallest required membrane surface area.The specific membrane surface area is less: 400
+
+m?/m3, for the 0.6 mm fibre modules 800 m2/m3.
+
+The filtration efficiencies at the surne gas speed are for the Enka LM2P06 with 0.6 mm fibres
+comparable with those for the Enka MDO20CP2N with 1.8 mm fibres, with the exception of
+NO,,.

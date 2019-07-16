@@ -1,0 +1,87 @@
+Receptor-Specific Induction of Individual AP-1 Components
+in B Lymphocytes’
+
+Li Huo* and Thomas L. Rothstein?**
+
+Departments of *Medicine and ‘Microbiology and the *Evans Memorial Department of Clinical Research,
+Boston University Medical Center, Boston, MA 02118
+
+The inducible nuclear transcription factor complex, AP-1, typically consists of heterodimers between Jun and Fos
+proteins. Although components are drawn from families of related molecules, little is known about the physiologic
+regulation of jun- and fos-related gene products. In particular, it is not known whether expression of individual
+family members is stimulus-specific or whether the same signaling pathways are responsible for induction of all
+subunits. To clarify these issues, AP-1 components were examined following activation of primary 8 lymphocytes
+through two separate receptors, the surface Ig Ag receptor, and the CD40 receptor for T cell influences. Both forms
+of stimulation led to expression of JunB and JunD mRNA and protein; however, induction of JunB mediated by
+anti-lg Ab was protein kinase C (PKC)-dependent, whereas induction mediated by CD40 ligand was resistant to
+PKC depletion. The two forms of stimulation diverged even further with respect to Fos expression. Although both
+stimuli induced c-Fos, expression of FosB was stimulus specific at both the mRNA and protein levels, in that this
+component was induced by anti-Ig but not by CD40 ligand. Stimulated expression ‘of c-Fos and FosB was in all
+cases PKC-independent. These results provide evidence for receptor-specific differences in the expression of AP-1
+components, primarily with respect to FosB. They also indicate that separate intracellular pathways may be used
+for induction of jun and fos gene products and that the same transcription factor (junB) may be triggered by two
+surface receptors through separate pathways that differ in PKC dependence. The Journal of Immunology, 1995,
+154: 3300-3309.
+
+CREB, and AP-1° (1-6, 6a, 6b). The AP-1 complex con-
+sists of two proteins that may be represented as homo- or
+heterodimers and that bind the consensus sequence
+TGACTCA (7). Constituent proteins are characterized by
+the presence of a leucine zipper that is involved in dimer
+formation and are drawn from two gene families, jun and
+fos. Jun proteins may homodimerize or heterodimerize
+with Fos protein to form DNA-binding AP-1; Fos is inca-
+pable of homodimerizing or binding DNA alone. Well de-
+scribed family members include c-jun (8, 9), junB (10),
+JunD (11, 12), c-fos (13, 14), and fosB (15-18), which may
+be expressed in two forms as a result of alternative splic-
+ing, a full length version and a short form (16-18). In
+addition, two Fos-related Ags, Fra-1 and Fra-2, have been
+described (19-21) although sequences for the murine sys-
+tem have not been reported. Clearly, the Jun and Fos fam-
+ilies represent an extensive grouping that is of special in-
+terest because of the large number of proteins from which
+inducible AP-1 may be drawn and hence the extensive
+
+eceptor interactions at the B cell surface leading
+R to proliferative responses initiate a series of in-
+
+tracellular biochemical events that eventuate in
+alteration of the resting program of gene expression as a
+result of nuclear changes that regulate transcriptional ac-
+tivation. The likely mediators coupling cytosolic signaling
+to transcriptional activation are sequence-specific DNA
+binding proteins or transcription factors that express trans-
+activating activity. In recent work we and others have
+demonstrated that B cell stimulation is associated with in-
+ducible nuclear expression or modification of several tran-
+scription factor complexes, including NF-«B, NF-AT,
+
+ 
+
+Received for publication September 16, 1994. Accepted for publication De-
+cember 17, 1994,
+
+The costs of publication of this article were defrayed in part by the payment of
+page charges. This article must therefore be hereby marked advertisement in
+accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+
+' This work was supported by Grant 3062 awarded by the Council for Tobacco
+Research-USA, Inc. and USPHS Grant Ai29690 awarded by the National In-
+stitutes of Health,
+
+ 
+
+3 Abbreviations used in this paper: AP-1, activator protein 1; sig, surface lg;
+
+? Address correspondence and reprint requests to Dr. T. L. Rothstein, Boston
+University Medical Center Hospital, Room £-501, 88 East Newton St., Boston, -
+MA 02118,
+
+Copyright © 1995 by The American Association of Immunologists
+
+PKC, protein kinase C; CD40L, CD40 ligand; TRE, tetradecanoyl phorbol ac-
+elate response element; EMSA, electrophoretic mobility shift assay; TBS-T,
+Tris-buffered saline-Tween; GaMlgM, goat anti-mouse IgM; SF, short form.
+
+0022-1767/95/$02.00

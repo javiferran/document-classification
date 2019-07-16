@@ -1,0 +1,69 @@
+Flow-Chart Alzheimer/Parkinson
+
+ 
+
+ 
+ 
+    
+    
+     
+   
+  
+
+Primary Screens’ Tl Secondary Screens/ TI Tertiary Modals/ AVENTIS
+o————_—» —___-#
+
+Receptor Receptor
+
+Binding
+
+Function
+os
+480
+Futcion:
+<TEM
+
+Stina
+
+os
+a? > 100 fold
+
+in vive (kainate)
+dose tobe defined
+
+Gray boxes indicate agonist/antagonist characterization
+
+ 
+
+Primary Screens:
+
+Objectives
+
+|. identify compounds that have nicotinic potential through binding studies
+
+2, evaluate their interactions at peripheral nAChR through determination of the
+activation parameters for skeletal muscle and ganglionic receptors as a measure
+of potential side effects
+
+3. evaluate their ability to activate CNS nAChR relevant to AD or PD
+
+Description
+
+Receptor binding studies: The first screen to identify compounds having nicotinic
+potential is through ligand binding studies using “H-nicotine as a probe in
+membrane homogenates from rat brain. The binding affinity reflects interaction
+with the ubiquitous high affinity binding site composed of the @4B2 subunits.
+Compounds having an inhibitory binding constant of less than 1000 nM are
+further evaluated. Interaction with the alpha? subtype another prominent
+receptor in the CNS is evaluated through ligand binding studies using '*I-alpha-
+bungarotoxin using membrane preparations from rat hippocampal tissues or
+from the human SH-SYS5Y clone cell line (affinity for 04B2 at least 100 times
+lower than that for a7 is desired). This assay is conducted on select compounds
+after they have successfully passed the initial screens of functionality (see
+below).
+
+RJR0000001371017583
+
+70035 3512
+
+LOLE 626SS

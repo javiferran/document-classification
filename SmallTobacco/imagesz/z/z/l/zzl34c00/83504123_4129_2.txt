@@ -1,0 +1,35 @@
+WAP Snare Seater nent annie MANION TULARC NN ONC ARNDEMERSE eA Epis naar RAD
+
+’
+
+Table 1 Experimental Conditions
+
+Column:
+100 Meter X 0.25 mm x 0.5ym Petrocol from Supelco
+Sampling Loop:
+
+0.25mL
+
+Temperature Program:
+
+-50°C + ~20°C @ 5°C/minute 10 minute initial
+-20°C ~ 200 @ 2°C/minute
+
+Carrier Gas:
+
+Hydrogen at 2 mL/minute
+Detection:
+
+FID and NPD
+Smoking Parameters:
+
+35M1 Puff Volume
+
+2 Second Puff
+1 Minute Between Puffs
+
+    
+
+    
+
+GZ 70528

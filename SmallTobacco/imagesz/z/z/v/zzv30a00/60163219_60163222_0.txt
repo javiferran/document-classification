@@ -1,0 +1,152 @@
+om
+
+‘roc. Natl Acad Sc: USA
+‘Gh 94, pp. 1ORAS- 1088S. September 1997
+stedical Sciences
+
+cece aeemmepessimeeaeiae = RO ea we 6 eS A
+
+LYSO
+
+Oncogenic transformation induced by the Qin protein is
+correlated with transcriptional repression
+
+(oncogenicity/ winged helix protein)
+
+Sian Li, HOLGER THURMT, Hwal WEN CHANG®, JASON S. LACOVONI®. AND PETER K. VOGT =
+
+Departmen: of Molecular and Experimental Medicine. The Seripps
+Unrversiat Bertin. institut fur Beochemee, Theeisliee 63. 14195, Berin. Germany
+
+Contmibuted by Peter K. Vogt, duty 30, 1997
+
+ABSTRACT The retroviral oncogene gia codes for a pro-
+tein that belongs to the family of the winged helix transcrip-
+tion factors. The viral Qin protein, v-Qin, differs from its
+‘ellular counterpart, ¢-Qin, by functioning as a stronger
+.ranscriptional repressor and a more efficient inducer of
+tumors. This observation suggests that repression may be
+important in tumorigenesis. To test this possibility, chimeric
+proteins were constructed in which the Qin DNA-binding
+domain was fused to either a strong repressor domain (derived
+trom the Drosophila Engrailed proteia) or 8 strong activator
+domain (from the herpes simplex virus VP16 protein). The
+chimeric transcriptional repressor, Qin-Engrailed, trans-
+formed chicken embryo fibroblasts in culture and induced
+.arcomas in young chickens. The chimeric activator, Qin-
+VP16. failed to transform cells in vitro or in vivo and caused
+cellular resistance to oncogenic transformation by Qin. These
+data support the conclusion that the Qin protein induces
+oncogenic transformation by repressing the transcription of
+genes which function as negative growth reguiators or tumor
+suppressors.
+
+es
+The oncogene qin was isolated as a cell-derived insert in the
+senome of avian retrovirus ASV31, a virus that induces
+neoplastic transformation in cell culture and sarcomas in
+young chickens. The viral gin gene (v-qut) is the oncogenic
+determinant of ASV31. The v-qun gene differs from us cellular
+counterpart c-gin by an N-terminal leader sequence. several aa
+substitutions and a C-terminal deletion (1. 2). The Qifi proteins
+(v-Qin and c-Qin) belong to the family of winged helix
+transcription factors (2. 3). More than fony members of this
+family have been described m recent years, they are found m
+veast. Drosophils, Caenorhabditis elegans, Xenopus, rodents,
+and humans (4. 5). The functions of winged helix proteins are
+related to embryonal development and tissue differentiation:
+these proteins are expressed in a highly tissue-specific manner
+(6). A familiar example for winged helix-controlied differen-
+tation is the nude mouse whose phenotype results from a
+defect in the whn gene (7).
+
+The ¢-Qin protein is the avian homolog of the mammalian
+brain factor | (BF-1); expression of this protein is restricted to
+the telencephalon, the nasal half of the retina. and the optic
+stalk (1, B). A null mutation of the mouse BF] gene leads to
+death at birth accompanied by dramatic size reduction of the
+cerebral hemispheres (9). Some genes coding for winged helix
+proteins have oncogenic potential (3. 10, 11). Viral gen induces
+neoplastic transformation, presumably due to aberrant tran-
+scriptional regulation and ectopic expression. in transient
+transfection, the Qin proteins act as transcriptional repressors.
+suggesting that this activity may play & role in oncogenicity (2).
+
+a
+
+The publication costs of this article were defrayed m peri by page charge
+payment. This aricie must therefore be hereby marked “edvertusemen:” in
+accordance with 1# U.S.C. §1734 solely to indicate this fact.
+
+© 1997 by The Nauwnsi Academy of Scrences 0027-8424 /97 /9410885-4$2.00/0
+PNAS os availedic oniine ai hitp://www.pnas.org.
+
+1N8RS
+
+PUBLICATIONS
+
+Reagarch Insitute. 10550 North Torres Pines Rad, La dota CT a bas
+
+To examine this possibility. we constructed chimeric transcrip-
+tion factors containing the Qin DNA-binding motif and het-
+erologous reguiatory domains of either the Drosopiula En-
+grailed or herpes simplex virus VP16 proteins. The properties
+of these chimeric proteins support the conclusion that tran-
+scriptional repression is a requirement far neoplastic transfor-
+mation induced by Qin.
+
+MATERIALS AND METHODS
+
+Plasmid Construction. To create Qin-Engrailed (En) chi-
+meras. the PCR-amplified fragments of engratied (amino acids
+2-298) (12) and v-gin (amino acids 1-251} (3) or chicken c-gia
+(amino acids 1-243) (1) were cloned consecutively into the
+HindI-Xbal or BamH-Hindill sites of the same pBK/RSV
+vector (Stratagene). Oligonucleotide primers designed for
+PCR included BamHI. HindHl. and Xbal restriction sites
+allowing im-frame cloning. All DNA fragments derived from
+PCR amplification were sequenced using primers internal to
+the gut or engratied coding sequences or T3 and T7 primers.
+Oin-VP16 chimeras were constructed by exchanging an Espl-
+EcoRI fragment of either c-gen or v-qur with a BumHI-EcoR!
+fragment of plasmid 597.1 coding for the transactivation
+domain of the VP16 protein (13). The cohesive ends generated
+by BamHI or Espl digestion were filled in wath Klenow
+polymerase. The resultant Qin-VP16 and Qin-En plasmids
+were cleaved with either BamHI-EcoRI| or BamHI-Cial for
+cloning into the retroviral expression vector RCAS (14) to
+yield RCAS-Qin-En and RCAS-Qin-VP 16. Transfection of
+chicken embryo fibroblasts (CEF) with the RCAS vectors
+leads to the production of infectious RCAS retroviruses that
+replicate and express the cloned insert. The reciprocal recom-
+binants between v-gin and c-qui. VC and CV. have been
+described (2).
+
+Electrophoretic Mobility Shift Assays. Circular pBK/ RSV
+plasmids with inserts coding for c-Qin. v-Qin. c-Qin-En.
+v-Qin-En, c-Qin-VP16. or v-Qin-VP1I6 were used as tem-
+plates for in vitro transiation in a transcription and translation
+coupled system according to the manufacturer's protocol
+(Pfomega). Wheat germ lysates containing translated proteins
+were used in electrophoretic mobility shift assays as described
+(2). The relative amounts of translated proteins were estimated
+by labeling the proteins with {“Sjmethionine (40 4Ci in 50 wl
+reaction volume: | Ci = 37 GBq) followed by SDS/PAGE and
+autoradiography.
+
+Transfection and Focus Assays. Assavs for transcriptional
+regulation in CEF cultures were carried oul using transicnt
+transfection with the calcium phosphate precipitation method
+(15). CEF were plated 20 h before transfection at a density of
+5 x 10° cells per 35-mm dish in DMEM. The use of the
+
+mr
+Abbreviations: BF-t. brain factor 1. En. Engriated: CEF. chicken
+embryo fibroblasts.
+
+STo whom repent requests should be addressed. c-mail pkvogi
+scripps.cdu.
+
+058563
+
+ve

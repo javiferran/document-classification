@@ -1,0 +1,58 @@
+. EXHIBIT 5,
+: PHILIP MORRIS INCORPORATED
+VHTER-OFFICE CORRESPOHDENHCE
+
+~ RICHMOND, VIRGINIA
+
+Tor. - Mr. L. F. Meyer bate: December 4, 1980
+
+From: -+ Warren Claflin, Cliff Liny, Borer Martin
+
+Subject: - Percent Tar Free" Claim On Cigarettes © a — —
+
+A recently developed line of marketing strategy for
+low delivery cigarettes. has been to claim the brand as being
+" percent tar free," as opposed to using conventional FTC
+tar values. In an article in Fortune (Page 121, November 17,
+1980), Brown and Williamson explained that "percent tar free"
+was derived by dividing the weight of tar in a puff by the
+total weight of all material in a puff, including the dilution
+air and the smoke stream. The smoke stream differs from the
+dilution air because of the particulate phase and enhanced
+quantities of the major combustion gases (carbon dioxide and
+carbon monoxide). Cigarette dilution combines an air stream
+with the smoke stream in a given proportion by volume and
+passes the resultant nicotine through a cellulose acetate
+filter to remove a fraction of the tar, nicotine, and water.
+The fraction of each component removed.is different and depends
+on the specific filter efficiency. The volume percent of the
+gaseous components in the stream is not significantly changed
+by the filtration because the particulate phase occupies such a
+small percentage by volume. An air particulate stream that is,
+a 90-10% ratio by weight is a 99.9-0.1% ratio by volume, -
+because of the large differences in density between the gases
+and solids. . oe .
+
+The weight percent of the smoke stream was evaluated using
+the data presented by Baker at the 1980 TCRC meeting in Richmond,
+Virginia and is shown in Column 3 of Table 1. These numbers
+are in good agreement with previous results of M. E. Hobbs,
+Invited Paper, CORESTA/TCRC, Williamsburg, Va. 1972. Combining |
+these values with known molecular weights (Table 1, Column 2),
+the volume percent composition of the stream is evaluated and is
+shown in Column 4 of Table 1. This smoke stream is then combined
+with the dilution air stream in a. volume ratio (100-D):D, where
+D is the cigarette dilution, to give the results shown in Column 6
+of Table 1. The volume percent of tar, nicotine and water
+deliveries to the smoker has been assumed to be zero and is
+certainly less than 1% for high dilution cigarettes. The actual
+volume percent of tar cannot be calculated without knowing the
+filtration efficiency of the filter for the particulate phase,
+whereas the gas stream composition is unaffected on passing
+through the filter. The values in Column 7 of Table 1 are derived |
+by two different methods. The tar weight is the value derived
+experimentally by weighing the Cambridge pads from FTC smoking
+and subtracting nicotine and water. Nicotine and water weights
+are derived by extraction techniques on the Cambridge pad.
+
+2042790056

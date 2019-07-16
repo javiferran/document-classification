@@ -1,0 +1,32 @@
+i
+
+. Table 5
+Real Time Nicotine Delivery: Puff 5
+
+Nicotine Mass Integrated Nicotine Conc Delivery
+Conc(ug/cig) Volume(cc) (ug/cc)
+
+0.79 2.95 0,29 0.66
+30.83 8.98 3.45 25.85
+45.89 10.56 434 . 38.48
+31.56 8.23 3.83 . 26.47
+10.18 3.66 2.80 8.54
+
+119.25 34.37 . 14.72 _
+Table 6 —
+
+Real Time Nicotine Delivery: Puff 6
+
+Nicotine Mass Integrated Nicotine Cone % Delivery
+
+Conc(ug/cig) Volume(cc) . (ug/cc)
+
+1.20 2.84 0.44 0.96
+54.65 8.79 3.96 27.71
+45.98  . 10.50 4.47 36.77
+52.21 8.42 35.84 _. 25.76
+10.99 3.81 | 2.89 8.79
+
+125.04 34.15 15.59
+
+9886 6580S

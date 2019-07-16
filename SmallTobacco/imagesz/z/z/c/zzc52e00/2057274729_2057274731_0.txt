@@ -1,0 +1,46 @@
+PHILIP MORRIS U. S. A.
+INTER-OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: -Bill Edwards . Data: 23 August 1989
+
+From: .Karen Sanders
+Subject: .Examination of Centrifuged Boehmite
+
+Two samples of Boehmite, precipitated sol-gel, batch 001, were
+received. One of the samples, labelled product, had been centrifuged, dried
+and ground. The other sample was the feed sol-gel prior to centrifugation.
+
+Both samples were mounted on carbon stubbs with carbon paint and
+
+examined by scanning electron microscopy (SEM) and backscatter electron
+microscopy.
+
+The purpose of this examination was to determine if any metal flakes
+from the stainless steel centrifuge vessel were present within the product.
+Backscatter SEM was used to locate these since it affords the ability to
+selectively view differences in atomic number elements within a sample.
+This is demonstrated by Figure 1 where a small piece of a stainless steel
+razor blade was examined to serve as a control.
+
+The feed sol-gel sample examined showed no metal (Figures 2-3). Energy
+dispersive x-ray Spectroscopy (EDS) was then used on the product te
+determine if there was a high concentration of metals present. Al, the
+constituent of the sol-gel, was the only element detected (Figure 4).
+
+The product was then subjected to backscatter SEM. No metal flakes
+were noted within the sample examined (Figures 5-8).
+
+Katin S an hipea
+
+co: Routing copy to:
+S$. Baldwin B. Ferguson B. Rogers J. Charles
+V. Baliga B. Geiszler T. Sanders P. Gauvin
+G. Bokelman W. Houck J. Seeman J. Myracile
+B. Carter A. Kallianos S$. Tafur J. Whidby
+W. Claflin J. Paine D. Watson Return to:
+R. Comes K. Podraza Central File V. Baliga
+B. Fenner
+
+6ZLPLGLSOG

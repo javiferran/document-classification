@@ -1,0 +1,48 @@
+Tobacco Company
+
+May 3, 1996 JEANNE M. SWISHER
+
+Chain Accounts Manager
+
+970 Via Rodeo
+
+Placentia, CA 92670
+To: List of Reps (w/attached) 714-572-3592
+
+Fax 714-572-9613
+
+Re: : . . sn
+Ladies & Gentlemen:
+
+Attached, please find a copy of the new RJR request for 7-Eleven display and a copy
+of the current contract screen. These supervisors are requesting that we get into each
+attached account and set up the 7-11 BASE PLAN.
+
+The following procedure should be followed:
+
+1} Contact requesting store to ensure understanding of our 7-11 Base
+Wrap program and requirements.
+
+2} If accepted, set up “ANYTHING” - temporaries, components, etc. to allow
+the store to participate immediately with our multi-pack promotion and
+display allowance.
+
+3} Order the 7-11 Wrap Display by voice mailing Jack Ivey @ VM# 78315.
+(They may take some time to arrive as corp has a backorder situation right
+now).
+
+4} Check for the RJR/7-11 Clock - if not present, ‘VM Jack Ivey again with a
+clock request.
+
+5} Update SIS appropriately:
+
+Type Plan Unit
+1 BASE 2 11 1
+PK ACCRUAL LZC 1
+
+(The 1 Base 2 pays the display allowance, the Pk Accrual goes:to 7-Eleven Corp to fund
+the multipack promotion and will be redistributed based on store sales).
+
+8S7L SOSTS
+
+‘We work for smokers.”

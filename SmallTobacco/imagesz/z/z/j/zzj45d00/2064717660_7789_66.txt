@@ -1,0 +1,62 @@
+ad
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INBIFO institut fiir biologische Forschung GmbH - Kéin PRIORITY
+‘| Report P 0500/3237 97/10/10 Page 61
+i
+J ACTIVA- TESTER CIGARETTE MUTAGENICITY (rev. /mg DPM) RELATIVE
+TION STRAIN we
+M SE SD RSD ON
+®
+- Do WITHOUT TA98  VIRGO-CA (a) 8 2 4 4.6 4 38
+i VIRGO-CC (a) 10 2 4 34.7 4 47
+ob 1R4F 22 2 4 18.0 4 100
+TALOO = VIRGO-CA 17 42 23 19.8 4 84
+boos VIRGO-CC 122 8 7 133.6 4 88
+|: 1RAF 139 1 20 «14.4 4 100
+LO TAI535 VIRGO-CA (a) 4 2 3 73.8 4 -
+| VIRGO-CC (a) 4 2 3 7.84 -
+1R4F (a) 7 2 4 51.0 4 -
+TA1537 VIRGO-CA (a) 1 5 10 722.2 4
+VIRGO-CC (a) 5 6 12 247.4 4 -
+1R4F (a) 9 3 5 55.5 4 -
+WITH S9 TA98 —- VIRGO-CA 418 29 59 144.0 4 11
+VIRGO-CC 459 7 34 7.5 4 12
+RAF 3909 (b) 153 305 7.8 4 100
+TA100  VIRGO-CA 361 20 40 11.14 16
+VIRGO-CC 430 233 AT 10.8 4 19
+1R4F 2320 (b) 126 252 10.9 4 100
+TAI535 VIRGO-CA (a) 6 3 5 85.7 4
+\ VIRGO-CC (a) 12 2 3 26.1 4
+\ IR4F (a) 7 2 4 58.2 4
+: TAI537_ VIRGO-CA 43 7 15 34.8 4 “12
+VIRGO-CC 54 2 3 60 4 15
+RAF 364 (b) = -37 74 20.3 4 100
+Table 42 MUTAGENICITY ON A PER MILLIGRAM DPM BASIS
+
+Lo, Remarks: date of assay: 25-FEB-97: TA98
+f 26-FEB-97: TALOO
+04-MAR-97: TA1535
+so, 05-MAR-97: TA1537
+: i mutagenicity per mg DPM calculated using specific
+tas, i mutagenicity, TPM yield, and DPM yield values 4
+
+Cay} negative response
+{b) calcutated up to dose 0.2 mg TPM/plate
+
+M CIT_A HISPECDPM_3237.L1S;15
+
+ 
+
+9CLLLLP90E

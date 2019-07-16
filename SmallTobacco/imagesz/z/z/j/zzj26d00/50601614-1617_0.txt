@@ -1,0 +1,98 @@
+Reprinted from CANCER, Vol. 65, No. 1, January 1, 1990.
+Copyright © 1990, by the American Cancer Society, Inc. J. B. Lippincott Company.
+Printed in U.S.A.
+
+Lymphocytic Infiltration in Uveal Malignant Melanoma
+
+PANFILO QO. DE LA CRUZ JR, MD, CHARLES S. SPEGHT, MD, AND IAN W. MCLEAN, COL, MC, USA
+
+A study relating the intralesional infiltration of lymphocytes and plasma cells to patient survival was
+performed on cases of uveal malignant melanoma accessed at the Armed Forces Institute of Pathology,
+Washington, DC (AFIP) between 1954 and 1973, The authors examined 1193 cases using light microscopy.
+Of the 1078 cases with technically acceptable histologic sections, 134 tumors contained 100 or more
+lymphocytes per 20 high-power (X400) microscopic fields (20 HPF). The prevalence was 12.4%. This
+was designated the “high lymphocytic” group. An equivalent number of cases with fewer lymphocytes
+comprised the “low lymphocytic” group. The survival rate at 15 years was 36.7% for patients in the high
+lymphocytic group and 69.6% for patients in the low lymphocytic group. Using the Cox model, the authors
+found that an increased number of lymphocytes per 20 HPF was significantly associated with decreased
+survival (chi-square = 24.2, P = <0.0001). A significant association was observed even when we controlled
+
+for other risk factors (chi-square = 6.98, P = 0.008).
+
+Cancer 65:112-115, 1990.
+
+T HE IMMUNOLOGIC role of lymphocytes and plasma
+cells in malignant tumors has been extensively stud-
+ied in the last two decades. Speculations have been made
+on whether or not the presence of these mononuclear cells
+in tumors has an effect on patient survival. Underwood,!
+in his review of the literature, found a favorable association
+between lymphocytic infiltration and patient survival in
+most cancerous tumors. In succeeding publications,?*
+contradictory results were presented regarding this asso-
+ciation in cases of cutaneous malignant melanoma. In
+patients with uveal malignant melanoma, Davidorf and
+Lang? found that the survival was better if the tumor con-
+tained a lymphocytic infiltrate, whereas Vit® found the
+opposite. Interpretation of these studies is difficult because
+lymphocytic infiltration was either poorly defined or sub-
+jectively evaluated. Because of these problems we under-
+took a study relating intralesional lymphocytic and plas-
+macytic infiltration in uveal malignant melanoma to pa-
+tient survival. Multivariate analysis of lymphocytic
+
+Presented at the Annual Meeting of the Association for Research in
+Vision and Ophthalmology, Sarasota, Florida, May 1988.
+
+From the Registry of Ophthalmic Pathology, Armed Forces Institute
+of Pathology, Washington, DC.
+
+Supported in part by research grant EY04482 from the National Eye
+institute, National Institutes of Health, Bethesda, Maryland.
+
+The opinions or assertions contained herein are the private views of
+the authors and are not to be construed as official or as reflecting the
+views of the Department of the Army or the Department of Defense.
+
+Address for reprints: Ian W. McLean, COL, MC, USA, Department
+of Ophthalmic Pathology, Armed Forces Institute of Pathology, Wash-
+ington, DC 20306-6000,
+
+Accepted for publication July 21, 1989,
+
+infiltration and other known risk factors*'? such as Cal-
+lender cell type, tumor size, mitotic activity, necrosis,
+scleral invasion, and orbital invasion was done to evaluate
+its prognostic value.
+
+Materials and Methods
+
+One thousand one hundred nincty-three uveal malig-
+nant melanoma cases accessed between 1954 and 1971
+were retrieved from the files of the Registry of Ophthalmic
+Pathology at the Armed Forces Institute of Pathology,
+Washington, DC for use in this study. One thousand sev-
+enty-eight cases had hematoxylin and eosin-stained his-
+tologic sections that were technically acceptable. All tu-
+mors containing 100 or more lymphocytes per 20 high-
+power (400) microscopic fields (HPF) were selected for
+the “high lymphocytic” group. We chose the next accessed
+case of uveal malignant melanoma with less than 100
+lymphocytes per 20 HPF for the “low lymphocytic” group.
+Without knowledge of the patients’ follow-up data, the
+number of lymphocytes and plasma cells were counted
+separately in 20 HPF within the tumor; tumor size in its
+largest dimension (LTD) was measured; Callender cell
+type, degree of necrosis, mitotic activity, distribution of
+lymphocytes, scleral invasion, and orbital invasion were
+coded. The risk factors were coded ‘as follows: (1) lym-
+phocytic and plasmacytic infiltration as the log of the
+number of cells plus one per 20 HPF; (2) distribution of
+lymphocytes as perivascular or diffuse; (3) Callender cell
+type as spindle, mixed, or epithelioid; (4) tumor size as
+measurement of largest dimension; (5) necrosis as 0 to 4
+(0 = no necrosis in the tumor, | = less than 5% of the
+
+ 
+
+50601614

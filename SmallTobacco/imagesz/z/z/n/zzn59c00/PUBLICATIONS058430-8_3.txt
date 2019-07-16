@@ -1,0 +1,121 @@
+30188
+
+2
+
+ors
+
+Endocytic rate constant (I/min) >
+
+endocylic rate constant (imin) @
+
+Neo SH 430
+Pic. 4. Comparison af the endocytic behavior of (4) EGFR and
+overexpressors and (8) o-Gre overexpressor: and
+
+average of several (perween 2 and 8) ruts consiazts taken i that regice.
+3. che deca tar the Nes cull tine ions der) are 5 = 6, for the 5H call Line
+(closmd bur} aren © 7, and ter the 430 caf tine (ohasded bar) ares = 4,
+a) with average surface complazes below 3 X 10°. Error bers represest.
+manderd drmatians.
+
+thom rate constant in tha 430 cell line is somewhat lower than
+for the Neo call lina (Fig. 43) but not with statistical eignifi-
+capes (k, = 0.023 = 0.014), At high receptor eccupancy levels
+above §,000 surface complaxas/eell, endocytic rate constants for
+SHR and NR were identical due to saturation af the endocytic
+apparamas (35, 96). Becsuse of the low level of EGFR expressed
+in tha 6H and Neo cell Linas, we were unable to saturate the
+
+Note, comparing Fig. 44 with 48, that the internalisation
+rate constants for the Neo and NR oell lines exhibit different
+averages at low receptor cecupancy. This is most binely dus te
+differences in the overall average C, values between the two
+cell lines. Since Neo therefore exhibits a larger average C, (data
+not shown), the internalization rate constant should be slighty
+Jower than for NR
+
+"So check for apecifcity of the o-Sre effect, endocytic rate
+constants for the SHIR and NE call lines ahould be measured far
+a different ligand/receptar pair. Tha trenaferrin receptor hat
+beet previously abown to internalize independently of receptor
+occupancy and to be unaffected by the presence of ssturating
+
+Bheveis of EGP, indicating that transferrin receptor internaliza-
+tion follows a different mechanian than that of EGFR (36).
+
+ee mam
+
+PUBLICATIONS
+60163089
+
+   
+
+c-Src Enhances internalization of EGFR
+
+0.06
+
+ 
+
+0.05
+
+recycling rate constant (S/nin} >
+ewe
+:
+
+  
+   
+
+pas bento aeeebe saat
+
+low
+
+ole
+
+a12
+
+recycling rate constant (l/min) ao
+ge
+
+high
+Fic. 5. Comparisons of the recycling behavior of EGFR and
+averaxpressors for two protocols. The recycling rate
+consents are shown for the (A) pulse-chase protons) and (B) unternal-
+Toe recycling rate constants for the SHR icioeed bar’
+‘and NR (open bar) call lines are shown at high (6,000-40.000) and low
+($009,000) pombers of internal complexes (n = 2-6). The average
+number of internal complexes was taken ss an integral average over
+tume for each A,, Error bars represmnt mandard éerienons
+
+Accordingly, we teated the effect of e-Sre on the internalization
+rate constant of transferrin receptor. The SHR and NR cell
+lines ware found to internalize transferrin cimilarly, exhibiting
+rate constante of 0.25 = 0.09 and 0.30 = 0.03 (n = 4), respec
+tively. Thus, the effect of c-Sre appears to be specific.
+
+To determina if other parameters of receptor wrafficking sre
+affected by ¢-Sre. recycling rate constants (k,) wert measured
+using two different protocols as described under “Experimental
+Procedures.” Tha Bret method involved pulaing ths cells for 5
+min in labeled ligand followed by mp unlabeled ligand chase.
+The analyais for thie protocel follows the decrease of interns!
+receptor/ligand complexes with time. Since thia analysis as-
+umes the axocunt of degraded ligand is negligible, we verified
+that thers was no significant degraded ligand within the ex-
+
+i ta] time period of 40 min (date not shown). The recy-
+cling rata constant showed no significant trends either within
+or batween cell lines (Fig. 5A).
+
+An alternative measure of the recycling rate cmstant was
+obtained from the internalization data. instead of ploting the
+gumber of internal complexes (C,) as a function of the average
+number of surface complexes over time ({C,dt), C, - k,JC,de
+was plotted as a function offCydt, yielding e straight line with
+a alope of -4,. Tha results of these experimmnts also yielded bo
+apperent affect of ¢-See on recycting rate conmants, although
+the magnitude of the recycling rata constant was roughly 2-fold
+greater in this assay (Fig. SB) than in the pulse/chase sesay
+(Fig. 5A). The differences in recycling rate noted between pro”
+tocols could be due to insufficient surface stnpping by the light
+
+058433

@@ -1,0 +1,32 @@
+INBIFO Institut fr biologische Forschung GmbH - Kéln PRIORITY
+
+ 
+
+Report P 0500/3237 97/10/8 Page 7
+
+For metabolic activation of promutagens, the postmitochondrial (S9) fraction of the livers from
+rats treated with Aroclor 1254 was mixed with a nicotinamide adenine dinucleotide phosphate
+(NADPH)-generating system (S9 mix). The S9 fraction (batch no. 94-1, for preparation and
+characterization see INBIFO study P 0500/5218) was prepared from male Sprague Dawley rats
+given a single intraperitoneal injection of Aroclor 1254, 500 mg/kg body weight 5 d prior to
+killing. It was stored at approximately -75 °C. For an 8 g/l S9 protein concentration, the S9 mix
+consisted of 100 mmol/l sodium phosphate buffer, pH 7.4, 16 mmol MgCl. - 6H,O, 66 mmoli!
+KCl, 5 mmol/l glucose-6-phosphate disodium, and 4 mmol/ NADP disodium. The S9 mix was
+filter-sterilized prior to use and kept at 0 °C under nitrogen atmosphere during the experiment.
+To obtain the required protein concentration, the S9 mix was diluted with sodium phosphate
+buffer (0.1 mol/l, pH 7.4). The S@ protein/cofactor ratio remained constant (according to Zeiger
+et al., 1979). The S9 amount was 1 mg protein/plate.
+
+The preparations were carried out according to SOPs MB 50, 55, and IT A53.
+
+5.2. Test System and Procedure
+
+The Salmonella typhimurium reverse mutation assay according to Maron and Ames (1983) is a
+widely used and accepted assay for detection of the in vitro genotoxicity of a wide range of
+chemicals. In the present study, the plate incorporation version of the assay was-used to detect
+differences between the mutagenicity of the TPM of the cigarette types. The assay fulfilled the
+criteria required by OECD guideline 471 (1983) with 2 exceptions: the upper limit of the dose
+range was 1mg TPM/plate, and the results were not confirmed in an independent assay
+because 4 batches of TPM per cigarette type were tested.
+
+s99LLZp90e

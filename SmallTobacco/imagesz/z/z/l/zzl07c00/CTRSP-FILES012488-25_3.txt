@@ -1,0 +1,58 @@
+542 Weinkam and Sterling
+
+heid a job. Only persons who had no job and were not homemakers were classified
+as not employed.
+
+Within each classification, the sum of the weights and the number of subjects
+were accumulated. (For the 1979/80 data, the sum of the weights was divided by 2
+because 2 years of data were involved.) The sum of the weights of individuals in a
+given category is an estimate of the number of persons in the U.S. who would fall in
+that category. The sampling error of the estimates given here depends on the number
+of sample individuals who fall in each category.
+
+RESULTS
+
+Table Ila gives the number of interviews available for analysis in 1970 and
+1979/80 by sex, race, occupation, and smoking category. (For instance, there were
+808 white male professionals among current smokers in the 1970 NHIS.) There is a
+sufficient number of cases to estimate smoking prevalence for whites with acceptable
+reliability for all broad occupational groups. (The category “Other” is of no interest
+to this analysis.) The sample of blacks is slightly morc than one tenth that of whites
+and contains a sufficient number of observations for acceptable estimates of smoking
+prevalence only for the service, blue-collar, homemaker (for black women), em-
+ployed, and not employed categories.
+
+The magnitude of numbers for different categories needs to be kept in mind in
+evaluating the various prevalence rates reported in subsequent tables. There would be
+no particular advantage in including the statistical significance of the many smoking
+rates and changes in them that we report here and we have not done so. (Those
+wishing to determine specific confidence intervals are referred to the NCHS publica-
+tion. Current Estimates from the Health Interview Survey [USDHEW, 1974,
+USDHHS, 1981]. Appendix I of each issue of this publication includes a discussion
+of error estimation for statistics derived from NHIS data and contains charts that may
+be used to approximate the relative standard error of estimate. Table Ib gives the
+estimated number of individuals in the U.S. who fal! in each category. These values
+can then be used in conjunction with specific values from the other tables to read the
+appropriate error estimate from the NCHS error charts.)
+
+Table MI summarizes the percent distribution of current, former, ever, and
+never smokers within occupational categories. (For instance, among professional
+white males, in 1970 there were 30.4% current, 33.6% former, 64.0% ever, and
+36.0% never smokers, while in 1979/80, there were 22.8% current, 34.4% former,
+57.1% ever, and 42.9% never smokers.)
+
+Differences by occupation and sex observed in 1970 persist, by and large,
+through 1979/80.
+
+For males, 1970 data show the typical difference in smoking by occupation.
+The highest current smoking rates are for blue-collar and service workers and the
+lowest for professionals. Employed workers smoke more than not employed and have
+fewer never smokers in their ranks. The 1979/80 data show the same qualitative
+characteristics, albeit for a markedly reduced percentage of current and increased
+percentage of never smokers. The percent of current smokers drops by approximately
+15% for white and 20% for black males, while the percent of never smokers increases
+by approximately 10% for white and 20% for black males.
+
+CTe SP-FILES 012491
+
+11012511

@@ -1,0 +1,137 @@
+Proc, Natl. Acad. Sci. USA .
+Vol. 91, pp. 772-776, January 1994 .
+Medical Sciences
+
+An integral membrane protein (LMP2) blocks reactivation of
+Epstein-Barr virus from latency following surface
+
+immunoglobulin crosslinking
+
+Cyerye L. MILER, JENNIFER H. Lee, ELLiott Kierr*, AND RICHARD LONGNECKERT
+
+Departments of Medicine and Microbiology and Molecular Genetics, Harvard Medical School, 75 Francis S$:reet, Boston, MA 02115
+
+Communicated by Peter M. Howley, October 8, 1993 (received for review August 30, 1993)
+
+ABSTRACT The role of latent membrane protein 2
+(LMP?) in Epstein-Barr virus (EBY) infection was evaluated
+by using latently infected primary B lymphocytes that had been
+growth transformed by wild-type or specifically mutated EBV
+recombinants. LMP2 null mutant recombinant EBV-infected
+cells were similar to normal B lymphocytes in their rapid
+increase in intracellular free calcium after surface immuno-
+globulin crosslinking. These cells also became more permissive
+for lytic EBV replication. In sharp contrast, wild-type control
+infected cells had little or no increase in intracellular free
+calcium or in permissivity for EBV replication. The bleck to
+surface immunoglobulin crosslinking-induced permissivity in
+cells expressing wild-type LMP2 could be bypassed by raising
+intracellular free catcium levels with an ionophore and by
+activating protein kinase C with phorbol 12-myristate 13-
+acetate. LMP2A, not LMP2B, mediates this effect on calcium
+mobilization. Genetic and biochemical data are consistent with
+these effects being due to the interaction of the LMP2A
+N-terminal cytoplasmic domain with B lymphocyte sre family
+tyrosine kinases.
+
+ 
+
+Epstein-Barr virus (EBV) is a herpes virus that establishes
+latency in B lymphocytes during primary infection. Latent
+infection of B lymphocytes is likely to be essential for
+perpetuation of this virus in human populations, since virus
+reactivation from latency is the major reservoir of virus for
+infection of susceptible hosts. In latent infection, the virus
+can express six nuclear proteins [EBV nuclear antigens
+(EBNAs)], two integral membrane proteins [latent mem-
+brane proteins (LMPs)}, and two small RNAs, thereby caus-
+ing proliferation of the infected lymphocyte (1-3). Latently
+infected lymphocytes can cause a lymphoproliferative dis-
+ease in immunodeficient individuals (4-6). The EBNAs and
+LMPs are being intensively studied since they are likely to be
+involved in the maintenance or regulation of latency or of the
+concomitant effects on cell proliferation. This report focuses
+on LMP2, the protein(s) most recently discovered to be
+expressed in latently infected B lymphocytes (7-9).
+
+Two forms of LMP2 (designated LMP2A and -2B) are
+expressed in latently infected B lymphocytes. Both forms are
+encoded by highly related mRNAs composed of eight exons
+with a single long open reading frame, differing only in their
+first exons (10-12). The first exon of LMP2A encodes a
+119-amino acid hydrophilic N terminus that is unique to
+LMP2A. The promoter for LMP2B is in the first LMP2A
+intron, and the first LMP2B exon is noncoding. The first
+codon of the second exon in LMP2A and -2B is a methionine
+codon, at which translation of LMP2B initiates. That methi-
+onine is followed by 12 predicted hydrophobic transmem-
+brane domains separated by short reverse turns and a 27-
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked “advertisement”
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+772
+
+50691511
+
+amino acid hydrophilic C terminus (see Fig. 1). LMP2A and
+-2B posttranslationally insert into membranes (12).
+
+Although initial biochemical evidence pointed to an im-
+portant role for LMP2 in cell growth transformation, EBV
+recombinants with mutations affecting any part of LMP2 are
+fully competent for inducing B-lymphocyte transformation
+and the transformed cells are indistinguishable from wild type
+(WT) in growth in vizro or in severe combined immunodefi-
+ciency (scid) mice (13), (C.L.M., R.L., and E.K., unpub-
+lished data). Nevertheless, LMP2A does associate with
+LMP1 in latently infected cell plasma membranes (14), and
+LMP1 is a key effector of EBV-induced cell growth trans-
+formation (15-20). Furthermore, LMP2A patches in the
+plasma membrane are major sites of tyrosine phosphoryla-
+tion, and LMP?2A is associated with, and tyrosine phosphor-
+ylated by, B-lymphocyte sre family tyrosine kinases (14, 21).
+
+The experiments described in this report were designed to
+test the hypothesis that a key role of LMP? in interacting with
+src-related tyrosine kinases is to block transmembrane signal
+transduction in latently EBV-infected lymphocytes and
+thereby prevent fortuitous activation of lytic infection. Three
+previous lines of evidence are consistent with this hypothe-
+sis. First, crosslinking of surface immunoglobulin (slg) can
+activate a switch to lytic replication in a few latently EBV-
+infected cell lines (22, 23). The cell line in which crosslinking
+of sIg can most efficiently induce such effects is a Burkitt
+lymphoma cell tine in which LMP2 is not expressed (24).
+Second, expression of LMP2A in Burkitt tumor lymphoblasts
+at the level normally seen in latently infected ceils blocks the
+calcium mobilization response to crosslinking of slg, CD19,
+or major histocompatibility complex class II (25). Finally,
+LMP2aA interacts with src family tyrosine kinases, which are
+key effectors of sig-mediated B-lymphocyte activation (26).
+We now present evidence that LMP2A blocks the effects of
+slg crosslinking on calcium mobilization and reactivation of
+EBV from latent infection in growth-transformed normal
+human B lymphocytes.
+
+MATERIALS AND METHODS
+
+Cell Lines and Cell Culture. Lymphoblastoid cell lines
+(LCLs) were established by infecting normal human B tym-
+phocytes with either WT or LMP2 mutant recombinant EBV
+(13, 27, 28). LCLs were maintained in RPMI 1640 medium
+supplemented with 15% heat-inactivated fetal bovine serum
+and gentamicin (2 u2/ml). Akata is a membrane IgG-positive
+Burkitt lymphorna cell line.
+
+ 
+
+Abbreviations: EBV, Epstein~Barr virus; LCL, lymphoblastoid cell
+line; LMP, latent membrane protein; slg, surface immunoglobulin;
+PMA, phorbol 12-myristate 13-acetate; WT, wild type.
+
+*To whom reprint requests should be addressed.
+
+Present address: Department of Microbiology and Immunology,
+Northwestern University, 303 East Chicago Avenue, Chicago, IL

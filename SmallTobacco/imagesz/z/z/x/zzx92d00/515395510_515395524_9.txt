@@ -1,0 +1,70 @@
+YER8801.92W Page 10
+
+ 
+
+°
+
+B. Maintain capability for routine analyses of nicotine/cotinine by
+G.C. (Ongoing)
+
+Improvements in the routine analysis of nicotine and cotinine were sought
+through a study of Benowitz and Jacob's method of analysis. The
+
+Benowitz/Jacob method provided no significant improvement over the RJRT
+method.
+
+Work is underway to extend the limit of quantitation for nicotine and
+cotinine to target levels of 0.2 ng/ml nicotine and 0.8 ng/ml cotinine by
+concentrating samples. Good resolution of GC peaks has been obtained.
+
+A new software package (PeakPro) for the acquisition of chromatographic
+data became available. It was integrated into the nicotine/cotinine
+method, resulting in a reduction in the time required for data analysis
+from about one to two days to about four hours. PeakPro was used to
+analyze the data from both the 1988 Human Study and the ETS Pilot Studies.
+An R&DM was prepared describing the use of PeakPro for data acquisition and
+its application to nicotine and cotinine chromatographic data.
+
+Preliminary investigation of methods to recover nicotine, cotinine and
+hydroxycotinine from both urine and plasma by solid phase extraction was
+begun.
+
+Mr. M. F. Stiles was chosen to be a member of the Data Acquisition and
+Control (DAC) Users' Group steering committee.
+
+4. Develop additional analytical capability as required.
+
+A. Investigate feasibility of determination of trans-hydroxycotinine in
+urine. (6/88)
+
+The determination of hydroxycotinine was demonstrated using the present
+nicotine and cotinine method. The resolution of hydroxycotinine was
+excellent. Accurate quantitation was achieved both in standard solutions
+and in extracted samples spiked with standard solutions. Various methods
+of derivatization of hydroxycotinine were researched. Derivatization may
+not be necessary for its determination.
+
+B. Develop method for determination of caffeine in plasma and urine.
+(8/88)
+
+Caffeine is frequently present in the chromatograms of nicotine and
+
+‘cotinine samples from human subjects. Its detection and resolution from
+other peaks are excellent. A linear response was obtained when the
+calibration for caffeine was done using the ratio of the caffeine peak area
+to that of the internal standard for nicotine, but the PeakPro software
+would not permit this application. Six additional compounds were tested as
+caffeine internal standards, but all proved to be inappropriate. Dr. P.
+Jacob provided a sample of 7-ethyltheophylline, which he uses as the
+internal standard in his caffeine method. This compound proved suitable in
+our method.
+
+C. Develop improved method for determination of thiocyanate in plasma and
+saliva. (5/88)
+
+Six methods were evaluated for the determination of thiocyanate (SCN) in
+plasma and urine, including ion-exchange chromatography, colorimetry on
+whole blood and ultracentrifugates, a manual version of a continuous flow
+colorimetric method, and an HPLC method. A colorimetric method which dia
+
+6TSS 6€eSTS

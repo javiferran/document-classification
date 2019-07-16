@@ -1,0 +1,113 @@
+cet iel
+
+ 
+
+Preparation of SR vesicles from rabbit skeletal muscle and of phospho-
+hpids has been described, as have the methods used to insert K* channels
+into the planar bilayers (Labarca et al., 1980). SR vesicles were added to
+the cis side of the membrane, while the opposite trans side is defined as
+zero voltage. All aqueous solutions used were composed of the SOJ salt of
+the indicated cation, and alsa contained 10 mM HEPES neutralized to
+pH 7.5 with the appropriate cation hydroxide. Single-channel data were
+recorded on chart paper and were analyzed by hand, Each experiment
+was repeated in 3-8 separate bilayers. Temperature was 21-23°C.
+
+Only two significant variations over previous studies were used. First,
+we connected the Ag/AgCl! clectrodes to the bilayer chambers with salt
+bridges containing 3M KCl (rather than 0.2 M KCl); the use of lower
+ionic strength salt bridges gave serious errors (5-10 mY) in the measure-
+ment of reversal potentials under mixed-ion conditions, Second, in almost
+all experiments involving the measurements of Cs* currents, we inserted
+channels into the bilayers in the presence of symmetrical K* solutions,
+and subsequently exchanged these with Cs*-containing solutions; in this
+way, we could confidently identify the channel under study as the SR K*
+channel.
+
+RESULTS
+
+Cs* is a Conducting Ion
+
+In our previous work on ion conduction through the SR K*
+channel (Coronado et al., 1980), we were unable to observe
+any single-channel conductance fluctuations in the pres-
+ence of symmetrical Cs* solutions. In those studies, we
+used high concentrations (1-2 M) of Cs* in hopes of
+enhancing any small current that might be present. We
+now show in Fig. | that clear channel fluctuations may be
+easily observed in symmetrical Cs* solutions at lower
+concentrations, 30 to 300 mM. There are three pieces of
+evidence (not shawn) telling us that the channel observed
+in symmetrical Cs* is in fact the SR K* channel, First, the
+voltage dependence of channel opening is similar in K* and
+Cs*; channel opening is enhanced as voltage is made
+increasingly positive, and the kinetics of gating are similar.
+Second, the single-channel Cs* currents are inhibited by
+decamethonium (150 uM) on the rans side of the channel,
+as are the corresponding K* currenis, Finally, Cs* current
+fluctuations as in Fig. 1 were obtained by inserting a single
+SR channel in symmetrical K* and subsequently perfusing
+both sides of the bilayer with Cs* solution,
+
+[Cs],mM Vmv
+
+Cs” is less conductive in this channel than K*; at zero]
+voltage at 600 mM Cs*, the conductance is 15 pS, 16-fold!
+smaller than the corresponding value for Kt. Two addi4
+tional properties of the Cs* current through single chan-
+nels are obvious in Fig. 1: open-channel rectification andj
+concentration independence. These characteristics are doc.
+umented more fully in Fig. 2, which shows the current
+voltage relation (/-V curve) under conditions of symmetri-
+cal Cs", at concentrations from 18 to 600 mM. The'
+channel displays rectification: negative (trans-to-cis) Cs*
+current passes more easily than does positive (cis-to-trans)
+current. Most remarkable is the fact that the J-V curves are!
+identical over an enormous range of Cs* concentrations,’
+from 18 to 600 mM. Since we know (Coronado et al.,
+1980) that for the other alkali metal cations the channel
+saturates with ion concentration, we conclude that the Cs*4
+conductance is already saturated by 18 mM. It was not
+possible to collect data at Cs* concentrations lower than 15
+mM, as channel opening becomes very rare under these
+conditions,
+
+Cs” is Nearly as Permeant as K*
+
+The results above show that Cs* is much less conductive
+than K* through the SR K* channel. An alternative
+Measurement of ionic selectivity is the reversal potential
+under biionic conditions, i.e,, the zero-current voltage, ©, 7
+measured with Cs* on one side of the bilayer and K* at the |
+same concentration on the other. The ratio of the two ion
+permeabilities is defined by the reversal potential:
+
+Pol Px = exp (—FY,/RT). @)
+As discussed by Hille (1975a), these two measurements of j
+ion selectivity, conductance and permeability, do not in 4
+general agree, since they are expressions of different rate
+processes in the channel permeation mechanism. Under
+bionic conditions (Fig. 3), the SR K* channel shows high |
+permeability to Cs*, nearly as high as to K*. The biionic
+reversal potential is only 10 mV, indicating a P,/P, of 0,7.
+
+eso ALL LP
+
+eg +30 “UF
+
+woe pipet
+
+30430 LT te ee
+
+my m7, we
+
+f
+
+u io
+
+Figure | Single SR K* channels in symmetrical Cs* solutions, Channels were inserted into planar bilayers as described in Methods, in the
+presence of symmetrical K* solutions. Tmmediately after appearance of channels, both sides of the bilayer were extensively perfused with Cst
+solutions at the indicated concentrations. Records were then collected at holding voltages shown. In all traces, channel opening is upward.
+
+478
+
+BIOPHYSICAL JOURNAL VOLUME 48 1985

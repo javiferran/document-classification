@@ -1,0 +1,130 @@
+0022-3565/96/279 1-0435303.00/0
+
+THE JOURNAL OF PHARMACOLOGY AND EXPERIMENTAL THERAPEUTICS
+
+Capyright © 1996 by The American Society for Pharmacology and Experimental Therapeutics
+JPET 279:435-442, 1996
+
+APPENDIX i
+
+Vol. 279, No. 1
+Printed in U.S.A.
+
+ 
+
+Lead (Pb**) Promotes Apoptosis in Newborn Rat Cerebellar
+
+Neurons: Pathological Implicatio
+
+ns
+
+ALESSANDRA OBERTO, NEVILLE MARKS, HUGH L. EVANS AND ALESSANDRO GUIDOTTI
+
+Center for Neuropharmacology and Neurochemistry (A.O., A.G., N.M.), N.
+
+S. Kline institute for Psychiatric esearch, Orangeburg, New York
+
+and Department of Environmental Medicine (H.L.E., A-G.), NYU Medical Center, New York and The Psychiatric institute (A.J.), The University of
+
+iinais at Chicago, Chicago, Ilinois
+Accepted for publication June 3, 1996
+
+ 
+
+ABSTRACT
+
+Despite mandated reduction in environmental lead (Pb~~),
+such exposure still poses a public health hazard for children,
+with devastating effects on CNS development. To replicate
+aspects of this neurotoxicity, we used cultured granule cells
+fram newborn rat cerebella to study whether apoptotic or ne-
+crotic death is the major consequence of exposure to low
+micromolar concentrations of Pb*~. At a low dose, 1 nM (ECgo
+= 10 uM), Pb*~ does not affect glutamate-induced neuranal
+necrosis but promotes neuronal apoptosis, as characterized
+morphologically by cell shrinkage and chromatin condensation,
+biochemically by the typical internucleosomal DNA fragmenta-
+tian and functionally by dependence on new synthesis of mac-
+
+4
+%
+
+romolecules (cycloheximide- and actinomycin D-sensitive). The
+low micromolar doses of Pp** that promote apoptosis are well
+within the blood level range reported to impair CNS function in
+children and to alter synaptogenesis in the neonatal rat brain.
+Thus these in-vitro results suggest that the highly neurotoxic
+action of Pb" ~ in the developing CNS of children might depend
+on a facilitation of apoptosis. The Pb* *-elicited potentiation of
+neuronal apoptasis is attenuated by treatment with the voltage-
+sensitive Ca** channel agonist Bay K8644, which suggests the
+possible use of this agonist for treatment of the neurotoxic
+effects of PhT*.
+
+ 
+
+Subchronic or chronic exposure to Pb** is highly neuro-
+toxic, affecting particularly the developing CNS (Hammond
+and Dietrich, 1990). In children, Pb~ ' blood levels as low as
+1.3 to 13 uM, may affect CNS development, leading to mental
+retardation, impaired visual motor coordination and perma-
+nent cognitive deficits (Goldstein, 1992). Rodents exposed to
+Pb** just before or after birth exhibit abnormal cytoarchi-
+tectonic changes in development of the hippocampus and the
+cerebral cortex, reduction in the number and diameter of
+axons in the optic nerve and demyelinization of peripheral
+nerves (Rodier, 1995). Recent data on the interaction of low
+doses of Pb* * with neonatal brain synaptogenesis have led to
+the hypothesis that this metal may interfere with the process
+of synapse trimming by reducing the ratio between active
+and inactive synapses (Goldstein, 1990). There appear to be
+in vitro counterparts of the in vive neurotoxicity, because
+embryonic hippocampal and neonatal rat cerebellar neuronal
+cultures exposed to low concentrations of Pb** (1-100 »M)
+fail to differentiate fully or grow (Holtzman et al., 1987; Kern
+et al., 1993).
+
+A number of mechanisms have been proposed to explain
+why Pb** impairs neuronal function, including inhibition of
+
+Received for publication February 12, 1996.
+
+aerobic energy metabolism (Haltzman et a/., 1980), substitu-
+tion of Pb'' for Cat* (Markovac and Goldstein, 1988), inhi-
+bition of Na*/K*-ATPase activity (Chanez et al., 1988),
+blockade of VSCCs (Audesirk G., 1993) and blockade of
+NMDA-selective glutamate receptors (Ujihara and Albuquer-
+que, 1992). {t has also been suggested that the influence of
+Pb'* on neuronal growth, survival and differentiation is
+indirectly mediated via a toxic action on glial cells (Tiffani-
+Castiglioni e¢ al., 1989).
+
+Several lines of evidence support the notion that neuro-
+toxic agents may cause neuronal death in the developing
+brain by two mechanisms: 1) apoptosis (Martin et al., 1988;
+Oppenheim, 1991; Martin e¢ al., 1992; Franklin and Johnson,
+1992; Raff et al., 1993) or 2) necrosis (Choi, 1988; Manev ef
+al,, 1989, 1990; Koh et ad., 1995). Necrosis is a form of Ca**-
+dependent neuronal death that may be prompted by an ex-
+cessive and protracted stimulation of specific glutamate re-
+ceptors. Apoptosis, on the other hand, is a form of neuronal
+death that occurs during development and can be triggered
+experimentally by drugs or toxins that decrease the avail-
+ability of neurotrop::ie factors. Apoptosis is accompanied by
+DNA laddering and is blocked in vitro by a number of protein
+synthesis inhibitors.
+
+Despite the interest in understanding the mechanisms of
+
+ 
+
+ABBREVIATIONS: BME, basa! medium Eagle's medium, [Ca**],, intracellular caicium; FCS, fetal calf serum; DMSO, dimethy! sulfoxide; DIV, days
+in vitro; NMDA, N-methy!-D-aspartate; PBS, phosphate-buffered saline; VSCC, voltage-sensitive calcium channel; Pb*~, environmental lead.
+
+ 
+
+“400505
+
+435
+
+29

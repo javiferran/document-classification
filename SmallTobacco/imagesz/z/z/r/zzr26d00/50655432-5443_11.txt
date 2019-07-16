@@ -1,0 +1,131 @@
+INSPIRATORY PRESSURE GENERATION
+
+shown in Fig. 12, A and B. During the second half of T
+(i.e., 50% Ti to Vste), Fig. 12A shows relative constancy
+of Piam accompanied by a marked decrease in Ppra,
+whereas Fig. 128 shows a marked decrease in Pram with
+relatively less decrease in Poa. Four COPDs showed
+patterns of Fig. 124 (with two manifesting a decrease in
+Ppia to zero) and seven COPDs showed patterns of Fig.
+12B.
+
+We believe that mechanical (i.e., length-tension, and,
+for the diaphragm, radius of curvature) factors largely
+account for the inspiratory time course of Ppia and Plam
+shown in Fig. 12, A and B. At the start of inspiration,
+the diaphragm and inspiratory accessory muscles are
+presumably at the maximum length that they manifest
+during inspiration. In contrast, during the latter half of
+inspiration, both diaphragm and inspiratory accessory
+muscles have shortened, and the diaphragm has flat-
+tened. We have recently reported that COPD patients
+who exhibit EMG signs of diaphragmatic fatigue (during
+treadmill exercise) show a decrease in Pdi during the
+latter half of inspiration. Figure 12 indicates that all 11
+COPDs showed decreases in Ppys either after 25% of TI
+(A) or 50% of -T1 (B). In the present study, the most
+marked decreases in Pdi (A} occurred in four patients,
+in three of whom the EMG power spectral density analy-
+sis showed signs of diaphragmatic fatigue (12). This is
+consistent with the possibility that the combination of
+diaphragmatic fatigue and mechanical factors accounted
+for the early fall in Ppia in these patients.
+
+In contrast, the relative maintenance of Ppt, in asso-
+ciation with marked decreases in Piam (Fig. 12B) suggests
+the possibility that these COPDs may have breathed
+with a different pattern, one which preserved diaphragm
+mechanical advantage relatively more effectively. Fitting
+and co-workers (7) have recently shown that differential
+fatigue of the diaphragm and intercostal/accessory mus-
+cles can be produced by different breathing patterns in
+normals, and it is possible that our COPDs may be
+manifesting a similar phenomenon. Alternatively, the
+pattern of inspiratory muscle recruitment in those
+COPDs (characterized by Fig. 12B) may have preserved
+diaphragmatic function at the cost of some degree of
+“antagonistic” activity of intercostal/accessory muscles
+
+such that the net mechanical inspiratory pressure (i.e.,_
+
+Pram) of the latter was compromised.
+
+3899
+
+We thank Dr. Arthur Bouras for safety monitoring of all subjects
+uring this study.
+
+Received 8 December 1986; accepted in final form 9 March 1988.
+
+REFERENCES
+
+1. BARNARD, P., AnD S. Levine. Critique on application of diaphrag-
+matic time-tension index to spontaneously breathing humans. J.
+Appl. Physiol. 60: 1067-1072, 1986,
+
+2. Bye, T. P.,S. A. Esau, R. D. Levy, R. J. Sttiner, P. T. MACKLEM,
+J. G. Martin, AND R. L. Parpy. Ventilatory muscle function
+during exercise in air and oxygen in patients with chronic air-flow
+limitation. Am. Rev. Respir, Dis. 132: 236-240, 1985.
+
+3. Bye, T. P., S. A. Esau, K. R. WALLEY, P. T. MACKLEM, AND R.
+L. Parby. Ventilatory muscles during exercise in air and oxygen
+in normal men. J. Appl. Physiol. 56: 464-471, 1984.
+
+4, De Troyer, A., AND S. H. LORING, Action of the respiratory
+muscles. In: Handbook of Physiology. The Respiratory System.
+Mechanics of Breathing. Bethesda, MD: Am. Physiol. Soc., 1986,
+sect. 3, vol. III, part 2, chapt. 26, p. 443-461.
+
+5. Dixon, W. J. BMDP Ststistical Software. Berkeley: Univ. of Cali-
+fornia Press, 1983.
+
+6. Dopp, D. S., T. BRANCATISANO, AND L. A. ENGEL. Chest wall
+mechanics during exercise in patients with severe chronic air-flow
+obstruction. Am. Rev. Respir. Dis. 129: 33-38, 1984.
+
+7. Fittine, J. W., T. Bravcey, P. Faston, M. Lincoin, M. GoLp-
+MAN, AND A. GRASSINO. Dissociation between diaphragmatic and
+rib cage muscle fatigue. /. Appl. Physiol. 64: 959-965, 1985.
+
+8. GOLDMAN, M. D., AND J. MEAD. Mechanical! interaction between
+the diaphragm and rib cage. J. Appl. Physiol. 35: 197-204, 1973.
+
+9. Grimey, G., M. GOLDMAN, AND J. MEAD. Respiratory muscle
+action inferred fram rib cage and abdominal V-P partitioning. J.
+Appl. Physiol. 41: 739-781, 1976.
+
+10. Gross, D., A. Grassino, W. R. D. Ross, and P. T, MACKLEM.
+Electromyogram pattern of diaphragmatic fatigue. J. Appl. Physiol.
+46: 1-7, 1979.
+
+11. Levine, S., J. GILLEN, P. WEISER, M. GILLEN, AND E. Kwatny.
+Description and validation of an ECG removal procedure for
+EMGdi power spectrum analysis. J. Appl. Physiol. 60: 1073-1081,
+1986.
+
+12, Levine, S., AND M. GitLen. Diaphragmatic pressure wave form
+can predict electromyographic signs of diaphragmatic fatigue. J.
+Appl. Physiol. 62: 1681-1689, 1987.
+
+13. MackLEM, P. T., D, Gross, A. GRASSINO, AND C. Roussos.
+Partitioning of inspiratory pressure swings between diaphragm and
+intercostal/accessory muscles. J. Appl. Physiol. 44: 200-208, 1978.
+
+14. MacKLeM, P. T. Inferring the action of the respiratory muscles.
+In: The Thorax, edited by C. Roussos and P. T. Macklem. New
+York: Dekker, 1985, p. 351-358.
+
+15. Meap, J., d. C. SMITH, AND S. H. LORING. Volume displacements
+of the chest wall and their mechanical significance. In: The Thorax,
+edited C. H. Roussos and R. T. Macklem. New York: Dekker, 1985,
+p. 369-392.
+
+16. MILIC-EMILI, J., J. MEAD, J. M. TURNER, AND E. M. GLAUSER.
+Improved technique for estimating pleural pressure from esopha-
+geal balloons. J. Appl. Physiol. 19: 207-211, 1964.
+
+17. Winer, B. J. Statistical Principles in Experimental Design. New
+York: McGraw-Hill, 1971.
+
+50655443

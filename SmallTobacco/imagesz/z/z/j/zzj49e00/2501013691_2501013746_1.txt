@@ -1,0 +1,38 @@
+TNO-report
+
+ae
+B-92-0388 May 1992 page 2
+
+SUMMARY
+
+Six small scale membrane modules have been purchased with different fibre lengths and fibre
+diameters. Each module has been tested as a membrane stripper treating air containing four
+different chemicals - formaldehyde, nitrogen dioxide, ammonia and acetone - with tap water.
+The pressure drop and the filtration efficiency for the four gases has been measured at three
+different air flow rates.
+
+From these results the optimal membrane module has been selected. In the evaluation the
+filtration efficiency, the pressure drop, the membrane surface area and instrument volume,
+required for the filtration of 100 m3 of air/h, are considered.
+
+The experiments were continued with the selected optimal membrane module for ETS in a
+test room. The degree of removal was high, at least 95% for water soluble compounds such
+as acetone, nicotine, formaldehyde, higher aliphatic aldehydes, benzaldehyde, ammonia and
+hydrogen cyanide. The filtration efficiency for NO, was inconsistent and low for aromatic
+and aliphatic hydrocarbons.
+
+The sensory filtration efficiency was measured with two different methods, the dilution
+method and the decipol method. The efficiencies were in the same order of magnitude, circa
+50%. This lower efficiency is caused by non water soluble components.
+
+The results show that a membrane stripper gives with a high filtration efficiency for water-
+soluble gases as found in ETS in combination with a low pressure drop and tap water as the
+liquid phase. Long term filtration efficiency still has to be demonstrated.
+
+To realise a complete system for all gaseous components in ETS an additional filtration step
+is required for the removal of non water soluble components. This propably can be realised
+with a membrane combined with an organic absorption liquid.
+
+Further development of this filtration step for these components is recommended.
+
+2692 10102

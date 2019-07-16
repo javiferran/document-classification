@@ -1,0 +1,55 @@
+GROUP
+
+STAT.
+
+DATE
+
+OF WEIGHT DETERMINATION
+7. 1.75
+
+0.0-GR N
+iM
+RSD(%)
+
+15.1-GR NN
+
+if
+RSD (4%)
+
+35.1-GR N
+iM
+RSD (4)
+
+15.2-GR iN
+if
+RSD(%)
+
+35.2-GR N
+M
+RSD (4%)
+
+93
+403
+il
+
+90
+403.3
+
+7.5
+
+62
+373.1
+
+13.3
+
+TABLE D :
+
+‘
+
+306.00/T3061/1013.50
+
+BODY WEIGHT
+
+(9)
+
+6T2SZ09Z202

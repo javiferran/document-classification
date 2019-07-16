@@ -1,0 +1,37 @@
+INBIFO Institut fir biologische Forschung GmbH - K6In
+Report P 0500/3284
+
+ 
+
+7 Results
+
+The TPM, DPM, tar, and nicotine yields for the YMF114 smoked in the different groups of
+lighters were between 67 and 84 % lower than those for the 1R4F (Table 7, Figure 2). Within
+the lighter groups, the TPM, DPM, and tar yields for the YMF114 decreased by approximately
+25 % from the highest values for lighter group E-0 to the lowest values for E-480; for nicotine by
+approximately 17 %.
+
+The amount of acrolein determined in the GVP fraction of the YMF114 smoked in different
+lighter groups was between 10 and 20 % that of the 1R4F (Table 8). Analytical data, however,
+revealed the acrolein yield for the YMF114 to be approximately 30 % that of the 1R4F
+(INBIFO study P 0500/3286). This discrepancy may be explained by the smoke volume-
+dependent trapping efficiency for acrolein in the GVP fraction, i.e., for the YMF114, 7.2 puffs/ml
+yielded approximately 45 %, and for the 1R4F, 2.2 puffs/ml yielded approximately 75 % of the
+total amount of acrolein that passed through the trap. A higher number of puffs was required for
+the YMF114 in order to obtain a cytotoxic response for TPM in the NRU assay. Since acrolein is
+assumed to contribute substantially to the cytotoxicity of the GVP fraction, the cytotoxicity of the
+GVP fractions of the cigarette types might not be directly comparable, unless the mechanism of
+
+this effect, its impact on the cytotoxicity, and its biological implications are investigated.
+
+In the cytotoxicity assay, a dose-related decrease in the number of viable cells was seen for all
+smoke fractions (Table 9 to Table 16, Figure 3 to Figure 10). From the EC. values, the
+reciprocal ECs, values (1/ECs9} - as a measure of cytotoxicity - were calculated on a per puff,
+
+per mg TPM, per mg tar, and per cigarette basis (Table 17 to Table 20).
+On a per puff basis, the cytotoxicity of the TPM fraction of the YMF114 smoked in different
+
+groups of lighters was approximately 60 % lower than that of the GVP fraction; for the 1R4F, it
+was approximately 20 % lower (Table 17 to Table 20).
+
+2078576223

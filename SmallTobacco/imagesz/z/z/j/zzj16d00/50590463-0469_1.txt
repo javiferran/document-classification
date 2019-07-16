@@ -1,0 +1,91 @@
+Cell
+1108
+
+I PUTH >
+
+— | FOX
+
+m @
+8 a
+a z
+
+ 
+
+1e6H
+
+B
+
+5 'AGUAGAAACAAGGGUGUUUUUY CAGAUCUA LUACGCCCCECEE, {fesscoumncecscica nuassouccaL UAUGUCUUUGUCACCCUGCUUUUGCU 3°
+— +
+
+IVACAT1
+
+5° AGUGGG AACAAGGGUGUUUUUU CAGAUCUA wuxccecosnoc  fsuscuauacocacvaANUNUUCUCEY UAUGUCUUUGUCACCCUGCLUUUUGCU 3°
+IVACAT2
+
+Figure 1, Recombinant CAT Plasmids Used in This Study
+
+(A} Diagrammatic representation of relevant portions of pIVACAT1. The various domains are labeled and are, from left to right: a truncated T7 promoter
+(Parvin et al., 1989), the 5° nontranslated end of influenza A/PR/&34 virus segment 8 (22 nt), 8 nt of linker sequence, the entire CAT gene coding
+region (660 nt), the entire 3’ nontranslated end of influenza A/PR/8/94 virus segment 8 (26 nt), and linker sequence containing the Hgal restriction
+enzyme site. Relevant restriction enzyme sites and start and stop sites for the CAT gene are indicated.
+
+{B) The 716 base RNA products obtained following Hgat digestion and transcription by T7 RNA polymerase of plVACAT1 and pIVACAT2. Influenza
+viral sequences are indicated by bold letters, CAT gene sequences by plain letters, and linker sequences by italics. The triplets—in antisense
+orientation—representing the initiation and termination codons of the CAT gene are indicated by arrow and underline, respectively. IVACAT2 ANA
+
+differs from IVACAT1 AINA by 3 nt at the 5’ end (outlined).
+
+The IVACAT1 RNA Is Transcribed In Vitro
+
+by the Influenza A Virus RNA Polymerase
+
+Recently it was demonstrated in our laboratory that syn-
+thetic RNAs containing at the 3’ end the 15 3° terminal
+nucleotides of influenza virus RNA segment 8 can be tran-
+
+ree -890- .
+
+ 
+
+12 3 4 5 6
+
+Figure 2. INA Products of T7 Polymerase Transcription and in Vitro
+Influenza Virus Polymerase Transcription
+
+Lanes 1-4: polyacrylamide gel analysis of radiolabeled T7 polymerase
+transcripts from pIVACAT1 and pHgaNS. Lanes 6 and 6: polyacryl-
+amide gel analysis of the radiolabeled products of in vitro transcription
+by purified influenza A polymerase protein using unlabeled IVACAT1
+ANA and HgaNS RNA templates.
+
+Lane 1: HgaNS RNA of 890 nt. Lanes 2-4: different preparations of
+IVACAT1 RNA. Lane 5: viral polymerase transcript of IVACAT1 RNA,
+Lane 6: viral polymerase transcript of HgaNS RANA.
+
+scribed in vitro using purified influenza A virus RNA poly-
+merases (Parvin et al., 1989). We tested whether unla-
+beled IVACAT1 RNA could be transcribed in a similar way.
+Lane 5 in Figure 2 shows that the in vitro transcription
+reaction generated an RNA of discrete length and simitar
+size to the product of the T7 transcription reaction, sug-
+gesting synthesis of a full-length product.
+
+RNP Transfection and CAT Activity
+
+Since the recombinant CAT RNA could be transcribed in
+vitro, a system was designed to test whether this RNA can
+be recognized and replicated in vivo (Figure 3). Recom-
+binant RNA was mixed with the purified polymerase to al-
+low formation of viral RNP-like particles. Initially, in order
+to facilitate the association, the RNA-polymerase mixture
+was incubated in transcription buffer without nucleotides
+for 30 min at 30°C prior to RNP transfection. In tater ex-
+periments this preincubation step was omitted. RNP trans-
+fections were either preceded or followed by infection with
+influenza AAWSN/33 virus, since the production of viral
+polymerase protein was expected to be necessary for effi-
+cient amplification of the gene. The cells used were either
+MDBK or MDCK cells, which are readily susceptible to in-
+fluenza AMWSN/33 virus infection, or human 293 cells,
+which support infection at a slower rate.

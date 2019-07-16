@@ -1,0 +1,48 @@
+Customer Analysis
+
+The numbers listed below correspond with the numbers inserted
+on the speciman Customer Analysis Report.
+
+1, 2, and 3 - Refer to #s 1, 2, and 3 in explanation
+of Brand Analysis Report.
+
+&. Account name - In the vertical column the
+name and account number is listed for each direct
+account in the given assignment.
+
+5. CLE - Details military class number. Refer
+to #4 in explanation of Brand Analysis Report.
+
+6. % Area - The percentage of total sales within
+the assignment which the given installation accounts
+for,
+
+7. Total Military Sales/Chg - Total case sales
+made to the given installation during the current
+period, Also the increase/decrease in case sales
+between previous and current periods,
+
+8. Four specific brand families will be listed.
+All other brands will be grouped into "other".
+Sales are broken down for each installation
+
+by brand family. The brands families listed on
+the report can be changed,
+
+Supervisors - No Regional and Military National totals
+are included in this report.
+
+90022.T029
+
+ 
+
+670172046
+PRODUCED FROM BéW WE
+
+ 
+
+I
+W
+rn
+4
+I

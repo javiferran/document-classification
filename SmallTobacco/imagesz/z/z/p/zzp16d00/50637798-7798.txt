@@ -1,0 +1,101 @@
+J
+
+ 
+
+ARTICLES
+
+Xenograft Model of Progressive Human
+
+Proliferative Breast Disease
+
+Fred R. Miller, Herbert D. Soule, Larry Tait, Robert J. Pauley,
+Sandra R. Wolman, Peter J. Dawson, Gloria H. Heppner*
+
+ 
+
+Background: Progression of proliferative breast disease
+has been associated with increased risk for development
+of invasive carcinoma. Cell lines have been developed to
+facilitate the study of this process. Human cell] line
+MCFIO0A originated from spontaneous immortalization of
+breast epithelial cells obtained from a patient with
+fibrocystic disease, and cell lines MCF10AneoN and
+MCF10AneoT were created by stable transfection of
+these cells with the neomycin-resistance gene and either
+the HRAS gene or the mutated T-24 HRAS gene, re-
+spectively. Purpose: Our goal was to develop an
+experimental model of progressive human proliferative
+breast disease. Methods: MCF10A, MCF10AneoN, and
+MCF10AneoT cells were injected subcutaneously into the
+dorsal flank of male nude/beige (C57/BALB/c nu/nu bg/
+bg) mice (12 mice for each cell type). These mice were
+examined periodically for formation and persistence or
+growth of palpable nodules. One mouse per group was
+killed 1 week after cell injection; thereafter, mice were
+observed as long as possible. Cells were recovered from
+palpable lesions by enzymatic dissociation of the excised
+lesions. Cells re-established in tissue culture from a
+week-14 tumor (MCF10AneoT.TG1) were injected into
+12 male nude/beige mice. Southern blot hybridization
+analysis of the HRAS gene locus and cytogenetic analyses
+were performed. Results: Transplanted MCF10A and
+MCF10AneoN cells formed transient, small palpable
+nodules that regressed and disappeared during the 4th
+and 5th weeks. In 10 of the 12 mice, T-24 HRAS gene-
+transfected MCF10A cells (MCF10AneoT) formed small,
+flat nodules that persisted for at least 1 year. Three of
+these xenografts became carcinomas. One (removed 7
+weeks after transplantation) was an undifferentiated
+carcinoma composed of polygonal cells with large,
+vesicular nuclei and numerous mitoses. The second
+(removed after 14 weeks) was an invasive squamous cell
+carcinoma. The third (removed after 56 weeks) was a
+moderately differentiated adenocarcinoma. Initially,
+xenografts of MCFLOAneoT.TG1 cells showed intraductal
+proliferative changes; after 23 weeks, the lesions showed
+
+Journal of the National Cancer Institute, Vol. 85, No. 21, November 3, 1993
+
+histologic features resembling those seen in atypical
+hyperplasia of the human breast, and later lesions
+showed characteristics of carcinoma in situ. The MCF10
+lineage of cells of three MCF10AneoT.TG1 xenografts
+was confirmed by DNA fingerprinting and karyotype anal-
+ysis. Conclusions: MCF10AneoT and MCF10AneoT.TG1
+comprise a transplantable xenograft medel that produces
+a broad spectrum of human proliferative breast disease.
+Implications: The reproducible establishment of repre-
+sentative stages in early breast cancer progression from
+the MCF10 model offers a new opportunity to analyze
+critical events of carcinogenesis and progression in breast
+cancer. [J Natl Cancer Inst 85:1725-1732, 1993]
+
+ 
+
+Many human carcinomas evolve via a sequence from
+benign hyperplasia through atypical hyperplasia to carcinoma
+in situ and eventually to fully malignant, invasive tumors
+with the potential to metastasize. In the case of colorectal
+neoplasia, the well-recognized polyp-to-carcinoma sequence
+is associated with a series of specific genetic alterations (7).
+Although the colon cancer model has become a paradigm for
+solid tumor development, definition of critical genetic events
+in breast cancer has been hampered by the lengthy natural
+history, architectural complexity, and relative inaccessibility
+for sampling of breast cancers, particularly at the small,
+early stages. In the human female breast, a spectrum of
+pathologic change has been termed proliferative breast
+disease. The progression of histopathologic features of
+proliferative breast disease has been associated with
+increased risk for the development of invasive carcinoma
+(2). Women with the most severe form of proliferative breast
+disease, atypical hyperplasia, have a fourfold to fivefold
+increased relative risk of developing breast cancer.
+
+A series of human mammary epithelial cell lines has been
+derived at the Michigan Cancer Foundation from a woman
+with fibrocystic disease. Mortal MCF10M cells senesce in
+
+*See ‘‘Notes’’ section following *‘References.”’
+
+ARTICLES 1725

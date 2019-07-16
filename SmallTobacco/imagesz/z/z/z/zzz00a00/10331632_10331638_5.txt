@@ -1,0 +1,190 @@
+736
+
+v-Fps-induced Intracellular Signals
+
+formed as described previously (47). Radiolabeled RNA
+(2 * 10° cpm) from 3¥1-NY225 cells was hybridized for
+48 h to DNA immobilzed on nylon membranes.
+
+Plasmids. pEgr-1 P1.2 contains the CAT gene under
+the contro! of the Egr-1 promoter (34). piV2.3 (35) con-
+tains a gag-ips fusion gene cloned into an SV2neo vector
+(48). pZIP M17 contains the Ha-ras gene with Asn-17
+substituted for Ser-17 1n pZIPneoSV(X) (14). p301-1 con-
+tains a mutated raf-1 gene, with the lysine in the ATP-
+binding site changed to tryptophan. cloned into pMNC
+(15) pv-HaRas expresses the v-Ha-ras gene in
+pZiPneoSViX) (13): p3611 expresses a gag-raf fusion gene
+(36), and pHT25 expresses the v-mos gene of Moloney
+sarcoma virus (39).
+
+Cell Transfection. NiHi 313 cells were plated at 5 x
+10° cells in 100-mm dishes 20 h prior to transfection.
+Transfections were performed using the CaPO. method
+as described previously (38, 47).
+
+CAT Assays. Transfected cultures were washed 16- 20
+h posttransfection, and fresh medium containing 1%
+serum was added. After another 30 h, cells were har-
+vested after washing twice with cold ssotonic buffer,
+resuspended in 200 ul of 250 mm Tris-HCI (pki 8 0), and
+lysed by five cycles of freeze-thaw (dry ice-methanol at
+37°C) for 5 min each. Supernatants were collected after
+microcentnfuging for 5 min at 4°C. CAT activity in cell
+extracts was determined using the fluor diffusion assay
+(49) as described previously (47)
+
+Acknowledgments
+
+We thank B | Mayer and R Spangler for comments on the manuscnpl
+G Cooper and H Cao are at knowledged for providing the domingnt
+negative M17 HaRas mutant We also thank V P Sukhaime, T Pawson.
+\S Jamel, and £ Zit for the generous coninbution of plasmids used m
+ths study and T Hanatusa fot the 3¥1-N¥225 cells
+
+References
+
+1 Hanatusa T. Wang, L+H. Anderson. $ P. Keress. RE. Hayward. W
+Ss and Hanatusa. H Choraclenzahon of the transtomming gene of Fupnami
+sarcoma witus Proc Nall Acad Scr USA, 77 3009 3013, 1980
+
+> foster. D A. Shubuve, M. and Hanalusa. H Activation of the trans:
+formation potential of the cellular {ps gene Cell. 92 105 115. 1985
+
+3 Hunter, T. and Cooper. | A Protem tyrosine kinases Annu Rev
+Biochem . 54 897 930. 1985
+
+4 Bedard. P A. Alcorta. OD. Simmons, DL. Luk, KC , and Enkson. R
+L Consntutive expression of a gene encoding a polypeptide homologous
+to bologicalh: acine human platelet protem in Rous satcoma virus:
+Hansiormed hbroblasts Proc Neat! Acad Scr USA, 83 6715-6719, 1987
+5 Sugano S Steeckle MY and Hanafusa. H Transformation by Rous
+sarcoma witus induces a novel gene with homology to a Mitogenic platelet
+protem Cell 29 321 328. 1987
+
+© Spangler KR. loseph. © K . Quteshr. $ A. Berg. KL. and Foster. D
+A Evdence thot ssc and vips use 3 protem kinase C: mediated pathway
+lo induce expression of a transormation-related gene Proc Natl Acad
+Sos USA 8&6 7017 7021 1989
+
+7 Alexandtopoulos, K Joseph. C K Spangler, R. and Fostie.. DA
+Evidence thet 8 G-prolem transduces signals inthated by the protein.
+tyrosine kinase v fps | Biol Chem. 266 15583 15586. 1994
+
+B Sukhomme. \ P Eatly anscnphional events in cell growth the Fer
+lgmiy J Am Soc Nephtol. | 859.866, 1990
+
+9 Lemaue. P Vesque C Schmidt. 1. Stunnenberg, HH. frank, R | and
+Chornay, P The setumanducible mouse gene Krox-24 encodes a se:
+quence specu Hanscnpional activator Mol Cell Biol. 10 3456 3467.
+1990
+
+10) Pamvardhan S$ Gashler A. Siegel. MG Chang, C . Joseph. t 1.
+Shows. TB. LeBeav, M. and Sukhatme, VP Egt 3, a novel member of
+the Egt family of genes ent oding immedaale-eatly Ganse nplion faciors
+Oncogene. 6 91? -928 1991
+
+11) Reuscher Fp) Moms.) & Tournay. O &. Cook. D M. and Curran.
+
+SiyssnnneETEnnIEEEEETE nT
+
+PUBLICATIONS
+
+T Binding of the Wilms tumor locus zinc finger proven to the Eger)
+consensus sequence Science (Washington DC), 250 1259-1262. 1990
+12) Madden, $ 1 . Cook, DM. Mors. 1 Fo Gashler, A. Sukhatme. V
+P_ and Rauscher, F J Trans¢ nptrional repression mediated by the WT
+Wilms tumor gene product Scrence (Washington DC). 253 1550-1553.
+1991
+
+13, Feg.t A.and Cooper, G M Inmbinon of NIH 373 cell proliferation
+by 2 mutant 13s protein with preferential afiinity for GDP Mol Cell Biol.
+& 3235. 3243. 1988
+
+14 Car H, Szebereny:, J. and Cooper. G M Effect of a dominant
+inhib:tory Ha-ras Mutation on mitogenic signal tansduction in NIH 373
+cells Mol Cell Biol. 70 5314-5323, 1990
+
+18 Kolch. W.. Heideckers. G . Uoyd, P. and Rapp. U R Raf-? protemn
+kinase 1s tequited for growth of snduced NIH 373 cells Nature {Lond ).
+349 426-428. 1991
+
+16 Herschman, H1 R Primary response genes induced by growth factors
+and tumor promoters Anniv Rev Biochem . 60 281-319. 1991
+
+17? Hanafusa. T. Mathey-Prevot. B. Feldman, RA. and Hanafusa, H
+Mutants of Fuyinam: sarcoma vitus which are temperature sensitive for
+cell ransiormation and protem kinase acliity | Virol, 38 347-355.
+1981
+
+18 Brnbsum. M }. Haspel. H C€ . and Rosen, O M Transformation of
+tat fibsoblasts by FSV rapidly increases glucose transporter gene transcrip.
+hon Science (Washington DC}. 235 1495. 1497, 1987
+
+19 Greenberg M E. and Ziff. E B Stumylation of 313 cells induces
+transcnption of the c-fos proto-oncogene Nature (Lond ). 311 434 437,
+1984
+
+20 im, R W., Varnum, B C . and Herschman, HR Clomng of tetra.
+decanoy! phorbo! ester-induced “pimary response” sequences and thei
+expression in density arrested Swiss 373 cells and a TPA non prohlerative
+vanant Oncogene. 1 263-270 1987
+
+21 Sukhaime, VP. Katha. S. Toback. fF G. Taub. R. Hoover. R G.
+and Tsar-Morrs, CH A novel eatly growth gene rapidly induced in
+fibroblasts. epsthelial, and lymphoc yte mntogens Oncogene Res .1 343
+356. 1987
+
+22 Qureshs. $ A. Joseph: C kK. Rim. M. Maroney. A. and Foster, D
+A V-Src acivales both protein kinase C: dependent and independent
+signaling pathways in munne fibroblasts Oncogene. 6 995-999, 1991
+23) Rodnguez Pena. A. and Rozengurt, £ Dsappearance of Ca”-sensi
+twe, phosphohpid-dependent protein kinase activity in phorbol ester
+treated 313 cells Biochem Biophys Res Commun. 120 1053 1059.
+1984
+
+24 Joseph. C K. Qureshn. § A. Wallace. 0 W. and Foster. D A
+MARCKS protem 1s transcrptronally down-segulated in v- Sr¢ -translormed
+BALB/c 373 cells } Biol Chem , 266 1327-1330, 1992
+
+25 Ballester, R. and Rosen. O M Fate of immunoprecipitable protein
+kinase C on GH3 cells treated with phorbol 12-mynstate 13 acetate }
+Biol Chem . 260 15194-15199, 1985
+
+26 App. Ht. Hazan. R , Zifberstem, A. Ulinch, A, Schlessinger. J. and
+Rapp. U R Epidetmal growth factor (EGF) stimulates association and
+kanase actiwity of Raf. 1 with the EGF receptor Mo! Cell Bool, 77 973-
+919. 1991
+
+2? Baccarm. M. Sabatm. D M, App. H. Rapp. U R_ and Stanley, t
+R Colony-stimulating factor. 1 (CSF-1) sumuylates the temperature de-
+pendent phosphorylation and actwation of the taf? proto-oncogene
+product EMBO). 9 3649. 3657. 1990
+
+28 €Ihs, C . Moran, M.. McCormick, F , and Pawson, T Phosphorylation
+of GAP and GAP.associated proteins by tansiorming and mutogenic
+tyrosine kinases Nature (Lond }, 343 377-381. 1990
+
+29° Morison. DK. Kaplan. D R. Escobedo.} A. Rapp. UR. Roberts.
+TM. and Wilhams. LT Oiectactivabon of the senne/threonine kinase
+actwiy of Raf-1 through tyrosine phosphorylation by the POGF d.recep
+tot Cell, $8 648 657. 1989
+
+30 Mornson.D K. Kaplan, OR. Rapp. VU R. and Roberts. T M Signal
+trangsduchon from membrane to cytoplasm growth factors and mem-
+brane bound onc ogene product mncrease Raf-1 phosphorylation and as-
+sociated proten kinase activity Proc Nall Acad Sci USA. 85 8855
+6859, 1988
+
+31 Mukeahy, LS. Smith. MR. and Stacey. D W Requuement for ras
+protooncogene function dunng setum-simulatied growth of NIH 373
+cells Nature (Lond), 313 247 243, 1985
+
+32. Rapp. U R Role of Ral. senne/threonmne protein kinase in growth
+factor signal transduction Oncogene. 6 495 500, 1997
+
+33) Smith. M Rk , DeGudicibus.S |. and Stacey. D W Requirement of
+(fas proteins dunng viral Oncogene transformation Noture (Lond }. 3.20
+$40 5.23, 1986
+
+012675

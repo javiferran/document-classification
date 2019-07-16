@@ -1,0 +1,57 @@
+Contract CTR-0030
+
+E. CTR-118. Chronic exposure of BC3F1/Cuin mice to 2R1 and 3Al
+cigdrette smoke.
+
+ 
+
+1. Rationale.
+
+This study represents the second long term evaluation of
+the potential biological effects of whole cigarette smoke in a mouse
+model system. This approach is different from that originally suggested
+in our proposed studies of last year, in that change of cigarette typo
+rather than change of the mouse strain is now proposed. Reasons for not
+evaluating the C3H strain at this time are based on the following.
+Preliminary observations using the C3H strain suggest that the C3H strain
+is more sensitive to the toxic effects of whole cigarette smoke and
+perhaps more sensitive to the stress associated with the method of smoke
+exposure (see Progress Report). Problems with nose-bleeding was observed
+in this strain even when smoke exposure was short term (e.g. €60 days).
+Potential problems that may appear during long term exposure are not
+known at this time.
+
+The suggestion of analyzing the effects of two. different
+cigarettes results from the fact that quite different biological
+responses have been observed following exposure to high nicotine compared
+to low nicotine cigarettes. Data from CTR-100 (see Progress Report)
+showed that exposure to 2A1 low nicotine cigarette smoke resulted in:
+
+(a) little smoke-associated toxicity so that TPM levels of 1.0 mg/day
+could be given, (b) no pulmonary tumors, but some evidence of squamous
+metaplasia of the trachea after 60-90 weeks of exposure, and (c)
+significant inhibition of the DNA-repair capacity of pulmonary tissue
+after «3 months exposure. On the other hand, data from CTR-101 (see
+Progress Report) Suggest that exposure to 2R1 cigarette smoke resulted
+in: a) smoke-associated toxicity so that TPM levels of only 0.2-0.4 ing/
+day could be given, b) no pulmonary tumors and no changes in the trachea
+by 44 weeks exposure, and c) no inhibition of DNA-repair capacity of
+pulmonary tissue, even after 30 weeks exposure. Three additional reasons
+Suggest that a comparison of the biological effects of a low nicatine
+
+and high nicotine cigarette is in order. One, no long term assay with
+the low nicotine cigarette has been completed (CTR-100 was on test only |
+to ~70 weeks). Two, there were some problems with high initial toxicity
+in the 2R1 study (CTR-101) and thus this assay should be repeated. Three,
+the simultaneous assay of both cigarettes requires only one set of sham
+and shelf control animals. The 3Al cigarette is proposed for use as a
+low nicotine reference cigarette because it is quite similar to the 2A
+cigarette in its physical and chemical properties and unlike the 2Al
+cigarette, sufficient numbers of 3Al cigarettes are available for com-
+pletion of a long term study.
+
+This Document Subject to
+
+Confidentiality Agreement SF 0826193
+
+-B-

@@ -1,0 +1,132 @@
+How can we reconcile these observations? One possibility
+is that the Tyr internalization signal is closely related struc-
+turally to one type of basolateral sorting signal. These might
+both involve 8 turns and some § turns might be able to serve
+both functions. An exposed turn is a suitable structure for
+recognition by other molecules. However, not all Tyr inter-
+nalization signals function as basolateral sorting signals, be-
+cause the mutant plgR with a deletion of its 17-mer residue
+basolateral targeting signal is apically targeted und has a
+functional Tyr internalization signal (12). Conversely, some
+basolateral targeting signals (TTR, LDLR, plgR) are not en-
+docytotic signals. Given the wide range of sequences that
+work as internalization sequences, it is not surprising that
+some sequences form turns that serve only as one signal or
+the other or both. TfR and LDLR might have redundant
+basolateral sorting signals, one identical to the endocytotic
+signal and the other acting as a backup. Finally, in cases
+where the two types of signals appear to be identical
+(LGP120, NGFR, HA), we may have simply not yet found
+mutations that separate the two functions. For example, sev-
+eral mutations (including Tyr to Ala) in lysosomal acid phos-
+phatase eliminated both endocytosis and basolateral target-
+ing. However, a recently made Tyr to Phe mutation blocked
+endocytosis but not basolateral sorting (C. Peters and K. von
+Figura, personal communication).
+
+The numerous examples of the involvement of the cyto-
+plasmic domain in basolateral sorting are most simply cx-
+plained by a model in which this step is signal mediated.
+However, one could imagine that all these proteins have
+cryptic apical signals and that the cytoplasmic domain (or a
+protein that binds to it) acts by preventing entry into apical
+vesicles. Proteins would then enter the supposed default
+pathway to the basolateral surface. It has been suggested (28)
+that this mechanism might particularly occur in the plgR,
+which is specialized for transcytosis and is targeted first to
+the basolateral and then to the apical surface. However, the
+ability of the pIgR to appear sequentially on both surfaces
+of the cell is not unusual. In fact, many of the proteins con-
+sidered above as basolateral are in some circumstances
+found at the apical surface or are transcytosed. The FcR II
+transcytoses IgG from apical to basolateral in MDCK cells
+and possibly in placenta (29, 59). The LGP120 can undergo
+basolateral to apical transcytosis in MDCK cells (28). The
+LDLR is found on the apical surface of kidney tubules in
+transgenic mice (47) and may be on the apical surface of
+MDCK cells (35). The TfR is on both surfaces of the
+placental-derived BeWo cell line (14), Both the M6PR (a rap-
+idly endocytosed basolateral protein in MDCK cells (49)) as
+well as a 100-kD lysosomal membrane protein are on the ap-
+ical surface of osteoclasts (2). Whatever mechanism is
+responsible for basolateral sorting must be flexible enough
+to direct these proteins to the apical surface when appro-
+priate.
+
+The glycolipid clustering mechanism mentioned above
+may also play a role in sorting lipids, GPI-anchored proteins,
+and perhaps other proteins (such as the detergent-insoluble
+HA) to the apical surface (57). Perhaps all of the apical
+forms of the proteins listed in Table I cluster with glycolipids
+and the normal function of their cytoplasmic domains is to
+prevent this. We have so far not observed any detergent in-
+solubility of the apically targeted mutant pIgR’s. It would be
+
+The Journal of Cell Biology. Volume (16. 1992
+
+worthwhile to check this for other apical mutants. The
+glycolipid clustering model probably cannot account for all
+apical sorting, as in several cell lines some GPI-anchored
+proteins are basolateral (37) (C. Zurzolo, L. Nitsch, E.
+Rodriguez-Boulan, and M. Lisanti. 1990. J. Cell Biol. 111:
+327). We think it more likely that as a minimum, cells have
+both a basolateral sorting mechanism and a glycolipid mech-
+anism for apical sorting.
+
+Only one signal has been identified for transcytosis. Phos-
+phorylation of a particular Ser in the cytoplasmic domain of
+the pIgR signals transcytosis (13). Replacement of the Ser
+with a non-phosphorylatable Ala prevents transcytosis,
+while mutation to an Asp (whose negative charge mimics
+phosphate) stimulates transcytosis. The negative charge does
+not simply inactivate the basolateral sorting signal, as the
+Asp mutant is basolaterally sorted before transcytosis (12).
+The effects of the charge on transcytosis are also seen if the
+Ala and Asp-containing mutant cytoplasmic domains are
+fused with a heterologous protein. This suggests that this sig-
+nal for transcytosis acts in the cytoplasmic domain, and not
+via an effect on the extracellular domain (G. Apodaca and
+K. Mostav, unpublished data).
+
+The connection between endocytotic and basolateral sort-
+ing signals has led to the suggestion that proteins travel from
+the TGN first to endosomes and from there to the basolateral
+surface (27, 28). Brefeldin A causes the TGN and early endo-
+somes to fuse into a tubular network in several cell types (36,
+68), although this has not been shown in MDCK cells (30).
+This result suggests that normally there is a significant con-
+nection between the TGN and endosomes. One indirect argu-
+ment against this model is that the Asp-mutant plgR (and
+other efficiently transcytosed proteins) would traverse the
+same endosomal compartment first on the way to the
+basolateral surface, and again on the way to the apical sur-
+face. As this mutant is not phosphorylated, the endosome
+would not have an obvious way to efficiently sort the appar-
+ently identical molecules to two different destinations.
+
+Sorting Machinery
+
+There is little data on the cellular proteins that recognize
+sorting signals and direct proteins to the correct surface, al-
+though understanding this machinery is probably the best
+way to settle the argument about default pathways. The possi-
+ble relationship of endocytotic and basolateral sorting sig-
+nals suggests a possible involvement of clathrin and the adap-
+tor family of proteins (28). In plasma membrane coated pits
+the Tyr internalization signals in receptors are believed to in-
+teract with the HA-2/AP-2 adaptor complex (48). Clathrin-
+coated regions of the TGN contain only the HA-I/AP-1 adap-
+tor, which does not bind to the Tyr internalization signal on
+endocytosed receptors. TGN clathrin-coated vesicles func-
+tion in delivery of proteins to lysosomes and formation of
+regulated secretory granules (31, 48). The basolaterally
+sorted VSVG is not seen in clathrin coated regions of the
+TGN (24). Also the ASGPR (a basolateral protein in MDCK
+cells) (65) is excluded from HAI/AP-I-coated regions of the
+TGN in HepG2 cells (H. Geuze, personal communication).
+These observations make it unlikely that clathrin in the TGN
+is involved in basolateral sorting.
+
+Many transport steps use non-clathrin-coated vesicles.
+
+580

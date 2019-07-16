@@ -1,0 +1,57 @@
+PROJECT DESCRIPTION: Disturbances in hematopoiesis is a characteristic clinical finding in patients
+with AIDS. Patients present with abnormalities in one or more lineages resulting in neutropenia, anemia and
+thrombocytopenia. The mechanisms by which HIV causes these disturbances are not known but are critical to
+an understanding of the hematologic pathobiology of the virus and the clinical management of patients with
+AIDS. In this grant, we propose to examine the molecular basis for our published findings of two mechanisms
+by which HIV can cause disturbances in hematopoiesis: direct suppression of progenitor cell growth and
+differentiation; and a negative effect on the accessory hematopoietic support function (HSF) of stroma cells.
+Using a murine embryonic stem cell (ES) line, as a model for stem cell development, and human stroma cell
+lines, transfection experiments will focus primarily on the role of the vpr regulatory gene in altering the
+developmental and functional properties of these hematopoietic cells. This focus is based on the observation:
+that vpr transfected into a rhabdomyosarcoma cell line can induce its differentiation. Thus, vpr may cause a
+disruption of the carefully regulated and coordinated processes of proliferation and differentiation that
+occurs during the development of progenitor cells into mature and functional progeny. A disruption in the
+function of stroma cells may similarly be affected by the activity of the vpr gene.
+
+In their paper on HIV induction of rhabdomyosarcoma muscle celi line differentiation, Levi and co-
+workers showed that HIV expression leads to inhibition of the muscle cell's proliferation and the activation of
+the dormant endogenous differentiation Program. The effect was mediated by the regulatory vpr gene of the
+virus with its protein acting as a regulator of cell function. In discussing the implications of these findings,
+the authors speculate that “stem cell populations (e.g., skeletal muscle, cardiac muscle, hematopoietic pre-
+cursors) are disrupted by vor and lose the ability to replenish tissues, leading to a gradual decline of mature
+effector population." Since some viruses can activate cellular genes in a variety of cells, it is reasonable to
+examine whether HIV regulatory genes can induce changes in the normal pattern of gene expression in
+hematopoietic progenitor celts and the accessory Cell function of stroma cells. Such an approach may provide
+evidence for the dysregulation of proliferation and differentiation as a mechanism of bone marrow suppress-
+ion, The authors also postulate that “cells that are subject to abortive infection, owing to an inability of the
+cells to support virus replication, nevertheless might be dysregulated by the activities of vpr.". Thus, non-
+productively infected cells of tissues that are not the usual targets of HIV in vivo, but are afflicted in AIDS
+patients, may be dysregulated in the absence of reverse transcription, integration, or residual viral nucleic
+acid. This may explain the consistent lack of evidence for a direct effect on progenitor cells in in vivo studies
+while in vitro experiments demonstrate that progenitor cells can be infected by HIV and their growth
+impaired. Though replication of the virus is, perhaps dogmatically, the yardstick by which a cell's tropism
+for HIV is measured, it is possible that abortive infection of a cell that is not the usual target of the virus can
+still alter the function of that cell. In this context, the marked suppression of progenitor cell growth in
+vitro following infection by hepatitis B virus correlates with only a transient replication of the virus in
+bone marrow cultures. We postulate, therefore, that while bone marrow progenitor cells or stroma cells
+may not be the primary target cell of HIV in situ, abortive infection may still have negative consequences on
+their development and function.
+
+Our first aim is to determine whether the vpr gene of HIV is responsible for the suppression of
+hematopoietic progenitor cells. The mouse embryonic siem cell (ES) is a totipotential cell line that has the
+Capacity to develop into every tissue type when injected into host blastocysts. As such, it has become a
+valuable tool in the study of hematopoiesis and its molecular biology, and so will be used as a developmental
+model of hematopoiesis in these studies. Several characteristics of ES cells make it a good model to define the
+role of vpr (and other regulatory genes) in stem cell suppression, and a good substitute for primary bone
+marrow derived CD34+ cells whose use in similar studies may be technically more difficult. Since ES cells
+are a pure population of truly totipotential cells, they can be used to gain insight into the biological
+significance of novel genes, and dissect the molecular processes that occur during the early events of
+commitment, self-renewal, and differentiation of hematopoietic progenitor cells. Furthermore, in vitro
+techniques have been developed to study hematopoietic cell differentiation in ES cells, and the profile and
+pattern of genes activated during this process have been characterized and are consistent and reproducible.
+Thus, the expression of genes involved in the early stages of hematopoiesis precede those required for the
+terminal stages of differentiation. Alterations in the normal process of differentiation is reflected in a
+distorted profile of gene expression. These observations are relevant to the proposed study. Finally, based
+on our studies on studies of the vav proto-oncogene, genes of particular interest can be readily and stably
+
+50647413

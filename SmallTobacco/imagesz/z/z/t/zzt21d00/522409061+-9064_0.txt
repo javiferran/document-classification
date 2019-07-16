@@ -1,0 +1,56 @@
+PROJECT ALERT
+RJR Database Marketing
+
+Project Alert # 0074-D
+
+Date 7/20/95 O New Project
+
+Study Number _193 Ongoing
+
+Account Executive Russell O Special Request
+oO
+
+Estimate Only or Also (Circle One)
+Date Needed _/ /
+
+Full “cc:" Distribution
+
+Partial "ce:" Distribution__x , .
+J Revision to Alert #_0074-C
+
+Client : Gus Lejano/Paul Knouse
+
+Alternative Client Service Contact: Debbie Rudolph/Patti Scott
+' Date Needed: _ Extract by 8/04/95.
+
+Title : WWC Reactivation Mailing Revision
+
+Project Objectives
+Reference Alert 0074-C.
+
+In Alert 0074-C we identified two mailfiles...one for the Reactivation mailing and one
+
+for the Screener mailing. These two malifiles were <identified based on the .
+
+segmentation data collected from Alerts 0074-A and 0074-B.
+
+Due to a change in WWC strategy, the brand wants to redo these two mailings. These
+two pieces were never produced and thus the two mailings never. went out. Please
+make sure MFID tables reflect these changes. —
+
+This change in strategy has resulted in mailing out the Reactiviation piece to all WWC
+members, with a few exceptions as detailed below. The Screener plece will not be
+used at all.
+
+After making the changes noted below, you will need to maintain the original cell
+numbers identified in Alert 0074-C and create one new mailfile.
+
+ow
+hw
+te
+ws
+8
+to
+Ss
+a
+Pr

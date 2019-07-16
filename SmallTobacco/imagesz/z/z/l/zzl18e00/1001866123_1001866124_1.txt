@@ -1,0 +1,39 @@
+HTI 2440/2441
+
+Control Experimental
+79-3 Marlboro 85 82-1 Marlboro 85
+
+IBM Code MOCW / MOCX
+HTI No. 2440 2441
+Smoke
+
+Butt Length, mm 28 28
+FTC Tar, mg/cigt. 15.9 16.4
+Nicotine, mg/cigt. 1.02 1.09
+Puffs/cigt. 9.0: 9.3
+Filtration Eff., % 48. 49
+Cigarette
+
+Total RTD, in. of H,0 4.7 4.8
+Static Burn. Time, min. 8.3 8.7
+Length, mm 84.5 84.5
+Circumference, mm 24.9 24.9
+Paper
+
+Additive, type Cit. Cit.
+Porosity, sec. 23 22
+Filter
+
+RTD, in. of H20 2.9 2.8
+‘Length, mm 21.1 21.1
+Weight, g 0.14 0.14
+Tipping paper length, mm 25 25
+Dilution, % 9 10
+Filler
+
+Total alkaloids, % 1.53 1.5
+Total reducing sugars, $ 4.7 4.7
+Wt. of tob., g 0.755 0.772
+Rod Density, g/cc 0.241 0.247
+
+veTISSTOOT

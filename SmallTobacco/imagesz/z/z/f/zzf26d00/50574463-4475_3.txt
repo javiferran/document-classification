@@ -1,0 +1,35 @@
+IONOPHORES AND ELECTROPHOTOLUMINESCENCE 217
+
+II. MATERIALS AND METHODS
+
+Chloroplasts were prepared according to Avron [4] and stored
+at low temperatures by a method we developed (9] , with complete
+preservation of all relevant photosynthetic activities. Blebs
+[7,10] were obtained by hypotonic swelling of these chloroplasts
+in low buffer media (Hepes or Tricine, 5 mM, pH = 7.8) (Fig. 1).
+Salt concentrations were adjusted by subsequent addition of
+chloride salts of either Li, Na, K, Rb, or Cs, to yield final
+concentrations between 1 and 20 mM usually (maximal range 0.1-100
+mM). Ionophores (Gramicidin D, Valinomycin, Nigericin) were added
+from fresh ethanol stocks.
+
+The resulting blebs were characterized structurally and
+functionally [6,10,13] . They were active photosynthetically
+(electron transport to ferricyanide and fluorescence induction)
+and were usually preferred to chloroplasts ~ which gave Similar
+results - because of their sphericity, and larger size resulting
+in higher induced intramembrane field intensity (see Theory).
+Their size and shape homogeneity could be improved [13] , but
+this is not essential in qualitative studies.
+
+The apparatus for electrophotoluminescence measurements is
+sketched in Fig. 2. More details are given in [10,12,13].
+
+- : went « So Beene . teem
+
+    
+
+Fig. 1., Typical bleb structures, originating from pea chloro-
+plasts, viewed in image-intensified fluorescence microscopy.
+
+50574466

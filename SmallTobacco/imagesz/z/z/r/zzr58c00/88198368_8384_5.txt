@@ -1,0 +1,36 @@
+constant agitation at 100 rpm on a reciprocating shaker. After pre-
+incubation, 0.5 ml of 4 mM aniline hydrochloride (or 0.5 ml of phosphate
+buffer for tissue blanks) was added to flasks and incubation was conti-
+nued for 15 minutes. Reaction was terminated by addition of 1.0 ml 20%
+TCA to the incubation flasks, Samples were centrifuged for five minutes
+at 5,000 rpm to pellet protein precipitates and 1.0 ml of supernatant
+were added to 1.0 mi 10% aqueous NagCO3 in a 15 ml culture tube and
+vortexed. One ml of 2% phenol in 0.2N NaOH were then added and vortexed
+and color was allowed to develop for 30 minutes at 37°C. The concen-
+tration of p-aminophenol formed by hydroxylation of aniline was deter-
+mined spectrophotometrically (phenol-indophenol complex) at 640 nm using
+the tissue blanks for background correction.
+
+Statistical Analysis
+
+The data of the control groups in this study-were statistically
+compared with the treated group data of the same sex using a two-tailed
+Student's tetest® at the 5% probability level. Student's t-test calcu-
+lates the probability that the means of two data sets are statistically
+equivalent with 95% certainty. The following symbols denote a statis-
+tical difference where the variances between the mean values of the
+control and treated groups fall outside of the 95% confidence limits
+{p<0.05) and are noted in the text and in the tables of this report:
+
+s+ = Significantly higher than control value
+at p<0.05,
+
+s- = Significantly lower than control value
+at p<0.05,
+
+@ G.W. Snedecor and G.W. Cochran; Statistical Methods, Iowa State University
+Press, Ames, Iowa 10:258-268, 1967.
+
+-5-
+
+CLESBTSE

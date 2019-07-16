@@ -1,0 +1,36 @@
+ta
+
+TEST OF THE LINEAR-NO THRESHOLD THEORY OF RADIATION CARCINOGENESIS
+
+Bernard L. Cohen
+University of Pittsburgh
+
+Pittsburgh, PA 15260, U.S.A.
+
+We recently completed a compilation of radon measurements from available
+sources which gives the average radon level, r, in homes for 1730 counties, well over
+haif of alt U.S. counties and comprising about 90% of the total U.S. population. Plots
+of age-adjusted lung cancer mortality rates, m, vs these r are shown in Fig. 1a, c
+where, rather than showing individual points for each county we have grouped them
+
+into Intervals of r (shown on the base-line along with the number of counties in each
+
+group) and we plot the mean value of m for each group, its standard deviation, and _
+
+the first and third quartiles of the distribution. We-see, in Fig. 1a, c, a clear tendency
+for m to decrease with increasing r, in sharp contrast to the increase expected from
+the fact that radon can cause lung cancer, shown by the line labelled "theory".
+One obvious problem is migration: people do not spend their whole life and
+receive ail of their radon exposure in their county of residence at time of death.
+
+However, it is easy to correct the theoretical predication for this, and the “theory”
+
+ane
+
+ 
+
+i)
+5
+¥
+x
+NN

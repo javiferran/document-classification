@@ -1,0 +1,46 @@
+3-27-81
+
+Dr. Vincent Lisanti
+
+The Council for Tobacco Research ~ USA, Inc.
+110 E. 59th Street
+
+New York City, NY 10022
+
+Dear Dr. Lisanti:
+
+Jack Frankel asked that 1 write to you with regard to two points
+on the coefficient, Yule's Q.
+
+Q is a measure of association between two variables that have each
+been classified into dichotomies. Thus it contrasts with the most
+conventional measure of association, Pearson's Product-moment Corre-
+dation (r),in that the latter relates two variables that are each
+measured on continuous interval scales. It compares in that both
+measures have a theoretical range from +1.0 to -1.0, representing
+perfect direct orinverse associations, respectively.
+
+Pearson's r isbased on the product moments for each data point
+represented on a bivariate surface. Thus, it is based on the weighted
+sum of signed distance vectors from the bivariate mean. It therefore
+requires interval scals measuring the variables.
+
+In contrast, Q does not assume known distances between points
+on the scales. Only two points are represented for each variable
+(e.g. - high x low, on x off, cancer x non-cancer, etc). The data
+are thus classified into four cells (as in the table I sent to Jack).
+
+A fair description of Q may be found in J.H. Mueller and K.F.
+Schuessler, Statistical Reasoning in Sociology, Boston: Houghton-Mifflin,
+1961, pp 242-249.
+
+ 
+
+Sincerely,
+
+Richard J. Gagan, PhD
+
+14705 Carnation Dr
+Tampa, FL 33612
+
+50135293

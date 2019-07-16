@@ -1,0 +1,154 @@
+wee Weatay bedede EL ibe
+
+Discussion
+
+In this study, we have shown that p53-deficient mice,
+expressing a mutant p53 allele, are more susceptible to
+radiation-oncogenesis than their wild-type littermates. In
+addition, we have shown that these mice, as well as mice
+homozygous for p53 null mutations exhibit an increase in
+radiation-induced chromosomal breakage compared to
+wild type animals. These experiments study further
+support the notion that p53 plays a central role in the
+cellular response to radiation, and suggests that loss of p53
+function affects the accumulation of DNA damage,
+concomitant with an increased susceptibility to radiation-
+
+_ induced neoplasia.
+
+Haematopoietic cells from p53 deficient mice, expressing
+either a mutant p53 transgene or with targeted p53 null
+alleles, exhibit increased cellular resistance to -y-radiation
+(Lee and Bernstein, 1993; Lotem and Sachs, 1993). This
+radio-resistant phenotype was unexpected for several
+reasons. Firstly, p53 is an important part of the cellular
+radiation-responsé (Lee ef al., 1994) and deficiencies in the
+cellular response to radiation in diseases such as
+Aeroderma Pigmentosum (XP) and Ataxia Telangiectasia
+(AT) generally lead to increased sensitivity to radiation
+exposure (Friedberg ef al., 1973).
+
+Secondly, wild-type p53 functions as a G1/S radiation
+cell-cycle checkpoint. In this respect, p53 has a function
+analogous to the Saccharomyces cervisiae gene RAD9,
+which causes a radiation-induced halt in the cell cycle at
+the G2/M boundary (Hartwell and Weinert, 1989; Weinert
+and Hartwell, 1990). The cell cycle arrest mediated by
+RAD9 allows time for the repair of radiation-induced DNA
+
+‘damage, and a similar function has been postulated for the
+
+p33 GI/S cell cycle arrest. Cells with mutant RAD9
+alleles are several orders of magnitude more sensitive to
+killing by ionizing radiation than their wild-type
+counterparts (Weinert and Hartwell, 1990), presumably
+because of a decrease in DNA repair efficiency in the
+absence of RAD9. Thus, p53 mutations, Hke the loss of
+RAD9, might be predicted to result in radio-sensitivity.
+However, we have shown that deficiencies in p53 function
+lead to an increased resistance, not sensitivity, to y-
+radiation (Lee and Bernstein, 1993). Moreover, wild-type
+p53 expression prevents spontaneous gene amplification
+and aneuploidy during in vitro fibroblast culture
+
+' (Livingstone et al., 1992; Yin er al., 1992; Harvey ef al.,
+
+1993). Therefore, loss of p53 function might be expected
+to result in radio-sensitivity because of an expected
+increase in the frequency of radiation-induced DNA
+lesions. The cellular radio-resistance in mice deficient in
+p53 function therefore represents a unique opportunity to
+understand the cellular response to radiation.
+
+Radiation can cause a spectrum of DNA damage,
+including point mutations, deletions and both single-and
+double stranded DNA breaks (Hutchinson, 1993).
+Resistance to radiation often correlates with an increased
+level of DNA repair, and thus the radio-resistant phenotype
+associated with the loss of p53 function may result from an
+increased level of DNA repair. If DNA repair is increased
+in p53 mutant mice, then y-radiation should induce fewer
+measurable DNA lesions in cells from p53 deficient mice
+than from their wild-type counterparts. In this report, we
+show that the opposite was true: mice which expressed a
+mutant p53 transgene or had a homozygous p53 deletion
+accumulated more radiation-induced chromosomal
+breakage than their wild-type littermates, as measured by
+the accumulation of MNC in peripheral blood. These
+
+observations suggest that the radio-resistatit phenotype in
+p53 deficient mice is not the result of increased levels of
+DNA repair. Rather, it seems more likely that DNA repair
+levels have remained constant. The increased accumulation
+of radiation-induced chromosomal breakage is consistent
+with the idea that the normal function of wild-type p53 is —
+to prevent the proliferation and accumulation of cells with
+DNA damage. It is noteworthy, however, that the
+spontaneous frequency of double-strand breaks in
+unirradiated p53 deficient mice was similar to that of their
+wild-type littermates. Only following irradiation did we
+observe significant differences in the levels of
+chromosomal breakage between the p53 deficient mice
+and their wild-type littermates.
+
+An alternate explanation for the cellular radio-resistance
+in p53 deficient mice is that the radio-resistant phenotype
+results from a defect in the ability of cells from these mice
+to enter into a radiation-induced pathway of apoptosis.
+This idea is consistent with the observation that, while
+
+. normal immature mouse thymocytes enter into apoptosis
+
+following exposure to y-radiation, thymocytes from p53
+deficient mice do not (Lowe et ai.,.1993; Clarke ef ai.,
+1993). Radiation-apoptosis may be dependent on DNA
+damage induction, and recent evidence has suggested that
+the initiating event in the induction of p53-mediated events
+in the cellular response to ionizing radiation is the double
+stranded cleavage of DNA (Nelson and Kastan, 1994).
+Radiation-apoptosis could therefore act as a mechanism to
+prevent the survival and proliferation of cells which have
+sustained double stranded chromosomal breaks. Implicit
+in this idea is the notion that the DNA damage which
+initiates radiation-apoptosis is not lethal per se, but only
+mutagenic. Thus, p53 mediated radiation-apoptosis could
+be an important mechanism for eliminating cells that have
+
+- sustained mutations, thereby suppressing the mutagenic
+
+and carcinogenic properties of ionizing radiation.
+
+The inability to enter into apoptosis following DNA
+damage may also have important clinical ramifications.
+The activation of an apoptotic pathway is one mechanism
+by which cancer chemotherapeutic agents appear to act
+(Lowe et al., 1993b). Therefore, the frequent loss of p53
+function in humans and a concomitant increase in
+resistance to y-radiation, may be an important and common
+mechanism by which tumour cells become refractory to
+cancer therapy. Consistent with this idea, Wilms’ tumours
+with a p53 mutation have a much poorer clinical response
+to radio- and chemo-therapy than those tumours which
+retain both wild-type p53 alleles (Bardeesy et al., 1994),
+possibly because of an intrinsic increase in radiation-
+resistance resulting from p53 inactivation. In addition, our
+data predict that individuals with germline p53 mutations, .
+such as individuals with Li-Fraumeni syndrome (Malkin er
+al., 1990. Srivastava ef al., 1990), may be very susceptible
+to radiation-carcinogenesis. Thus, if radiation is used to
+treat tumours in such individuals, radiation-induced
+tumours may be a common side-effect.
+
+The increase in radiation-induced DNA damage
+accumulation observed in mice deficient in p53 function
+may play an important role in neoplastic development.
+Expression of a mutant p53 transgene not only resulted in
+an increased accumulation of radiation-induced
+chromosomal breakage, but also an increased susceptibility
+to radiation-induced carcinogenesis. Radiation exposure
+may be the cause of many cancers, and the importance of
+p53 in suppressing tumour development may be intimately
+associated with its role in the radiation response and its
+ability to control the accumulation of cells with radiation-
+
+PUELICATIONS o45705

@@ -1,0 +1,35 @@
+-l1-
+
+Mutagenicity: Gluatmine was tested for mutagenicity in
+Escherichia coli K-12 uvrB, a model for the production of
+"spontaneous “ mutations induced by DNA damage produced during
+normal metabolism. At 2 ™M, glutamine produced no mutagenesis in
+the uvrB or wild-type uvrB umuCc strain (Sargentini and Smith,
+
+1986).
+
+Carcinogenicity: There have been no carcinogenicity studies
+
+reported for glutamine.
+
+Teratogenicity: Smith et al. (1965) reported that L-glutamine was
+not embryotoxic in the rabbit. Ina study in which single amino
+acids were fed to rats during the 14-20th days of gestation, the
+authors report that glutamine was embryotoxic only during the
+second half of pregnancy (Mankowska et al., 1980). L-Glutamine
+was tested in an in vitro assay that identifies teratogens by
+their ability to inhibit growth of an established line of human
+embryonic palatal mesenchymal cells, and was found to produce no
+
+inhibition up to 1.0 mM. (Pratt and Willis, 1985). .
+
+Certain chromosomal disorders in mammalian embryos are traceable
+to meiotic errors during oocyte maturation, the developmental
+process which reduces genetic content from diploid to haploid, and
+which is required before normal fertilization can occur. The
+
+first meiotic division occurs during maturation and is suscepible
+
+to errors which can be responsible for a rather high incidence of
+
+566614591

@@ -1,0 +1,45 @@
+Attachment II
+
+Acceptable Daily Intake of Dicamba
+
+A safe level or acceptable daily intake (ADI) of Dicamba has
+been calculated by RJRT as follows:
+
+1. An average person weighs 60 kg (conservative).
+
+2. This person consumed 60 cigarettes per day (99.4% of the
+U.S. population consumes 60 or less cigarettes/day) .-
+
+3. The No Observed Effect Level (NOEL) in a one-year dog
+study is 1.25 mg/kg.
+
+4. The NOEL (1.25 mg/kg) is used to calculate an ADI for
+humans.
+
+e 1.25 mg/kg + 100 fold safety factor = 0.0125 mg/kg
+e 60 kg person x 0.0125 mg/kg = 0.75 mg/day
+
+se 0.75 mg/day + 60 cigarettes per day = 0.0125
+mg/cigarette
+
+e 0.0125 mg/cig + 0.89 grams tobacco/cigarette = 0.0140
+mg/gram
+
+e 0.0140 mg Dicamba/gram tobacco = 14 ppm as the ADI
+for Dicamba
+
+Hence, 14 ppm is an acceptable daily intake of Dicamba whether
+consumed orally or by inhalation. Even with this conservative
+estimate, this value is 28 times higher than the 0.5 ppm
+residue level for Dicamba on tobacco set by the USDA.
+
+In the case of smoke, our studies show less than 5% of the
+Dicamba present in the cigarette is transferred into the
+mainstream smoke or to the environment. Therefore, if tobacco
+were the sole source of Dicamba, the leaf that is used to make
+cigarettes could contain up to 280 ppm Dicamba and still be
+within the acceptable daily intake level for Dicamba
+
+(280 x 5% = 14 ppm).
+
+66€E £2905

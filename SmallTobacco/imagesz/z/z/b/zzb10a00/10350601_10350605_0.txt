@@ -1,0 +1,126 @@
+“ te BigLeeelcad Ch ANT ey 2/67 a) I Aw 6gye
+’ , f
+
+The Bacterial Oxidation of Nicotine
+
+I. NICOTINE OXIDATION BY CELL-FREE PREPARATIONS*
+
+L. I. Hocusreint ano Sypney C. Rrrrenpero
+
+From the Department of Bacteriology, University of Southern California, Los Angeles, California
+
+(Received for publication, August 18, 1958)
+
+Various pathways have been postulated for nicotine degrads,-
+tion involving an initis] attack at either the pyridine or the
+pyrrolidine rings. ‘The evidence for the suggested pathways has
+been provided mainly by the isolation of a variety of compounds
+from bacterial growth media (1, 2), tobacco seed infusions (3),
+fermented tobacco leaves (4), and the urine of animals that
+previously had been fed nicotine (5, 6). Unfortunately, because
+of the complexity of these systems it is not certain whether the
+isolated products are directly or indirectly derived from nicotine,
+nor is the sequence of their appearance clearly established. In
+an effort to avoid the difficulties inherent in the use of complex
+systems, studies of nicotine metabolisth were attempted st the
+enzyme level employing crude and fractionated extracts derived
+from 6 bacterium.
+
+EXPERIMENTAL
+
+The organism (designated as strain P-34) employed is a gram-
+negative rod isolated from soil by enrichment culture techniques.
+It is capable of using nicotine as its sole source of carbon and
+energy but ite growth is stimulated by yeast extract. It wag
+grown in a medium having the following composition in grams
+per 100 ml.: 3.33 K,HPO,.3Hy0, 0.4 KH:PO,, 0.1 (NH,)3S0,,
+0.1 yeast extract, 0.4 nicotine, and the following trace salts;
+0.01 MgSO.-7H,0, 0.002 CaCi,-2H.0, 0.004 MnSO,-4H,0,
+0.0002 FeSO,.7H:0. The trace salts were dissolved in 0.1 N
+HCI at 100 times the fina! medium concentration, autoclaved,
+and added aseptically to the medium in the required amounts.
+
+For the preparation of lange batches of cells, growth was car-
+ried out in 12-liter round bottom flasks containing 7 liters of
+mediuro. The inoculated medium was aerated with sterile air
+and incubated at room temperature. After the culture reached
+the maximum stationary phase (approximately 60 hours), the
+cells were harvested in a Sharples centrifuge. The unwashed
+cell paste was stored at -18° until needed. Yields were of the
+order of 6.5 gin. wet weight of cells per liter of medium.
+
+Cell-free extracts were prepared according to the method of
+Mcliwain (7) by grinding a mixture of 10 gm. of partially thawed
+cells and 25 gm. of levigated alumina in 8 cold mortar. After
+grinding for 10 to 14 minutes at room temperature, the cell-
+alumina mixture became “tacky.” The resulting paste was
+extracted with 30 ml. of 0.01 m potassiam phosphate buffer,
+pH 7, for 15 minutes at room temperature and for 45 minutes at
+
+* This work was supported by a grant from the Tobacco In-
+dustry Research Committee. Preliminary results were presented
+to the Society of American Bacteriologists, May 1957.
+
+t Present address, Department of Medical Microbiology, Uni-
+versity of Southern California School of Medicine.
+
+4°. The alumina, unbroken cells, and cell debrie were removed
+by centrifugation at 18000 x g for 60 minutes at 4°. The re-
+sulting clear yellow supernatant fluid constituted the crude ex-
+tract and contained, on the average, 22 mg. of protein per ml.
+
+Ammonium gulfate fractionation of the crude extract was
+carried out at room temperature by the addition of the hequired
+amount of solid ammonium sulfate (8). After the addition of
+the ammonium sulfate, the precipitated protein was removed by
+centrifugation at 4° for 10 minutes at 18000 x g. The super-
+natant solution was decanted, the pellet drained by inversion
+and dissolved in 0.01 »¢ potassium phosphate buffer, pH 7; to give
+& final volume of approximately one-fourth that of the starting
+crude extract. All ensymatic fractions were stored at —15°
+if not used immediately.
+
+, Protein was determined by trichloroacetic acid precipitation
+(9), crystalline egg albumin being used as the standard. The
+optical density at 540 my was ietermined in a Bausch and Lomb
+Spectronic-20.
+
+Ultraviolet absorption spectra were determined with a Beck-
+man model DU spectrophotometer. Reaction mixtures were
+prepared for spectrophotometry by adding them to 2 volumes of
+0.1 ~ HCl, removing the precipitated protein by centrifugation,
+and, if required, diluting the clear supernatant solution with
+additional 0.1 x HCI.
+
+Oxygen consumption and carbon dioxide production were
+determined by conventional manometric techniques (10).
+
+Reaction mixtures were chromatographed on Whatman No. 1
+paper by the ascending technique. The solvent was an 85:5:30
+mixture of n-butanol, bensene, and 0.2 a1 sodium acetate buffer,
+pH 5.6 (11). The alkaloids were located by exposing the dried
+chromatograms to cyanogen bromide vapors for 1 hour followed
+by spraying with #-naphthylamine (a Koenig's reaction), by
+ultraviolet absorption under a Mineralite lamp, or by treating
+
+the paper with Dragendorff’s reagent.'
+RESULTS
+
+Oxidation of Nicotine by Crude Extracts Crude extracts pre-
+pared from several independently grown batches of cells usually
+oxidized nicotine at a slow but definite rate. The amount of
+oxygen consumed varied from extract to extract and in many
+cases no oxidation was observed. Furthermore, fresh extracts
+which oxidised nicotine lost this ability upon storage at ~ 18°,
+
+: Prepared by mixing & parts of solution A (0.85 gm. of bismuth
+subnitrate, 40 ml. of distilled water, and 10 ml. of glacial acetic
+acid) with 5 parte of solution B (8 gm. of potassium iodide in 20
+ml. of distilled water), and adding 20 ml. of glacial acetic acid and
+100 ml. of distilled water.
+
+151
+
+PUBLICATIONS
+
+034276

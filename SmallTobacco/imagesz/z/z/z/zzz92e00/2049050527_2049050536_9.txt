@@ -1,0 +1,114 @@
+IBM Code
+
+HII #¥
+
+Date of Production
+Place of Production
+
+SMOKE
+Butt Length, mm
+FTC Tar, mg/cigt.
+Nicotine, mg/cigt.
+Puffs/cigt..-
+
+CIGARETTE
+Total RTD, mm of H,0
+Static Burn. Time, min.
+Length, mm
+Circumference, mm
+
+PAPER
+Permeability, ml/cm’.min.
+
+FILTER
+RTD, mm of H,0
+
+Length, mm 2
+
+Weight, g
+
+Tipping Paper Length, mm
+Color
+
+Ventilation, %
+
+FILLER
+Total alkaloids, % (DWB)
+Total red. sugars, % (DWB)
+Wt. of tob., g (12.5% 0.V.)
+Rod Density, g/cc
+
+HTT 1286/8541
+
+Marlboro
+‘Lights 100
+
+MOAI
+
+1286
+
+6/89
+Stockton St.
+
+39
+10.9
+0.78
+9.9
+
+119
+8.4
+99.4
+25.0
+
+44
+
+111
+31.5
+0.19
+
+White
+31
+
+2.02
+7.6
+0.813
+0.241
+
+Appendix A
+
+B&H
+Lights 100
+
+M9AT
+
+8541
+
+6/89
+Manufacturing Center
+
+39
+
+11.1
+0.76
+10.0
+
+121
+8.9
+99.1
+24.9
+
+32
+
+108
+30.9
+0.19
+
+White
+32
+
+2.06
+8.1
+0.812
+0.241
+
+9ESOSOb702

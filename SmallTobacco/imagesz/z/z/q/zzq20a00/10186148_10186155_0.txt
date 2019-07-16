@@ -1,0 +1,49 @@
+HKE201S 204
+
+Cell Biology International Reports, Vol. 7, No. 3, March 1983 203
+
+LATERAL MOBILITY AND CAPPING OF,
+RAT LYMPHOCYTE MEMBRANE PROTEINS
+
+BeA. Woda, ©) and s.c. Gitman (2)
+
+(1) Gepartment of Pathalogy, University of |
+Massachusetts Medical Center, Worcester, MA 01605
+(2) Research Institute of Seripps Clinic
+La Jolla, CA 92037
+
+ABSTRACT
+
+Surface immunoglobulin (SIg), RTL (rat histocompat ibility proteins)
+and thy-1 present on rat lymphocytes cap with similar kinetics and
+to the same extent, the only difference being the antibody require.
+ment. SIg requires one Cross-linking antibody to induce Capping,
+while RT1 and thy-1 require two antibodies, Fluorescence recovery
+after photobleaching experiments show that there is heterogeneity
+in the diffusion Characteristics of lymphocyte membrane proteins.
+SIg is relatively immobile when labeled by Fab! and is immobilized
+by F(ab'),. RT diffuses 2.7 times as fast as S!g and the mobile
+fraction bf RTl is greater. When RTL is cross-linked by relatively
+Tow concentrations of F(ab"), its mobility is about the Same as
+that of SIg. When the concehtration of F(ab’), is increased, RT
+is immobilized. Thy-1 diffuses faster than sig and has a higher
+mobile fraction. then thy-] is labeled with F{ab’)}, it remains
+mobile and is immobilized when a Second antibody lafer is added,
+The relative order of mobility is thy-1 >> RT1 > SIg.
+
+INTRODUCTION
+
+Lymphocyte membrane proteins undergo polar migration or capping
+after Cross-linking by antibodies (Schreiner and Unanue, 1976),
+
+Capping characteristics, _The prototype of one class is surface
+immunoglobulin (SIg) which caps after binding of a Single cross-
+linking ligand. RT] (rat histocompatibil ity proteins) and thy-1
+are members of a second class of integral membrane proteins which
+Cap only after the additidn of a second ligand (Braun, et. al.,
+1978; Gilman, et. al., 1981; Woda, et. al., 1979),
+
+*This work was Supported by a grant from the Council} for Tobacce
+Research and by NIH grants Al-07007, AG-00924 and: AI CA 16205,
+
+0309-1651/83030203-07:$03.00.0 © 1983 Academic Press Inc. London} Ltd.

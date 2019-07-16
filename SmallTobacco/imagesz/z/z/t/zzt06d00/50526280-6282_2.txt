@@ -1,0 +1,60 @@
+PI;_ Geoffrey L. Greene
+MCP-1
+
+1. We are currently examining the mechanism of ER-mediated suppression of MCP-1 mRNA levels.
+Although the 5’ flanking region of the MCP-1 gene does not contain an obvious estrogen response
+element (ERE), the actinomycin D results appear to rule out alteration of MCP-1 mRNA stability by
+ER. Therefore, we will pursue a detailed characterization of the MCP-1 promoter, beginning with a
+nuclear run-on assay to confirm transcriptional regulation, followed by a detailed dissection of the
+promoter and 5’ flanking region by deletion analysis, reporter transfection assay, electrophoretic
+mobility shift assay, and/or footprinting. Specifically, we will determine whether a CAT or
+Luciferase reporter construct containing the 5’ upstream sequence of the MCP-1 gene is regulated by
+E2/TNF-a, similar to the endogenous gene.
+
+2. In order to characterize the role of ER and MCP-1 in the vasculature, we will analyze the
+expression of MCP-1 mRNA in vascular smooth muscle and endothelial cell lines (A7R5, a rat
+vascular smooth muscle cell, and HUVEC cells derived from human umbilical cord endothelium) that
+are known to be estrogen-responsive. MCP-1 expression will be characterized by northern blot,
+insitu hybridization, and/or immunocytochemistry, as well as a functional analysis to determine the
+effects of E2/TNF-o and other cytokines on capillary vessel formation in cultured HUVEC cells.
+
+3. The relationship between ER and MCP-1 in vivo will be further explored by utilizing in situ
+hybridization and/or northern blot analysis of ER and MCP-1 probes with tissue from human breast
+tumors and atherosclerotic specimens. MCP-1 protein levels will be analyzed as well by
+immunocytochemistry in all cell lines and tissues studied. Importantly, we will determine whether
+there is any correlation between MCP-1 and ER levels in different tumors. We have all necessary
+MCP-1 and ER antibodies and cDNA probes, as well as ER expression plasmids and various
+reporter plasmids.
+
+MNI1
+
+1. The mechanism of ER mediated stimulation of MN1 in MCF-7 cells will be characterized by the
+nuclear run-on assay. If this proves to be a transcriptional effect, as expected from the
+cycloheximide data, the 5’ flanking region of the MN1 gene will be cloned and analyzed for ER-
+dependent transcriptional activity. This will be accomplished by deletion analysis, reporter
+transfection assay, electrophoretic mobility shift assay and/or footprinting, similar to the approach
+described above for MCP-1, Because MN1 is likely to be estrogen regulated in normal epithelial
+mammary tissue, we will study its regulation by estrogens in primary cultures and/or established cell
+lines of normal human mammary epithelium and hyperplasia (eg. MCF-10 cells), co-transfected, if
+necessary, with human ER.
+
+Other cDNA clones identified by RNA differential display
+
+1. Four additional cDNA clones identified in the original RNA differential display screen have not
+yet been characterized. These products will be sequenced and used to probe Northern blots in order
+to further characterize their expression. If these clones represent novel gene products, the full length
+cDNA will be obtained from a cDNA library and further characterization will proceed according to
+the methods used for MCP-1 and MN1.
+
+Literature Cited
+
+1. P. Liang, A. B. Pardee, Science 257, 967-971 (1992).
+
+2. P. Liang, L. Averboukh, K. Keyomarsi, R. Sager, A. B. Pardec, Cancer Res. 52, 6966-6968
+(1992).
+
+R. H. Lekanne Deprez, et al., Oncogene 10, 1521-1528 (1995).
+
+. A. Buijs, et al., Oncogene 10, 1511-1519 (1995).
+
+a uo

@@ -1,0 +1,48 @@
+PRIORITY
+
+Report B1041 / P 0500/3213 STAIN Page 32
+
+4 Statistics and Evaluation
+
+ 
+
+For the analytical assays, detection limits were determined using methods based on the
+sensitivity/reproducibility specified by the suppliers for the analytical equipment (e.g., carbon
+monoxide analyzer) or based on repetitive determinations of blanks or on calculations from the
+
+calibration curves and their confidence limits (nicotine, aldehydes).
+
+As descriptive statistics, the number of values, a mean value (6.g., the arithmetic mean), and a
+measure of variance (e.g., the standard error of the mean) were given for all continuous data
+(e.g., BW and thickness of laryngeal Epithelm . For data sets which include a measured vaiue
+below the detection limit, the median, 25,and 75 % quartiles were given. Values below the
+detection limit were graphically presented as zero. For ordinal data (e.g., histopathological
+
+data), the arithmetic mean, the standard error of the mean, and the incidences were given.
+
+= The particle size distribution was calculated using linear regression analysis after probit
+transformation of the cumulative frequencies and logarithmic transformation of the aerodynamic
+
+diameter values (Finney, 1971).
+The following statistical evaluations were performed on the biological data:
+
+Comparison of biological activity of each VIRGO type and 1R4F using the following procedure:
+(Figure 9)
+
+- calculation of a dose-response curve of 1R4F using nonlinear regression analysis with the
+b
+
+power function y = ax? +c
+
+- calculation of the relative biological activity of the 2 VIRGO types compared to 1R4F as
+
+ 
+
+‘
+
+dose ratios for equal biological effects of 1R4F and each dose level of each VIRGO type,
+the equal effect 1R4F doses Fi Me4 calculated using the above-mentioned regression
+
+curve.
+
+NO, SE nan hetinr off. ferneunelogg fre 2!

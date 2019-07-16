@@ -1,0 +1,47 @@
+INBIFO Institut fiir biologische Forschung GmbH - Kéln
+
+Addendum to Report P 0500/3237 97/10/8
+
+ 
+
+ 
+
+TESTER DATE OF  SUB- S9 DE- MUTAGENICITY (rev./plate)
+STRAIN ASSAY STANCE AC- TER-
+TI- MINA- PLATE MEAN SE RSD
+VA- TION
+TION 1 2 3 (4)
+TA1537 09-APR-97 DMSO no start 26 29 29 28.0 1.0 6.2
+end 33. 320 «2429.7 2.8 16.6
+mean - - : 28.8 (a) 1.4 11.9
+yes start 25 27 22 24.7 1.5 10.2
+end 21 20 24 21.7 1.2 9.6
+mean - - - 23.2 (a) 1.1 11.4
+daunomycin no end 15 20 6 13.7 4.1 51.9
+MMS no end 32 26 «2929.0 1.7 10.3
+2-AA yes end 206 208 218 210.7 3.7 3.1
+2-Ar yes end 24 37 26 29.0 4.0 24.1
+NaN3 no end 22 26 24 24.0 1.2 8.3
+ICR-191 no end 842 771 730 781.0 32,7 7.3
+
+ 
+
+Table A3 SALMONELLA TYPHIMURIUM, SPONTANEOUS REVERSION AND
+RESPONSE TO DIAGNOSTIC MUTAGENS
+
+Remarks: doses of solvent per plate (spontaneous reversion):100 ul DMSO
+doses of diagnostic mutagens per plate: 6 ug daunomycin,
+650 ug MMS, 2 ug 2-AA, 2 ug 2-AF, 1.5 ug NaN3, 1 ug ICR-191,
+NaN3: 3 d incubation time
+
+(a) higher than expected range
+
+M
+
+970923 11:16:56 P. 1 USER_DISK:(IT_A HIDIA2 3237.L1S;4
+
+Page 4
+
+PRIORITY
+
+9SLZLLrv90c

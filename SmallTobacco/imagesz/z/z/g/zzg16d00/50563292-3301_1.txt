@@ -1,0 +1,141 @@
+5086 TESH ET AL.
+
+SLT-IL. On the basis of the collective results of these in vitro
+studies, we hypothesized that an immunologic component may
+be operative in the pathogenesis of dysenteric disease and the
+systemic sequelac associated with infection with SLT-produc-
+ing bacteria (56). In addition to their pleiotropic systemic
+effects, cytokines produced by inflammatory cells in response
+to SLTs or endotoxin may act locally to exacerbate EC damage
+which is characteristic of S. dysenteriae type 1 or enterohem-
+orrhagic E. coli infections. To test this hypothesis, we have
+carried out comparative analyses of the capacity of purified
+SLTs or lipopolysaccharide (LPS) ta elicit proinflammatory
+cytokine proteins and TNF-« mRNA from macrophages stim-
+ulated in vitro. In comparison with toxin-sensitive Vero cells,
+thioglycolate-elicited murine peritoneal macrophages were
+relatively refractory to the cytotoxic action of SLTs. Despite
+the fact that murine macrophages expressed low ta undetect-
+able levels of the toxin receptor Gb, SLTs were effective
+inducers of TNF and IL-6 expression, but elevated levels of
+immunoreactive IL-lx were detectable only after prolonged
+exposure of the cells to the toxins. In comparison with SLTs,
+equivalent doses of LPS induced significantly higher levels of
+ail three cytokines. The kinetics of cytokine production in
+response to treatment with SLTs or LPS also differed. The
+expression of elevated levels of TNF-a end IL-6 by macro-
+phages in response to treatment with SLTs was consistently
+delayed compared with the response mediated by treatment
+with LPS. Macrophages derived from the LPS-hyporespansive
+mouse strain C3H/HeJ produced soluble TNF when stimu-
+lated with purified SLTs but not when stimulated with LPS.
+Finally, pretreatment of LPS with polymyxin B reduced the
+ability of LPS to elicit TNF production but failed to affect TNF
+production induced by SLTs. These data suggest that SLTs and
+LPS may utilize separate signaling pathways to induce cytokine
+expression in murine macrophages.
+
+MATERIALS AND METHODS
+
+Toxin preparations. SLT-I and SLT-IE were expressed from
+Escherichia coli DHSa transformed with plasmids containing
+the toxin operons under control of the [7 promoter. The sit-f
+operon on a 3.5-kb EcoRI-EcoRV fragment was subcloned
+from pJN25 (41) into the EcoRI-Hinclll site of pBluescript
+SK~ (Stratagene, LaJolla, Calif.) and designated pCKS112
+{gift of Clare Schmitt, Uniformed Services University of the
+Health Sciences). The sit-JT operon was derived from plasmid
+pLMS2.2 (53). Subsequently, the recombinant strains were
+transformed with the plasmid pGP1-2 containing the ther-
+moinducible T7 polymerase gene ($4). These strains were
+maintained under BL3+EK1 containment (15). SLT-I and
+SLT-IT in crude bacterial lysates were purified by sequential
+ion-exchange, chromatofocusing, and immunoaffinity chroma-
+tography as described previously (49, 55). Toxins were assessed
+for homogeneity by sodium dodecyl sulfate (SDS)-polyacry!-
+amide gel electrophoresis with silver staining and Western
+blots (immunoblots). Toxin preparations were passed through
+ActiClean Etox columns (Sterogene Bioseparations, Arcadia,
+Calif.) to remove trace endotoxin contaminants and contained
+<O.1 ng of endotoxin per ml as determined by the Limulus
+amoebocyte lysate assay. Purified LPS derived from £. coli
+O111:B4 was purchased from Sigma Chemical Co., St. Louis,
+Mo.
+
+Mice. C3H/HeN (/ps"/Ips") mice were purchased from Tac-
+onic Farms, Germantown, N.Y. C3H/Hel (tps“/Ips“) mice were
+purchased from the Jackson Laboratory, Bar Harbor, Maine.
+Mice were 4 to & weeks old when used in these experiments,
+Mice were housed in single-vendor taminar-flow facilities on a
+
+INFECT. TMMUN.
+
+12-h light-12 h dark cycle and given access to water and chow
+ad libitum throughout the course of the experiments. The
+experiments performed here were conducted according to
+principles set forth in the Guide for the Care and Use of
+Laboratory Animals (40).
+
+Cell culture and stimulation. Mice were injected intraperi-
+toneally with sterile 3% thioglycolate. Four days later, perito-
+neal exudative ccils were collected by lavage with Hanks’
+balanced salt solution containing heparin (350 pg/ml). Cell
+suspensions were adjusted to 10° cells per ml in Eagle’s
+minimum essential medium (EMEM; Gibco, Madison, Wis.)
+containing penicillin (100 U/ml), streptomycin (100 pg/ml),
+gentamicin (50 wg/m!), and 5% fctal bovine scrum (Intergen,
+Purchase, N.Y.) in sterile culture dishes (35 by 10 mm; Becton
+Dickinson Labware, Oxnard, Calif.). After 2h of incubation at
+37°C in humidified 5% CO., cach culture dish was washed
+twice with fresh EMEM to remove nonadherent cells. After
+overnight incubation, the medium was replaced with fresh
+complete EMEM containing various doses of purified SLTs or
+LPS and incubated at 37°C in 5% CO, for the time periods
+indicated in the text. In some experiments, macrophages were
+stimulated with SLTs or LPS which had been preincubated at
+room temperature with 20 yg of polymyxin B (Sigma) per ml
+for 6h prior to addition to the cells. At each time point, culture
+supernatants and cells were collected [or cytokme mRNA and
+protein quantitation. Vero cells were purchased from the
+American Type Culture Collection, Rockville, Md., and main-
+tained in EMEM plus 5% fetal bovine serum. Human umbil-
+ical vein EC (gift of David J. Silverman, University of Mary-
+land School of Medicine) were derived and cultured as
+described by Santucci et al. (51).
+
+Cytotoxicity assay. Murine peritoneal macrophages (~10°
+cells per well) or Vero cells (~10* cells per well) were cultured
+in 96-well microtiter plates for 24 h at 37°C in humidified CO).
+Toxin dilutions were prepared in complete EMEM, and 100 ul
+of cach dilution was added to six separate wells. Cells were
+incubated with toxins for 18, 36, and 48 h, at which time the dye
+3-[4.5-dimethylthiazol-2-yl]-2,5-diphenyltetrazolium bromide
+(MTT; Sigma) (39) was added and incubation was continued
+for anothcr 2 h. The celfs were lysed, and the insoluble
+formazan dye was extracted for 4 h at 37°C with lysis buffer
+(50% N.N-dimethyl formamide and 20% SDS [pH 4.7]). The
+As7y Was measured. Untreated macrophages and Vero cells
+were used as viability contrals, and blank wells were used
+to determine background absorbance. Percentage viability
+was calculated as [(As7, of treated cells — background)/(A57y
+of untreated cells — background)} x 100.
+
+Membrane glycolipid quantitation. Total lipid extracts from
+murine nlacrophages, Vero cells, and human EC as well as
+purified glycolipid controls were subjected to chromatography
+on aluminum-backed silica thin-layer chromatography plates
+(Silica Gel 60; Merck AG, Darmstadt, Germany) with CHCI,-
+CH,OH-aqueous KCI (5:4:1} as described previously (49).
+Following chromatographic separation of the glycolipids, the
+plates were coated with 0.1% polyisobutylmethacrylate (Poly-
+science, Warrington, Pa.), air dried, and sprayed with Tris-
+buffered saline-bovine serum albumin (TBS-BSA; 0.1 M Tris-
+HCl [pH 7.4], 0.15 M NaCl, 1% BSA). The plates were treated
+with purified SLT-I in TBS-BSA at 4°C for 18 h. After
+extensive washing, the plates were sequentially treated with a
+monoclonal antibody directed against SLT-I B_ subunits
+(moncelonal antibody 13C4) (52) and ‘I-labeled goat anti-
+mouse immunoglobulin G secondary antibody. Specific toxin
+binding to glycolipid bands was visualized by autoradiography.
+Relative amounts of toxin-binding glycolipids in the extracts
+were estimated by comparison with serial dilutions of purified

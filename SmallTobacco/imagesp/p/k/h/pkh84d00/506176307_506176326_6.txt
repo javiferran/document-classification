@@ -1,0 +1,56 @@
+had been collected. Of the collected aerosol mass, 84.4% +/- 9.1
+SD was determined by gas chromatography to be glycerol.
+
+6.4.3.4.3.2.2. Exposure System Performance
+
+Ten rats/sex/dose group received nose-only exposures 6 hours/day,
+for 10 consecutive work days, to target aerosol concentrations of
+1, 2 or 4 mg/L of glycerol. An identical group served as
+sham-exposed controls.
+
+Measurements During Animal Exposures
+
+During the exposures, aerosol concentrations were measured hourly
+for each exposure group using the same monitor that was moved
+among the exposure groups. The RAM~1 sample rate was less than
+the 350 cc/minute aerosol input rate of an individual exposure
+port to ensure that only fresh incoming aerosol was sampled
+without dilution from spent aerosol that would be aspirated from
+the exhaust plenum at higher sampler flow rates. Two
+gravimetrically analyzed Gelman type A/E 25 mm glass fiber filter
+samples were collected daily from each exposure chamber for the
+determination of aerosol concentration, GC analysis, and RAM-1
+calibration. One sample was collected during the first 3 hours
+of exposure and the second during the last 3 hours. The mean
+aerosol concentrations for the ten days of exposure were 1.01 +/-
+0.08, 2.01 +/- 0.33 and 4.05 +/= 0.33 mg glycerol/liter for low,
+mid and high concentration target exposures. Each mean value was
+based upon 20 filters analyzed gravimetrically.
+
+Particle Size Measurements
+
+Particle size distribution was measured using Mercer cascade
+impactors three times for each concentration before the start of
+the animal exposures and twice during the exposures. The
+quantity collected on each impactor stage was analyzed
+gravimetrically and the resulting data analyzed by the NEWCAS
+impactor analysis program. The mean MMAD for the 1, 2 and 4 mg/L
+exposure groups were 1.46 +/- 0.07, 1.45 +/- 0.26 and 1.45 +/-
+0.22 microns; respectively. The Geometric standard deviations
+(GSD) for the 1, 2 and 4 mg/L groups were 1.75, 2.11 and 1.91;
+respectively.
+
+6.4.3.4.3.2.3 Animals and Animal Care
+
+Sprague-Dawley-derived (Cr1:CD) rats were received from Charles
+River Breeding Laboratories (Raleigh, N.C.) at the testing
+laboratory and judged to be in good condition.
+
+The animals were quarantined for a minimum of two weeks prior to
+
+the initiation of study exposures. On the day of their arrival,
+
+five males plus five females, randomly selected, were removed for
+gross necropsy and serology tests. A second randomly selected
+
+ere9 £b90S

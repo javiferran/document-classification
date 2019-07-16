@@ -1,0 +1,90 @@
+le 1: Socioeconomic Variabl
+
+F t
+PT- Total population
+PD- Population/square mile
+Pl- % Pop. increase 1980-86
+PU- % in urban areas
+PW- % white
+PS- males/100 femates
+PE- % age > G4y
+PO- % age > 74Y
+PY- % 5-17 years old
+PN- % born in state
+PH- Persons/household
+
+VB- Births/1000 Pop.
+
+VC- % births to mothers < 20y
+VD- Deaths/1000 Pop. ‘
+Vi- infant deaths/1000 births
+VM- marriages/1000 Pop.
+
+VS- divorces/1000 Pop.
+
+VP- physicians/100,000 Pop.
+VH- hospital beds/100,000 Pop.
+
+Social
+
+SS- Social Sec. benefit/1000 Pop.
+
+SC- crimes/100,000 Pop.
+SH- % high school grad.
+SU- % college grad.
+
+SE- $/cap for education
+
+HO- % owner occupied
+
+HA- % with > 1 automobile
+HV- median value ($)
+
+HN- % < 8 years old
+
+El- $ per capita income
+
+EH- Median household inc., $
+EJ- % persons below poverty level
+EV- % fam below poverty level
+EU- % unemployment
+
+EW- average salary, wage
+
+EP- $ per cap personal income
+EM- % earnings from manufact.
+ER- % earnings from retail trade
+ES- % earnings from services
+EG- % earnings from government
+EF- % earnings from farming
+
+EA- av. acres per farm
+
+EL- %mfg. firms > 100 emplys.
+ED- $/cap. sales - food stores
+EC- $/cap. sales - clothing
+
+EE- $/cap. sales - eating, drink
+
+Government
+
+GF- Federal govt., $/cap
+
+GL- Local govt., $/cap
+
+GE- % loc govt. expend. - educ.
+GH- % loc govt. expend. - health
+GP- % loc govt. expend. - police
+GW- % loc govt. expend. - welf
+GR- % loc govt. expend. - roads
+GJ- loc govt. empimt/10,000 Pop.
+GV- % vote for lead party, 19884
+
+NP- num of measurements - PITT
+NE- num of measurements - EPA
+
+he
+
+ 
+
+ StLzerszoz

@@ -1,0 +1,169 @@
+4028 BIOCHEMISTRY
+
+ 
+
+Table IV: Pyrene Transfer from VLDL to HDL
+
+ 
+
+ 
+
+ 
+
+a obsd caled
+VLDL* HDL* rate rate
+protein pyrene protein wavelength constant constant®
+(mg mL!) (wt %) (mgmL"*) (nm) (*) (7)
+0.3 0.3 2.87 470 18.9 32,2
+a3 0.3 0.72 470 20.6 Wal
+0.3 0.3 0,29 470 32.4 il?
+0.22 0.3 2.87 470 19.2 27.8
+0.22 0.3 0.72 470 16.8 59
+390 18.1
+0.11 0.3 0.29 470 18.5 67
+390 17.1
+0.03 0.3 2.87 470 17.5 16.7
+390 10.6
+0.03 0.30. 0.72 410 15.6 22.1
+390 10.7
+
+0.17? 0.024 0,258 470/390 40.8 37.2
+
+® The transfer rates between VLDL were 15 s“! and between
+HDL, 240s”, ® Transfer rates for these lipoprotein preparations
+were 20.6 s*! for VLDL and 269 s! for HDL.
+
+ 
+
+the concentrations remain the same; and (4) it is independent
+of the probe concentration. ,
+
+Examination of Table III, which contains data for pyrene
+transfer between HDL and LDL, shows that agreement of
+calculated rates with experimental data is very good and that
+all of the predictions are accurate. In Table IV, however,
+pyrene transfers from VLDL to HDL do not show such good
+agreement. The trends in the data are correctly predicted, that
+is, the rate increases with increasing donor VLDL/acceptor
+HDL, but the rates are overestimated by a factor of 2-3. The
+calculated rates can be made to agree very well with these
+determined experimentally if the association rate constant with
+VLDL is decreased 5-fold. We have no explanation for this
+discrepancy.
+
+One interesting feature is that the model involves simple
+partitioning of a soluble phase between two immiscible phases
+by first-order processes. In all equations, however, k, always
+appears as k,L, and k; as ksZp, exactly as if the uptake oc-
+curred by a second-order reaction.
+
+By analogy with dialysis, the rate of transfer or the flux of
+the probe through the lipoprotein surface might be proportional
+to the total surface area. The total area, which is the product
+of the number of molecules and their surface area, is pro-
+portional to radius“, The predicted relationship, described
+by the dashed line in Figure 4, does not correlate with the
+experimental data. Better correlation was obtained between
+the log of the rate constant and radius“!, shown by the solid
+line in Figure 4,
+
+’ Discussion
+
+The results of the experiments described here support the
+transfer mechanism in which the rate-limiting step in pyrene
+and DG transfer between lipoproteins is the dissociation of the
+probe molecules into the aqueous solution, followed by diffu-
+sion in the aqueous phase and rapid uptake into another li-
+poprotein (Charlton et al., 1976, 1978a). The increase by
+SCN™ and decrease by SO," and Cl can be interpreted
+quantitatively by the Setschenow equation in terms of salting-in
+or salting-out phenomena, with the electrolytes changing the
+solubility of the probe in the aqueous solution. The different
+rates of transfer found in the presence of electrolytes are in
+accordance with the effects predicted from the Hofmeister
+series of ions (Long & McDevit, 1952) and the molal surface
+tension increment produced by the salt (Melander & Horvath,
+1977). Similarly, low concentrations of organic solvents in-
+crease the solubility of hydrophobic molecules in the aqueous
+
+CHARLTON AND SMITH
+
+256 4
+
+44200
+
+log Rate,
+se
+
+Rate, sect ~——
+oy
+
+ 
+
+ 
+
+ 
+
+rol a
+0 0.04 0.08 0.22 0.16 0,20
+
+1/ Lipoprotein Radius, nm}
+
+FIGURE 4: Relationship of the rate of pyrene transfer to lipoprotein
+size. Rate constants are given in Table I for HDL (0), LDL (m),
+VLDL, (@), VLDL, (a), and VLDL, (a) with radii of 7.5, 11.3,
+19, 22, and 29 nm, respectively, as determined by dynamic laser light
+scatiering.
+
+phase, demonstrated directly by measurement of the distri-
+bution coefficients. The data of Figure 3, in spite of consid-
+erable scatter, show a proportionality between the observed
+rates and the distribution coefficients. Differences in the values
+for the distribution coefficients are attributed only to a change
+in the aqueous phase solubility of the probe. This assignment
+is based on the assumption that the limiting solubility of the
+probe in the lipoprotein is relatively unaffected by the presence
+of organic solvents in the hydrocarbon phase and that the
+lipoprotein is not unduly perturbed by these concentrations
+of organic soivents.
+
+Kinetic analysis of the transfer in heterogeneous systems
+containing different lipoproteins permits some predictions
+about the observed rates of transfer. The rate constants should
+be (a) independent of both donor and acceptor lipoprotein
+concentrations when the donor/acceptor ratio is maintained,
+(b) independent of the probe concentration, (c) identical in
+either direction, and (d) intermediate between those observed
+for dissociation of the probe from the individual lipoproteins.
+All of these predictions are reasonably well fulfilled, thereby
+providing convincing evidence that the proposed mechanism
+of transfer through the aqueous phase by simple partitioning
+is correct.. A similar mechanism is suggested for transfer of
+slightly soluble molecules between polymer particles composing
+an oil-in-water emulsion (Ugelstad & Mork, 1980).
+
+The calculations show that, in order for the predicted ratc
+to reflect that measured experimentally, the possible range of
+the association rates is quite restricted. Association constants
+that accurately predict the rate of transfer in a system with
+dissimilar lipoproteins are the same as those calculated by
+dividing the dissociation rate constant by the distribution
+coefficient. Such agreement supports the postulate that
+transfer of hydrophobic compounds such as pyrene and the
+diglyceride analogue can be treated simply in terms of dis-
+tribution between two immiscible solvents.
+
+Inspection of Figure 4 and the data in Table I, which contain
+the rates of transfer of pyrene and DG in between a number
+of homogeneous reaction systems, reveals that the desorption
+rate from HDL is 20 times greater than that of VLDL; yet
+the distribution coefficients of pyrene between HDL, LDL,
+and VLDL are all very similar.
+
+According to a current model (Shen et al., 1977), lipo-
+
+nme
+
+ 
+
+50244035

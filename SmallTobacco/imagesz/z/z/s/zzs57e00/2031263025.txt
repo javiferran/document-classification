@@ -1,0 +1,54 @@
+To:
+
+Subject:
+
+PARK 500 /
+INTER-OFFICE CORRESPONDENCE
+CHESTER, VIRGINIA
+
+Mr. W. C. Holloman — Date. November 7, 1988
+
+J. W. Lusk je :
+
+Line III Evaporators ~- Soaking for Cleaning
+
+In reference to your question about soaking the evaporators as an
+alternative means of cleaning, I contacted Sirrine to see if the
+structural steel was designed to support this type of load.
+
+The attached letter from Jeffrey Reeves of Sirrine confirms that the as
+structural steel will support the flooded weight of all four evaporators.
+
+Since Mr. Reeves left open the question on the support lugs for the
+evaporator, I contacted Chemetron. Mr. Mike Martin of the Engineering ~
+Department at Chemetron told me by phone on November 1, 1988, that all
+evaporators they build are designed to be flooded and the support lugs are
+designed to handle this type of load. He said that soaking is a common
+practice with many of their evaporator customers. He cautioned us not to
+run the main drive on the rotor as this would do damage to the unit. He
+mentioned that some users do have a "clean out drive" that turns the rotor
+very, very slowly to help agitate the soaking solution. He also said to
+not put any extra pressure on the unit while soaking (i.e. keep vent.
+valves open so pressure cannot build up).
+
+My recommendation based on the above is to only soak 1 evaporator at
+a time and ensure that the’ main rotor drive is locked out prior to filling
+the evaporator. Pulling the cover plate off the top of the mist
+eliminator and removing the eliminator screen will provide both a vent
+opening and an inspection port to allow your operator to see when the
+evaporator is full of water. With this cover off, you could fill the
+evaporator with process hot water and crack open the jacket steam just a
+little (5 PSIG or less) to keep the water hot while the unit is soaking.
+
+I understand you have a procedure being written for this operation
+which I will be reviewing with you prior to using the soaking method for
+cleaning.
+
+If you have any questions, please contact me.
+cc: A. 0. Hayes
+J. R. Lawrence
+
+F. E. Solesbee
+J. T. White
+
+2031263025 ~

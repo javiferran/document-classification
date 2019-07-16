@@ -1,0 +1,54 @@
+2080257713
+Rittweger, Karen L.
+
+ 
+
+From: Andrew Browning [Andrew_Browning@chi.leoburnett.com]
+
+Sent: Thursday, July 13, 2000 5:40 PM
+
+To: Karen.L.Rittweger@pmusa.com
+
+Ge: Dean_Sharp@chi.leoburnett.com; Kristen_Lydon@chi.leoburnett.com;
+
+Cheryl.L.Smigelski@pmusa.com; Helene,Bolanos@pmusa.com; Loren.L.Kelley@pmusa.com;
+Margaret.E.Codella@pmusa.cam, Mark.A.Cavone@pmusa.com; Sonya.C.Rush@pmusa.com
+Subject: Marlboro Milds on the Database
+
+Karen,
+in order to add "Milds" to the survey three things will need to occur.
+
+1. The survey template will need to be updated. | am working with the Corporate group on timing for the update but their
+initial response was a relatively quick turnaround time.
+
+2. The database will need to be updated to capture the new information. This would only take 24-48 hours to complete. In
+regards to setting a default for Marlboro Mitds to Menthol. At the present time Suppliers do not handle default logic due to
+data quality concerns. All defaults are dane on the database. The database however, is not able fo handie the default you
+are requesting. Sf you were to default Mariboro to Milds to Menthol on the database then ail Marlboro responses would be
+considered Menthol (i.e. the database can not handle combination defaults). This is a change that is being investigated for
+
+Monarch. 04 andy defau ag arlbare Miikks € rs Sornbora Now wibtsa tet as
+thir fe CBA
+
+3. The data entry suppliers would need to update their programs to allow for the row talne on the’tar level question. | have
+spoken with Fulfilment about timing, and due to significant programming requests and issues already on the priority list,
+they would prefer to wait until mid-August to bring this issue up to the Suppliers. Thus, we would not recommend changing
+the survey until after this point in time.
+
+In regards to your second question concerning the Regular Brand Question. The suppliers are currently set up to capture
+any extra information given in the Regular Brand quesiion that pertains to questions 2-5 on the current survey. That is, if
+only the Regular Brand question is asked and an Adult Smoker answers Marlboro Lights, then the data entry supplier
+captures Marlboro for the brand and populates Lights for the Tar Level. If we split out Lights and Milds then a response of
+Marlboro Milds to the Regular Brand Question would be captured as Mariboro for the brand,and Milds for the Tar Level.
+
+{n the short term, we could request that a response of Milds be captured as a medium. Thig would be a training issue for
+the suppliers versus a programming/database issue.
+
+; ; & Bi5d Axo
+Piease tet me know if you have any questions. orate ab Ant.
+Thanks, / eye? a
+
+Andy (
+312-220-5514
+
+Scot — 5 qntaheano

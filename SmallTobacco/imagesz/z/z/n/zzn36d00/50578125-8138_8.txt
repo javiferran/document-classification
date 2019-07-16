@@ -1,0 +1,45 @@
+387
+
+Other changes in single channel current parameters would produce
+a decrease in mean single channel current integrated over time. Figure 5
+shows the different possibilities. The decrease in mean current could be
+the product of a decrease in frequency of channel opening, a decrease in
+the elementary current of the channel, a decrease in the apparent mean
+open time of the channel, or any combination of these factors.
+
+PLOT OF MEAN CURRENT (I, pA}
+
+BIN 1 BIN 2 BIN 3
+
+CHANNEL OPENINGS:
+
+¥ frequency ‘| J | | | ULI
+
+or
+
+¥ open time 7 | | | PUL]
+
+or
+
+ 
+
+} amplitude
+
+ 
+
+ 
+
+Figure 5. Schematic diagram of the possible changes ia ACh-gated single
+channel function that could produce a decrease in mean current across the patch
+of membrane.
+
+Figure 6A shows raw data sweeps from the control (prior to SP
+application) and experimental (after SP) conditions. In this experiment
+only the M channel class is present. Following SP application, the
+elementary current of the single channels remains unchanged. The
+amplitude histograms (figure 6B) indicate mean single channel
+amplitudes of 2.54 pA for control vs 2.47 pA after SP. However, the
+
+ 
+
+50578133

@@ -1,0 +1,144 @@
+122 LI AND RHODE
+
+TABLE 1
+
+THE CYTOPATHIC EFFECTS (CPE) AND VIRUS PRODUCTION IN THE Ceu
+Lines INfECTED By H-1 OR LUH} AND THEIR NS2— MUTANTS
+
+ 
+
+ 
+
+CPE (days)
+Virus titers:
+Celllines Viruses Apperance Completion (PEU/m)
+NB324K tH} 3 5 3.5 x 10°?
+LUH1SA a ? a5 = 10**
+Hala Gey LuH1 3 5 4.1% 106°
+LUHISA 4 7 5.5 x 107°
+Hak LuHt 4 6 21x 108
+, LUH1SA 5 8 6.5 x 10%°
+NB324K He 3 6 5.0 x 108°
+H-1SA, 3 6 1.4% 107?
+MRC-5 V2 H-1 2 5 1.0 x 1089
+H-1SA 2 5 5.0 x 10%?
+Hela Gay H-1 3 6 2.5 x 198%
+H-1SA 3 6 5.0 x 10°
+Hak H.1 3 6 1.0 x 108°
+H-1SA 3 7 3.5 x 10%
+THK Hel 2 4 9.0 x 108
+HSA 2 5 1.0 x 108°
+OKSV Hl 5 ? 3.0 x 107°
+HSA 5 7 6.0 x 10%?
+RN HA 3 6 4.0 x 108?
+H-1SA 3 6 5.0 x 19°
+Rat2 H-1 3 5 6.0 x 10°°
+H-ASA 3 14e 1.0 x 10°52
+PEJRat2 Hel 3 5 2.5 x 10°"
+HSA 3 14° 1.5 x 10998
+
+nNOS mem
+
+Nove. m.o.1. = 0.1 in all infections.
+
+2 Virus ters were determined by end-point dilution in NB324K
+cells and converted to PFUsm! using the formula TCID,o/ml x 0.69
+= PFU/mi.
+
+> Virus ters were determined by a plaque assay in NB324K cells.
+
+© OPE seen in H-1SA4ntected cells was caused by a revenant
+virus. see text for further explanstion.
+
+¢ Cultures were harvested at Day § when CPE was complete tor
+wild-typs H- 1.
+
+though NS2 seems to be dispensable in some cell lines
+for productive infection by the autonomous parvovirus
+H-1, it is required for efficient production of infectious
+virus particles in rat fibroblasts.
+
+MTT cytotoxicity assay
+
+We have used the MTT colorimetric assay to mea-
+sure the cel killing by H-1SA at different m.o.i. and the
+reguits are shown in Fig. 4. The killing activity in both
+H-+- and H-1SA-infected PEJRat2 cells was dose de-
+pendent but the curve for H-1SA was shifted to the
+right compared to H-1 (Fig. 4A), indicating that in the
+absence of NS-2, rat fibroblasts are more resistant to
+the killing by the virus. At an m.o.i. of 1, few cells were
+killed by H-1SA (8); at a m.o.i. of 10, the cell survival
+dropped down to about 65% at Days 2-3 postinfection
+
+PUBLICATIONS
+
+10350220
+
+and the cultures were recovered afterwards (C); ¢
+m.0.1. of 100, the cells were killed by H-1SA almost
+efficiently as H-1 (D). These results suggest that H-1
+kills intected rat fibroblasts, but because it produ:
+little new virus, the CPE does not spread in the cultu
+at low m.o.i.
+
+Neither full nor empty virus particles are detecter
+H-1SA-infected rat fibroblasts
+
+Noninfectious virus particles may result from the ¢
+duction of virions with defectiva genomes or em
+particles. Viral DNA content by blot hybridization fr
+the H-1SA-infected PEJRat2 lysate at Day 4 after int
+
+— Hed
+
+wore 1
+
+bed
+
+<#> H-1BA
+
+Day 3 Post-inisotion
+
+-
+Q
+°
+
+% Cell Survival
+a 2 a
+o ¢ 6
+
+a
+°
+
+ 
+
+° °
+0.7.6.998 1 3.16 $0100 ° 1 t 3 a
+
+Log MO! Days Post-infeoti
+—e Het ~w- H-1BA + H-t cm Hef
+MoI = 10 MO} = 100
+
+ 
+
+e 1 2
+
+= 4 ‘| 4 A] 2 5 a
+Days Post-infection
+
+Days Post-intect
+
+Fig. 4. Cytotoxic effect of the NS2 mutant H-1SA in comparit
+wild-type H-1 with MTT assay in PEJRat2 cells. PEJRate celle
+infected with H-1 of H-1SA at the same multiplicity of inte
+{m.o.1.). Adose response was obtained for m.o.. ranging from:
+100 at Day 3 after infaction (A). The cytotoxic affect of H.°
+H-1$A 88.9 function of time was tested ate m.o.i. ol 1 (8), 10(C
+100 (D). MTT was added at the times after infection as indica
+the figure and the assey was calmed out as described in the t6x
+mean of the absorbance of the control walls {uninfected ce
+each day {0.80 1.20) was dafinad as 100% of survivel. Each
+and ber represent a mean and 1 SD of six semples.
+
+030906

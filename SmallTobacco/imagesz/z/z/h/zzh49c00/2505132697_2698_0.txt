@@ -1,0 +1,32 @@
+9.KW84
+
+INBIFO Institut far biologische Forschung - KéIn
+20 May. 99 NDA/MWO X:\MWO\QA\CHECKS\300013298.D0C
+
+UBERPRUFUNG VON P 0500/3298 DURCH QA SEITE-NR.: 1 von 2
+
+TITEL: In Vitro Cytotoxicity of Mainstream Smoke Fractions of the Research Cigarettes
+98.FB.107, 98.FB.109, 98.FB.110, 98.FB.111, 98.FB.113 , 98.FB.114, and
+98,.FB.116
+Neutral Red Uptake Assay with Mouse Embryo BALB/c 3T3 Cells
+Projects MILK and JUICE
+(PT)
+
+PRUFZEITPUNKT: vor Ausgang des Reports (12.Mai 99)
+
+UBERPRUFTER PARAMETER BEANSTANDUNG
+
+Report
+Rohdaten
+
+ 
+
+ 
+
+BEMERKUNG: Studie nach den GLP-Grundsatzen des ChemG
+
+20.May.99 Se)
+
+QA: DATUM/ZN
+
+L69ZE1S0S¢

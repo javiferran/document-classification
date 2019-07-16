@@ -1,0 +1,72 @@
+Ae ter
+
+x
+
+Change Review (CR) Form
+
+CR Issue Date: 11/23/98 CR Control Number:DRG1198011RO
+
+Date Review Required to be completed by: | CR Revision #: -
+
+11/30/98
+CR Disposition: MlApproved [] Rejected | CR Coordinator Signature:
+
+Change Requestor: Sanyo
+NOTE: Lack of comment indicates your acceptance ef this change.
+
+   
+ 
+  
+  
+
+    
+ 
+  
+ 
+
+  
+
+ 
+
+ 
+
+Reason for Change:
+
+Poor yield of Heater Contact Gold Plating.
+
+ 
+
+Description of Change:
+
+ 
+
+Material sheet will be Gold Plated prior to stamping. (Old method was to plate after
+part was stamped and formed.
+
+ 
+
+Description of Testing/Analysis completed to justify change:
+
+Sanyo indicates that contact resistance will increase by approx. 0.6mOhm after 300
+cycles. J. Adams has samples under evaluation.
+
+Planned Cut in Date/Series (Including disposition of existing stock if affected):
+Immediately
+
+ 
+  
+ 
+
+E4 (Sanyo to supply serial numbers)
+
+ 
+
+Cost Impact: Ml No Of Yes If Yes, Describe Impact:
+
+ 
+
+ 
+
+12/2/98
+
+L9E0S8E90Z

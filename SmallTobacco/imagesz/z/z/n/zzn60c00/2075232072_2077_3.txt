@@ -1,0 +1,81 @@
+Nov-18-99 12:04P P.06
+eo be bat
+UR } eh via
+SOUTHERN TESTING AND RESEARCH LABORATORIES, INC,
+ANALYTICAL METHOD
+
+DATE: May 8. 1997 MTH#A: AGR-028.2
+(Replaces AGP-028.1)
+
+controller and syringe pump before performing this analysis.
+
+26. Hf the temperature controller and syringe pump have been assembled correctly and turned on, the
+sample digestion should proceed properly with no intervention. Distill until the volume in the
+50 mL collection tube in the ice bath reads 40 mL, :
+
+27. Turn off the gas to the burner and take the flask off the MH rig. Disassemble the MH flask under
+the hood and add a small amount of water.
+
+28. Remove the 50 ml. collection tube from the ice bath, cap, record the exact valume (see note at
+bottom of this page). and shake the tube well Place tube in the sample holding rack.
+
+29. Rinse the nitrogen adapter and stem thoroughly with Di water into the waste buckel.
+
+30. Pour the cuntents of the MH flask into the same bucket. Clean flask using DI water and 1:9
+hydrochloric acid, then place carefully into the acid soaking bucket.
+
+31. Rinse inside of the condenser and tip thoroughly using 1:9 acid and DI water. ‘Ihe rig is now ready
+fo accept another sample flask.
+
+Reading and Calculating Results
+32. Turn on the spectrophotometer and allow the lamp to warm up for at least 30 minutes.
+
+33. Perform the necessary wavelength calibration checks as described in the SOP for the spec.
+
+34. Under mode, select 1 for photometric and answer yes to the “any changes” prompt.
+
+3§. Select 5 for “how many wavelengths, answer 3 and set the wavelengths in the following order: 490,
+460, and 430.
+
+36. Answer "yes" to the prompt "any changes", then sclect 6 for data processing.
+
+_ 37. Answer "no" to the prompt "any changes". The spec is now ready to read samples.
+
+38. Read the absorbance using | cm glass cells. Make sure that the cells are clean.
+
+39. Aute zero using a blank and make sample readings against the same blank,
+
+Note: A blank is prepared by adding 4 ml, p-dimethylaminobenzaldehyde solution to a collection tube
+
+and bringing the volume to 40 mL with DJ water.
+
+40, Samples are read after the instrument has been properly auto zeroed with the blank.
+
+4. Place sample into the front cecil compartment and close the door before taking a reading.
+
+42. Clean the sample cell with DI water, acetone, then hexane between each sample and wipe the outside
+dry with a Kimwipe.
+
+43. The data sheet fram the spec will have five columns. They are: 1) entry number, 2} Abs I,
+3) Abs 2, 4) Abs 3, and 5) result. The result is calculated by the instrument by the following
+equation:
+
+(Abs 430 + Abs 490)
+
+44, Calculate the concentration of MU in the samples using results from the spec and linear regression
+
+of the standard curve from the Clipper linear regression software program on the laboratory computer
+
+network, Print resuits and retain and file the printouts appropriately as raw data.
+
+Note: Correction nvust be made for actual distilled volames, if they are not exactly 40 mL. For
+
+the stundurd curve preparations, multiply the concentration of the standard by 46, divided by the
+
+distilled volume to obtain the uctual standard concentration. For sumples multiply the
+- concentration obtained fron the linear regression program by the distilled volume divided by 40.
+
+Property of Southern Testing and Research Laboratories, Inc.
+Paye 4 of 6
+
+$L0Zezgz92

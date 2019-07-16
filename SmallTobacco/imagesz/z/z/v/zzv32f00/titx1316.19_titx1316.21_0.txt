@@ -1,0 +1,45 @@
+4 a . - me nee =
+
+{ . oe - 4 —-——- «
+AN de ee wy - Meee ced Ray oe Lt a : rn)
+
+re
+Orin, Ore tx fom
+
+CIGARETTE SMOKE FILTRATION
+
+AND EVALUATION OF FILTERS
+
+The measurement of two baSic parameters is required to
+evaluate a candidate filter for nonselective filtration
+properties of the smoke aerosol. The accepted means of
+measuring these two parameters is discussed below, and
+some representative data pertaining to commercial and
+experimental cigarette filters are discussed.
+
+Pressure drop is that quantity obtained when the pressure
+differential between two points is determined. In the
+case of cigarette filters, it is the pressure difference
+between the two ends of the filter at a normal air flow
+of 17.5 cc./fsec. at IS°R. and 1 atmosphere. The pressure
+difference is usually expressed in centimeters or inches
+of water. Most filter tips in use fall within the range
+of 2.0-12.0 cm. of HO. ‘
+Efficiency of a cigarette filter is a measure of the
+fraction of smoke retained by the filter. If we use
+
+the notation S, to represent the smoke presented to
+
+the filter, and S, the smoke passing the filter, the’
+efficiency (Ee) may be expressed as
+
+e
+
+S, may be measured by smoking cigarettes under standard
+conditions (35 ec puff, 2-scecond duration, leminute frequency,
+at 75°F and 60% relative humidity) and obtaining the dry TPM
+yield according to the procedure employed by the FTC. 5S, is
+measuxed on cigarettes smoked to the same butt length as for Sy
+put with the filter matexial removed from the tip.
+
+TITX 0032153

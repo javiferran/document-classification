@@ -1,0 +1,26 @@
+INBIFO Institut fir biologische Forschung GmbH - K6In
+Report P 0500/3284
+
+ 
+
+2 Objective
+
+The objective of this study was to compare the in vitro cytotoxicity of mainstream smoke (MS)
+fractions of the test cigarette YMF114, smoked in different groups of E-series lighters, with that
+of the Reference Cigarette 1R4F.
+
+3 General Design
+
+The cytotoxicity determination was carried out in the neutral red uptake (NRU) assay with
+mouse embryo BALB/c 3T3 cells using the cigarette smoke fractions TOTAL PARTICULATE
+MATTER (TPM) and WATER-SOLUBLE FRACTION of the GAS/VAPOR PHASE (GVP). The
+cytotoxicity of the smoke fractions was compared on the basis of their ECs) values. This is the
+concentration that reduces the number of viable cells by 50 % compared to the corresponding
+
+solvent control. The assay was performed 3 times on separate study days.
+
+The study was conducted in compliance with Good Laboratory Practice (GLP) principles
+
+(Grundsatze der Guten Laborpraxis, 1994).
+
+2078576215

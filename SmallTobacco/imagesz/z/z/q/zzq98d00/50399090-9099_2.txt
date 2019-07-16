@@ -1,0 +1,116 @@
+3302 RECEPTOR-SPECIFIC INDUCTION OF Jun AND Fos
+Table |. PCR conditions
+Butfers
+Annealing Calculated Size
+Genes Primer Sequences [MgCi,} pH Temperatures Cycles of PCR Products (bp)
+f-actin GTCGTCGACAACGGCTCCGGCATGTG 2.0 mM 8.5 60°C 16 253
+CATTGTAGAAGGTGTGGTGCCAGATC
+funB CATCAACATGGAAGACCAGG 1.5 mM 9.0 68°C 25 655
+TGCGTGTTTCTTCTCCACAG
+junD CACGCAAGAACGCATCAAGG 1.5 mM 9.0 68°C 25 751
+ACCGGCGAACCAAGGATTAC
+c-jun ACAAGATGGACTGGGTTCGG 2.5 mM 10.0 60°C >30 487
+ACAAACACTGGGCAGGACAC
+c-fos TGGAATTAACCTGGTGCTGG 2.5 mM 9.5 68°C 30 458
+GAGAGCAAGAAGGTGGTCGC
+fosB AAAGGCAGAGCTGGAGTCGG 1.5 mM 10.0 60°C 30 634 and 494
+GCACAGARAACCAGAGACGG
+
+ 
+
+cycle. PCR reactions were optimized with respect to Mg** concentration,
+pH, annealing temperature, and number of cycles. These parameters, as
+well as number of cycles, varied for various transcripts and are given in
+Table I, along with specific primer sequences. The number of PCR cycles
+and amount of cDNA used were such that increasing amounts of cDNA
+template yielded proportionately increasing amounts of specific PCR
+product (data not shown). PCR products were size fractionated on 5%
+polyacrylamide gels and visualized by autoradiography with preflashed
+x-tay film. The identity of each PCR product was determined by expected
+size and by restriction digestion. Autoradiographic images were quanti-
+tated with a laser densitometer using volume integration as provided with
+ImageQuant software (Molecular Dynamics, Sunnyvale, CA).
+
+Nuclear extracts
+
+Nuclei were collected following hypotonic lysis and extracts prepared as
+previously described, using a buifer containing 430 mM NaCl, pH 7.9 (1, 3).
+
+Electrophoretic mobility shift assay
+
+TRE site (6’-TGACTCA-3’}-containing oligonucleotide was isolated
+from pBSKS plasmid generously provided by Dr. Daniel Nathans (The
+Johns Hopkins University, Baltimore, MD) and was end-labeled with
+[?P]dATP, purified, and used as a probe in EMSA, as described (1, 3).
+Binding reaction mixtures contained equal quantities of nuclear protein
+for all conditions, amounting to 1 zg each, along with 1 xg of poly(dI-
+dC) (Pharmacia Biotech Inc., Piscataway, NJ) and 10,000 cpm ?*P-la-
+beled oligonucteotide prabe in a total volume of 12 yi with a NaCl
+concentralion of 75 mM and pH 7.9. After 30 min at room temperature
+the reaction products were laaded on 5% native polyacrylamide gels (1.5
+mm) prepared in TBE buffer and electrophoresed for approximately 2 h
+{until xylene cyanol had migrated a distance of approximately 6 cm).
+Gels were dried and subjected to autoradiography. For immunoinhibition
+experiments, 0.5 jug of Jun-specific Ab or 0.1 yg of Fos-specific Ab was
+added to binding reaction mixtures 15 min before the addition of radio-
+labeled oligonucleotide probe.
+
+Western blotting
+
+Wester blotting was conducted essentially as previously described (32).
+In brief, nuclei were solubilized by boiling in 20 ul of 2X SDS gel
+loading buffer (33) for S min and then centrifuged at 14,000 rpm for 10
+min to remove debris. Supernatant material was size separated by SDS-
+PAGE on 10% gels (34). Prestained protein m.w. markers (Life Tech-
+nologies) were included in each gel. Proteins were transferred to Hy-
+bond-ECL nitrocellulose membranes (Amersham, Arlington Heights, IL)
+that were blocked and washed with 5% nonfat dried milk in TBS-T (20
+mM Tris base, pH 7,6, 137 mM NaCl, and 0.1% Tween-2{1) and TBS-T,
+respectively. Membranes were blotted with rabbit antisera specific for
+murine FosB residues 102 to 117 or human c-Fos residues 3 to 16 (Santa
+Cruz Biotechnology, Santa Cruz, CA) and washed again with TBS-T,
+after which bound primary Ab was detected by horseradish peroxidase-
+
+linked secondary anti-rabbit Ig Ab and enhanced chemiluminescence
+(Amersham).
+
+Reagents
+
+F(ab‘), fragmeats of GaMIgM were obtained from Jackson Immuno-
+Research Laboratories (West Grove, PA). Soluble CD40L was obtained
+as a fusion protein, consisting of the extracellular domains of CD40L and
+CD8q, secreted by stably transfected JSS8L.cells (developed by Dr. Peter
+Lane and colleagues and kindly provided by Dr. David Parker, University
+of Massachusetts Medical School, Worcester, MA) (35). Anti-CD8 was
+obtained from the 53-6-72 hybridoma cell line kindly provided by
+Dr. Parker. Supernatants containing CD40L and anti-CD8 were used at
+optimal concentrations (1:8 and 1:40, respectively) determined on the
+basis of prolifcrative assays (5). Supernatants were handled as previously
+described, which included dialysis against 25,000 m.w. cutoff dialysis
+tubing to remove any lower molecular size cytokines that might be
+present (5). Oligonucleotide primer pairs were obtained from Oligos Etc.
+(Wilsonville, OR). Anti-Jun family Ab and Abs specific for JunB and
+JunD were kindly provided by Dr. Rodrigo Bravo (Bristol Myers Squibb
+Pharmaceutical Research Institute, Princeton, NJ). Anti-Fos mAb 14C1
+was gencrously provided by Dr. Inder Verma (The Salk Institute, San
+Diego, CA) (36). The isotype-matched contro] mAb 31-64 has been
+described (37). PMA was obtained from Sigma Chemical Co.
+
+Results
+
+RT-PCR was used to elucidate induction of AP-1 compo-
+nents to avoid reliance on the properties of immunologic
+reagents that may not be completely specific, A series of
+primer pairs were constructed to amplify those jun and fos
+gene products for which murine sequences have been de-
+scribed. The specific primer sequences used, along with
+the corresponding amplification conditions, are provided
+for each transcript in Table I. PCR reactions were optimized,
+as described in Materials and Methods, such that increasing
+amounts of cDNA template yielded proportionately increas-
+ing amounts of specific PCR product (data not shown), Pri-
+mary B cells were purified and stimulated over a time course
+by anti-Ig Ab as F(ab’), fragments of GaMIgM or by soluble
+CD40L-CD8q fusion protein cross-linked with anti-CD8 Ab
+(CD46L), after which RNA was isolated and gene expression
+quantitated by RT-PCR.

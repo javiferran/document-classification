@@ -1,0 +1,50 @@
+The arrestance test involves a standardized synthetic dust consisting of
+various particle sizes which is fed into the filter and the weight fraction of
+the dust removed is determined. The synthetic dusts used are considerably
+coarser than typical atmospheric dusts in general and indoor air particulate
+in particular, Since most of the weight of dusts is in the larger particles,
+the arrestance values are usually high, but these values give no indication of
+the filter's capability to remove the smaller particles, In general,
+arrestance values are virtually useless in choosing the suitability of filters
+for indoor air. The alternative is the atmospheric dust spot test, where
+atmospheric test dust is passed into the filter and the discoloration effect
+of the cleaned air is compared with the incoming air. This test does include
+many of the smaller particles since, although they are small and light, these
+particles do still soil walls, etc. A disadvantage of this test exists due to
+the variability of atmospheric dusts, which may cause the same filter to yield
+different efficiencies at different times or locations. Even this atmospheric
+dust spot test is unreliable at the smaller particle size range, i.e., below
+1.0 microns in diameter. All the ASHRAE Atmospheric Dust Spot Test results
+give efficiency ratings that are representative of particles greater than 1.0
+micron. However, when the suitability of filters from a point of view of human
+health is considered the sub-micron size particles are of most concern since
+these are the ones that penetrate deep into the respiratory system and into
+the lungs. In general, the sum of all the particles of less than 3.5 microns
+in diameter is described as the Respirable Suspended Particulate (RSP),
+although most of these particles are less than 1 micron in diameter.
+
+In order to make assessments and encourage improvements of filtration
+systems from the standpoint of an indoor air quality practitioner, some means
+of comparing filters according te a nationally recognized test procedure that
+addresses respirable particles is needed. One possible solution to this
+requirement would be the development of a "standard indoor dust." HVAC
+filters could then be assessed by their ability to remove this dust from an
+airstream within their rated airflow capacity. Possibly, with the appropriate
+standard testing equipment, this dust could be used to test an entire
+filtration assembly in situ.
+
+CONCLUSIONS
+
+This study consisted of comprehensive evaluations of two identically
+sized, yet contrasting office buildings. Despite similar complaints of
+primarily upper respiratory problems in both buildings, air quality problems
+were traced to entirely different origins. This calls into question the
+usefulness of occupant questionnaires in such cases. The two buildings
+demonstrate markedly different filtration characteristics in particular, which
+highlights a need for a standard method of evaluation of in situ building
+filtration systems. A standard indoor air test dust is proposed as a start in
+developing such a method.
+
+12
+
+T10991-0511

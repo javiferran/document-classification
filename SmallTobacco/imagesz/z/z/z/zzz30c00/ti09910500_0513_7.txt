@@ -1,0 +1,57 @@
+Table III. Selected quantitative sampling results (continued).
+
+Type test Building A Building B
+Airborne microbes Qutdoors >1250 700
+(efu/m) Mean - Indoors 707 457
+Range 138->1250 185-816
+Standard deviation 499 153
+Fungal species Penicillium Aspergillus
+identified from Aspergillus Cladosporium
+surface and airborne Penicillium
+sampling Scopulariopsis
+Acremonium
+Candida
+Oospora
+Chrysosporium
+
+Miscellaneous gases (nitrogen dioxide, lower and higher range hydrocarbons,
+ozone, ammonia, and sulphur dioxide); nome of these were found above the
+detection limit of the method used and are, therefore, not included in this
+table.
+
+Key:
+
+ppm = parts per million
+
+ug/m? = micrograms per cubic meter
+
+cfu/m? = colony forming units per cubic meter
+
+ 
+
+In summary, this building reflected the age in which it was designed in
+that it was built long before the energy crisis which forced ventilation
+system designers to create more energy efficient systems, As a result, it is
+equipped with a large number of air handling units bringing in relatively high
+volumes of outside air, and expelling equally large volumes of air via a
+powerful exhaust system. This is reflected in the carbon dioxide measurements
+which indicate the building, overall, was well ventilated. The powerful
+exhaust system also appeared to be removing internally generated particulates
+which were not at excessive levels. The building, however, was fitted with a
+very poor filtration system, and as a result of this along with its age, the
+air handling systems were dirty. These high dirt loads subsequently gave rise
+to relatively high airborne microbe counts and the presence of some species of
+fungi which are known to cause allergenic reactions in sensitive individuals.
+Most other commonly found indoor pollutants, including carbon monoxide,
+environmental tobacco smoke, and oxides of nitrogen were found at low levels
+in most areas, primarily because of the satisfactory ventilation rates.
+
+Recommendations for improvements in this building included a substantial
+upgrade of the filtration system to at least filtering rated to 35% by
+ASHRAE's atmospheric dust spot test (ASHRAE 52-76);"3 cleaning work in each
+air handling unit, and FAIU repair and biocidal treatment of the condensate
+trays; decommissioning of the humidifier reservoirs during the humid east
+coast summer months; repair to loose internal insulation; and the treatment of
+cleaned surfaces with a broad spectrum biocidal spray.
+
+T10991-0507

@@ -1,0 +1,63 @@
+'R/GRANT NO, 2327M PROGRESS REPORT NO. 1
+Period Covered: from 1/1/89 to 5/15/89
+ame of Investigator: Joel P. Gallagher
+
+Title of Original Grant: Nicotine and Its Direct Inhibitory Action in the Rat Septal Nuclei
+
+Below are the four specific aims that were outlined to achieve the following overall objective, namely, to
+analyze in detail the membrane mechanisms by which nicotine activates a specific nicotinic receptor on septal
+neurons to yield inhibition.
+
+A) Since nicotine hyperpolarizes directly dorsolateral septal neurons, we need to determine: the
+characteristics of the receptor responsible; the ionic specics and channel to which this receptor is
+coupled; and whether nicotine may also alter ion channels localized within the postsynaptic membrane
+that are not coupled to this nicotinic receptor.
+
+B) We will determine how nicotine modulates synaptic transmission as recorded within our septal slice
+preparation, namely: 1) excitatory acid mediated excitatory transmission and 2) GABA mediated
+inhibitory transmission. These studies will include experiments to distinguish pre- and/or post-synaptic
+actions.
+
+C) We will determine how nicotine interacts with several substances that we or others have demonstrated
+have biological activity within the septum, These substances are endogenous transmitters or
+modulators, ¢.g., serotonin, norepinephrine, dopamine, somatostatin, etc.; or drugs, e.g., barbiturates,
+benzodiazepines, alcohol, etc.
+
+D) Finally, using freshly dissociated septal neurons with patch clamp methodology we will examine the
+specific channels opened by nicotine and determine which, if any second-messenger systems may be
+associated with CNS nicotinic receptor activation.
+
+mmary of results according to four specific aims stated above:
+@ 1. Nicotine hyperpolarizes DLSN neurons
+
+a. Receptor type - Non - skeletal muscle nicotinic receptor
+
+- somewhat sensitive to mecamylamine, but not sensitive to hexamethonium or d-tubocurarine
+
+- completely blocked by kappa-BGTX (neuronal bungarotoxin)
+
+b. Ionic species and channel coupled to CNS nicotinic receptor responsible for hyperpolarization.
+
+- K* - channel
+
+- Ca** - dependent, but does not require initial depolarization.
+
+. response blocked by intracellular injection of GTA, while hyperpolarizations resulting from
+application of serotonin, norepinephrine or dopamine persist.
+
+- response persists after pertussis toxin treatment which blocks GABA,-induced
+
+hyperpolarization.
+2. Nicotine can also depolarize these same neurons.
+a. Receptor type - different from hyperpolarization, since mecamylamine enhances depolarization.
+b. lonic Species - unknown, presently
+- depolarization associated with decreased conductance, maybe potassium
+ion,
+B, Nicotine alters synaptic transmission
+1, Nicotine primarily acts to depress late hyperpolarizing response (LHP) and then fast inhibitory
+postsynaptic potential (IPSP). There appears to be little effect on excitatory synaptic potential,
+but additional experimetns using both non-NMDA and NMDA antagonists are required.
+C, Nicotine interaction with other substances - to be done.
+N. Nicotine action on freshly dissociated neurons - to be done.
+
+esse see attached manuscript submitted to Nature and two abstracts.

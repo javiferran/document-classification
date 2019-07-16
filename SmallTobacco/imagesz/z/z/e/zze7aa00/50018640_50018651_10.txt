@@ -1,0 +1,46 @@
+€ cl
+
+Long-path infrared spectroscopy for air pollution research 195
+
+radiation which would photolyze nitrogen dioxide about half as fast as bright sunshine.
+When the interior of the cell was lined with aluminum foil, photolysis was faster than in
+sunlight. Originally these lamps were mounted along either side of the cell. It was found,
+however, that schlieren effects from the warm lamp surfaces caused intolerable fluctuations
+in the infrared beam. When the lamps were moved upward 45° around the cell body this
+problem was completely eliminated.
+
+Surface effects have not been a serious problem with these cells. Non-polar and unreactive
+materials such as aldehydes, alcohols, hydrocarbons, etc. will stay in the cell indefinitely.
+
+ke
+
+ 
+
+Acrolein, for example, was left over night in the cell at a concentration of 10 p.p.m. in air
+with no detectable loss. Under the best circumstances small concentrations of ozone are
+also stable in the cell. More polar and more reactive substances such as organic acids are
+subject to adsorption and desorption on the surfaces however.
+
+Acknowledgements—Several members of the Chemical Kinetics and Spectroscopy Section of the Franklin
+Institue Laboratories made important contributions to the design and construction of the long-path cells.
+These include Rachel Franklin, Luther Conant, Louis Herczeg, and Richard Cavaliere. Edwin Bailey of the
+Astronemy Department of the Franklin Institute made the mirrors.
+
+REFERENCES
+1. Hanst, P. L., E. R. STepHENs, and W. E. Scort, Proc. API 35, UII, 175-87 (1955). Reprinted in J. Air
+Poll. Cont. Assoc. 5, 219 (1956).
+. Scott, W. E., E. R. STEPHENS, P. L. Hanst, and R. C. Doerr, Further Developments in the Chemistry of
+the Armasphere, Proc. API 37, II, 171-83 (1957).
+
+3. STEPHENS, E. R., P. L. HAnst, R. C. Doerr, and W. E. Scott, Industr. Engng. Chem. (industr.) 48, 1498
+(1956).
+
+4. STEPHENS, E. R., W. E. Scort, P. L. Hanst, and R. C. Doerr, Recent Developments in the Study of the
+Organic Chemistry of the Atmosphere, Proc. API 36, III, 288-9 (1956), reprinted in J. Air Poll. Cont.
+-issec. 6, 159 (1956).
+
+5. Wuire, J. U., J. Opt. Soc. Amer. 32, 285 (1942).
+
+6. BERNSTEIN, H. J., and G. HERzBerG, J. Chem. Phys. 16, 30 (1948).
+
+tv

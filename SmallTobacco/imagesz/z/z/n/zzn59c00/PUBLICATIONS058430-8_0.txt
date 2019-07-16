@@ -1,0 +1,145 @@
+po Jou: oF SaoLocecal CHMEITET
+leeT py The Amareces Seneey tor Duechemuscry ant Malersinr Beaiegy. Lax
+
+bY ¢ 5 Wel 772, Ne 4d. Lages of Newwmbur 25. pe M0180
+Pras
+
+moda
+
+Overexpression of Cellular Src in Fibroblasts Enhances Endocytic
+Internalization of Epidermal Growth Factor Receptor*
+
+(Received for publication, March 3, 1997, and in rewped form, August 20, 1997"
+
+Margaret F. Waret, David A. Ticet, Sarah J. Parsonsl, and Dongiss A. Lauffenbergersi
+
+From the $Department of Chemical E)
+
+and Canter for Biomedical Ei
+
+, Momachusetts Inatitute of
+
+PETA
+Technology, Cambridge, Massachusetts G21S9 and \Depersment: of Microbiology and Cancer Canter, University of Virguua
+
+Health Scunces Censer, Charlottesville, Virginic 22903
+
+receptor (EGFR) in tumorigenesis. Aithough endocytic
+internalization of EGFR may be thought to attenuate
+EGF-stimulsted signaling, recent evidence sugyvets that
+signaling through Ras can be amplified by repeated en-
+counters of endosome-localized, receptor She-Grb3-Sos
+complexes with the plasms membrane, where Ras re-
+sides almost exclusively. Based on these reports, we a7:
+amined EGFR trafficking hehavior in a set of single and
+double ¢-BrevEGFR C3H101T% overaxpressors to dater-
+mine if e-Sre affects basal receptor half-life, ligand-in-
+duced internalization, and/or recycling. Our results
+show that overexpreasion of c-Sre causes Bo change in
+EGFR half-life but dose produce ap increase in the in-
+ternalization rate conetant of EGF-EGFR complexes
+when the endocytic apparatus is not stoichiometrically
+saturated; this effect of c-Src on EGFR endocytosis is
+negligible at high receptor occupancy in eells overez-
+preaming the receptor. in neither case are EGFR recycling
+
+functional role for oSre in receptor
+which in turn could alter some aspects of EGFR eignal-
+ing related to mitogenesis and tumorigenesis.
+
+OO
+
+The epidermal growth factor receptor (EGFR) is a 170-kDs
+transmembrane receptor tyrosine kinase that binds a number
+of related peptide growth factors, inchading epidermal growth
+factor (EGF) and transforming growth factor-a. Binding of
+ligand ts EGFR induces cransphoepborylation on several C-
+terminal tyrosyl reaidues, which upon phosphoryiation bind
+the SH2 domains of various signaling molecules, including Shc,
+Grb2, PLCy (1, 2), and Shp2 (3). Aasociation of these molecules
+with ths EGFR results in their activation, either vis changes in
+subcellular localization (thereby bringing them into jurtaposi-
+thon with their substrates) or by tyrosyl phosphorylation (in-
+ducing conformational changes and enzymatic activation).
+
+i
+* This work waa supported by Natonal Institutes of Health Grant
+CA8#213 and Nanonal Science Foundation Grant BES-9596153 ito
+D. A L) apd by National Inssmates of Health Grants CAS9438 and
+CAT1449 and Council fur Tobaces Research Grant 4621 (wo 8. 5. P.). Tha
+conus of publication of this arucle were defrayed in part by the payment
+of page charges. Thia article must therefore ba bereby marked “adver.
+omen ah accordance with 18 U.S.C. Secnon 1734 solely to indicate
+{To whom correspondence abould be addressed. Dept. of Chemica
+and Center for Biomedical Engineering, 56-341, MIT,
+Cambridge, MA 02139. TeL: 617-252-1629; Fax’ 617-258-0204.
++ The abbremauons osed are: EGFR. epidermal growth factor recep-
+tor; eSre. caller Sre, DMEM, Dulbeoco's modified Eagle's medium: IC,
+wternalzanen component
+
+This paper ia available on fine at hnpy/were ibeorg
+
+These activated molecules then initiate mgnaling cascades that
+culminate in @ varisty of responses. including cell divinon (4).
+EGFR has been linked to the process of oncogenens pa well
+as to normal mitogenesis. The chicken proto-oncogene for
+EGFR was one of the first cellular genes found to be transduced
+by a retrovirua and shown to function es an oncogene (see for
+example Ref, 5), Increased exprvssicn of EGFR is seen in many
+human tumors, including giioblasomas/nsuroblastomas and
+carcinomas of the breast, bladder. kidney, stomach. ovary,
+prostate, and lung (6-10), suggesting & vole for EGFR in the
+etiology of these diseases. In some experrmental eal! systems.
+i of EGFR by itself leads to malignant transfor.
+mation when celle are grown is the conminucus presence of EGF
+{1L, 12).
+
+Callular Sre (c-Sre) is a 60-kDa nonreceptor tyrosine Kinase,
+the first proto-oncogens identified is humans. Arole for ¢-Sre mn
+EGFR-mediated responses has been demonstrated by a pum-
+ber of studies. First, overexpression of wild-type ¢-Sre in
+C3H10TY murine Sbroblaswe expressing normal levels of re-
+eeptor (3-10 X iC” receptors/cell) potenhated £GF-directed
+maitogenesis, whereas overexpression of dominant negative
+variants of c-Sre not only ablated the enhanced mitogenic re-
+eponse but alac interferred with the endogenous reaponse (13,
+14), These findings indicated that ¢-Sre is required for EGF-
+induced mitogenemis, a conciumon wubwtantiated by Roche (15).
+In mubsequant rvudies, Mas et al. (16) reported that overexpres-
+aon of both e-Sre and EGFR in 10T% cells (1-3 x 10! receptors’
+cell} resulted in synergistic increases in EGF-dependent
+growth and tumor formation in nude mice.
+
+The mechaxusm(s) by which c-Src influences the biological
+action of the EGFR are not entirely elucidated, although sev-
+eral studies have provided clues to the problem. c-Src bas been
+found aasciated with EGFR in bream cancer call lines (17).* in
+Sbroblasta both c-Sre and the recaptor (16), and
+in A431 colle (19), In Sbrobiasts, this association is EGF-de-
+pendent and reqults in the appearance of two novel tyrosy!
+pbosphorytetions on the receptor and increased phosphoryla-
+tion of receptor substrates in vive (16). These findings wuggest
+that ¢-Sire potentiates the action of the EGFR by binding to it
+and inducing ita phosphorylation, resulting in bypersctivation
+of the receptor and enhanced downstream signaling. Several
+svadies have attempted to localize the site of ¢-Sre binding to
+the receptor, unng in vitro peptide competition approaches (17,
+BO, 21), Tyr-982 ws the most consisentiy poticed site, but other
+‘Tyr residues have also been implicated, suggesting that ¢-Gre
+mey bind muitple mtes. Acnvacon of eSre folowing EGF
+stimulation of Sbroblasts overerpreaning EGFR has also been
+reported (22, 23), suggesting that the two tyrosine nnases are
+capable of mutual) reguianon.
+
+Oe
+14S. Buscerdi, A P. Beiscbes, and 5. J. Parsons, suhmitiad for
+publicanon,
+
+30185
+
+ 
+
+PUBLICATIONS
+60163086
+
+058430

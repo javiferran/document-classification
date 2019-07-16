@@ -1,0 +1,30 @@
+less than 0.23. For the S-values we are using, CORR-r is -0.28 for males and -0.19
+for females. It therefore seems incredible that the true r-S correlation can be of the
+magnitude necessary to explain our discrepancy, even if coupled with a large error in
+the width of our distribution of S-values. We conclude that uncertainties in S-values
+are not @ major cause of our discrepancy.
+Confounding by SEV and factors that correlate with them
+
+If a particular socioeconomic variable (SEV) is an important confounding factor
+(CF), stratifying our data on it into subsets and analyzing each subset separately
+would greatly reduce the problem as all counties in a given subset would have
+approximately the same value of that SEV. The average of the B-values obtained from
+
+the various subsets would then give a value of B free from the effects of confounding.
+
+The data were stratified into five. quintiles of 1601/5 =320 counties on the
+
+basis of each of our 54 SEV in turn. This gave 540 subsets (including both sexes),
+and for all 540 of them, B was found to be negative. Thus, the negative slopes in Fig.
+‘1b, d are found if we consider only the most urban counties, or if we consider only
+the most rural; if we consider only the richest, or only the poorest; if we consider only
+those with the best medical care, or only those with the poorest medical care; ete for
+our 54 SEV. They are also found if we consider any of the strata in between.
+Following up on our method of averaging B-vaiues over the five quintiles to
+obtain B-values free of confounding gives, for our 54 SEV, results ranging between
+
+-5.6 and -7.7 for males, and between -5.4 and -9.1 for females, reasonably close to
+
+ 
+
+SZLZEVSZ0Z

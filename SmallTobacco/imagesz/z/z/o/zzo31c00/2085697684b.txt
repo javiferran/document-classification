@@ -1,0 +1,21 @@
+-— Original Message-----
+
+From: fdark3e, Robert
+
+Sent: Friday, February 02, 2001 6:55 PM
+To: Glover, Stephen
+
+Cer Daragan, Karen M.
+
+Subject: FW: YSP Literature Database Update
+
+| have created a folder in nydata\process$\Literature Database called "murphyvi". Please give this user (who Is a
+PMMC employee) the normal rights to the user folders here.
+
+Also, please give murphyv1 full rights to the top level of the ysp server, mirroring the access rights currently assigned
+to Paula Desel (deselp). Afterward, you can remove deselp's access rights completely.
+
+Karen: please click on "Reply All” and approve this access request for Ginny Murphy. Also please confirm that Paula
+Desel is no longer to have access to the YSP servers.
+
+APs9Lo9ssoc

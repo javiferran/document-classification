@@ -1,0 +1,42 @@
+INBIFO Institut fiir biologische Forschung GmbH - K6In
+
+Addendum to Report P 0500/3237
+
+PRIORITY
+Page 22
+
+ 
+
+ 
+
+STRAIN CIGARETTE A RELA- STAT.
+TIVE SIGN.
+CODE REGRESSION REGRESSION DIF-
+COEFFICIENT COEFFICIENT FER-
+ENCE
+(rev./ (rev./
+mg TPM) mg TPM)
+TAI537 1R4F 364 VIRGO-CA 32 “1.68 +++
+VIRGO-CC 38 +1.62 H+
+
+ 
+
+Table A21 STATISTICAL ANALYSIS OF THE SPECIFIC MUTAGENICITY OF TPM
+WITH S9 ACTIVATION, t-TEST
+
+Remarks: date of assay: 09-APR-97 (strain TA1537),
+specific mutagenicity (regression coefficient): calculated
+using Poisson weights, mean of 4 batches:
+relative difference: difference between the specific muta-
+genicity of cigarettes B and A divided by the
+mean of them;
+statistics: t-test modified according to Welch;
+null hypothesis: both means are equal
+
+ 
+
+970924 15:19:03 P. 1 USER_DISK:[IT_A_HITITPM2_3237.L1S;5
+
+ 
+
+PLLLLZp90z

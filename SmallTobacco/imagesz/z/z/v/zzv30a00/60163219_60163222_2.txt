@@ -1,0 +1,119 @@
+Medica! Sciences: Li es al.
+
+ 
+
+12345
+82- =
+29-
+
+ae:
+ears
+
+Fic. 1. Construction and expression of Qin chimeric proteins. (4)
+Schematic structures of Qin (vQ and cQ), reciprocal v-Qin-c-Qin
+recombinants, and Qin chimeras. v-Qin has an 6-as leader (black) at
+the N terminus and ss truncated at the C terminus. The winged helix
+domain of v-Qin (dark gray) differs from that of c-Qin (light gray) by
+an amino acid substitution (G — D). Diagonal shading: repressor
+domain of Engraiied. Wave shading: acuvator domain of VP16. (8)
+Western blot analysis. CEF transfected with RCAS (lane 2), RCAS-
+c-Qin-En (lane 3), RCAS-v-Qin-En (lane 4), and RCAS-v-Qin-VP16
+(lane 5) were tysed by boiling in 1X SDS containing sample buffer.
+Lysates were analyzed by SDS/PAGE followed by blotting onto
+nitrocellulose membranes, which were probed subsequently with a
+Qin-specific antibody at a dilution of 1:200 and alkaline phosphatase-
+conjugated anti-rabbit serum at a dilution of 1:2000. Mock-infected
+CEF (iane 1) were also inciuded. The moiecuiar weight markers are
+indicated on the left in kDa.
+
+ras was slower than with RCAS—v-Qin (4 weeks versus 2
+weeks), and focus titers were lower (20 foci/ug DNA of
+RCAS-¥-Qin-En versus 60 foci/0.1 ug DNA of RCAS-—v-Qin).
+As a negative control, a Qin-Ea chimera lacking the Qin
+DNA-binding domain was included in these assays but no foci
+were observed, suggesting that Cin-En caused oncogenesis
+specifically through Gap target genes (deta ent shown). CEF
+transfected with ether RCAS-»-Qin-VP16, RCAS-c-Qin-
+VP16, or RCAS aione did not develop foci. Nontransformed
+RCAS and RCAS-v-Qin-VP16 wansfected CEF were then
+transferred and were superinfected with the RCAS—v-Qin
+virus. This virus carried envelope proteins of subgroup B avian
+retroviruses and was therefore not excluded from the trans-
+fected cells which synthesized envelope protein of subgroup A.
+The RCAS-transfected cells developed foci of transformed
+cells in response to v-Qin. In contrast, the RCAS-v-Qio-VP16
+transfectants showed an about 10-fold reduced susceptibility to
+v-Qin-induced transformation (Table 1). This result suggests
+that the Qin-VP16 chimera can function as a transdominant
+negative mutant of Qin.
+
+CEF transfected with the fusion constructs were studied by
+immunofluorescence with a polyclonal antibody against intact
+c-Qin (Fig. 38). CEF transformed by RCAS~v-Qin-En showed
+an elongated spindle shape and relatively small cell body. In
+contrast, CEF producing RCAS—~v-Qin-VP16 were polygonal
+and flat, with an enlarged cell body. RCAS—c-Qin-En and
+RCAS-c-Qin-VP16 induced the corresponding changes in
+CEF (data not shown), and all fusion proteins were localized
+in the nucieus.
+
+PUBLICATIONS
+
+ 
+
+Proc. Natl. Acad Sci. USA 94 11997" 108s"
+
+A 1234
+
+A.
+
+OBKIRSV vO wO-En wO-VPIE
+
+Fic. 2. DNA binding and cranseripuonal regulatory activities of
+Qin chimeras. (A) Electrophoretic mobility shift assay of fusion
+proteins transiated in vitro in wheat germ lysates. Each of the transiated
+proteins binds to the jabeled B2 oligonucleotide probe containing the
+Oin-binding sequence (2). Lanes: 1, c-Qin; 2, ¢-Qin-En: 3, ¢-Qin-
+VP16, 4, vector control. (8) Luciferase assays from cotransfection
+experiments performed in CEF using reporter plasmid péBClue (2)
+and the individual fusion proteins expressed with the pBK/RSV
+vector. In each transfection mixture, the amount of expression plasmid
+was 2 yg per plate, and the reporter plasmid was kept at L wg per plate.
+
+To test for oncogenicity in vivo, CEF transfected with the
+chimeric RCAS constructs and releasing the corresponding
+infectious RCAS virus were injected subcutaneously into the
+wing web of newly hatched chickens. All chickens that received
+the control construct RCAS-v-Qin came down with sarcomas
+at the site of injection within two weeks. Four out of six
+chickens injected with the Qin-En chimeras also developed
+tumors but only after a 4- to 5-week latent period. In contrast,
+none of six animals injected with Oin-VP16 showed a tumor
+even after eight weeks. These results demonstrate that Qin-En
+constructs are oncogenic, albeit less so than v-Qin, and Qin-
+VP16 chimeras lack detectable oncogenic potential.
+
+DISCUSSION
+
+Transcriptional repression by the Qin oncoprotein is corre-
+lated with oncogenic potential. This fact suggests that repres-
+sion plays a role in neoplastic transformation and that Qin-
+induced oncogenesis may result from aberrant repression of
+specific genes. One would expect that these genes are negative
+growth reguiators; they may normally function as tumor
+suppressors, and their down-regulation may cause uncon-
+trolled growth. Identification and isolation of direct Qin target
+genes that are differentially reguiated in Qin-transformed cells
+are now important tasks. This search may lead to the discovery
+of new tumor suppressor genes. Target identification has
+
+‘become the central problem for the understanding of all
+
+oncogenic transcription factors. If tne number of relevant
+targets is smal, « may be possible to induce the oncogenic
+cellular phenotype using other means of target gene regula-
+tion; in the case of the transcriptional repressor Qin, these may
+be transdominant negatives or antisense technology applied to
+the targets.
+
+058565

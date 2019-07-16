@@ -1,0 +1,120 @@
+var A
+
+"ay [pmol/min/mg)"*
+
+ 
+
+“imes) eM”
+
+Fig. 4 Determunation of the K,, for methionmne of S-adeno-
+syimetuonine synthetase mi transformed cell lines denved from
+human cheek. Dialyzed cviosolic extracts were prepared and
+assayed for 15 mun in 33-320 pM methionine The amount of
+proven assayed was 38 wg for the methronine-dependent parent
+(P1) and 32 pg for the methionine-ndependent reveriamt (RJ).
+Data are presented as a Lineweaver-Burk plo. The sohd hne
+for the P) extract 13 drawn for a K,, of 52M anda V,,,, of
+47.6 pmol /mun pet mg protein, the sold line for the R1 extract
+1s drawn for a K,, of 95 uM and a M,,, of 90.0 pmol/mn per
+mg proten
+
+pendent cells had generally comparable specific
+activities. For example, extracts of PI cells
+{methionine-dependent) did have a lower value of
+Vas than the extract of the revertant methionine-
+independent Ri cells denved from Pl. but even
+the lower value was greater than that of the
+methionine-independent WI-38 cells. For both the
+tat ceil lines and the PS/R5 human cell lines, there
+was no significant difference in the values of V.,,
+for methionine-dependent and independent cells.
+Thus, it does not appear that methionine-depen-
+dent cclls have less S-adenosylmethionine syn-
+thetase activity than their methionine-independent
+counterparts.
+
+In all of these kinetic experiments, data ob-
+tained at methionine concentrations of 1-1000
+»M were consistent with a single K,, value for
+methionine which ranged from 3-12 «M. There
+were no significant differences in the K,, values
+for extracts of methicnine-dependent and methio-
+nine-ndependent cell lines derived from either rat
+or human tissues (Table IND. Thus. one cannot
+explain the failure of the transformed cell lines to
+grow in Met’ Hcy’ medium in terms of a K,,
+defect of the S-adenosylmethionine synthetase.
+
+PUBL ICATIONS
+
+10335940
+
+ 
+
+ 
+
+275
+
+TABLE 1V
+
+PRODUCT INHIBITION BY 5-ADENOSYLMETHIONINE
+(SAM) OF 5-ADENOSYLMETHIONINE SYNTHETASE
+ACTIVITY IN EXTRACTS OF METHIONINE-DEPEN-
+DENT (PS) AND METHIONINE-INDEPENDENT (R35)
+CELLS
+
+ 
+
+ 
+
+Methiorune 5-Adenosy methionine synthetase activity
+
+Concentration ¢ of control value without SAM) ,
+
+in Assay PS cen extract RS cell extract
+
+(uMy ere Eee
+104M 20 pM 104M =. 20M
+SAM SAM 5AM SAM
+363 170 320 72
+
+21 494 303 173 86
+
+56 - 11 325 166
+
+Reguianon of S-adenosyimethionine synthetase ac-
+teity by product inhibition
+
+tt has been shown that S-adenosylmethionine
+levels in human erythrocytes are likely to be con-
+trolled by feedback inhibition of 5-adeno-
+sylmethionine synthetase, where a K, of about 2
+p»M for S-adenosylmethionine was measured [16].
+The results shown in Table IV demonstrate that
+the S-adenosylmethionine synthetase in cultured
+cells is also highly inhibited by low concenirations
+of the product. There was only a small difference
+in the extent of feedback inhibition by S-adeno-
+sylmethionine measured between extracts of
+methionine-dependent and methionine-indepen-
+dent cells and this difference cannot explain the
+altered $-adenosylmethionine levels in these cells
+{4.7]. It is important to note that the kinetic assays
+previously described in Table HE were performed
+under conditions where no significant product
+inhibition would be obtained.
+
+Discussion
+
+Human and rat ceil lines appear to contain a single
+cytosolic S-adenosyimethionine synthetase
+
+The results shown here indicate thal S-adeno-
+sylmethonine is synthesized in cultured cells by an
+enzyme located primarily in the cytosol which
+displays a K,, for methionine of 3-12 pM. No
+evidence was obtained for the presence of multiple
+enzymes with different kinetic properties suc’ as
+those found in normal liver or hepatic tumor tissue
+
+016902

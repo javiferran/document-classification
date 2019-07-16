@@ -1,0 +1,61 @@
+D TABLE III. RECGMMENDED PRODUCTS TO BE TESTED THROUGH
+
+M/A/R/C
+
+Improved WINSTON
+King Product 43
+
+Variable Potential Area 4
+Burley (%) 22.0
+Five-Cured (%) 38.0
+
+Total G-7 (%) 25.0
+
+Ratio G7A:G7 60:40
+Licorice 1.33
+
+Filter Pressure Drop 2.5
+
+(in.)
+Paper Porosity (sec.) 13.4
+
+Potential
+
+__Area 1_
+
+22.5
+40.0
+22.5
+
+83:17
+
+2.21
+
+15.0*
+
+Potential
+
+' Area 2
+
+18.6
+38.9
+27.5
+20:80
+
+1.66
+
+15.0*
+
+* While the RSM results indicate that a paper porosity of 15
+seconds would not achieve preference results as good as 13,4
+seconds, we are recommending a 15 second paper porosity be
+used only because we have been informed by Tobacco Development
+that the 13.4 second paper is not commercially available. Product
+43 is currently being tested through M/A/R/C with the 15 second
+
+paper porosity.
+
+JRM:dmb
+6/15/78
+
+Z60h GLLOS

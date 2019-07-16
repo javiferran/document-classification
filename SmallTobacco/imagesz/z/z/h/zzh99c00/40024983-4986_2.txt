@@ -1,0 +1,158 @@
+3606 Biochemistry: Goodrich and Duesberg
+
+determine the efficiency with which Harvey proviruses with
+a nonviral 3’ terminus may acquire an authentic retroviral
+terminus fram a helper virus by homologous recombinatton,
+we studied Harvey proviruses that carried defined sequences
+homologous to MoV 3° of their selectable. transforming ras
+genes. The Harvey proviruses pH1/RSNheH and pRSVH
+each carried a 1.2-kb Neo I-resistant restriction fragment of
+the Moloney proviral eny gene, which had been inserted 3° of
+their ras genes. The Harvey constructs pRSVABES and
+pRSWAH contained 512 and 32 bases, respectively, of the env
+gene of MoV. Each of these proviral plasmids also lacked the
+§-most 215 nucleotides of the 5° LTR, up to the 3’-mast
+EcoRV site of the U3 region (15), and all retroviral sequences
+¥ of the added env region (Fig. 1). Plasmids pRSVH,
+pRSWAH, and pRSWABH differed from pHI/RSNhel Lin that
+a 1.i-kb DNA region that included the presumed RNA
+packaging site (W) of Harvey virus was replaced by the
+equivalent from Moloney proviral DNA (14-16). These pack-
+aging variants were constructed to avoid a possible bias of
+helper MoV against packaging HaSV RNA and hence against
+RNA-mediated recombination.
+
+Three days after superinfection with Mo¥, clonal cultures
+of 3T3 cells transformed by Harvey proviruses pH] /RSNheH
+and pRSWH, which contained 1.2 kb of the MoV env gene,
+generated HaSV at 3 + 1.6 x 10* ffu/ml and MoV at 10°10”
+pfu/ml. The Harvey clone with 512 bases of the MoV env
+gene, pRSYABH, gave rise to HaSV at 6.4 + 5 10° fru/mi,
+and the Harvey clone with 32 bases of the MoV env genc,
+pRSWAH, generated 1.6 + 0:8 x 10? flu of HaSV per 10°10
+pfu of MoV (Fig. 1).
+
+We also tested HaSV regeneration by recombination be-
+tween MoV and Harvey proviruses lacking retroviral 3°
+termini but carrying env regions derived from the AKR and
+NZB murine retroviruses (15, 17, 18) 3’ of ras (Fig. 1). The
+env sequences from these viruses are about 50% related to
+MoV (15, 17, 18). The Harvey provirus with a 610-base Rel
+ILresistant fragment from the env gene of AKR virus,
+pRSYAKR, generated 1.9 x 10° ffu of HaSV per 10*-10" pfu
+of MoV. Similarly, a Harvey provirus with a 636-base Bg!
+H-EcoRV fragment from the env gene of NZB virus,
+pRSYNZB, generated 1.3 x 10? flu of HaS¥ per 10°10" pfu
+of MoV (Fig. 1).
+
+It follows that efficient, homologous recombination had
+occurred between HaS¥ and MoV and that the efficiency of
+recombination was proportional to the extent of sequence
+homology between the respective HaSV construct and MoV.
+
+The Harvey proviruses that differed only with regard (o the
+MoV versus the HaSV origin of the RNA packaging sites,
+pH1/RSNheH and pRSWH, generated virtually identical
+yields of recombinants, namely, 3 + 1.6 versus 4,743.1
+104 ffu/mil (Fig. 1). This result indicated that the helper MoV
+did not discriminate between HaSV RNAs on the basis of
+these different packaging sites.
+
+Mechanism of Homologous Recombination. The homolo-
+gous recombination observed here could occur at three
+distinct stages after infection: (a) between the input Harvey
+provirus and unintegrated or integrated Moloney provirus,
+(6) between two viral RNAs generating a recombinant CONA
+during reverse transcription in a newly infected cell, or (c)
+between secondary proviruses generated in newly infected
+cells. Three groups of experiments were carried out to
+distinguish between these alternatives.
+
+() Since the removal of homology by splicing would lower
+the probability of recombination between viral RNAs or
+between DNAs transcribed from viral RNA, but not that
+between input DNAS, two Harvey proviruses were compared
+that differed only in the presence of splice signals flanking an
+otherwise identical MoY-derived env sequence. pRSNSH
+and pRSNASA (Fig. 1). Recombinant HaSV at about 3.3 x
+10° ffu/ml was obtained from the provirus with a spliceable
+
+40024985
+
+Proce, Natl. Acad. Sci. USA 87 (1990)
+
+cay region, compared to 3.9 x Lot ftu/ml from the presirus
+without two splice signals (Fig. 1). ‘Thus, HaS¥ regeneration
+was decreased about 10-fold, probably by a 90% efficient
+removal of the eas sequences from pRSNSH by splicing
+HaSV regenerated from pRSNSH stil contained the car
+region {data not shown), indicating that these viruses aruse
+from unspliced RNA. Indeed, splicing from cay splice signals
+was expected to be leaky, as in natural provirus transcription
+(15). It appears that homologous recombination ia our system
+occurred after provirus transcription.
+
+Gi) 1f homologous recombination occurred between the
+comman env regions af the input Harvey provirus e.g.
+pR5SWH) and Moloney provirus, recombinant proviruses and
+viral RNAS of about 3.9 kb would be capecied in provirus
+transfected cells after superinfection with MoV. The 3.9-kb
+size is the sum of the HaS¥-specific region and the MoV-
+specific region that lie 5’ and 3’, respectively, of their common
+envy homology (Fig. 1). To lest for such a recon:binant provirus
+the DNA from cells transformed by pRSW EH and superinfected
+with Mo¥ was digested with restriction enzymes Hind IIL and
+Cla 1 to generate a recombinant-specific 2.4-kb DNA fragment
+from the predicted 3,9-kb recombinant provirus (Fig. 1). Afler
+electrophoresis in 1% agarose the DNA was blotted onto
+fitrocellulose and hybridized with a 1.3-kb BamHI and NAc
+Lresistant HaSV ras-specific [?PJDNA (see pHI/RSNhell,
+Fig. 1) according to published procedures (22). Consistent with
+the splicing experimemt described above, no recombinant:
+specific 2.4-kb DNA was found in such cell DNA under
+hybridization conditions that detect single-copy genes in mam-
+malian cells—namely, hybridization of 5 yg of cell DNA with
+10* cpm of ras-specific [2P]DNA of >10* cpm/ug (Fig. 24.
+lane 1).
+
+Instead, ras-containing pRSVH DNA fragments of unpre-
+dictable sizes Were present in well over two copies per cell,
+based on comparison to a probable prow-ras restriction
+fragment of about 5 kh (see below). Their concentration atsa
+exceeded the concentration of the Harvey proviral DNAs
+found in virus-infected cells (Fig. 2A, lane 2). As expected
+from the transformed phenotype of these cells, the ras gene
+of pRSWH was intact, generating a L.i-kKb fil Lf-resistant
+fragment (Fig. 2A, lane 1) that initiated in pBR322 just 5’ of
+the EcoRV site of the truncated LTR and terminated at the
+Hind site of ras (Fig. 1).
+
+Further, we tested whether 3.9-kb recombinant HaS¥
+RNA was detectable in virus released by pravirus-trans-
+formed cells superinfected with MoV, The viral RNAs were
+prepared from virus harvested at 12-hr intervals to avo
+thermal degradation (23). Despite these precautions agains!
+degradation, heterogeneous HaSV KNAS af >9 to <2 kb
+were observed in virus from pRSWH-transformed 373 cells
+superinfected with MoV (Fig. 2#, lane 1). The heterogencity
+of this RNA is probably genuine, because in the absence of
+an authentic 3° termiqus the RNAs from the truncated
+Harvey proviruses terminate at nonspecific sites in plasmid
+orcellular DNA sequences. Clearly this experiment does not
+exclude a small amount of 3.9-kb recombinant RNA obscured
+by the high background of heterogeneous HaSV RNAs.
+
+Since the probability of HaSV recombination was reduced
+by climination of homology with MoV through splicing and
+since no recombinant HaSV DNA or RNA was found in
+provirus-transformed cells, we conclude that there is no
+detectable homologous recombination between truncated
+input Harvey proviruses and MoV.
+
+(iii) If recombination in our system occurred during or after
+reverse transcription, cells infected and transformed with
+virus released from pR5‘VH-transformed and MoV-infected
+cells, termed RSWH 1° virus, would be expected to contain
+3.9-kb recombinant proviral DNA and to release virus with
+3.9-kb recombinant RNA. As shown in Fig. 2A, lane 2, a
+Hindt/Cla 1 digest of the DNA from RSYH 1° virus-

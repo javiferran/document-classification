@@ -1,0 +1,135 @@
+homodimers form a stable component of the cytoskeleton
+after entry. To examine this question, cross-linked tropomyo-
+sins in CSK of WS1, 3T3/S2, and DT/S4 cells were analyzed
+after pulse-chase radiolabeling and radioactivity in the tropo-
+myosin bands was quantified (Table 1, cytoskeleton). WS1
+cells were used to represent normal cells to avoid the compli-
+cations arising from the large production of cross-linking 1:2
+dimers in NIH3T3 cells. The pulse-labeled sample confirms
+the findings of Fig. 6, showing that newly synthesized homo-
+dimers enter the cytoskeleton approximately in proportion to
+their representation in the whole-cell pool.
+
+Following a 36-h chase incubation, the amount of total
+tropomyosin-1 remaining in the cytoskeleton as homodimer
+in WS1 decreased to a level typical of the homodimer
+content of normal fibroblasts (7.6%), whereas in 3T3/S2
+cells the homodimer level remained at three times that value.
+This indicates, firstly, that tropomyosin which originally
+entered the cytoskeleton as homodimer is gradually replaced
+by heterodimers, consistent with chain exchange on equili-
+bration, and secondly, that elevated levels of tropomyosin-1
+homodimers are retained in the cytoskeleton under condi-
+tions of excess tropomyosin-1 production. This result was
+confirmed by examining cytoskeletal tropomyosin dimers af-
+ter labeling WS1 and 3T3/S2 cells to steady-state (Table 1).
+The steady state level of cytoskeletal homodimers was higher
+in both cases than the level after pulse-chase, which can be
+accounted for by continued entry of newly synthesized mate-
+rial reflecting the pulse-labeled proportion. The steady-state
+level of cytoskeletal tropomyosin-1 homodimer in 3T3/S2
+cells remained at three times the normal level.
+
+In DT/S4 cells, the level of cytoskeletal homodimer de-
+creased to a surprising degree after the chase, considering the
+very low level of tropomyosin-2 available for chain exchange
+(Table 1). It is possible that this reflects a preferential insta-
+bility of portions of actin microfilaments containing high
+levels of homodimer under conditions of ras-p21 expression,
+with preferential retention of the small numbers of filaments
+containing heterodimers.
+
+DISCUSSION
+
+We have investigated tropomyosin-1 metabolism in nor-
+mal and oncogene-transformed fibroblasts, and in cell lines
+derived by transducing tropomyosin-1-encoding cDNA into
+both types of cells. Our results demonstrate that the expres-
+sion of tropomyosin-1 can be stably enhanced in both normal
+and oncogene-transformed murine fibroblasts by means of
+retroviral mediated cDNA transfer. In the case of transformed
+cells, where the level of native tropomyosin-1 expression was
+reduced by 50% as a consequence of oncogene action, ex-
+pression of the transduced cDNA restores tropomyosin-1
+production to well above normal levels. Not unexpectedly,
+the suppressive effect of ras-oncogene action on native tro-
+pomyosin-1 production does not affect the alien cytomegalo-
+virus promoter which drives expression of the inserted tropo-
+myosin-1 cDNA.
+
+Although native tropomyosin-1 expression is reduced by
+only 50% in the transformed cells, its utilization in the cy-
+toskeleton was reduced to a much greater extent, compared
+with normal NIH3T3 cells. The high level of expression of
+transduced tropomyosin-1 resulted in a considerable increase
+in tropomyosin-1 utilization in the cytoskeleton of trans-
+formed cells, but this still did not reach normal levels. These
+findings may be due to specific effects of oncogene action
+
+on tropomyosin utilization in the cytoskeleton (Cooper et al.,
+1987) which persist under conditions of excess tropomyosin-
+1 production. Alternatively, the effect on utilization of excess
+tropomyosin-1 may be a consequence of the fact that nearly
+all the insert-derived tropomyosin-1 was present as a homo-
+dimer due to the extreme suppression of its potential hetero-
+dimeric partner, tropomyosin-2, by oncogene action. Homo-
+dimers are reported to associate less efficiently than hetero-
+dimers with actin microfilaments (Jancso and Graceffa,
+1991). Nevertheless, as we have shown elsewhere (Prasad
+and Cooper, 1992, Prasad et al., 1993), this modest degree
+of elevation of tropomyosin-1 representation in the cytoskel-
+eton still correlates with effective suppression of the trans-
+formed phenotype and partial restoration of cytoskeletal ar-
+chitecture. This study provides the biochemical evidence that
+the enhanced tropomyosin-1 synthesis is reflected in the ele-
+vated tropomyosin-1 content in the cytoskeleton, as evi-
+denced by immunofluorescence experiments in DT/S clones
+(Prasad et al., 1993).
+
+Tropomyosin dimerization in the fibroblasts was origi-
+nally studied by Lin et al. (1985) and Matsumura and Ya-
+mashiro-Matsumura (1985) who reported the occurrence of
+tropomyosin-1 and other isoforms of tropomyosin, with the
+exception of tropomyosin-2, as homodimers. Matsumura and
+Yamashiro-Matsumura (1985) have suggested that all iso-
+forms of tropomyosin, except tropomyosin-3, are present as
+homodimers either as isolated proteins or in the microfila-
+ment-associated state; no quantitative data were provided in
+these studies. This is in contradiction to several reports
+(Sanders et al., 1986; Lehrer et al, 1989; Jancso and
+Graceffa, 1991) which have shown that heterodimers of tro-
+pomyosin are the physiologically preferred structures in the
+actin microfilaments. Our studies of tropomyosin dimers in
+normal fibroblasts revealed that a high proportion of newly
+synthesized, tropomyosin-1 forms homodimers, but that on
+prolonged equilibration these are replaced by heterodimers,
+presumably through chain exchange. Our studies confirm
+that this mechanism, originally described in cell-free systems
+(Lehrer and Qian, 1990; Lehrer and Stafford, 1991) operates
+in vivo. As in previously reported studies with smooth and
+skeletal muscle (Sanders et al., 1986; Lehrer et al., 1989;
+Jancso and Graceffa, 1991), fibroblasts maintain only a small
+proportion of their native high-M, tropomyosins as homodi-
+mers.
+
+Under the conditions of excess tropomyosin-1 expression
+produced by cDNA insertion, the excess tropomyosin-1 is
+produced largely as tropomyosin-1 homodimer in both nor-
+mal and transformed cells, and this homodimer is utilized in
+the formation of cytoskeletal structures. In non-transformed
+cells overexpressing tropomyosin-1, although the homadi-
+mers were partially replaced by heterodimers over time, the
+level of homodimer in the cytoskeleton remained about three
+times that found in control fibroblasts. These conclusions are
+based on measurements of tropomyosin-1 homodimers under
+a variety of cell-labeling conditions. Absolute quantification
+of tropomyosin-1 and tropomyosin-2 heterodimers was not
+possible by diagonal gel analysis; the heterodimers which
+are not cross-linked by NbS, dissociate in the presence of
+SDS employed in the first dimension of the diagonal PAGE.
+Our efforts to resolve the various dimers under conventional
+non-denaturing PAGE have not been successful. An alternate
+explanation for diminished homodimers in the cytoskeleton
+during pulse-chase experiments (Table 1) is that the homodi-
+mers of tropomyosin-1 may be more susceptible to proteo-
+lytic degradation than the heterodimers of isoforms 1 and 2.

@@ -1,0 +1,177 @@
+Cis
+
+i
+¢
+¢
+
+the Cs'/K* permeability ratio, which is an expression of
+the differences only in the peak energies (Hille, 1975a;
+Coronado et al., 1980), is close to unity. Thus, the Cs* peak
+energies Cannot be much larger than those for K*.
+
+The Cs* conduction pathway is clearly asymmetric, as
+shown both by the sidedness of Cs* blocking action and the
+“¥ curve rectification in symmetrical Cs*. These charac-
+soristics imply that the cfs-facing Cs* binding site is
+substantially deeper than the trans-facing site and that the
+barrier for Cs* leaving this site towards the cis side is
+smaller than that for leaving the site toward the trans side.
+Qualitatively, then, we conclude that the Cs* conduction
+profile displays a cis-facing well that is deeper than the
+trans-facing well by 3-4 RT, and deeper by the same
+amount than the corresponding wells for K'; the peak
+energics for Cs* are about the same as for K*.
+
+We can refine the gross features of this model by using
+the free energy profiles of K* and Cs* to fit all the data
+presented here. We take the rate constant, 4, over each
+barrier of energy AG* to be given by:
+
+k, = vexp (-AG#/RT). )
+
+The six linear flux equations (three each for K* and Cs*)
+may then be salved for the currents as a function of voltage,
+by a method described previously (Begenisich and Caha-
+lan, 1980). In the treatment here, the preexponential
+factor, », is entirely arbitrary as long as it is kept the same
+for both ions; we assign it a value of kKT/A (equivalent to
+~10% pA), to be consistent with przvious work on this
+channel (Coronado et al., 1980). We have used this
+approach to model ionic conduction under symmetrical
+(Fig. 2), biionic (Fig. 3), and mixed ionic (Fig. 4) condi-
+tions and have adjusted parameters to achieve satisfactory
+fits fo all the data (solid curves in all figures). Fig. 5
+displavs our final free energy profiles, and Table [ reports
+values of the parameters used in these profiles.
+
+The remarkable conclusion of Fig. 5 is that the profiles
+for both Cs* and K* are very nearly the same, except for a
+single feature: the deep cis-facing well for Cs*, positioned
+at an electrical distance of *).38 (Le., 38% of the way down
+
+ 
+
+TABLE I
+SYMMETRICALLY PLACED
+THREE-BARRIER MODEL
+
+ 
+
+4 Energy [K*] Energy [Cs*]
+Ol 7.0 G2
+0.4 27 5.6
+0.5 8.1 89
+0.6 -2.7 ~-2.3*
+0.9 7.0 6.0
+
+ 
+
+Parameters for free energy profiles depicted in Fig. 5. The table reports
+the free energy values {in RT units) at the given electrical distance, 6, for
+K* and Cs*. Asterisk marks parameter that can be varied up to 1 RT unit
+without affecting fits to the data, Solid curves in Figs. 2. 3, and 4 are
+drawn according to this model.
+
+CUKIERMAN ETAL.
+
+The K* Channel of Sarcoplasmie Reticulum
+
+ 
+
+the voltage drop fram the cis side). The position of this well
+is very tightly determined by the Cs* blocking data (Fig.
+5); we cannot fit the voltage dependence of Cs* block
+without assuming that this site is located between 0.34 and
+0.40 electrical distance. The depth of this well almost
+wholly accourts for the 15~20-fold difference in Cs* vs.
+K* conductance, while the slightly higher central peak
+accounts for the Cs* rectification (Fig. 2). This well depth
+is not subject ic much variation, given the constraints of
+our data. If it were shallower, the Cs* dissociation constant
+would be too large, and we would observe /-V curves that
+vary with Cs” concentration; the lack of such variation
+(Fig. 2) means that the well depth must be below —5.3 RT.
+However, the well cannal be deeper than --6 RT, or else
+the Cs* conductance at zero voltage would be much lawer
+than is actually measured.
+
+The Cs* dissociacion constant predicted from this free
+energy profile is 3.5 mM. This value is too low for us to
+observe directly as a variation of Cs* conductance with
+concentration, since it is very difficult to obtain channel
+fluctuations at salt concentrations lower than 15 mM. But
+we can estimate this value independently, assuming that
+this is a sing’e-ion channel in which the peak-height
+differences between K‘ and Cs* are not large. In this case,
+it can be shown {Coronado et al., 1980) that:
+
+  
+
+ 
+
+  
+ 
+  
+ 
+
+ 
+
+  
+
+  
+   
+
+Ro = Kgl yee eye") [Pad Pos. (3}
+
+     
+
+All the parame:ers on the right side of Eq. 3 are known
+(Kx = S4mM: y 2" = 240 pS; ve" = 15 pS; Po / Py = 0.67)
+from this and ether work (Coronado et al., 1980). The
+calculated value of Kc, is § mM, in good agreement with
+3.5 mM eslimated from the free energy profile fits.
+
+As with the Cs* well depth and position, most of the
+parameters in lnc permeation profile are closely deter-
+mined by the cata, With his three-barrier model, the
+trans-facing we!l must be symmetrically positioned, i-e., at
+0.6 electrical dis-ance, since the J-V curves for symmetrical
+K" are nearly Encar up to 100 mV of either polarity
+(Coronado et al.. 1980). Similarly, variations in the central
+and cis-facing peaks for Cs* Jead to serious departures of
+the calculated /-V curves from the data. Only the trans-
+facing Cs* peak is not well determined by the data; it
+Cannot be mace higher without compromising the -V
+Curves, but it could be made lower.
+
+ 
+
+ 
+  
+ 
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+Pore Structure and a More Realistic
+Energy Profile
+
+ 
+
+On the basis of previous work, we now have a self-
+consistent picture of the permeation pathway of the SR K*
+channel (reviewed by Miller et al., 1984). The entire free
+energy profile is viewed as packed itito a short tunnel about
+1 nm in length, as in Fig. 6. This tunnel is, for most of its
+length, ~0.8 nm in diameter, but at a point 35-40% of the
+way down the voltage drop, the tunnel narrows to 0.40.5
+nm in width. Unfortunately, the three-barrier free energy
+
+481

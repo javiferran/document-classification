@@ -1,0 +1,143 @@
+Expression of a Foreign Gene by Influenza Virus
+1109
+
+Digested DNA
+
+\- polymerase
+
+RNA transcript
+
+ove polymerase
+
+reconstituted RNP
+
+fo
+
+ANP transfection
+
+| AIWSN/33-— virus
+
+virus infection
+
+w™.
+
+cells supernatant
+assay CAT intect cells
+activity |
+assay CAT
+activily
+
+Figure 3. Schematic of the ANP Transfection and Passaging Experi-
+ments
+
+To determine whether the minus-sense IVACAT1 RNA
+could be amplified and transcribed in vivo, 293 cells were
+transfected with RNP, infected with virus 1 hr later, and
+harvested at various times postinfection (p.i.). Figure 44
+shows that at early times after infection only background
+levels of CAT activity were detected (lanes 5, 7, and 9).
+However, significant levels of CAT activity appeared 8.5 hr
+p.i. (Figure 4A, lane 11). A similar level of CAT activity was
+detected 2 hr later (Figure 4A, lane 13). There were back-
+ground levels of CAT activity in the mock-transfected cells
+at any time point (lanes 6, 8, 10, 12, and 14) and in control
+cells not infected with AAWSN/33 virus (lanes 1~4).
+
+It was then tested whether preincubation of RNA and
+polymerase complex was necessary for successful RNP
+transfection. As can be seen in Figure 48, lanes 2 and 3,
+preincubation might actually cause a decrease in CAT ac-
+tivity, presumably due to RNA degradation during prein-
+cubation. In another control experiment, infection by helper
+virus of RNP-transfected cells was omitted (Figure 4B,
+lanes 4 and 5). These helper virus proteins may include
+the nonstructurat NS1 and NS2 proteins and/or different
+forms of the polymerase complex necessary at different
+times during the course of infection. Since these lanes
+show no CAT activity, we conciude that the IVACAT1 RNA
+is amplified specifically by the protein machinery supplied
+by the helper virus. In an additional control experiment,
+naked RNA was transfected into cells that were subse-
+quently helper-infected or mock-infected. Again, no CAT
+activity was detected in these samples (Figure 46, lanes
+6-9). Finally, virus-infected cells that had not been trans-
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A
+> - -
+"eeeccecseseceeee et
+Se OCHHOCEF ERE OO
+Gc 123 4 § 6 F 8B 9 10 11 12 13 14
+Time Op5 |1.541.5]2.5)2.5]4. 54 .516.5/6 598 .5110.5110.5
+RNA -| + +{ -faf-|+t -p4)-[+
+Pol + +] -fef-]el -Pet-]e
+WSN eh phabael +b gbabala +
+B
+-~
+Seen necanet®
+© i 2 3 4 5 6 7 B 8 10 11 12
+Time 4 5/8.5/8.5/4.578.514.5/8.514.5/8.518.514.98.5
+RNA a] afolebelefebetel ef] -
+Pol ad afalele .
+WSN +] te] + +] + +
+pre-inc. -faf pape .
+c Ld
+-
+*
+oer
+a
+aa
+1 2 c 3
+
+ 
+ 
+
+5 |3 5
+s.ticve 1 fot
+
+Figure 4. CAT Assays of Cells RNP‘Transfected with IVACAT1 RNA
+(A) Time course of RNP transfection in 293 cells. Cells were trans-
+fected at —1 hr with the recombinant ANP and infected with virus at
+time 0. Calls were harvested at the indicated time points and assayed
+for CAT activity,
+
+(B) Raquiremenis for RNP transfection of 293 cells. Parameters of the
+reaction mixtures were as indicated.
+
+(C) Transfection of MDCK cells with !VACAT1 RNA polymerase al sither
+—1 hror +2 hr relative to virus infection. Cells were harvested and CAT
+activity assayed at the indicated times. Components/conditions of the
+reaction were as indicated.
+
+“Time” indicates the time paint of harvesting the cells. Helper virus
+was added at time 0. “RNA’ represents the IVACAT1 RNA. “Pol” is the
+purified influenza A/PR/8/34 polymerase protein complex. “WSN” indi-
+cates the influenza AAWSN/33 helper virus. “Pre-inc” indicates prein-
+cubation of RNA and polymerase in transcription buffer at 30°C for 30
+min. “Trans. time” indicates the time of RNP transfection relative to vi-
+rus infection. Plus and minus signs indicate the presence or absence
+of the particular componentiteature. Lanes C: control assays using
+commercially available CAT enzyme (Boehringer Mannheim).

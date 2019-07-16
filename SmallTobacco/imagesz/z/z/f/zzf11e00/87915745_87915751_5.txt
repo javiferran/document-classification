@@ -1,0 +1,52 @@
+tet aed sy Bo asrcrmrasinnrnes eek ns VTE ee sats aigearietiers aes. SERN gee
+
+1378-90 (KGL Control): 1 2 3 4
+
+Weight 0:..9234 0.9622: 0.9470: 0.9180
+
+PD Closed 177 181 179 167
+
+PD Open 147 152 156 153
+
+ENV% 6.2 6.3 5.1 5.1
+
+TIPS 26.7 25.42 23...8 19.2
+Total Area NPD 2510904. 2019590 3216125 3816754
+HCN 70.7% 72.5% 73.3% 73.7% _
+Acetonitrile 22'.3% 24.5% 20.6%: 19.4%
+Total Area FID 593271 523767 616911 678696
+Methane 24..0% 22 .9% 25.5% 25.7%
+Ethylene . 6.1% 5.8% 5.8%: 5.8%
+Ethane 11.2% 11.0% 11.2%: 10.6%
+Propylene 5.3% 5.2% 1.7% 4.9%
+Acetaldehyde 6.0% 5.9% 5.9%: 6.4%
+Acetone 5.0% 5.1% 5.0%: 5.0%
+Isoprene 11..7% 12.0% 10.8% 11.5%
+Benzene 1.6% 1.7% 1.7% 1.7%
+Toluene: 1.4% 1.5% 1.5% 1.5%
+
+Phenols analysis has not been completed for Old Gold. 85’s and Kent
+Golden Light 85’s. When the work is finished a memo will be sent
+to you. Please evaluate the data and advise as to the action
+required.
+
+wd Mil
+S. S. Miller
+
+/lp:v1501
+
+»
+
+. B. Hudson
+A. M. Thrig
+Cc. I. Lewis
+V.. Norman
+J.
+L
+
+Xe:
+
+. H. Smith
+ibrary
+
+OSLSTG6LS

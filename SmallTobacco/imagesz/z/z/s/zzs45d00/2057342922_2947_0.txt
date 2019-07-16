@@ -1,0 +1,42 @@
+-63-
+Schoendorf and Kiely (1992)
+
+The first study to independently examine maternal smoking during and after pregnancy
+
+- was published by Schoendorf and Kiely (1992). They performed a case-control analysis of
+data from the 1988 National Maternal and Infant Health Survey. Within this dataset, 201
+black and 234 white autopsied SIDS cases were identified from death certificates;
+approximately 3,000 controls for each race were used. The analysis was restricted to
+infants weighing >2,500 grams at birth. Mothers were questioned regarding their level of
+cigarette consumption during pregnancy and at the time of interview, and from their
+responses categorized as nonsmokers, smokers after pregnancy only, or smokers during
+and after pregnancy. After adjustment for maternal age, education, and marital status,
+maternal smoking only after pregnancy had an OR of 1.8 (CI 1.0, 3.0) for whites and 2.3
+(C1 =1.5, 3.7) for blacks. The risk of SIDS among infants of women who smoked both
+during and after pregnancy was 3.1 (CI =2.3, 4.2) and 3.1 (CI =2.2, 4.3) for whites and
+blacks respectively. The ORs for “passive” (postnatal) and “combined” (pre- and
+postnatal) exposure were not directly comparable, as mothers who smoked during and
+after pregnancy tended to smoke more cigarettes per day than mothers who smoked only
+after pregnancy. The authors also examined the risk of SIDS in relation to the presence of
+other smokers in the household. In whites, household smoking was significantly
+associated with SIDS (OR=1.4, CI=1.0, 1.9), but no relationship was seen in blacks
+(OR=0.9, CI 0.7, 1.3). This latter analysis controlled for mother's smoking status only.
+
+Mitchell et al, (1993)
+
+Final results from the New Zealand case-control study were published in Mitchell ef al.
+(1993). The study's catchment area covered 78% of all live births in New Zealand during
+the 3-year study period. Four hundred eighty-five SIDS cases were compared to 1,800
+controls. Case infants were much more likely than were control infants to have mothers
+who had smoked in the two weeks prior to interview (OR=4.1, CI=3.3, 5.1). The OR
+decreased to 1.7 (CI=1.2, 2.3) but was still significant at the p=0.05 level after adjusting
+
+for: region, season, breastfeeding, and bed sharing; mother's marital status, socioeconomic
+
+EXTERNAL REVIEW DRAFT
+MARCH 1995
+
+| SZ6SVELEO2 |
+
+{
+i

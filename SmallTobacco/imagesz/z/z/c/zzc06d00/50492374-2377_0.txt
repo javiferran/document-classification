@@ -1,0 +1,52 @@
+Cytokine Expression in the CNS: Correlation with the Expression of Neuronal Nicotinic
+Acetylcholine Receptors
+
+Introduction
+
+Senile dementia of the Alzheimer's type (Alzheimer’s disease, AD) is characterized by
+gliosis and deposits of R-amyloid protein in various regions of the cerebral cortex and
+hippocampus. Changes in the expression of nicotinic acetylcholine receptors (nAChR) have
+been observed in the early stages of AD and smoking can delay the onset of this disease
+suggesting that smoking may alter the expression of nAChR. Are there other factors that may
+contribute to the observed changes in nAChR expression associated with AD? One molecule
+that may play a regulatory role in the CNS is !L-1. The cytokine IL-1 induces inflammation and
+immunity in the peripheral immune system, but in the CNS IL-1 induces astrogliosis,
+cholinergic neuron sprouting, and the production of amyloid proteins. Further, brain IL-1 is
+elevated in AD. The purpose of this application is to determine whether changes in cytokine
+expression occur in conjunction with and perhaps resulting from, changes in nAChR
+expression.
+
+Ongoing studies in my laboratory suggest an overlap in the expression of members of the IL-1
+family (IL-1, IL-18, and IL-1ra) and members of the nAChr family in the CNS as measured by
+in situ hybridization and immunohistochemistry. | have also observed that the expression of
+some members of each family are co-regulated in PC12 cells subsequent to differentiation into
+neuronal-like cells by nerve growth factor (NGF) or into chromaffin-like cells by
+dexamethasone. These findings are consistent with the notion that there exists a regulatory
+interplay between IL-1, NGF, and nAChRs in the CNS.
+
+The experiments to be proposed will investigate the possibility that the expression of a
+cytokine in the CNS both enhances the action of trophic factors that alter the expression of
+nAChRs and whose expression in turn is modified by the production of nAChRs.
+
+Background
+
+An extended family of related cDNAs that encode functional neuronal nAChRs has been
+identified. The mammalian neuronal nAChR family consists of at least six a-like subunits
+(designated a2, a3, a4, a5, a6, and a7) and three Q-like subunits (designated R2, 3, and R4).
+/n situ hybridization has demonstrated that RNA for each of these subunits is expressed in
+unique, but overlapping, regions of the rat brain. The significance of this result is further
+supported by studies where the pair-wise injection of in witro synthesized RNA encoding an
+alpha and a beta subunit into Xenopus oocytes has shown that the pharmacology and single
+channel properties of the resulting receptors varies with changes in subunit composition.
+Although the subunit composition of a native rnammalian nAChR remains to be determined,
+the high affinity *H-nicotine binding sites have been shown to be composed predominantly of
+a4+82 subunits and the '”5!-a-bungarotoxin site corresponds with the expression of the a7
+subunit. As will be detailed below, | propose to combine the use of in situ hybridization and
+immunchistochemistry to address the question of co-expression and regulation of nAChRs and
+IL-1.
+
+Similar to the nAChRs, the IL-1 family consists of distinct molecules that are related by
+similarity in size and structure. Of the three known IL-1 molecules, two, IL-1a@ and IL-18, bind
+to the iL-1 receptor (IL-1R) to induce a pro-inflammatory response. The third member of this
+family, IL-1 receptor antagonist (IL-1ra) competes with IL-1a@ and IL-1 for binding of the
+receptor but fails to activate the receptor signalling pathway upon binding. Hence IL-1ra is

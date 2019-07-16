@@ -1,0 +1,50 @@
+W.L. Cleveland, Ph.D. — . > 87-36-3555
+
+was active in the T-cell assay and well separated from the void peak (which might contain
+undigested material) was further fractionated by HPLC using a C18 reverse phase column.
+An active peak was then fractionated on a high resolution ion exchange column (Dionex,
+Omnipae NA-100), yielding six peaks, 5 of which were extremely sharp. Only one peak
+was active in the T-cell assay. Laser ionization mass spectroscopy by Dr. Brian Chait,
+Rockefeller University, revealed that this peak consisted of an incomplete digestion prod-
+uct having a molecular weight of 8612. Only a single molecular weight species was
+detected. N-terminal sequencing of the first 10 residues in the Howard Hughes Protein
+Core facility revealed a single sequence (xxLxxIxFQT) which was sufficient to identify the
+N-terminus of the ovalbumin peptide (ova 127). On the assumption that lysine was essen-
+tial (based on data not shown) , ova 185-207 was synthesized and found to be active. We
+are now synthesizing additional peptides to determine the boundaries of the epitope.
+Second, we have begun a determination of the v-region sequences of the B-lymphoma hy-
+bridoma (41-6.A7(1B9)). PCR amplified v-region cDNA has been ligated into a commer-
+cial vector . Clones with inserts of the correct size have been sequenced in the Cancer Cen-
+ter core facility. The heavy chain v-region sequence of the B-lymphoma fusion partner
+(A20.2J.PF) has been completed in this laboratory. To continue this work, we have begun a
+collaboration with Dr. Inghirami, a coinvestigator on this application, who has extensive
+experience with y-region sequencing. When the v-region sequences of the B-lymphoma
+hybrid are in hand, synthetic peptides based on these sequences will be tested with the T-
+cell hybridoma. If our hypothesis is correct, one of the v-region peptides should stimulate
+the ova-specific T hybrid. :
+
+Aims.
+The first aim will be to complete the characterization of the ova epitope recognized
+by 32-6.F12, using synthetic peptides. ,
+
+A second aim is to sequence the v-regions of the putative residue internal image B-
+lymphoma hybrid 41-6.A6(1.B9) in order to prepare synthetic v-region peptides. The resi-
+due intemal image assignment requires the identification of a synthetic v-region peptide
+that is stimulatory for 32-6.F12.
+
+A third aim will be to test our hypothesis that T-cell recognized internal images play
+a role in physiologic responses to foreign antigens. We will study fusions prepared with
+splenocytes from unimmunized mice and mice undergoing primary and secondary respons-
+es to ovalbumin. . _
+
+A fourth aim will be to determine the degree of sequence homology between v-re-
+gion and ova peptides that is required for functional imagery. This is of great interest since
+the frequency of residue intemal images in the repertoire will depend on the degree of
+homology required. :
+
+Budget: I estimate that this project can be completed in 3 years with annual direct costs of
+approximately $85,000, .
+
+ 
+
+40021754

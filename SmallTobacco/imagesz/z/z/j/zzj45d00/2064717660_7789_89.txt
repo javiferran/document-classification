@@ -1,0 +1,77 @@
+I
+{
+
+ 
+
+ 
+
+Ee
+
+ 
+
+INBIFO Institut far biologische Forschung GmbH - Kéln PRIORITY
+Report P 0500/3237 97/10/8 Page 84
+
+15 References
+
+Ames, B.N., Lee, F.D., Durston, W.E.,
+
+An improved bacterial test system for the detection and classification of mutagens and
+carcinogens,
+
+Proc. Nat. Acad. Sci. 70 (3): 782-786 (1973) - (INBIFO library reference: L0094 A01)
+
+Ames, B.N., McCann, J., Yamasaki, E.,
+
+Methods for detecting carcinogens and mutagens with the Salmonella/Mammalian-microsome
+mutagencity test,
+
+Mutat. Res. 31: 347-364 (1975) - (INBIFO library reference: LO037 A0‘1)
+
+Babudri, N., Pani, B., Tamaro, M., Monti-Bragadin, C., Zunino, F.,
+
+Mutagenic and cytotoxic activity of doxurubicin and daunorubicin derivatives on prokaryotic and
+eukaryotic cells,
+
+Br, J. Cancer 50: 91-96 (1984) - (INBIFO library reference: 0271 A01)
+
+Grundsdaize der Guten Laborpraxis (GLP), .
+Anhang 1 (zu § 19a Abs. 1) der Neufassung des Chemikaliengesetzes vom 25. Juli 1994:
+Bundesgesetzblatt | (47): 1703-1732 (1994)
+
+De Flora, S., Zanacchi, P., Camoairano, A., Bennicelli, C., Badolati, G.S.,
+
+Genotoxic activity and potency of 135 compounds in the Ames reversion test and in a bacterial
+DNA-repair test,
+
+Mutat. Res. 133: 161-198 (1984)
+
+Dunkel, V.C., Zeiger, E., Brusick, D., McCoy, E., McGregor, D., Mortelmans, K.,
+Rosenkranz, H.S., Simmon, V.F.,
+
+Reproducibility of microbial mutagenicity assays: Test with Salmonella typhimurium and
+Escherichia coli using a standardized protocol, ~
+Environ. Mutagen. 6 (2): 1-254 (1984)
+
+Dunnett, C.W.,
+A multiple comparison procedure for comparing several treatments with a control,
+d. Am. Stat. Assoc. 50: 1096-1121 (1955) - (INBIFO library reference: 11133)
+
+INBIFO study P 0500/3273,
+
+In vitro mutagenicity of total particulate matter of mainstream smoke of the test cigarettes
+VIRGO-CA and VIRGO-NC697 and of the standard reference cigarette 1R4F,
+
+Salmonella reverse mutation assay - Project VIRGO Hl (PT),
+
+Study director: T. Meisgen ‘
+not yet reported .
+
+INBIFO study P 0500/5219,
+
+Production of induced enzyme fractions for metabolic activation in in vitro tests (PT),
+Study director: Dr.rer.nat. F. Tewes
+
+part regarding SS batch “94-1” not yet reported
+
+6PLLL2¢90z

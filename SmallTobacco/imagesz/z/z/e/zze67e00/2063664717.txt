@@ -1,0 +1,50 @@
+Some notes on K-ras mutations in lung cancer
+
+The K-ras signal transduction pathway helps regulate proliferation, apoptosis, and
+differentiation, all of which are aberrant in cancer. The K-ras gene contains three mutation
+hotspots which occur at codons 12, 13, and 59-61, and a single point mutation at these
+sites may activate the K-ras gene. Codon 12 point mutations in K-ras are considered to be
+an important early stage genetic change in adenocarcinoma of the lung, but rarely occur
+in squamous cell carcinomas. K-ras mutations appear to be an independent prognostic
+factor indicating a poor prognosis, independent of stage and histology.
+
+Most studies suggest that K-ras mutations occur in about 30% of lung adenocarcinomas
+in smokers, but are seldom present in adenocarcinomas from nonsmokers. Few K-ras
+mutations are found in adenocarcinoma of the lung with unknown etiology, or in
+nonsmokers exposed to radon. Keohavong ef al. (Clin. Cancer Res., 2, 411-418, 1996)
+reported 43 (33.9%) of 173 human lung tumors from a U.S. population to contain codon
+12, 13 and 61 mutations. Of these, 41 (32%) of 127 adenocarcinomas contained
+mutations compared to only 1 squamous carcinoma (2.7%) and 1 adenosquamous
+carcinoma (11%); 24 of 40 codon 12 mutations consisted of GT transversions, 12 GoA
+transitions, 2 G-—C transversions, and 1 double GG—>TT mutation. Two G>T
+transversions were found in codon 13, and a single A->C transversion in codon 61.
+Husgafvel-Pursiainen ef al. (Int. J. Cancer, 53, 250-256, 1993) reported 14 (29%) of 48
+Finish lung cancer cases to have K-ras mutations, of these 12 (57%) of 21
+adenocarcinoma contained mutations in codons 12, 13 and 61. In a Dutch study, Slebos
+et al. (N. Engl. J. Med., 323, 561-565, 1990) reported 19 (27.5%) of 69 adenocarcinomas
+to have K-ras mutations .
+
+K-ras mutations have also been suggested to occur in a significant number of squamous
+cell carcinomas. Rosell et al. (Clin. Cancer Res., 2, 1083-1086, 1996) have reported 57
+(20.7%) of 275 consecutively treated Spanish stage I-IV NSCLCs patients had K-ras
+mutations in codons 12 and 61. Of these, 20 (26%) of 78 adenocarcinomas, 29 (18%) of
+163 squamous cell carcinomas, and 8 (23.5%) of large cell undifferentiated carcinomas
+had K-ras mutations. Codon 12 mutations occurred in 53 (93%) of 57 tumors and were
+characterized by 14 coding changes from wild-type glycine (GGT) to valine (GTT), 13 to
+aspartic acid (GAT), 10 to cysteine (TGT), 8 to serine (AGT), 6 to arginine (CGT) and a
+single change to alanine (GCT). Only 3 (7%) of 57 K-ras mutations occurred at codon 61.
+
+Most published studies have specifically investigated K-ras mutations in codon 12,
+because these are the most frequently detected ras mutations in adenocarcinoma of the
+lung. Analyzing only codon 12 mutations, Shiono et al. (Carcinogenesis, 17, 1683-1686,
+1996) reported 10 (19%) of 53 adenocarcinomas in Japanese males and 2 (4%) of 51
+adenocarcinomas in Japanese females to contain K-ras mutations. Of the 12 K-ras
+mutations, 7 (68%) were GT transversion, 3 (25%) were GA transitions and 2 (17%)
+were GC transversions. Determining only codon 12 mutations results in a slight, but
+probably not significant, underestimation of the total frequency of K-ras mutations in lung
+tumors.
+
+Mutational activation of the K-ras gene is a rare event in most chemically-induced rat lung
+tumors (Belinsky et al., Environ Health Perspect., 105(Suppl. 4), 901-906, 1997): NNK
+
+ETLVIIEIN™’

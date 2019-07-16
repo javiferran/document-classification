@@ -1,0 +1,46 @@
+wate INBIFO Institut far biologische Forschung GmbH - Kin PRIORITY
+wos Report P 0500/3237 97/10/8 Page 43
+i
+or | me BATCH DOSE MUTAGENICITY (rev. /plate) REGRESSION ANALYSIS
+. NO.
+| PLATE N SE RSD REGR. SD CORR. TEST
+COEF. COEF.
+1 2 3
+my (mg/ (8) (rev./ (rev./
+Loy plate) mg) mg)
+4 0794 «0.200 26 20 33 26.3 3.8 24.7
+0.400 35 31 35) #33.7 1.3 6.9
+0.600 32. 39 «330 34.7 2.2 10.9
+0.800 31 29 «320 «630.7 0.9 5.0
+1.000 43 33 34 36.7 3.2 15.0 9 5 6.508 = L
+0795 0.200 28 22 35 28.3 3.8 23.0
+boos 0.400 39 29° 25) 31.0 4.2 23.3
+af 0.600 30 32 «439 «633.7 2.7 14.0
+! 0.800 31 26 32 29.7 1.9 10.8
+| 1.000 38 41 #37 38.7 1.2 5.4 9 5 0.457= L
+0796 «60.200 32. 32 27) «030.3 1.7 9.5
+0.400 36 43 «442 «40.3 2.2 9.4
+0.600 35 31 35 33.7 1.3 6.9
+0.800 27) 35) «623 28.3 3.5 21.6
+a" iad 1.000 32 38 «8629 «(33.0 2.6 13.9 -3 5 -.148= N
+1
+hora 0797 «0.200 «= 46-«17's 3s 3.3 8.4 46.3
+Po i 0.400 32. 30 39 33.7 2.7 14.0
+jad 6.600 26 23 30 26.3 2.0 13.3
+0.800 21 34 #31 28.7 3.9 23.7
+bod 1.000 35 «28 «2529.3 3.0 17.5 -4 5 -.175= Lb
+“ all 0.200 - 29.1 2.2 26.4
+a 0.400 - - - 34.7 1.6 15.8
+" 0.600 - - 32.1 1.4 14.6 -
+: 0.800 - . . 29.3 1.2 14.6
+1.000 - : . 34.4 1.5 15.6 3 3. 0.130 = N
+Table 27 MUTAGENICITY OF TPM WITHOUT ACTIVATION IN STRAIN TAI537,
+i VIRGO-CC
+Remarks: date of assay: 05-MAR-97
+\ regression analysis: using Poisson weights
+Lod test: statistically significant difference from 0
+id N: nonlinearity, L: linearity
+
+soZZLLZp90c
+
+970917 11:05:30 P. 1 USER_DISK:£IT_A_HJMUT_3237.L1S:12

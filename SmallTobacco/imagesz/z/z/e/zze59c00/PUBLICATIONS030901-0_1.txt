@@ -1,0 +1,125 @@
+118 LI AND RHODE
+
+created a point mutation which converts the essential
+dinucleotide AG to CG at the 3’ splice acceptor site of
+intron 1 in the parvovirus H-1 NS2 gene without chang-
+ing the codon specificity for NS1 (Fig. 1], We report
+here that this mutation abolished the splicing of NS2
+pre-mRNA and therefore blocked the synthesis of the
+NS2 protein. By introducing the mutation into the parvo-
+viruses H-1 and Lull, NS2- viruses were generated.
+We have tound that NS2 plays its most important role
+during the viral infection in rat cells, where rat is consid-
+ered to be the natural host for H-1. But NS2 is largely
+dispensable in other types of cells, such as human and
+hamster cells.
+
+MATERIALS AND METHODS
+
+Cell lines
+
+The cell lines uséd in this study were: NB324K (sim-
+ian virus 40-transformed human newborn kidney cell)
+(Shein and Enders, 1962), Hela Gey (human cervix car-
+cinoma cell} (ATCC CCL2. 1), Hak (Syrian Ramster kid-
+ney cell) (ATCC CCL15), Rat2 (TK-rat fibroblast) (Topp,
+1981), PEJRat2 (Harvey-ras transformed Rat2, H-ras
+gene expressing plasmid pEJ was kindly supplied by R.
+Weinberg), MRC-5 V2 (simian 40-transformed human
+fibroblast) (Huschtscha and Holiday, 1983), DKSV (sim-
+ian virus 40-transtormed dog kidney cell) (obtained
+from Mr. R. G. Dumas, University of South Dakota, Ver-
+million, SD), THK (simian virus 40-transformed hamster
+kidney cell) (Kaplan e7 af, 1975}, and RN (rat nephroma)
+(Babcock and Southam, 1967). All cell lines were
+grown in monolayer culture in minimal essential me-
+dium (MEM) with 5-10% fetal calf serum at 37°.
+
+Site-directed mutaganesis with the polymerase
+chain reaction and generation of the NS2
+mutant virus
+
+Four primers were synthesized on an Applied Bio-
+systems Model 380B DNA synthesizer and desaited
+over a C-18 Sep-Pak cartridge column (Millipore):
+
+Primer 1. GTGAAGAATGGTTACCAATCTACCA-3’
+plus strand
+
+Primer 2. GAGCGCATgGAtCCgAGCGAATTTATAG-
+3° minus strand
+
+Primer 3. AATTCGCTcGGaTCcATGCGCTCACCA-3'
+plus strand
+
+Primer 4. AGTATTTGGTGTGCTCC-3' minus strand
+
+Primer 1 contains a BstEl! site at nucleotide 1888 of
+the H-1 genome (underlined sequence). Primers 2 and
+3 both carry the mutations (mismatched bases are in-
+dicated by lowercase letters) which create a new
+Bam 1 site at nucleotide 1993. Primer 4 is located 10
+nucleotides 3° to an Xbal site at 2088 of H-1. Primers 1
+
+PUBLICATIONS
+
+10350216
+
+and 2 generate a mutated BstEl/BamH1 fragment of
+105 nucleotide bp from 1888 to 1993, while primers 3
+and 4 produce a 95-tp BamHi/Xbal fragment from
+1993 to 2088 with the same rnutations. The PCR was
+pertormed in an automatic thermal cycler {Perkin Elmer
+Cetus) for 25 cycles by using the standard protocol as
+recommended by the manufacturer. The annealing
+temperatures were estimated by using a computer pro-
+gram (VMB)(Campione-Piccardo, 1986); 45° was used
+for primers 3 and 4 and 60° for primers 1 and 2. The
+PCR products were cleaved by the appropriate restric-
+tion endonucleases and purified on a 4% NuSieve
+(FMC) agarose geil. The appropriate DNA fragments
+were excised from the ge! and were recovered by elec-
+troelution in dialysis tubing. The fragments were
+cloned into a plasmid pH§ (Riiode, 19876}, which ex-
+presses the H-1 NS1/NS2 gene, to generate a plasmid
+PpH5SA. The experimental procedure is diagrammed in
+Fig. 2. Mutations were contirmed by restriction endonu-
+clease mapping and DNA sequencing.
+
+To construct NS2 mutant viruses, a &g/ll/Xbal (12-46/
+2088) fragment containing the mutetion from pHSSA
+was subcioned into the plasmid pBNS1 AH to generate
+PBNS1AHSA. The Hindlil site at 2655 of H-1 is missing
+in PH but it is preserved in pBNS1 AH. Cloning of the
+NS2 mutation in pBNS1AH allowed us to use the
+Hindilt at 2655 of H-1 DNA for subcloning, The EcoR 1/
+Hindi (1088/2655) fragment from pBNS1AHSA con-
+taining the mutations wes introduced into the H-1 viral
+replicatve form (RF) DNA to generate a mutant virus
+H-1SA and into pLu, an infectious clone of Lull, to
+create a mutant Lulll-H1 chimeric virus clone
+pLuH1SA (see Fig. 2). As a positive control, the wild-
+type EcoR1/Hindlil fragment from pBNS14H was
+cloned into pLu to produce a clone of the wid-type
+chimeric virus pLuH1. H-1 RF DNA used in the cloning
+was extracted by the method of Hirt (1963) from
+NB324K cells 20 hr postinfection, and the EcoR1
+1/1088 and the Hindlll 2655/5 1 76 tragments were puri-
+fied by ge! electrophoresis. pLu was constructed by
+cloning the BamH?1 fragment of viral DNA from the in-
+fectious Lull! plasmid pGLu883 (Rhode, 1989) into the
+&g!li site of pUCBg2. pUCBg2 was made by ligating
+oligonucleotides 5-AGCTTAGATCTT and 5'-AATTAA-
+GATCT into pUC19 restricted with EcoR1 and Hindlil.
+This created an inframa unique &g/\l site in the é-galac-
+tosidase gene. The viral EcoR! and Hindill sites are
+unique in this plasmid, as the resulting plasmid, eLu,
+has no residual polylinker restriction sites flanking the
+viral DNA insert.
+
+Virus propagation and titer determination
+
+Viral DNAs were transfected into Hela Gey cells by
+the calcium phosphate precipitation method (Rhode,
+
+030902

@@ -1,0 +1,109 @@
+{Reprinted from CLINICAL CHEMISTRY, $1, 1715 (1985).]
+
+Copyright 1985 by the American Association of Clinical Chemistry and reprinted by permission of the copyright owner.
+
+Anion-Exchange Chromatography to Determine the Concentration of
+Chloride in Sweat for Diagnosis of Cystic Fibrosis
+Marvin E. Miller, Janice M. Cosgriff, and Robert H. Schwartz
+
+For the diagnosis of cystic fibrosis, we use the “Macroduct
+Sweat Collection System” (Wescor) to sample sweat, and
+anion-exchange chromatography to determine its chloride
+content. The chromatographic system consists of a What-
+man Partisil SAX 10-m coiumn, an isocratic phosphate-
+buffered mobile phase, and ultraviolet detection at 200 nm.
+The sweat chloride concentrations of 10 individuals with
+cystic fibrosis ranged from 101 to 131 mmol/L (mean 111, SD
+9 mmol/L). For 11 controls the values ranged from 13 to 54
+mmol/L (mean 28, SD 11 mmol/L). We conclude that the
+procedure is reliable for the diagnosis of cystic fibrosis.
+
+Additional Keyphrases: reference interval (disease and normal)
+: pilocarpine iontophoresis - Macroduct Sweat Collection Sys-
+tem + vapor pressure osmometry compared
+
+Cystic fibrosis (CF) is usually suspected on clinical
+grounds, and the diagnosis is confirmed by finding an above-
+normal electrolyte concentration in sweat, as reflected by
+chloride, sodium, or osmolality. Various analytical tech-
+niques for these sweat determinations include chloridome-
+tric titration (2), chloride-selective electrodes (2), electrical
+conductivity (3), and most recently, osmometry (¢, 5). We
+used a commercial sweat-collection system to obtain our
+sweat samples, and we have developed a liquid-chromato-
+graphic procedure for determining the concentration of
+chloride in sweat.
+
+Materials and Methods
+
+Apparatus. For chromatographic analyses we used a
+Varian 5020B liquid-chromatographic system equipped
+with a UV-100 detector that was interfaced with a Varian
+4270 integrator (all from Varian Associates, Instrument
+Division, Palo Alto, CA 94303), and a 250 x 4.6 mm (i.d.)
+Partisil-10 SAX column (Whatman Inc., Clifton, NJ 07014),
+operated at 22°C. The mobile phase was KH,PO, (10
+mmol/L, pH 4.6). The flow rate was 2.0 mL/min from 0 to §
+min, then 0.7 mL/min until the chloride peak was complete-
+ly eluted, at about 10 min. The pressure was 10 133 kPa
+(100 atm) at 2.0 mL/min, then 4053 kPa (40 atm) at 0.7
+mL/min. The wavelength for detection was 200 nm. We
+
+University of Rochester Schoo! of Medicine and Dentistry, De-
+partment of Pediatrics, Box 777, Rochester, NY 14642.
+Received May 3, 1985; accepted June 25, 1985.
+
+injected 5 yL of sweat for each sample. The concentration of
+chloride in sweat was determined by the area under the
+chloride peak, as compared with those of known chloride
+standards, for which absorbance at 200 nm was linearly
+related to physiological concentrations of chloride in sweat
+(0-150 mmol/L).
+
+For comparison, we determined sweat osmolality with a
+vapor pressure osmometer (Wescor, Logan, UT 84321), a
+method shown to be reliable in the diagnosis of CF (4, 5).
+
+Reagents. We used reagent-grade monobasic potassium
+phosphate and doubly distilled de-ionized water to prepare
+the mobile phase, which was then filtered and de-gassed.
+Standard chloride solutions were prepared with doubly
+distilled de-ionized water and reagent-grade sodium chlo-
+ride.
+
+Procedures. We sampled sweat from 10 individuals with
+CF and from 11 normal controls, using the “Macroduct
+Sweat Collection System” (Wescor) (4), This system uses
+pilocarpine iontophoresis followed by sweat collection in a
+“Macroduct’—a disposable, half-dollar size, plastic device
+that fits snugly over the iontophoresed skin and is secured
+by Velcro straps. The sweat flows into a small hole at the
+center of the “Macroduct” and into a microbore spiral plastic
+tube. The intact sweat is then directly injected into the
+chromatographic system.
+
+Resulis and Discussion
+
+The sweat. chloride concentrations and sweat osmolalities
+of the CF individuals and controls are shown in Table 1. In
+patients with CF the concentrations of chloride in sweat
+were 101 mmol/L or more, whereas controls had values 54
+mmol/L or less. These results were consistent with the
+known phenotypes of the controls and the CF patients. In
+addition, there was complete agreement of the sweat chlo-
+ride concentrations with the sweat osmolality determina-
+tions.
+
+This anion-exchange chromatographic method for diagno-
+sis of CF is simple, rapid, and inexpensive. The procedure is
+made possible by the ease and reliable procurement of sweat
+with the Macroduct Sweat Collection System, a system that
+potentially can be used in connection with a variety of
+analytical techniques.
+
+This sweat collection system overcomes many of the
+problems of previous approaches (6). Its advantages include:
+no condensate error, an easily visible sample, complete
+recovery of sweat (ie., there is almost no dead space),
+
+CLINICAL CHEMISTRY, Vol. 31, No. 10,1985 1715

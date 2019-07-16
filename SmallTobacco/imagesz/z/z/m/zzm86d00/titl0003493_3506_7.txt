@@ -1,0 +1,32 @@
+Page 8
+Mr. H. T. Austern
+
+At this time, the practice at the FTC laboratory seems to be to report
+all TPM or CO figuras of less than 1 mgm as **. However, in the summaries
+these figures are often rounded off to zero. This can cause difficulties
+and can result in negative values at times. It is suggested that they be
+carried as their true value using an additional decimal if required.
+
+With the increasing number of low TPM cigarettes, the measurement of
+TPM and CO in the very low range has been and will be an increasing problem.
+It is suggested that it might be wise ta consider methods of dealing with
+this problem. The low value figures praduced for some cigarettes by FIC
+are of very questionable meaning.
+
+C. _DISCARDS
+
+In my prior analysis it was nated that a considerable amount of data on
+the laboratory sheets were discarded by merely stamping the column for the
+determination “deleted”. It was observed that the result of such a practice
+is te falsely give an impression of greater uniformity of test results than
+actually exists in practice.
+
+in the last test (#23), a tremendous increase in the number of discards,
+reaching a new record, was observed. The records for this report (#24, De-
+cember 1981) indicate a very considerable decline in this practice although
+still well above the average for the past. There were 869 discarded deter-
+minations, 201 for monitor cigarettes and 668 for brand cigarette determina-
+
+tions.
+
+TITLOQO-03500

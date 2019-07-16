@@ -1,0 +1,177 @@
+4026 BIOCHEMISTRY
+50
+40
+
+30
+
+RATE, S'
+
+20]
+
+107-9
+
+ol
+o 2 4 6 8
+DISTRIBUTION COEFFICIENT, x 10&
+
+FIGURE 3: Dependence of DG transfer rate on partition coefficient.
+Partition coefficients in the indicated solvents were obtained as de-
+scribed in Figure 2. (X) Buffer; (©) dimethyl sulfoxide (10% v/v);
+(A) ethanol (10% v/v); (A) 0.5 M tetramethylurea; (0) tetra-
+hydrofuran (10% v/v); (¢) dioxane (10% v/v); (mi) dimethylform-
+amide (10% v/v); (@) 1 M tetramethylurea.
+
+Table I: Thermodynamic Quantities for Transfer of Pyrene
+and DG within a Lipoprotein Class*
+
+tate act aHt
+
+ 
+
+ 
+
+constant {keal (keal as?
+system probe (s7') £, mol’) mol) (eu)
+HDL + HDL DG 40 122 16.3 116 ~15.9
+HDL +HDL DG 34 116 164 110 —-183
+VLDL+VLDL DG 0.13 10.1 183 9.5 -29.9
+HDL + HDL, DG 84 10.7 159 10.1 -19.6
+10% etianol
+HDL, + HDL, pyrene 281.0 &3 13.8 2.7 -20.9
+HDL + HDL pyrene 250.0 13.9
+LDL + LDL pyrene 66.5 14.7
+VLDL + VLDL pyrene 126 106 15.6 10.0 -19.1
+VLDL + VLDL pyrene 14.8 15.5
+VLDL, + VLDL, pyrene 10.8 13.7
+VLDL, + VLDL, pyrene 15.7 15.5
+VLDL, + VLDL, pyrene 21.4 15.3
+
+ 
+
+@ Duplicate entries are from separate lipoprotein preparations
+from different individuals. From the measured rate constants
+over a temperature range of 25 °C, values for the activation
+energies, £,, were obtained. AG? of the activated state was
+calculated from eq 25 where AT/h =6.11 X10"? at 20°C, The
+enthalpy of activation was calculated from AH* = £,-RT;
+entropy of activation AS” was calculated from AG* = AH? —
+Tas*.
+
+ 
+
+coefficients as a function of the observed rate of DG transfer
+between HDL in these solvents showed a clear relationship
+{Figure 3). The rate of transfer increased as the partition
+coefficients became larger. Similar experiments were at-
+tempted with pyrene as the probe. No reliable data were
+obtained, since the rate of transfer in the presence of some of
+the salts and the organic solvents exceeded the resolution limit
+of the stopped-flow instrument.
+
+Transfer of Pyrene and DG within a Lipoprotein Class
+(Homogeneous Transfer). Rates of transfer of pyrene and
+DG have been summarized for HDL, LDL, VLDL, VLDL,
+YLDL,, and VLDL; in Table I. The reaction rates differed
+considerably, ranging from 280 s" for transfer of pyrene be-
+tween HDL to 10.8 s between VLDL.
+
+Transfer of Pyrene between Dissimilar Lipoproteins
+(Heterogeneous Transfer). The amount of information that
+could be obtained was limited when the donor and acceptor
+lipoproteins were the same, because transfer rates were in-
+dependent of either the lipoprotein concentration or the probe
+concentration: Consequently, transfer between donor and
+acceptor lipoproteins of different density classes was investi-
+
+CHARLTON AND SMITH
+
+ 
+
+Table II: Distribution Coefficients of Pyrene between Water
+and Lipoproteins
+
+ 
+
+ 
+
+dissociation association
+distribution  constant* — constant
+lipoprotein coefficient (st) (s*) ‘
+ADL 12.2 x10 250 21 x 10°
+LDL 10.6 x 10°* 66.5 6.3 x 106 ’
+VLDL 10.8 x 10°* 14.8 14x 10°
+
+ 
+
+7 From Table I. © Pseudo first order. Association required the
+collision of a probe with a lipoprotein particle and is a second-
+order reaction (Almgren, 1980}. However, since the lipoprotein
+is normally present in excess, the pseudo-first-order rate constant,
+Ky is used.
+
+ 
+
+gated. Pyrene-labeled LDL, HDL, and VLDL were used as
+donor lipoproteins, with HDL, LDL, and HDL, respectively,
+as unlabeled acceptors. The rates of transfer as a function
+of donor and acceptor lipoprotein concentrations and probe
+concentrations are shown in Tables II and IH.
+
+The kinetic behavior of the probes in heterogeneous systems
+was different from that found in homogeneous systems. The
+observed rates of probe transfer in the heterogeneous systems
+had intermediate values, compared to those found for transfer
+between homogencous lipoproteins, and differed by 20-30%
+over a 10-fold range of lipoprotein concentrations. There were
+no changes in transfer rates with different pyrene concentra~
+tions in the donor lipoproteins. However, the rate for transfer
+between HDL and LDL measured by the increase in excimer
+fluorescence was often faster than that determined by the
+decrease in monomer fluorescence. While the Jp/fy ratio was
+a linear function of probe concentration under all conditions
+in a particular lipoprotein, differences in lipid and protein
+compositions, as well as in organization of the nonpolar region
+of the lipoproteins (Soutar et al., 1974), precluded quantitative
+comparison of the changes in relative intensities of the excimer
+and monomer fluorescence in different lipoproteins (Tachiya
+& Almegren, 1981),
+
+Reaction rates were predicted from the following kinetic
+scheme for transfer of a probe molecule. This model assumes
+a simple two phase system in which the lipoprotein is con-
+sidered to be an immiscible organic phase in a continuous
+aqueous phase:
+
+ky ky
+Pt Pa SP (10)
+
+where P, is the donor lipoprotein with a concentration of
+milliliters of L, per milliliter of solvent, P, is the acceptor
+Hpoprotein with a concentration of milliliters of L, per milliliter
+of solvent, and P,, is the probe in the aqueous solution.
+
+* The kinetic equations are
+
+dP, /dt = -k,P, + kyP og (i)
+
+AP, /dt = —kyP, + kyPaq (2)
+
+dP/dt = kyP, + kyPy — Chey + ka) Pag (13)
+
+The equations had previously (Frost & Pearson, 1961a,b)
+
+been considered to be independent. They are, in fact, linked
+by conservation of mass:
+
+PLL V + PoL:V + PV = Py (a)
+
+where P, is the total mass of the probe and V is the volume
+of solution.
+Rearranging and substituting for P,, in eq 11 and 12 give
+
+dP, /dét = ~[(ky + kyLy)Py + kakgP,] + koP/V (15)
+AP, /dt = —[CkgLyP, + kg + kqla)P2) + EsP/V (16)
+
+ 
+
+50244033

@@ -1,0 +1,55 @@
+43-46 kDa plasma membrane glycoprotein expressed on a number of lymphoid cells.
+This protein has recently been shown to have a high degree of homology to an ADP-
+ribosyl cyclase from Aplysia; CD38 also has ecto-NAD glycohydrolase and cyclic ADP- .
+ribose synthase activity (3.4). While certain monoclonal anti-CD38 antibodies can
+participate in activating CD38(4) cells, it is unclear what the exact function of this
+protein is. Furthermore, it has not yet been shown that mitogenic anti-CD38
+antibodies stimulate the enzymatic activity of this protein. We were unable to
+demonstrate that PTg binds to CD38. However, in the course of these
+experiments we discovered that the B subunit of the toxin (PTp) activated a
+novel ADP-ribosyltransferase activity in T lymphocytes, leading to the ADP-
+ribosylation of a 58 kDa membrane protein, apparently on a extracellular site.
+This occurred only in cells that could be stimulated by PTp, suggesting that the toxin
+was required to bind to its receptor to activate this ecto-enzymatic activity. This did
+not occur after stimulation with other T cell mitogens, such as antibodies to the T cell
+receptor. Furthermore, this activity was independent of the expression of CD38,
+suggesting that PIg was stimulating a novel ecto-enzyme. Interestingly, an ADP-
+ribosylated membrane protein of similar molecular weight has been described in
+hepatocytes (5-7); it is unknown whether these two proteins are identical. The goals
+of this research project are to characterize the ecto-ADP-ribosyltransferase and its 58
+kDa substrate and to determine their role in T lymphocyte function.
+
+2. Specific Aims.
+
+(a) Characterization and purification of the ADP-ribosylated 58 kDa plasma
+membrane substrate in human T cells.
+
+(b) Characterization and purification of the PTp-stimulated ecto-ADP-
+ribosyltransferase from human T lymphocytes.
+
+3. Experimental Design.
+(a) Characterization and purification of the ADP-ribosylated 58 kDa plasma
+membrane substrate in human T ceils.
+
+We are currently making rabbit antibodies against ADP-ribose coupled to
+keyhole limpet hemocyanin (KLH) as described (8,9). The antisera will be affinity
+purified over ADP-ribose-BSA-Sepharose and NAD-agarose columns. The antibodies
+will be used first in immunodetection and immunolocalization experiments with
+intact cells as well as immunoprecipitation studies in lymphocytes and rat
+hepatocytes after treatment with NAD and PTp. If the liver and lymphocyte proteins
+appear to be closely related (or identical) by tryptic peptide mapping, 2-D gels, etc.,
+we will initially use rat hepatocytes as the source of material to purify the protein. If
+this does not work, or if the proteins are quite different, we will use a human
+lymphocyte cell line as the source. The initial goal for purification will be to get
+enough material to make monoclonal antibodies against p58. We will then be able to
+use these reagents to probe expression libraries or clone the cDNA in a COS cell
+expression library system. The ultimate goal of these experiments will be to clone
+this protein.
+
+{b) Characterization and purification of the PTg-stimulated ecto-ADP-
+ribosyltransferase from human T lymphocytes.
+
+Our goal in studying this protein is two-fold: to purify it and clone its cDNA and
+to investigate what role it may play in the functioning of lymphocytes in both normal
+
+40042819

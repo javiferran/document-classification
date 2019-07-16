@@ -88,7 +88,7 @@ class H5Dataset(Dataset):
             #flair_embedding_fast = FlairEmbeddings('multi-forward-fast')
             #flair_embedding_fast.embed(sentence)
             
-            flair_embedding_forward = FlairEmbeddings('news-forward')
+            flair_embedding_forward = FlairEmbeddings('./Data/news-forward-0.4.1.pt')
             flair_embedding_forward.embed(sentence)
             
             
@@ -361,9 +361,9 @@ def main():
                 transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
     ])}
     #Independent train and test transformations can be done
-    h5_dataset = H5Dataset(hdf5_file='./HDF5_files/hdf5_small_tobacco.hdf5', data_transforms=data_transforms['train'])
+    h5_dataset = H5Dataset(hdf5_file='./HDF5_files/hdf5_10.hdf5', data_transforms=data_transforms['train'])
 
-    dataloader = DataLoader(h5_dataset, batch_size=1, shuffle=False, num_workers=0)
+    dataloader = DataLoader(h5_dataset, batch_size=1, shuffle=False, num_workers=1)
 
     # get model
     text_model = CNN_Text()
@@ -380,12 +380,15 @@ def main():
     batch_size=1
     running_loss = 0.0
     steps = 0
+    loss_values = []
+    epoch_values = []
 
     # Loop over epochs
     for epoch in range(max_epochs):
+        running_loss = 0
         # Training
         for local_batch in dataloader:
-            print('Hola')
+            print(steps)
             image, ocr_text, labels = Variable(local_batch['image']), Variable(local_batch['ocr']), Variable(local_batch['class'])
             # zero the parameter gradients
             optimizer.zero_grad()
@@ -403,14 +406,18 @@ def main():
             optimizer.step()
             #running_loss += loss.data[0]
             steps += 1
-            if steps % 100 == 0:
-                save(model,'./snapshot/', 'model', steps)
+            #if steps % 100 == 0:
+                #save(model,'./snapshot/', 'model', steps)
+            running_loss += loss.item()
             
-            #print(outputs)
-            print('[Epoch {}/{}], loss {}'.format(
-                            epoch, max_epochs,loss))
+        #print(outputs)
+        print('[Epoch {}/{}], loss {}'.format(
+                        epoch, max_epochs,running_loss/10))
+        
+        loss_values.append(running_loss/10)
+        epoch_values.append(epoch)
             
-    save(model,'./snapshot/', 'model', steps)
+    #save(model,'./snapshot/', 'model', steps)
 
 
 

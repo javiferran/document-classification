@@ -1,0 +1,135 @@
+The Journal of Immunology
+
+array of possible AP-1 complexes. However, the physio-
+logic regulation of AP-1 composition remains unknown
+and receptor-specific expression of individual AP-1 pro-
+teins remains relatively unexplored. This represents an im-
+portant issue because specific Jun/Fos heterodimers may
+play unique roles in transactivation of AP-1 site-contain-
+ing promoters. For example, AP-1 containing the short
+form of FosB has been reported to be a transcriptional
+repressor (17, 18), in contrast to other varieties of AP-1,
+and AP-1 containing JunB has been noted to be less active
+than AP-1 containing c-Jun (3, 22).
+
+Two receptors of particular interest in mediating B cell
+activation are the Ag receptor, slg, and the receptor for T
+cell influences, CD40. B cell activation through the former
+receptor dominates in the presence of T-independent (bac-
+terial) Ag, whereas activation through the latter receptor
+dominates in the response to protein Ags. Each of these B
+cell receptors is individually fully capable of mediating
+cell cycle progression. However, stimulation appears to
+proceed via distinct intracellular signaling pathways, as
+shown by sensitivity to various inhibitors and by the effect
+of PKC depletion (23). These findings are consistent with
+the reported inability to detect PKC activation in CD40-
+mediated signaling, in contrast to its prominence following
+B cell stimulation via slg (24). Using the early read-out of
+NF-«B induction, we have demonstrated that slg and
+CD40 utilize pathways that differ in PKC dependence al-
+though achieving the same result (5, 25), again suggesting
+that separate receptors use distinct intracellular signaling
+pathways even as they bring about similar transcription
+factor induction. The question remains as to whether the
+induced transcription factor complexes are in all cases
+identical or, alternatively, may be skewed in their compo-
+sition depending on the triggering receptor.
+
+To begin to unravel the relationship between expression
+of AP-1 and subsequent downstream events that lead to B
+cell activation, and to begin to elucidate the physiologic
+tole of the potentially large number of AP-1 complexes
+that might be formed, we sought to determine whether
+specificity in the use of particular AP-1 components could
+be demonstrated during receptor-mediated forms of stim-
+ulation. The primary B lymphocyte system és particularly
+suited to this endeavor because expression of AP-1 de-
+pends on protein synthesis, and rapid induction of junB
+and c-fos have been demonstrated following B cell stim-
+ulation via slg (1, 26-29). To detect specificity in jun and
+fos family usage, B cells were stimulated by cross-linking
+anti-Ig Ab and by a cross-linked form of the CD40 ligand.
+Initially, RT-PCR was used to detect induction of jun and
+fos gene expression without regard to immunologic re-
+agents, and results were then confirmed at the protein
+level. This effort was successful in identifying two major
+differences in the manner in which B cell receptors acti-
+vate AP-1 components. First, we found that, although
+anti-Ig and CD40L both stimulate junB expression, the
+intracellular signaling pathways used to bring about gene
+
+3301
+
+expression differ. Second, we observed reccptor-specific
+induction of fosB, in which anti-Ig produces a vigorous
+response and CD40L mediates little or no expression.
+These results demonstrate what appear to be physiologic
+differences between B cell receptors that induce AP-1 both
+in the components induced and the signaling pathways
+used for that induction.
+
+Materials and Methods
+Animals
+
+BALB/cBy] mice were obtained from The Jackson Laboratory (Bar
+Harbor, ME).
+
+8 cells
+
+Splenocytes from 8- to 12-wk-old naive animals were depleted of T cells
+by treatment with anti-Thy-1.2 Ab plus rabbit complement, as described
+(30), and were then plated on petri dishes overnight to deptete macro-
+phages. RBC and nonviable cells were temaved by centrifugation on a
+cushion of Lympholyte-M (Cedarlane, Ontario, Canada). The resulting B
+cells were cultured at 4 X 10°/ml in RPMI 1640 medium (Bio Whittaker,
+Walkersville, MD) supplemented with 5% heat-inactivated FCS (Sigma
+Chemical Co., St. Louis, MO), 10 mM HEPES, pH 7.2 (Sigma Chemical
+Co.), 5 X 10 °° M 2-ME (Sigma Chemical Co.), 2 mM t-glutamine, 100
+U/ml penicillin, and 100 jg/ml streptomycin.
+
+RNA isolation
+
+B cells were stimulated for various periods of time, rapidly chilled in an
+ice-water bath, and washed twice with ice-cold PBS buffer. RNA was
+isolated as described (31) with minor modifications, In brief, 20 x 10°B
+cells were resuspended in 50 jul of PBS buffer and then lysed with the
+addition of 1.6 ml of solution A, which contains thiocyanate (31), after
+which RNA was extracted with chloroform/isoamy] alcohol and precip-
+itated with isopropanol. RNA was treated with DNase, as follows. To
+each dried RNA sample 5 U of DNase I (Boehringer Mannheim Corp.
+Indianapolis, IN) was added along with 40 U of RNasin ribonuclease
+inhibitor (Promega, Madison, WI) in 50 yl of DNase I buffer (25 mM
+Tris-HCl, pH 7.4, 5 mM MgCl, 0.1 mM EDTA, and 1 mM dithiothrei-
+tol), followed by incubation at 37°C for 30 min, RNA was then phenol
+extracted followed by ethanol precipitation and then resuspended in 50 jul
+of DEPC-treated water and A3,, determined. RNA was stored at ~80°C.
+
+Reverse transcription
+
+DNase-treated RNA was reverse transcribed to CDNA with oligo-dT. In
+brief, t zg of RNA was treated with 200 U of Moloney murine leukemia
+virus reverse transcriptase (Life Technologies, Grand Island, NY) and 0.6
+4M oligo-dT 18 (New England Biolabs, Beverly, MA) in 40 ja] of 1X first
+strand buffer (Life Technologies) containing 0.25 mM of each of four
+deoxynucleatide triphosphates (Boehringer Mannheim) and 10 mM DTT
+(Life Technologies) and incubated at 42°C for 25 min followed by boil-
+ing at 100°C for 5 min. The concentration of cDNA in each sample was
+adjusted to yield similar amounts of praduct following quantitative PCR
+with primers for @-actin (see Table I}, the variation of B-actin PCR prod-
+uct between adjusted samples being within +5%, as judged by densito-
+metric analysis of autoradiograms.
+
+PCR
+
+PCR was conducted with 1 yl of adjusted CDNA plus 1 U of Taq poly-
+Merase and 2.5 4M of specific primer pairs in a 20-41 reaction volume
+consisting of 1X Invitrogen PCR Optimizer buffer (Invitrogen, San Di-
+ego, CA) plus 0.1 mM of each of four deoxynucleotide triphosphates
+(Boehcinger Mannheim), 2 Ci of {a-P]dATP (6000 Ci/mmol; DuPont
+Company-NEN Research Products, Boston, MA), and 0.1% Triton
+X-100 (Sigma Chemical Co.). Amplification was conducted with a Per-
+kin-Elmer 9600 thermal cycler (Perkin-Elmer Corp., Narwalk, CT) and
+began with an incubation at 94°C for 2 min and ended with an extension
+at 72°C for § min. Cycte durations were 1 min at 94°C, 1 min annealing,
+and 70 s at 72°C with an additional 3s at 72°C incorporated with each

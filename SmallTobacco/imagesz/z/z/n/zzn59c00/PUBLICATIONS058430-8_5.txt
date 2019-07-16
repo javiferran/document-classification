@@ -1,0 +1,243 @@
+Leen ee LEE
+
+30190
+
+the endocytic apparatus. A candidate for such « component is
+adapun (36). At low leveis of igand-recepter complexes. c-Sre
+may fapruen py poveptatng the activity of puch a recrutment
+tector. At high complex nutabers, this factor becomes limiting
+and is no longer available to be recruited or activated by ¢-Sre
+to bind additions! complexes. A similar hypothesis bas been
+proposed aa an explanation for the differential affinity of EGFR
+mutante for coated pits (30). In this scenario, it was suggested
+that the affinity of the receptor for coated pits depends upon
+the binding of the receptor to a specific wwternalization compo
+nent (IC) and the binding of the receptor-IC complexes to
+coated pite. In the work discussed bere, c-Src might be affecting
+the rate of receptor-IC exmplex formation.
+
+Whether physica) association batween ¢-Sre and EGFR is
+required for this process or whether c-Sre acta independently of
+the receptor or in concert with other tyrosine Kinases is up-
+known. In the absence of EGF, c-Src overexpreaxion does not
+affect EGFR bal-life. This finding suggests that physical ssac-
+ciation berween ¢-Sre and EGFR induced by EGF is important
+for the effect of ¢-Sre on EGFR internalization The require
+ment of a physical complex for affect of c-Sre on EGF-
+induced tumorigenesis has previously been suggested (16). In
+ternabzation of the constitutively internalized transferrin
+receptor is not affected by the presence of ¢-Sre. This implies
+that the increased internalization of EGFR due to o-Grc has a
+certain specificity. In addition, there is the quesuon of possible
+inveivement of other tyrosine kinases or even other receptors,
+such as ErbB2, in the internalization process. Lovestigating the
+presence and effect of any other components is @ question for
+future work
+
+In addition to the recruitment factor or internalization com-
+ponent, c-Sre may affect the funcvon of dynamin. Dynamin ise
+GTPase that is critical for the formation and release of the
+endocytic vesicles from the plasma membrane (26-28). Dy-
+namin has aleo been shown to bind the SH3 domain of c-Src in
+vitro, rmumng the possibility that e-Sre might interact with
+dynamin in vivo. We speculate that when iow ligand-receptor
+complexes are present, overexpression of c-Sre could result in
+the activation or recruitment of s larger poo! of dynamin than
+in cells expressing norma) levels of e-Sre
+
+The overal) remult of c-Gre ovaraxpreasion, however, is in-
+creased mitogensais or tmorigenesis stimulated by EGF (13,
+14, 16) How might faster rates of receptor internalization and
+greater maady-state levels of internalized receptor contribute
+to enhanced cell proliferation? The relationaip between EGFR
+internalization and signaling has pot yet been resolved satis
+factorily. EGFR internalization may serve to attenuate EGF.
+stimulated call proliferation responses (40), although this effect
+migit alternatively be dus to EGF depletion and/or EGFR
+down-regulation (41, 42). Some evidence (reviewed in Raf. 28;
+Ref. 18) suggests that EGF-EGFR complexes continue to signal
+in the endosomal compartment Existenes of EGF-EGFRShe
+Grb2‘Sos complexes in endcscmas opens up tha possibility that
+such rignaling complexes may continua to elicit growth-pro-
+moting signals following internalization, perhaps via repested
+encounters with Res at the plasma membrane. By mereesing
+the rate of receptor internalization and the steady-state level of
+internalized receptors, ¢-Sre may promote the frequency of
+interactions between endosomes and tha plasma mambrane,
+thereby augmenting mitogunic and tumorigenic signaling.
+
+PUBLICATIONS
+"60163091
+
+c-Sre Enhances Internalization of EGFR
+
+REFERENCES
+1. Rock, CA. Anderven, 0. Moran. MF. Elle. C.. and Poweor. 7 1991
+
+2 Prwwe. T.. end Schiamoger. J SURES Curr Bact. & 434-442
+
+2. Vogel W.. Lammers. R. Huang. J. and Ulinch A (1903 Seamer S68.
+1613-1614
+
+4 Carpenter. G., and Coben. §. (1979) Anau Arv. Biochem. 68, 185-216
+
+& Kang Ho d., Coang. C. M.. and Paley Bod C4) in Biachemacn! nc
+‘Molecular Aspects of Selected Cancars. Vol 2. pp. 19-45. Academic Frees,
+Ine. Orinpde. FL
+
+4. Handler, . J.. and Orenne. BW (1984) J. Clin. {aoest. 74, 647-851
+
+% Hants. J. Ueda, ML. Orewa. S.. Abe. O.. Pastan 1. and Shumuru, N.(1068i Jap
+a. Cancer fies. 70, 062-005
+
+&. Liberman 7. A. Nusbaum. HR. Ras. N.. Kina BR. Lex 1. Sereg. H.
+‘Whisuls, N.. Waterfield, Mo D.. Ulineh A. end Schiemnager, J. (1385
+Neture $12. 144-147
+
+e. Baagieary, S. E., Baker, F. L. Sprper. G., Tucker. 5. L. Tamasrnc. 5. Brock,
+W. A. Awei d. A. and Kelly. AM. (1067) Concrt Rae. 47. 403-406
+
+10, Khasme K. Schurrissebar, ¥., and Lochtnar. R (1993) Concer binnassasus Rev
+‘La, 386-774
+
+AL. Vebo. T. Ju. Begum, L. Vass, W.C.. Wilngham M,C. Marine. GT.
+Pastan, L. end Lewy, D. R (2967) Seenoe SB, 1406-1410
+
+Lh Riedal, E, Masmogus, 5. ad, and Ulich, & (1988) Prec. Nout
+deed. Ba. UB. A MH, 1477-148)
+
+1S. Latpell. D. K, Lame LM. and Perens, §. J. 11068) Mai. Cel. Biol &
+
+501
+
+14 Wiles. L. K, Laterall, D.K. Parsons, J... and Parecpa, 5.7. (1900! Mod. Cail.
+Davi. 6, UBS
+
+1S. Racks, 5. Kangl M.. Barons. M. V.. Roasee. bt F.. and Courmendge S.A
+(1908) Mol. Coli Biol. LU, 1103-1106
+
+16 Men. MC. Lana. T-K., MaCarley, D. J. Schaixman RC.. and Parnes S.J
+11906) Pree. Natt. Assad. Sa. U.S. A 62, 0981- OME
+
+17. Lateral D.K. Les. A, Lamang, T.d.. Cresby. B M.. Jung. K D.. Wierd, D..
+
+. Berman. J.. and Cilinar, T. a. (106) Pree. Neti.
+
+16 Bevan. A P., Drake, P.G., Bergwrou, J.J. Mand Pemner, B. (1900 Trends
+jetad. 7,1
+
+shell
+fap
+ir
+il
+hy
+il
+Ff
+if
+
+38891-15697
+
+Nand Lenten. A (1004) Eur. J, Biochem. 298, 1047-1063
+
+Weermzk P. A. and Rijksen, G. (1906) 0 Beal Chem 370, 2284-2267
+
+Kaplan, K. B. Swedlew. 2.R, Varmus. HE. and Morgan. D.0. (1902s J. Call
+Baol. 118, 321-333
+
+. Gear, L, Diane. R. Biles. 1D. Pry. M.d., Panaywtna G., Des, F.. Truong. 0..
+‘Teey, N.F., Heuan. J. Beoker, G. W., Carmpinail, LD. and Waterfield,
+M. D. (1009) Cou TH, 26-38
+
+Rersevaa. J. $.. Buryam, ¢.C.. Ober, A. and Vallee, RB. (1083) 7. Call
+Biol, LER. B65-B7A
+
+| Rotansen. M.S, (APRS) Cust. Open. Call Bact. 6, 633-644
+
+‘A.M. Redaimevr, 7. E.. Demie. 1. Tisdale, I J.. Meyervwits,
+
+, Ond Behmid, SL. (1083) J. Cols Biol. 128, 665-663
+
+yj Gugiatms. C. M., Authiar. F.. Peaner, B. 1. and Bergerva,
+
+) Trends Call Bini. B, 466-470
+
+‘Moran. bi. 7. (1998) Seuence 275. 1995-1838
+
+Caban. 8. (1872) 01. Biol Chem. $47, 1608-7811
+
+DA. mad Landerman. J. J. 11995) Ressyewrs: Models for
+
+. aad Sugnaling, pp. 72-152, Oxiord Usrrarnty Press,
+
+rng
+if
+
+gi 8
+
+PRE @ &
+jefe!
+
+f
+
+Rone
+EePkE
+
++ fr
+
+nc”
+.
+g@
+
+ji:
+i
+
+New Yerk
+
+s Wiley, H. 8. Herbst J. J., Walah B. J. Lantfanburyer, D. A., Roseneld, Mi &.,
+‘and OGL, G..N. (198110. Biol Chem. 906, 11083-11084
+
+$4 Frc, A R. Sudiow, P., Wiley, HS, and Laufienborger. D. A 11904)
+J, Biel. Cham. 2M, 18749-18755
+
+‘BS. Wiley, EL 8. 11908). Call Bie. 107, 001-410
+
+‘0. Land. K. A. Opresis, L. . Starbuck, C.. Walab. B. J., and Wiley, H. 5. (1960)
+Beal. Cham. 305, 16713-15723
+
+$7. Serkia. AD. Teslanks. L. V., and Nikalaky, N,N. (1965) Rep, Cell Res. 17%,
+199-008
+
+36. Seren, A, and Carpanser, G. (1904) Scumece BEL $12-616
+
+MS. Chang, C.F. Lamar, C. 9. Walsh B. J.. Kemmnre. Mt. Callawn, J. F.. Kubp.
+
+r
+
+Tecaer, 3. A. Trowtrags. 1 S., Parquaar. M. G.. Roseniakd BM. G..
+HR and GOL, GN. (1909) 7. acl, Cham. 08, 19912-19320
+‘Wein. J. BL Laser. ¢.&. Winey. HS. GU, G.N.. apd Rasenfald.
+|. (1900) Seamee ST, 162-064
+
+. C.. Wells, A. and Lacfienburger, Ti, A (1904) Biomechaol, Prog. 16,
+. C. Ni
+
+a
+rds
+
+4
+E
+
+BF 6
+f
+Ngo
+pre
+
+k
+
+yee, SK, Walla, A, Wiley, HS. and Lauflenburger. 0. A
+Becdachnad, 14, 1006-1000
+
+i
+F
+
+058435

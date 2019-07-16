@@ -1,0 +1,124 @@
+500 TESH ET AL.
+
+1500 /
+
+E
+= 1000
+w
+z
+e
+Ee *
+500 -:
+a
+ae
+0 a
+0.0 1.0 2.0 3.0
+
+LOG [TOXIN] (ng/ml)
+
+FIG. 5. Comparative dose responses of induction of murine TNF
+(mTNF) activity by SLT-I (M), SLY-II (0), and LPS (@). Peritoneal
+macrophages derived from C3H/HeN mice were stimulated with
+10-fold dilutions of the toxins for 18 h at 37°C in humidified 5% CO,,
+TNF activity in the culture supernatants was measured in quudrupli-
+cate samples by the L929 cel! lysis assay as described in Materials and
+Methods. The results shown are the averages of 12 determinations
+from three separate experiments. An asterisk indicates a statistically
+significant difference between SLT-I and SLT-I TNF production (? <
+0.01 by a paired ¢ test).
+
+Production of [L-la and IL-6 by murine macrophages
+treated with SLTs. IL-lo and IL-6 are pleiotropic cytokines
+which profoundly alter immune responsiveness (reviewed in
+references 1 and 14). IL-lo acts on macrophages to induce
+its own synthesis and the synthesis of TNF-a and [L-6. A
+membrane-associated form of IL-lo may be important in
+focusing the immune response to sites of inflammatory celt
+infiltration. IL-6 acts on B lymphocytes to crive differentiation
+and antibody production. In the presence of comitogens, IL-6
+acts on T cells to stimulate IL-2 and I1.-2 receptor expression.
+1L-6 mediates increased hepatocyte acute-phase protein syn-
+thesis. Macrophages derived from C3H/HeN mice and treated
+with 100 ng of SIT-1 per ml or 10 ng of LPS per ml produced
+clevated levels of soluble immunoreactive IL-lo after pro-
+Jonged incubation (24 to 27 h) with the inducers (Fig. 6A). As
+was the case with TNF synthesis, we noted that IL-le levels
+
+TABLE 1. Polymyxin B pretreatment does not inhibit
+SLT-I-mediated TNF production by murine
+peritoneal macrophages
+
+ 
+
+ 
+
+       
+ 
+  
+
+ 
+
+Treatment® [mu TNEy
+None..... 2 os
+LPS (5 ng/ml). .4,600 + 450
+LPS + Poly Bi -1,410 = 20
+SLT-I (100 ng/ml) 4,267 © 272
+
+ATLA EM
+
+<10
+
+SLT-4 + Poly B....
+Poly B ossesseeeereerees
+
+ 
+
+ 
+
+*“ Peritoneal macrophages derived from C3H/HeN mice were treated with
+stimulants for 18 h at 37°C in $% CO, Supermatants were collected, and seluble
+murine TNF (muTNE) activity was determined in quadruplicate by using the
+1.929 cytotoxicity assay (see Materials and Methods). Results shown are the
+averages of cight determinations from two separate experiments.
+
+> Concentration of soluble TNF in picograms per mi:liliter + standard error of
+
+the mean.
+© Poly B, stimulants were pretreated with 20 jpg of polymyxin B for 6 leat roon
+temperature prior to addition to the cells.
+
+INFECT. IMMUN,
+
+miL-+ ALPHA (pg/ml)
+
+ 
+
+ 
+
+TIME (h)
+
+miL-6 (pam!)
+
+ 
+
+TIME (h)
+
+FIG. 6. Kinetics of TL-la (A) and IL-6 (B) production by C3H/
+HeN macrophages stimulated by SLT-I (Ml) or LPS (@). Peritoneal
+macrophages were stimulated with SLT-T (100 ng/ml} or LPS (10
+ng/ml) and incubated at 37°C in humidified $% CO,, At the indicated
+time points, culture supernatants were collected, and the levels of
+immunoreaclive IL-la (mIL-1 ALPHA) and IL-6 (mIL-6) were mea-
+sured in triplicate by an ELISA. Results shown are the averages of six
+determinations from two separate experiments. Note the differences in
+y-axis scales,
+
+produced by LPS- and SLT-I-treated C3H/HeJ ceils were
+reduced (~20 pg/ml at 36 h) compared with IL-la levels
+produced by C3H/HeN cells. Both stimulants induced IL-6
+expression fram C3H/HeN celis, although the kinetics differed
+(Fig, 6B). LPS treatment resulted in elevated production and
+secretion of IL-6 beginning at approximately 6 h poststimu-
+lation. In contrast, elevated levels of TL-6 were first detected
+in macrophage supernatants after 12 h of stimulation with
+SLT-L

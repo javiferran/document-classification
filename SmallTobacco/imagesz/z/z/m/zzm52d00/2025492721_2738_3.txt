@@ -1,0 +1,32 @@
+4
+
+with B in units of percent per pCi/L of average radon level, and m, in units of
+deaths/year-100,000. In Eq. (3), mim, may be thought of as the lung cancer
+mortality rate corrected for smoking prevalence.
+
+Problems in determining S will be discussed below. Using our best values to
+calculate m, from Eq. (4) for each county leads to results shown in Fig. 1b, d. We
+see that correcting for smoking does little to improve the unexpected behavior. Fitting
+the data to
+
+mim =A+Br © {5)
+to determine A and B gives 8 =-7.30.6 for males and B =-8.3+0.8 for females, as
+compared with the Eq. (4) theory prediction B= +7.3, a discrepancy of about 20
+
+Standard deviations. We refer to this as “our discrepancy", and the remainder of this
+
+paper deals with our attempts to explain it, each section treating a different approach.
+
+Uncertainties in radon data
+
+Our radon data derives from three independent sources, our own
+measurements, EPA measurements, and studies by agencies in various individual
+States. Various checks for consistency among these three sources give satisfactory
+results’. Data from each of these three sources alone gives results for B very similar
+to those from our combined data set. We conclude that uncertainties in our r-values
+are not responsible for any significant part of our discrepancy. In fact the simplest
+correction for these uncertainties would increase our discrepancy by about 8%.
+
+Qutlvers and sampling issues
+
+veLzevsz0z

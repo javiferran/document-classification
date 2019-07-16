@@ -1,0 +1,94 @@
+43
+
+TM1 — =
+TM2 -
+
+26 -
+
+ 
+
+ 
+
+TM1 — ovat
+TM2 -22
+—
+
+EE
+
+Fig.4. Tropomyosin dimer formation in normal fibroblasts. Cells were metabolically radiolabeled with (°*S}methionine for 4h and
+cytoplasm was prepared. Indicated samples were cross-linked, immunoprecipitated and analyzed by SDS/PAGE as described in the Materials
+and Methods section. (A) Identification of tropomyosin monomers in NIH3T3 control preparation by reference to cell lines overexpressing
+tropomyosin-1 (DT/S4) and tropomyosin-2 (DT/T2b). (B) Cross-linking of NIH3T3 and WS1 tropomyosins and identification of tropomyo-
+sin-1/tropomyosin-1 and tropomyosin-2/tropomyosin-2 homodimers by reference to cross-linked samples of cell lines overexpressing tropo-
+myosin-1 (DT/S4) and tropomyosin-2 (DT/T2b). (C) Identification of cross-linked tropomyosin-1/tropomyosin-2 heterodimer by recovery
+and repeat electrophoresis under reducing conditions. TM1, tropomyosin-1; TM2, twopomyosin-2,
+
+hanced in the transductants expressing high levels of either
+tropomyosin-1 or tropomyosin-2 alone, and the monomers
+were evidently released by cleavage of disulfide bonds, the
+result implies that NIH3T3 cells produce significant amounts
+of tropomyosin-1/tropomyosin-2 heterodimer that can be
+cross-linked. Such cross-linked heterodimers occur in muscle
+cells (Lehrer and Joseph, 1987) because the tropomyosin £
+isoform of muscle cells contains both Cys36 and Cys190
+which would permit their formation. The observation raises
+the possibility that NIH3T3 cells express, in addition to the
+high-M, isoforms typical of fibroblasts, a significant amount
+of an alternative splice product (Lees-Miller and Helfman,
+1991) typical of muscle cells. Since, as noted below, this
+form was produced to a much lower degree in other normal
+fibroblasts, its prominence in NIH3T3 cells may be a pecu-
+liarity of that cell line, or of the particular cultivar used in
+our laboratory. Its presence in NIH3T3 cells does not affect
+the studies presented below and it will therefore not be con-
+sidered further in this study. The 1:1 and 2:2 dimer bands
+were also analyzed by recovery and reduction which con-
+firmed that they contained only tropomyosin-1 or tropomyo-
+sin-2, respectively (data not shown).
+
+We also examined the dimers formed in normal human
+skin fibroblasts (strain WS1) (Fig. 4B). In this case, the 1:1
+dimer was the predominant cross-linked species, with a much
+lower level of the putative cross-linked heterodimer than in
+NIH3T3. This was also true of other non-transformed fibro-
+blasts examined (NRK (rat kidney), MRCS (human lung),
+data not shown). :
+
+Quantification of this and other experiments revealed that
+25-30% of dimers containing radiolabeled tropomyosin-1
+were 1:1 homodimers in non-transformed fibroblasts. This
+observation diverges from the results of previous studies
+
+which established that the bulk of topomyosin in smooth
+and skeletal muscle was heterodimers (Sanders et al., 1986;
+Lehrer et al., 1989; Jancso and Graceffa, 1991). An explana-
+tion for the difference may lie in the fact that our analysis of
+tropomyosins radiolabeled for 4h examined primarily re-
+cently synthesized molecules. It has been reported that, in
+mixtures of tropomyosin monomers, homodimers initially
+may form rapidly but are converted to more stable hetero-
+dimers by chain exchange upon prolonged equilibration at
+physiological temperatures (Lehrer and Qian, 1990; Lehrer
+and Stafford, 1991). To determine whether such a rearrange-
+ment occurs in vive in normal fibroblasts, we analyzed radio-
+labeled teopomyosin dimers in WS1 cells labeled for 4h and
+chase incubated for an additional 36 h (Table 1, whole cyto-
+plasm, gels not shown). In this experiment quantification re-
+vealed that, in the total cytoplasm, 25% of dimers containing
+pulse-labeled tropomyosin-1 were homodimers, while this
+value decreased to approximately 7% after chase incubation.
+The latter value is in agreement with results of previous
+workers (Sanders et al., 1986; Lehrer et al., 1989; Jancso and
+Graceffa, 1991). Evidently, newly synthesized tropomyosin-1
+molecules may initially form homodimers in vivo which are
+gradually replaced by more stable, non-cross-linking, hetero-
+dimers through chain exchange. Thus, the equilibrium condi-
+tion in normal fibroblasts is equivalent to that previously re-
+ported for skeletal and smooth muscle, namely high-molecu-
+lar-mass tropomyosins occur only to a very limited extent as
+homodimers.
+
+Tropomyosin dimer formation in TMel transduced cells
+
+Cross-linking of tropomyosins in NIH3T3/S2 cells re-
+sulted in a band of 1:1 homodimer which, on quantification,

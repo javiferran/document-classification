@@ -1,0 +1,160 @@
+28184
+
+Oltactory Bulb
+Hippocampus.
+Cerebellum
+
+Frontal Cortex
+Stiatum
+
+Colliculus
+Midprain
+
+©
+s
+a
+a
+a
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+B Olfactory Bulb T cells
+33 23
+g 2B»
+g a ga 5
+f= 223
+e238 S23 &
+RE ae23
+18+ + 1 & ++ 8
+suparshit Be j Wd jaa supershitt
+NFATp 3 CARP | oat NFATp
+h cs. I
+lane 1 2 3 4 5 6 7 8 9
+
+Fic. 3. A, Western analysis of NFATp in extracts from subregions of
+mouse brain. Several anatomical regions of the mouse brain were dis-
+sected, homogenized, and analyzed by Western blotting with an anti-
+serum against a peptide of NFATp. A prominent doublet (filled arrow-
+head) was labeled in extracts feom the spleen (lene 7) and olfactory bulb
+(long 2), Fainter signals were also present in samples from hippocam-
+pus (Jane 5) and cerebellum (lane 6). The positions of protein molecular
+mass standards (kDa) are marked at the deft. B, antiserum against a
+peptide of NFATp supershifts the NFATp-DNA complex from olfactory
+bulb and from T cells. Ammonium sulfate-precipitated eytosolic extracts
+were prepared from olfactory bulb (lanes 1-4) and from the CL7W2 T
+call line Uanes 5-8), and their binding to the NFAT oligonucleotide was
+assessed by electrophoretic mobility shift assay in the absence (lanes I
+and 5) or presence (lanes 2 and 6) of antiserum. As with PC12 cell
+extracts, the antiserum selectively recognized the NEATp-DNA complex
+in olfactory bulb (lane 1, bottom filled arrowhead), shifting it toa slower
+migrating complex (Jane 2, upper filled arrowhead), but did not affect
+the mobility of a second complex (lanes 1 and 2, open arrowhead). The
+specificity of the supershift was demonstrated when the antiserum was
+preincubated with its corresponding peptide (Janes 3 and 7) or with an
+irrelevant peptide (/anes 4 and 8), Antiserum alone did not bind appre-
+ciably to the probe (Jane 9).
+
+~97 kDa whose protein-DNA complex migrated more slowly
+than the NFATp-DNA complex (upper panel, lane 7, top band}.
+However, the complex formed from this 97-kDa fraction was not
+supershifted by the antipeptide antiserum against NFATp, and
+formation of the complex was competed by all the mutated
+NFAT oligonucleotides (data not shown), suggesting that the
+97-kDa protein was unrelated to NFATp. These results from
+renaturation experiments complement the Western analysis
+and identify a 120-kDa PC12 cell protein that is capable of
+binding specifically to the NFAT site and is recognized by an-
+tisera against several distinct regions of NFATp.
+
+The observation that NFATp was expressed in a neuronal
+cell line led us to test whether it was also present in the brain.
+Western analysis of protein from several regions of the mouse
+brain, with the same antiserum as above, showed that a rela-
+tively high level of immunoreactive protein was present in the
+olfactory bulb (Fig. 3A, lane 3, arrowhead). The sample from
+olfactory bulb exhibited a doublet of labeled bands with appar-
+ent molecular masses of about 120 kDa and more diffuse label-
+ing extending upward to about 150 kDa, which comigrated with
+the labeled protein in a spleen extract (lane 1), Labeling of the
+
+Expression of NFATp in PC12 Cells and in Neurons *
+
+doublet and of the associated diffuse band was completely
+blocked when the antipeptide antiserum was preincubated
+with its cognate peptide. Fainter signals in the same range of
+apparent molecular weights were detected in extracts from
+other brain regions including frontal cortex, hippocampus, and
+cerebellum (lanes 2, 5, and 6), suggesting that NFATp might be
+present in a small subpopulation of cells in these regions. The
+antiserum labeled additional minor protein bands in brain
+samples whose relation to T cell NFATp is not clear at present.
+
+To determine whether the protein from olfactory bulb was
+functional in DNA binding, an extract from murine olfactory
+bulb was incubated with the labeled murine NFAT oligonucleo-
+tide, and DNA binding was assessed in an electrophoretic mo-
+bility shift assay (Fig. 3B). The band pattern obtained with
+alfactory bulb extracts resembled that obtained with PC12 cell
+extracts in that two protein-DNA complexes were formed (lane
+1), a lower complex that could be specifically supershifted by
+antiserum against NFATp (lanes 2-4, filled arrowhead) and an
+upper complex that did not react with the antiserum (lanes 24,
+open arrowhead). Oligonucleotide competition patterns exhib-
+ited by the olfactory bulb and PC12 cell extracts were also
+similar with formation of both lower and upper bands competed
+by the unlabeled NFAT and M1 oligonucleotides, partially com-
+peted by the M2 oligonucleotide, and not competed by the M3
+oligonucleotide (data not shown). Thus the olfactory bulb pro-
+tein is similar to T cell NFATp and to the PC12 cell protein in
+molecular weight, in its binding to the IL-2 promoter NFAT
+site, and in its recognition by antiserum against NFATp.
+
+We have examined the cellular localization of NFATp by im-
+munohistochemical staining of tissue sections through olfac-
+tory epithelium and olfactory bulb. The most evident staining is
+in olfactory receptor neurons, their pvocesses, and the regions
+of their synaptic contacts in the glomeruli of the olfactory bulb
+(Fig. 4). The labeling is specific, since it is absent when the
+primary antiserum against NFATp is incubated with its corre-
+sponding peptide. The staining experiments indicate that the
+immunoreactive NFATp detected in the olfactory bulb by West-
+ern analysis and the NFAT» activity demonstrated in electro-
+phoretic mobility shift assays are derived largely from the proc-
+esses of olfactory receptor neurons. Further studies using
+immunohistochemical staining will show whether a subset of
+neurons in the olfactory bulb also contains NFATp at lower
+levels and will provide a more sensitive way to detect NFATp
+and to determine its cellular localization in other brain regions.
+
+DISCUSSION
+
+The discovery of NFAT» in the brain is unexpected in view of
+a previous report (22) that proteins in brain extracts showed no
+binding to an NFAT oligonucleotide. However, that study used
+an NFAT site from the human IL-2 promoter as the oligonu-
+cleotide probe, and recent work has shown that the binding of
+NFAT» to this site is contingent upon its association with AP-1
+proteins (36). The NFAT site of the murine UL-2 promoter, on
+the other hand, binds NFATp independently of other proteins
+(36) and thus provides a more direct assay for the presence of
+NFAT». The inability to detect constitutive transcription from
+a multimerized NFAT site in the brains of transgenic mice (22)
+may also reflect the requirement for AP-1 proteins, which are
+critical for transcriptional activation mediated through the
+{L-2 promoter NFAT site (9, 18).
+
+‘The identification of NFATp in PC12 cells and in olfactory
+receptor neurons raises the question whether the neuronal pro-
+tein is identical to the T cell pratein or is a closely related form
+of NFATp. Since alternative splicing of the NFATp mRNA tran-
+script has heen detected in T cells (18), the possibility must be
+considered that PC12 cells and olfactory neurons express spe-
+cific neuronul isoforms of NFATp. However, recent data show

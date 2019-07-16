@@ -1,0 +1,58 @@
+we ON RGU Gee RTs RMB, Ee SBE!
+
+HPLC DETERMINATION OF ETHYLENETHIOUREA RESIDUES ON TOBACCO
+
+Introduction
+
+Ethylene (bis) dithiocarbamate (EBDC) fungicides have commonly been
+used on agricultural food crops. Although these fungicides are
+not frequently used on tobacco, limited use is permitted during
+blue mold outbreaks in certain areas of the United States, and
+they are sometimes applied to foreign tobaccos. There has been
+concern that EBDC fungicides decompose to generate ethylene-
+thiourea (ETU), a suspected carcinogen. A method was developed
+to determine ETU residues on tobacco.
+
+Of the many methods that have been published for the determina-
+
+tion of ETU, only one method existed for determining ETU on
+
+tobacco (1-4). This method was found to be unsatisfactory for
+
+detecting low levels of ETU on tobacco (less than 1 ppm).
+
+Several other methods reported for the analysis of ETU on foods
+
+ERR AE LTRS aT ET EE LT LI TS MT ES EE IPEY DOLE Cy Ta EP RTS EE OIDs Sea cr Sn
+
+Of the methods investigated, an HPLC method developed by Krause
+for the determination of ETU residues on foods was found to give
+the best results (4). However, recovery of ETU on tobacco using
+this method was only around 60%. It was discovered that ETU
+quickly decomposes in the tobacco extract solutions. In the
+literature, L-cysteine had been used to inhibit ETU decomposition
+on crops during storage (5). Based upon this information, L-
+cysteine was added to the extraction solution and recovery of ETU
+was increased from 60% to greater than 80%.
+
+Materials and.Method |
+
+Materials
+
+HPLC grade solvents and commercially available reagent grade
+chemicals were used. Gaschrom S adsorbent was purchased from
+Alltech Associates, Inc. The alumina (aluminum oxide) used for
+sample cleanup was 80 to 200 mesh, activated. Surfasil sili-
+conizing fluid used to treat glassware was purchased from Pierce
+Chemical Company. Whatman glass microfibre filters GF/B were
+used to filter samples.
+
+Apparatus
+
+An explosion-proof Waring Laboratory blender was used for the
+extraction. The HPLC analysis was performed on a Perkin Elmer
+Series 3B liquid chromatograph equipped with an LC-75 spectropho-
+tometric detector. A Buchi Rotavapor R rotary evaporator was
+used to concentrate extracts.
+
+Tsssegzg

@@ -1,0 +1,32 @@
+TNO-report
+
+a ee
+
+B-92-0388 May 1992 page 36
+
+IL CONCLUSION _
+
+This study shows that with a membrane stripper a high degree of removal (>95%) is possible
+for water soluble components as found in ETS in combination with tap water as the absorp-
+tion liquid. The pressure drop is low, down to 3 mbar.
+
+The sensory filtration efficiency is in the order of 50% which is lower than the efficiency for
+the water soluble components. This indicates that the sensorically perceived components are
+mainly not or poorly soluble in water,
+
+To realise a complete high efficiency cleaning system for all componenets in ETS an addi-
+tional filtration step is required for the non water soluble components. This probably can be
+realised with a membrane module combined with an organic absorption liquid. To develop
+such a system future research should be directed to:
+
+: demonstration of long term efficiency of membrane stripper.
+
+- scale up of membrane stripper (cross flow module).
+
+- development of filtration step for components not soluble in water.
+
+- evaluation of comparability of both methods for the determination of the sensorically
+
+perceived air quality (dilution method and decipol method).
+
+922E 101062

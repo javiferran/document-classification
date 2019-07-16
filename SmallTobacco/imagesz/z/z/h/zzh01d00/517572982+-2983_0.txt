@@ -1,0 +1,58 @@
+RY Reprod
+
+a Tebacco Company
+
+ 
+
+THOMAS J. STEICHEN
+Master Statistician
+Research & Development
+
+* Winston-Salem, NC 27102
+910-741-4084
+Fax: 910-741-1430
+
+March 8, 1996
+
+Dr. Geoffrey C. Kabat
+
+Department of Epidemiology and Social Medicine
+Albert Einstein College of Medicine
+
+Belfer Building Rm. 1302
+
+1300 Morris Park Avenue
+
+Bronx, NY 10461-1601
+
+Dear Dr, Kabat:
+
+I recently reviewed your paper, “Relation between exposure to environmental tobacco
+smoke and lung cancer in lifetime nonsmokers” (Kabat GC, Stellman SD, Wynder EL.
+Am. J. Epidemiol. 142(2):141-8, 1995), and noted a logical inconsistency that likely
+indicates a minor error.
+
+Specifically, in Table 2 (page 144), you list the odds ratios for males for exposure in
+childhood as 0.90 for “yes” (i.e., any exposure), 1.12 for “1 smoker in the household,”
+and 1.13 for “2+ smokers in the household.” These two later categories merely partition
+the “yes” category, therefore the OR for “yes” should be some weighted average of the
+OR’s for the sub-categories and should fall between 1.12 and 1.13. This is,
+unfortunately, not true in the published table, thus one or more of the OR must, I believe,
+be incorrect.
+
+I calculated crude OR’s and CI’s from your published case and control counts for each
+exposure category and was surprised to find that the crude results for “yes/no” identically
+replicated your published results. This was surprising because you indicated on page 142
+that “[u}nconditional logistic regression was used to estimate the effect of exposure with
+adjustment for covariates, including age, education, and type of hospital.” Does Table 2
+contain adjusted or crude results? Your paper does not clearly state if the results in Table
+2 are, or are not, adjusted. My calculated crude results for “1 smoker in the household”
+was 0.93 (95% CI: 0.42-2,06) and for “2+ smokers in the household” was 0.87 (95% CI:
+0.31-2.45), These calculated crude sub-category results are logically consistent with the
+published, dichotomous “yes/no” results.
+
+ 
+
+C862 LSLTS
+
+wrk for smokers.”

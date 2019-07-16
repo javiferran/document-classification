@@ -1,0 +1,60 @@
+Molecular mechanism of tumor necrosis factor (TNF) and TNF receptors involvement in autoimmunity.
+
+Project Description
+
+We propose to study the regulatory role of TNF and its two receptors, TNFR-1 and TNFR-2, and the
+mechanism of the involvement of this cytokine in the pathogenesis and genetic predisposition to
+autoimmune disease.
+
+Systemic lupus erythematosis (SLE), a prototypical human autoimmune disease, is a disorder of
+generalized autoimmunity characterized by multi-system organ involvement and autoantibodies against
+nuclear, cytoplasmic and cell surface antigens. The mechanism(s) responsible for the breakdown of
+tolerance for these self antigens are unknown. In scarch for mechanisms responsible for immune
+dysregulation in SLE, cytokines have received increasing attention. One particular cytokine, TNF-o has an
+important protective role under the appropriate conditions in a mouse model of SLE, the (NZBxNZW)F1
+mice.
+
+The TNF genes, which include the TNFa, LTa, and the recently cloned LTB genes, are unique among
+all known cytokines and growth factors in that they are the only cytokine genes located within the central
+portion of the Major Histocompatability Complex (MHC). Because of TNF's location, and because many
+of its potential biological activities are related to immunoregulation and inflammation, the possibility that an
+"abnormal" TNF gene could be involved in autoimmune diseascs was tested experimentally. | have shown
+that activated peritoneal macrophages from NZW mice produce 5- to 10-fold lower levels of TNFa. than
+non-autoimmune strains. Furthermore, this low TNF production was associated with a unique
+polymorphism in a simple tandem repeat sequence identified within the promoter region of TNFa. Most
+importantly, treatment of NZBxNZW mice with recombinant TNFo. caused a very significant reduction in
+the incidence of nephritis and other autoimmune disease parameters in the treated mice.
+
+Further studies have revealed that: (1) TNF production is reduced also in a subset of patients with
+lupus, similarly to the (NZBxNZW)F1 mice that have an inherited lupus-like autoimmune diseasc. (2)
+Lupus patients with low TNF inducibility have a 3-5 fold increase in nephritis incidence; (3) In classical
+backcross experiments we showed that low TNF production in the NZW mouse is linked to the MHC,
+
+In search of the mechanism of low TNF production in the lupus mouse, we have cloned and
+sequenced the 5’ regulatory regions from a total of 12 high- and low-TNF producer autoimmune and
+normal mouse strains as well as the 3'UTR of the TNF gene, from the stop codon at position 6215-6217
+downstream (approximately 1.0 kb), in several strains. Several single bp mutations in the 5’region and
+nine sites were found to be associated with mutational events in the 3°UTR. The most interesting
+mutations were in the 3°UTR: a 5 base GACAC insertion at position 6381 and a 3 bp insertion of GAT,
+which disrupts the first AU-motif of TNFa. in the NZW mouse. To probe the functional relevance of the
+5' regulatory regions and the 3'UTR mutations in the TNF gene, we have made constructs in which 5’
+TNF promoter fragments from the low-TNF producer NZW mouse or from the high-TNF producer SWR
+mouse were linked to the luciferase reporter gene followed by 3'UTR sequences from the NZW mouse,
+or 3'UTR sequences from the non mutated SWR strain. The different constructs were transiently
+expressed in the RAW 264 cell line, activated with LPS and IFNy, and luciferase activity measured.
+Results published recently (J. Immunol. article enclosed) suggest that mutations in the 3’ untranslated
+region of the TNF gene may be primarily responsible for the genetic defect in NZW mice. It is noteworthy
+that, while luciferase activities are significantly reduced in the constructs with the 3'UTR originating from
+the NZW mouse, the level of luciferase mRNA is not affected suggesting that this is a post-transcriptional
+effect.
+
+As a first step in investigating the regulatory mechanisms of TNF and their distinct signal transduction via
+each receptor, we considered isolation and characterization of the mouse receptors 10 be important. The
+cloning and sequencing of the TNF-R1 was recently completed and published.
+
+We also cloned the mouse TNF-R2 and recently completed the sequence of the gene. We arc now in a
+strong position to be able to directly analyze and fully characterize the promoter of TNFR-2 in comparison
+with the promoter of TNFR-1. In parallel with cloning of the promoters of the receptors for regulatory
+studies, we have done regulatory experiments comparing the expression of the two TNF receptors using
+
+50726195

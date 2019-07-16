@@ -1,0 +1,68 @@
+INBIFO Institut fiir biologische Forschung GmbH - Koln PRIORITY
+f Report P 0500/3237 9710/8 Page 50
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATCH DOSE MUTAGENICITY (rev. /plate) REGRESSION ANALYSIS
+NO.
+PLATE M SE RSD REGR. SD CORR. TEST
+i COEF. COEF.
+: 1 2 3
+i (ug/ (8) (rev./ (rev. /
+i plate) mg) tig)
+!
+mo 0798 «80.200 35 28 «630)0(31.0 2.1 11.6
+0.400 34 40 38 «437.3 1.8 8.2
+0.600 31 39° 3836.0 2.5 12.1
+cob aea 0.800 41 53 46 46.7 3.5 12.9
+i 1.000 58 64 #58 60.0 2.0 5.8 31 6 0.863 ++
+0799 0.200 24 46 32 34.0 6.4 32.8
+0.400 32-290 «3532.0 1.7 9.4
+0.600 44 37) 42 41.0 2.1 8.8
+0.800 54 53 52 53.0 0.6 1.9
+1.000 56 57 64 59.0 2.5 7.4 34 6 0.836 +++L
+0800 =0..200 46 33 31 36.7 4.7 22.2
+0.400 37) 340 437.3 2.0 9.4
+0.600 44 61 36 47.0 7.4 27.2
+0.800 55 58 59 57.3 1.2 3.6
+\ 1.000 42 47 56 48.3 4,1 14.7 21 6 0.627 +L
+1 0801 0.200 39° 310 «43 0«(37.7 3.5 16.2
+POG 0.400 42 33 43 39.3 3.2 14.0
+0.600 44 44 42 43,3 0.7 2.7
+0.800 45 61 55 53.7 4.7 15.1
+1.000 51 42 «652 «648.3 3.2 11.4 18 6 0.679 + L
+a all 0.200 - + - 34.8 2.1 20.5
+\ 0.400 - - - 36.5 1.3 12.0
+0.600 - - - 41.8 2.1 17.4 7
+0,800 - 52.7 1.7 11.3
+1.000 - 53.9 2.1 13.7 27 3) 0.751 HeL
+
+ 
+
+Table 34 WiRagean OF TPM WITH S9 ACTIVATION IN STRAIN TA1537,
+TRGOQ-CA
+
+|
+4
+i
+I
+|
+
+J
+
+Remarks: date of assay: 05-MAR-97
+regression analysis: using Poisson weights
+test: statistically significant difference from 0
+N: nonlinearity, L: linearity
+
+ 
+
+970917 11:05:43 P. 1 USER_DISK:[IT_A_H]MUT_3237.LIS;12
+
+SLLLLZp90z

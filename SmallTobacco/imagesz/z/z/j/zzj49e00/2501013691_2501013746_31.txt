@@ -1,0 +1,45 @@
+TNO-report
+
+eee
+
+B-92-0388 May 1992 page 32
+
+The relation between the perceived air quality (C) in decipol and acetone concentration (P) in
+
+ppm was determined to be:
+C = 0.8 + 0.22.P
+
+In this study air samples were taken from the inlet air and the outlet air of the membrane
+module and led by Teflon tubing into two decipol meters. The air flow from the Teflon tube
+was 9.2 l/min and was diluted in the decipol meter with “clean” air to 60 I/min. The measure-
+ments were performed twice for both samples. By comparing the inlet and outlet concentra-
+
+tions, the filtration efficiency can be calculated.
+10.2 Results
+
+The results of the measurements of the odour concentrations measured by the dilution method
+
+are presented in Table 9.
+
+Table 9. Odour concentrations in OW mS,
+
+No, Location o.u./m? resp.dust conc., mg/m?
+
+l outlet air 180
+
+   
+  
+
+ 
+
+   
+     
+
+re
+
+       
+         
+
+ 
+
+€22£ 101052

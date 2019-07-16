@@ -1,0 +1,56 @@
+Preliminary Proposal page 2
+George Weinstock, Ph.D. February 11, 1993
+
+gene for cholera toxin by UCO between repeated sequences that flank the toxin gene.
+Enterococcus faecalis, one of the major agents in hospital infections, can become
+resistant to high levels of the antibiotic tetracycline by UCO amplification of a
+tetracycline resistance gene that it carries. Finally, Salmonella typhinurium
+develops a growth advantage over other bacteria by amplifying genes involved in
+nutrient transport through UCO between repeated sequences,
+
+The results of our own studies on E. coli. can be summarized as follows:
+
+(1) The frequency of duplications is quite high. Typically any gene around the
+chromosome is duplicated in from 1 in 1000 to 1 in 10,000 cells.
+
+(2) The frequency of duplication is stimulated by DNA damaging treatments.
+Modest doses of UV radiation are sufficient to increase duplication frequencies by 10
+to 100 fold resulting in some genes being duplicated in as many as 5% of the cells in
+a culture.
+
+(3) The size of the duplications is quite large. The average duplication is
+between 5 and 10% of the E. coli. chromosome, although duplications of over 40% of
+the chromosome have been observed.
+
+(4) Duplications occur between many different repeated sequences and thus a
+large variety of rearrangements are possible.
+
+(5) The process of duplication appears to be controlled. The mismatch repair
+system normally inhibits duplication of some regions. However, other regions are
+insensitive to mismatch repair implying that other syslems must be controlling
+UCO as well.
+
+(6) When a duplication is observed in one region of the chromosome,
+reatrangements are often seen in other regions of the chromosome as well. This
+implies that normally UCO is inhibited but when this inhibition is removed, UCO
+can occur at a high frequency throughout the chromosome.
+
+Proposed Experiments
+
+Our goal is to continue our studies in E. coli and use this knowledge to
+develop a general assay for UCO. This assay will then be employed to study this
+process in eukaryotic cells including human cells. The assay that we propose would
+be based on the PCR. The basic idea behind the assay is that repeated sequences that
+are normally far apart on the chromosome will be brought close together at the
+junction of an unequal crossing over event. Thus, PCR primers directed against
+sequences flanking the repeats will only give a signal when UCO has occurred. We
+are currently developing this assay using duplications in F. coli and have found that
+duplications are readily detectable. What we would like to do is to improve the
+sensitivity so that we can detect UCO events that occur in the much larger
+mammalian genome. A variety of PCR methods have been described in the
+literature that can detect sequences in as few a one in a million cells. These assays
+have been used for early detection of cancer cells, HIV, and other disease related
+sequences. We believe it should be possible to combine these regimens in a UCO
+detection scheme.
+
+50619006 _

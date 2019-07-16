@@ -1,0 +1,53 @@
+1 ERROR TERS
+
+Texas Ingredients Disclosure
+
+The deadline for submission of cigarette formulation information to Texas was extended
+until February 1, 2000. Work continues with MIS to complete information encryption
+procedures and transfer of files to the server.
+
+HHS Meeting
+
+A meeting of industry representatives was conducted in Atlanta on November 17, 1999
+with Dr. M. Eriksen of the HHS Office of Smoking and Health to discuss his request for
+information regarding the industry ingredients list. Prior to the meeting with HHS, the
+industry ingredients committees met to discuss questions anticipated to arise during the
+HAS meeting. C. Coggins attended the meeting with HHS, with C. Gaworski and J. D.
+Heck in attendance at the industry committee meeting. Eriksen requested a description of
+each company’s approach to ingredient testing and review. This has been drafted and
+submitted to Coggins for review.
+
+Project Name (#): Bioassay Development (B-601)
+Project Leader: C.L. Gaworski
+
+Project Initiation Date: 1995
+
+Project Hours: 167
+
+Project Description: This project specifically accounts for the laboratory time involved in the
+development of various bioassay capabilities within the scope of R&D objectives. Areas of
+interest will include bacterial mutagenesis, mammalian cell biology, PCR, and associated
+biochemical analysis. As the techniques and capabilities are refined, they will be applied to
+specific areas of interest including cigarette modification or ETS projects. This project will
+principally involve the activities of the Life Sciences Group, but may also include occasional
+support from other groups.
+
+Project Accomplishments:
+DNA adduct studies
+
+Covance has finished development of a 8-OHdG analysis by p-32 postlabeling. Old
+pellets of TA7005 prepared April 1999 were examined for 8-OHdG content. The DNA
+preps are unsuitable for analysis. New pellets were prepared in October and analysed
+during November. Preliminary indication from Dr. Nath is that no 8-OH-dG is found in
+TA7005 treated with ESP at 400 j1g/ml for 2 hours. Dr. Nath has arranged a visit to
+Lorillard in December to discuss his progress with p-32 postlabeling procedures.
+
+Methods development
+
+Fluorescent Alelle Specific PCR (FAS-PCR) for detection of TA7005 revertants is
+proceeding. PCR conditions are near optimization and PCR of TA7005 revertants has
+been done successfully. Results are promising.
+
+21986028
+
+2 of 6

@@ -1,0 +1,136 @@
+$22
+
+ 
+
+(helper T celts). These events together with lymphokines pro-
+duced by the anuigen-presenting cells and T helper cells are re-
+sponsible for production of diverse T cell imumune responses
+central to prolective immunity, Stimulation of CD4-positive T
+helper cetls expands the unmune fesponse, stimulating both
+attigen-restricted cytotoxic T cells as well as the humoral arm
+of the immune response. The T cell-dependent arm of the hu-
+Moral immune response mediates specific anti-viral antibody
+production, which includes the production of neutralizing and-
+bodies, antibodies that caa prevent viral infection of target
+cells, as well as ather complex antiviral specific andbody activ-
+ilies, Specific MHC class { antigen presentation to CD8-posi-
+live T cells expands the immune cell Population that is neces-
+sary for destruction of virally infected cells.
+
+The direct intoduction of nonreplicating viral genes into a
+host can potentially mimic some aspects of viral infection in
+that the synthesis of specific foreign proteins would be accom-
+plished in the host cells and the proteins produced would poten-
+ually become the subject of immune surveillance.'-} Genetic
+immunization with relevant constructs has been reported to in-
+duce antibody and T celf and protective immune responses
+against influenza proteins in mice.2~! Similarly, relevant hu-
+moral and T cei! immunity against HIV-1 bas been induced in
+mice and in sonhuman primates, as have been humoral immune
+responses in primates through facilitated genetic inoculation
+with HIV-1 envelope constructs.15.6
+
+In the present studies we demonstrate that gene inoculation
+with HIV-t envelope-encoding vectors induces protein produc-
+tion in muscle in vivo. Furthermore, we observed that genetic
+immunization induces lymphocyte accumulation in muscle fol-
+lowing HIV-1 envelope construct inaculation in vivo. Animals
+inoculated with plasmid DNA seroconverted and, in contrast to
+recombinant protein-immunized animals, analysis of spleen
+Cells demonstrated that the inoculation protocol induced spe.
+cific anti-HIV-[ envelope cytotoxic T lymphocytic (CTL) re-
+sponses in vive, Inoculated animals were challenged with lethal
+tumor cell lines expressing the HIV-t envelope glycaprotein to
+evaluate the ability of gene inoculation to induce in vive protec-
+tive anticeltular responses. In multiple experiments greater than
+90% of animals genetically inoculated with the HIV-1 envelope
+completely rejected challenge with HIV-1 envelope -expressing
+‘amor cells. [dentically immunized animals were able to resist
+parental (i.e. tumor cells not expressing the HIV-1 antigen) tu-
+mor challenge. Importantly, animals immunized with recombi-
+nant HIV-l envelope proteins demonstrated only low levels of
+protection against tumor cell challenge.
+
+These studies suggest that a further evaluation of genetic in-
+eculation as an immunization strategy is warranted and could
+have importance for both vaccine and immunotherapeutic
+strategies, in particular against the human immunodeficiency
+virus type L.
+
+MATERIALS AND METHODS
+
+Gene inoculation. The DNA construct containing the
+gp 60re~4t region, pM 160-26, has been described in a previous
+publication.6 The direct injection of this DNA with bupivi-
+caine-HCl (a toul of three inoculations) into quadriceps mus-
+cles of BALB/c mice was performed as previously describ
+
+  
+
+ASTER PAGES ......
+
+Specifically, ihe quadriceps musctes of BALB/c mice were in-
+jected with 100 jut of 0.25% bupivicaine-HC! and 0.1% methyl.
+paraben in isotonic NaCl, using 4 27-gauge needle. Twenty.
+four hours after bugivicaine injection, 100 xg of the DNA
+Construct was injected into the same region as the bupivicaine
+injection. The same amount of DNA construct was injected
+three times at biweekly intervals and then the mice were al-
+lowed lo rest for 1 month prior to analysis or tumor challenge,
+
+Recombinant gp160 immunization. BALB/c mice were im-
+munized with | Wg of glycosylated recombinant (HIV-tA0B)
+gpl60 (MicroGeneSys, Inc., Meriden, CT) in Freund's com-
+plete adjuvant followed by three boosters (1 Wg of gp160 each)
+in Freund's incomplete adjuvant at 2-week intervals,
+
+Assay of antiserum binding to gp160 and rgp4! by ELISA,
+Recombinant gpi60 (tgp160) and recombinant gp4l (rgp41)
+were purchased from American BioTechnologies, Inc.
+(Cambridge, MA). Fifty microliters of tgpl60 (3 ug/ml) or
+repdl (3 fg/ml) was adsorbed ontg microtiter wells and stan-
+dard enzyme-linked immunosorbent assays (ELISAs) were per-
+farmed as we have previously described +?
+
+Immuno histochemical Staining of muscle sections. Toe mus-
+cle cryosections were made from excisions of tissue from the
+injection site, and quickly frozen in liquid nitrogen. Sections
+were reacted with a pool of murine anti-HIV-1 gpléd, or gp4t
+monoclonal antibodies (gifts fom R. Attanasio, Southwest;
+Foundation) followed by detection with a goat anti-mouse
+IgG-horseradish peroxidase (ARP) antibody conjugate.
+Hematoxylin was used as the counterstain. :
+
+Genetic immunization induces cytotaxic T cell responses. |
+Spleen cells (10 x 108) from normal or immunized mice primed |
+14 days earlier were incubated for 7 days with 10 x 106 irradi-
+ated (3000 rads) syngeneic splenocytes that had been infected
+with recombinant gp160 (vpel6} vaccinia virus (10 PFU/cell).!
+Vaccinia-infected targets were prepared by infecting 3 x 106
+p815 cells for 16 br at 37°C, The target cells were labeled with
+Naz! CrO, (100 pCi/ml) for 90 min and used to incubate the
+sdmulated splenocytes for 6 br at 37°C, Cytotoxic T lympho- .
+cytes were tested at various effector-to-target (E:T) ratios, de- .
+pending on cell isolation. Supematants were harvested and
+counted on an LKB (Bromma, Sweden) CliniGamma ¥ counter.
+Percent specific lysis was determined by the formula: 100 x
+(experimental release - spontaneous release (maximum re-
+lease — spontaneous telease)]. Maximum release was deter-
+mined by lysis of targets in 1% Triton X-100.
+
+Tumor chatlenge cells. SP2/0 cells were originally obtained
+from the American Type Culture Collection (ATCC, Rockville,
+MD). Analysis of the SP2/0 cell line and transfectants with an-
+tibodies to I-A¢ (MK-D6, from the ATCC) revealed 48% pos-
+itive staining, whereas staining for H-24 (34-[-25, from the
+ATCC) revealed 24-43% positive Staining by flow cytometry.
+Cells were grown in RPMI-1640 with added penicillin/strepto-
+mycin, L-glutamine (all from GIBCO, Grand Island, NY), and
+10% fetal bovine serum (Sigma. St. Louis, MO). SP2/0 cells
+(1 x 109) were passaged through BALB/c mice and then cloned,
+tegrown, and then repassaged, and so on, until a reproducible
+clonal tumor cel! line was obtained. On inoculation of 3 x 106
+tumor cells into mice, 100% of the inoculated animals devel-
+oped lethal tamors in a 7- to 8-week period, The SP2/0 cell line
+was then used as the transfection farget in later experiments ex-
+actly as described in Results.

@@ -1,0 +1,43 @@
+1197
+
+CRC contTRact RESEARCH CENTER PRIEORIT Y.
+
+Study Plan B3311 / PO500/3311 1999/1/11 Page 10
+
+4.5 Biological Assays and Determinations
+
+In order to determine and compare the biological activity of the MS, assays and determinations
+
+will be carried out as specified in Table 4.
+
+For the sample collection of polychromatic erythrocytes in bone marrow and circulating blood
+(SOP CRG 277 and 281), the mice will be sacrificed approximately 24 h after their final exposure.
+Bone marrow will be obtained from the femurs. Erythrocytes will then be purified from nucleated
+cells (Percoll gradient) according to Romagna and Staniforth (1989). Blood will be obtained from
+the heart. Smears will be prepared from bone marrow and circulating blood and stained using
+
+Giemsa. Preparations will then be screened microscopically for the presence of micronuclei.
+
+In addition, some of the blood will be used for the determination of the number of micronucleated
+
+reticulocytes using the Stratagene Microflow Mouse Micronucleus Analysis Kit.
+
+Bone marrow and blood from the positive control group will be evaluated in the same way. Bone
+
+marrow and blood samples will be taken approximately 24 h after treatment.
+
+For bone marrow, the polychromatic erythrocytes (PCE)/normochromatic erythrocytes (NCE)
+ratio will be determined by counting 200 erythrocytes; for blood, the PCE/NCE ratio will be
+determined by counting 1,000 erythrocytes. The number of micronucleated polychromatic
+erythrocytes will be determined by screening 2,000 polychromatic erythrocytes. In order to ensure
+the blind evaluation of the samples, the determination of the PCE/NCE ratio will be done
+separately from the evaluation of micronucleated polychromatic erythrocytes. The evaluation of
+the number of micronucleated reticulocytes will be performed by counting 10,000 reticulocytes
+
+(Stratagene/Litron Laboratories).
+
+To confirm the exposure to MS, blood carboxyhemoglobin concentration will be determined.
+
+|
+
+2€28627902

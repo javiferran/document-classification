@@ -1,0 +1,62 @@
+c. The horizontal panel specimens shall be cut such that the major
+areas of weave variation will lie on the crevice when specimens are
+mounted warp to warp with vertical panel specimens.
+d. For dyed and/or printed fabrics, color shall not constitute a
+difference with respect to cigarette ignition resistance in this
+test.
+
+3. SPECIMEN MOUNTING:
+a. For vertical panels, place the cover fabric specimen on a 203 x
+203 x 51 mm (8.0 x 8.0 x 2.0 in) polyurethane substrate as shown in
+Figure III, taking care that any areas of weave mentioned in SAMPLE
+REQUIREMENTS above are on the edge which will form the crevice of
+the assembled test apparatus. The warp or machine direction of the
+fabric should run front to back on the test assembly. Attach the
+cover fabric to the substrate with straight pins.
+b. For horizontal panels, place the cover fabric specimen on a 127
+x 203 x 51 mm (5.0 x 8.0 x 2.0 in) polyurethane substrate as shown
+in Figure III, taking care that any areas of weave mentioned in
+SAMPLE REQUIREMENTS above are on the edge which will form the
+crevice of the assembled test apparatus. The warp or machine
+direction of the fabric should run front to back on the test
+assembly. Attach the cover fabric to the substrate with straight
+pins.
+c. Place the assembled vertical and horizontal panels in the
+specimen holders such that a snug fit without deformation as shown
+in Figure III is obtained.
+
+VII. TEST PROCEDURE
+1. TESTING PRECAUTIONS: THE GASEOUS PRODUCTS OF SMOLDERING COMBUSTION
+ARE TOXIC. LARGE AMOUNTS OF CARBON MONOXIDE AND OTHER NOXIOUS GASES
+ARE PRODUCED BY SMOLDERING ORGANIC MATTER. TESTS SHOULD BE CONDUCTED
+IN A FUME HOOD OR ROOM PROVIDED WITH ADEQUATE MEANS FOR REMOVAL OF
+TOXIC FUMES.
+2. CONDITIONING: All test specimens, cover fabrics and test materials
+{including polyurethane, cigarettes and sheeting material) shall be
+conditioned at a temperature of 21° + 39 c (70° + 4° F) and between
+50% and 66% relative humidity for at least four hours prior to
+testing. If the test room conditions do not meet the specifications
+above for the conditioning room, then testing must be initiated within
+ten minutes after the specimens are removed from the conditioning
+roon.
+3. AIR VELOCITY: Zero air flow at the test surface is desirable,
+indicated by a minimum vertical smoke plume of 152 mm (6.0 in). A
+draft-preventive enclosure to restrict air flow to convection only is
+required. See Figure II.
+4. CONDUCTING THE TEST:
+a. Each loaded specimen holder shall be placed on a table in the
+draft-preventive enclosure. Light three cigarettes and place one
+cigarette on each of the three test assemblies such that the
+cigarette lies in the crevice and against the vertical panel,
+equally spaced from each side. Immediately cover the cigarette
+with a piece of sheeting material, smoothing it over the cigarette
+to insure intimate contact. A finger run over the covered
+cigarette insures good fabric-to-cigarette contact. Pin top edge
+of sheeting to the vertical panel approximately 50 mm (2.0 in)
+above the cigarette.
+
+LT¥9 €S8OS
+
+3 .
+FCTM--1990
+April 1, 1990

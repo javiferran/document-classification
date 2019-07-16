@@ -1,0 +1,39 @@
+382
+
+can be distinguished from one another by both slope conductance and
+mean burst duration. The slope conductances are: S =15-20 pS, M = 30-
+35 pS and L =45-50 pS. The burst distribution of each class is fit with
+two exponentials with time constants of 1 ms and 8 ms for S, 2 ms and
+10 ms for M, and 3 and 12 ms for L. The three amplitude classes also
+differ in the frequency with which they occur in cell-attached patches. $
+and M are the predominant classes, seen in the majority of patches
+(approximately 70%). L is less common (53% of the patches).
+
+ie s
+
+Sosples
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2. Sympathetic neurons from EDJ7 chicks have four classes of ACh-
+elicited channels
+
+Left: Nonconsecutive traces of a cell-attached patch recording from an ED 17
+
+neuron showing S, M, L, and the new XL class. ACh concentration = 1 HM. Pipette
+potential = 50 mV (membrane potential = -100 mV). Calibration bars = 7.5 pA, 5
+msec. Right: Amplitude histogram of the same record illustrating XL as a fourth
+
+peak in the distribution. The superimposed curve shows the sum of four Gaussians
+
+with means of 2.4 pA, 4.1 pA, 5.5 pA and 6.9 pA.
+
+50578128

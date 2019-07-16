@@ -1,0 +1,217 @@
+FOG IC ICR ICI Ga doko kkk i tok
+
+CIGT DEV PROGRAMS - DELIVERY
+DATE: 22-SEP-87 File:
+
+data.del sec 23
+
+NOTES: ANALYTICAL RESEARCH MATRIX
+% CHANGE: X8D7CZH IS CONTROL
+FI IOI TOR ICR IU IOI OI IORI OR IK IK
+
+ 
+
+X8D7 CZH
+156
+25MM
+4712
+TPM O8
+Nic. 0%
+Water 0%
+B.C. 0%
+TAR 0%
+Tpm/Puft- 08
+Nic/pute= 08
+Water/Pufft 0%
+Var/Puff § 08
+Nic/tar = 0%
+§.B.T. Bs
+PC/SBT
+Gas PC Os
+NO mg 0%
+co mg - 0%
+HCN mq 0%
+RCHO ng 0%
+NO/Puff 0%
+CO/Pufft O%
+HCN/Puff 0%
+RCHO/Puff O%
+NO/TAR &
+CO/TAR 0%
+HCN/TAR 0%
+RCHO/TAR 0%
+NO/NIC %
+Co/NIC 0%
+HCN/NIC 0%
+RCHO/NIC 0%
+Eq.OV % 0%
+Tob.wt mg a8
+Ctob.wt mg 0%
+Filt.RID mm 0%
+Tot .RTD mm 0%
+Ventil % NLA.
+Rod Cire mm 0%
+Rod Len mm 0%
+Butt Len mm 0%
+Filt Len mm 0%
+Porosity sec 0%
+Filt.Eff & NwA.
+Rod Vol ce Os
+Rod Density 0%
+DYN. COALTMP 0%
+STATIC TEMP. 0%
+CALC. MBR 0%
+MBR/CIRC. 0%
+CIGT.RTD IN. 0%
+VISIBILITY % 0%
+
+C2I
+MGO
+‘25MM
+4713
+
+5%
+-7%
+19%
+
+~20%
+
+5%
+
+30%
+iss
+AT%
+29%
+~12%
+
+-2%
+-19%
+Bo2s
+213%
+51%
+0s
+i5%
+
+44%
+94%
+28%
+47%
+11%
+49%
+-2%
+13%
+25%
+68%
+10%
+28%
+
+0%
+4%
+4%
+-1%
+0%
+N.A.
+0%
+0%
+0%
+0%
+10%
+NA.
+
+0%
+4%
+
+-1%
+~5%
+5%
+S%&
+0%
+-55%
+
+ra
+
+CLG
+156
+20MM
+
+-8%
+~9%
+38%
+-17%
+-14%
+
+10%
+9%
+66%
+3%
+6%
+
+-14%
+-3%
+
+-22%
+-22%
+~L43
+18%
+~12%
+
+ 
+
+-27%
+
+CZF
+MGO
+20MM
+
+~5%
+-14%
+49%
+—30%
+~11%
+
+348
+218
+110%
+25%
+~4%
+
+-17%
+~16%
+
+~41%
+
+~36%
+
+CcZ2D
+MGO
+17MM
+
+-35%
+-52%
+-14%
+30%
+~36%
+
+~8%
+
+-32%
+22%
+-9%
+
+~25%
+
+-19%
+-13%
+
+-32%
+
+117%
+-76%
+
+TABLE
+
+ 
+
+Ir
+
+LezcosPr20c

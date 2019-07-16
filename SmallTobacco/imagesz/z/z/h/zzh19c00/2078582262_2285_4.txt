@@ -1,0 +1,39 @@
+proves to be important in achieving good reproducibility. The large thermal capacity of the block
+results in the capability of heating samples of a few grams without diminishing the heating rate.
+
+At the beginning of an experiment, the sample is set at room temperature. Both the
+stationary heater and the movable healer are set at the desired temperatures. Then the movable
+heater block is moved within approximately 0.2 second to the sample position. This means that
+heat transfer to the sample occurs immediately. Ata fixed gas flow rate and with the same
+sample type, the heating rate of sample is a result of the temperature difference between the
+heater and the sample, and the distance between the heater wall and the sample.
+
+Sample temperature measurement The sample temperature is measured by
+two small thermocouples (0.01", type K, response time 2-4 ms, Omega Engineering, Inc.,
+Stamford, CT) placed inside and outside the sample and in contact with the surface of the
+Whatman filter paper. Average temperatures of samples were determined from the outside and
+inside surface temperatures. Calculations with tempcratures measured at the inside and outside
+surface of the samples show a difference of about 10% on activation cnergy, which is not
+significant considering other possible sources of errors.
+
+The temperature-time profiles arc recorded by a data acquisition system consisting of
+a Data Translation board using LABTECH Notebook software (Laboratory Technologies
+Corporation). The sampling frequency is sct to match the infrared spectrometer scanning
+frequency, 12.42 Hz or one temperature measurement every 80.5 millisecond in the current
+experiment. Figure 2 displays the temperature profiles at different heating rates (heater
+temperatures). The measured temperature profiles of the samples can be described by an
+exponential equation:
+
+T(t) =7, +(Z, -% Xl -exp(-+/7)) (2)
+where the subscripts 0 and © refer to the initial and final temperatures and 7 is the time constant
+for the temperature rise. Table 1 lists, among other parameters, To, T.., and t derived from the
+temperature profiles [rom cellulose pyrolysis.
+
+When quartz wool was used inside the tube furnace, temperature was delermined by
+three thermocouples placed at different positions across the sample. The temperature profiles
+obtained were reproducible with a temperature gradient of less than 30°C across the sample and
+the heater sct at 800°C (the fastest heating rate in this study), Smaller temperature gradients were
+
+observed when slower heating rates or lower heater temperatures were used.
+
+2078582266

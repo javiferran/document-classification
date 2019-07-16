@@ -1,0 +1,90 @@
+adiant
+| given
+
+lepend
+
+vation
+
+on, then
+ivative
+
+1 losses
+ons for
+g these
+energy
+: same)
+on has
+c. This
+ter for
+
+rather
+gnal is
+ncrease
+ht and
+
+in both
+iis will
+al (i.e.,
+
+CC
+
+€ ©
+
+ 
+
+Long-path infrared spectroscopy for air pollution research 193
+
+50
+
+  
+
+40
+
+30
+Bose path-1-5m \y
+
+Base poth-3m
+
+20
+
+Absorption signal, (P,/P, kc)
+
+x,
+10 a Base oN
+e
+“
+
+x
+
+° 20 40° 60 80 100 {20 140 160
+
+Number of reflections (n)
+
+Fic. 4. Theoretical performance of Jong-path cells (reflection coefficient = 0-975)
+
+Reflection coefficient can readily be measured by measuring the radiant powergtrans-
+mitted by the cell as a function of the number of reflections. The coefficient is then obtained
+from the slope of a plot of log radiant power vs. number of reflections. The internal mirrors
+in both cells originally were coated with gold by evaporation to provide a surface which
+combines reflectivity in the infrared with chemical inertness. The reflection coefficient was
+found to be 0-975 at the peak of the glower and at 9-6 u. The standard aluminum-silicon
+monoxide coating was avoided because of the pronounced absorption of the silicon
+monoxide after many reflections. Later the gold was replaced with uncoated aluminum
+which proved just as reflective and more durable than the gold. No significant corrosion
+problems have been encountered.
+
+In spite of the existence of an optimum path length for maximum absorption signal it
+has sometimes been found advisable to operate with a path length far in excess of the
+optimum. To make a weak absorption measurable at the optimum path would require
+depression of the zero so that only a portion of the transmission range is recorded (e.g.
+75-100 per cent). But then the signal from a single-beam instrument with uncontrolled slits
+would quickly go off scale as the spectrum is scanned. Furthermore, if the sample contains
+water or carbon dioxide the bands of these compounds will go off scale if the zero is
+depressed.
+
+Several double-beam systems have been constructed since these single-beam cells were
+built. These go a long way toward solving these problems. The 40-meter cells now offered
+
+ 
+
+i

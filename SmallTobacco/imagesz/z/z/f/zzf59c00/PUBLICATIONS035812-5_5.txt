@@ -1,0 +1,128 @@
+IL-2 B/F (Molecules ‘Cell pM)
+s s
+
+gs
+
+0 0 20 0 40
+Bound (Molecules/Cell x 10-4)
+
+. Figure6. Seatchard analysis of the binding of ‘241-6 2 to peripheral
+lymphocytes. Antl-T3-stumulated lymphocytes were cultured for 46 he in
+medium supplemented with 10° FCS {@) and without protein additives
+ta) before anaiysis,
+
+design of studies to identify the relevant serum compo-
+nents and to define their mechanism of acuion.
+
+The real significance of the demonstration that serum
+serves solely a passive role during IL 2-promoted G, pro-
+
+ession resides In the probability that this or an essen-
+Wally similar phenomenon is functioning in other cell
+culture systems. Mast earlier studtes have assumed that
+serum actively stimulates the cells. However. our findings
+demonstrate clearly the necessity of including micromo-
+lar concentrations of some inert protein so as to retain in
+solution the crucial subnanomotar concentrations of
+polypeptide growth and differentiation factors. For ex-
+ample. the addition of any of a number of different pro-
+teins causes an increased IL 2-promoted proliferative
+response simply because the adsorptive loss of IL 2 ts
+Prevented, while the individual proteins themselves pro-
+vide nothing essential for cell growth. It ts also evident
+from these studies that the loss of active molecules would
+be even more problematical when cells are cultured at
+very low density. Given these observations. previous
+studies Indicating an active role for “filler cetls* (21) or
+inappropriately high concentrations of polypeptide hor-
+mones as critical components of serum-free media (9)
+should be reexamined, keeping in mind a passive. protec-
+tive function against loss of autocrine growth factors 2s
+an alternative explanation.
+
+The tack of a serum requirement for IL 2-stimulated G,
+Progression to the S phase was quite unanticipated given
+that IL 2 is responsible for the marked metabolic and
+morphologic changes of G, progresston (15) that ration-
+ally might be expected to require special nutritive or
+hormonal components of serum. Moreover. studies of
+murine 3T3 cells indicate that plasma/serum-derived
+factors such as insulin and/or IGF-} are essential to max-
+imize the rate of G, progression (22). whereas our findings
+establish that freshly isolated T cells ¢o nol require mul-
+
+SERUM-FREE T CELL CULTURE
+
+1003
+
+Uple serum-derived polypeptide growth factors for G,
+Progresston to the S phase. However. 1 should be noted
+thai 3T3 ceil lines have been selected in vitro for growth
+in serum. thereby making tt difficult to directly compare
+their requirements with those of freshly isolated normal
+human T cells.
+
+Activation of the T cell receptor serves to promote Go
+td G, transition. rendering the cella competent in a man-
+ner resembling the effect, of platelet-derived growth fac-
+tor on 3T3 cells (23). Therefore. the localization of a
+primary. active role for serum In this phase of the T cell
+cycle 1s especially intriguing in that it focuses attention
+on a role for serum components in the mechanism of T
+cell receptor signal transduction. and/or in the subse-
+quent events associated with IL 2 and IL 2 receptor gene
+expression. Such a strict serum requirement for optimal
+IL 2 production and IL 2 receptor expression was inan-
+Ucipated. because serum-free medium was utilized to
+produce and purify IL 2 from JURKAT leukemia cells
+(24). However. in this instance. it is noteworthy that IL 2
+production by JURKAT cells. in contrast to normal T
+cells. proceeds equally well whether or not serum és added
+to the culture medium. With regard to normal T cell
+phystology, the demonstration of a serum-dependent.
+rate-limiting step in the pathway between stimulation of
+the antigen receptor and the subsequent transcriptional
+activation and expression of the IL. 2 and IL 2 receptor
+genes suggests a possible control point at an early stage
+of antigen challenge. well before IL 2 amplifies the im-
+mune response. Eventually. identification of the strum
+component(s] responsible for this critical step may indi-
+cate new approaches for either enhancing or dampening
+the IL 2-mediated network of responses. :
+
+The function of the individual serum components is
+already amenable to analysis because so much is, now
+known regarding the initial events triggered by the T cell
+antigen receptor complex. For example. because cDNA
+probes for the IL 2 gene (25} and at least one of the chains
+(9) of the IL 2 receptor are available (26. 27). the mecha-
+nism whereby serum contributes to the expression of
+these genes can now be approached. Information regard-
+ing the mechanism whereby serum factittates T cell re-
+ceptor function may tndicate those serum constituents
+sesponsiblie for the observed effect. In this respect. recent
+findings (28) suggest that activation of platelet-derived
+growth factor receptors. which also function through the
+phosphoinositol pathway. stimulates the utilization of
+exogenous fatty acids vic low density lipoprotein recep:
+tors. Because albumin. Tf. insulin, and IGF-I have all
+now been excluded as serum constituents that facilitate
+T cell receptor function. serum lipids may well merit
+closer scrutiny. especially 48 previous reports empha-
+sized an important role for lipids in serum-free media
+formulae (5. 6).
+
+Even before the initiation of additional studies directed
+toward the identification of the serum components re-
+sponsible for the optimal rate of IL. 2 and IL 2 receptor
+gene expression, it should be emphasized that the culture
+system, as described thus far, supports maximal poly-
+ctonal T cell proliferation without additional serum sup-
+plementation. Thus. simply by providing IL 2 and Tf.
+optimal in vitro T cell imamune responses can be att alned
+without heterologous serum proteins. which are generally
+suspected of introducing immunologic artifacts. being
+
+PUBLICATIONS 035817
+
+10355238

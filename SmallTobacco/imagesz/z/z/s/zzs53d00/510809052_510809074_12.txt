@@ -1,0 +1,47 @@
+Summary
+
+The following summarizes the uncertainties just discussed
+
+grouped according to the step to which each uncertainty most
+closely applies The HEI analysis deliberately did not deal with
+
+risk characterization itself:
+
+Hazard Identification
+
+Based on results of the PS-6 study, and according to IARC
+criteria, wholly vaporized unleaded gasoline is considered to
+be an animal carcinogen and a presumptive human carcinogen.
+However, the PS-6 study used a vapor mix significantly
+different from the ambient vapors to which humans are exposed,
+and the question remains as to whether a realistic mix would
+
+have produced comparable responses in mice and rats.
+
+The epidemiologic literature, though weakly suggestive of
+carcinogenicity in several studies, remains inconclusive in
+demonstrating effects from occupational exposures.
+
+The research to date on the genotoxicity of gasoline is
+negative. Thus, the observed carcinogenic effects of gasoline
+in rodents may have arisen through promotion, a possibility
+thus far untested in animal systems.
+
+Effects unrelated to cancer resulting from exposure to
+unleaded gasoline vapors at ambient concentrations have not
+yet been thoroughly researched. At higher concentrations,
+however, wholly vaporized unleaded gasoline causes nephrotoxic
+
+effects in male rats.
+
+Dose~Response Assessment
+
+°
+
+The key difficulty arises in quantitative extrapolation to
+humans from the mouse and rat animal models, each of which
+appears to have characteristics that render it a questionable
+
+P9006 @8OTS
+
+-13-

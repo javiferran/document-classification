@@ -1,0 +1,45 @@
+Transport in Biomembranes: Model Systems and
+Reconstinution, edited by R. Antolini et al.,
+Raven Press, New York © 982.
+
+lonophore Mediated Ion Transfer in a Biological
+Membrane: A Study
+_ by Electrophotoluminescence
+
+Daniel L. Farkas, *Rafi Korenstein, and Shmuel Malkin
+
+Departments of Biochemistry and *Membrane Research, The Weizmann
+Institute of Science, Rehovot 76100, Israel
+
+SUMMARY
+
+A novel approach to the study of ionophores is presented, ba-
+sed upon the special properties of the natural photosynthetic
+(thylakoid) membrane, in which the functional pigments can be re-
+garded as optical probes for fast electrical events. In particu -
+lar, delayed luminescence (due to the reversal of the Light-
+induced charge separation) is very sensitive to electrical
+parameters of the membrane and to events within it. It can he
+considerably enhancedé by an artificially induced potential, an
+externally applied electric field pulse (~ 1000 v/em) being
+uniquely suited for achieving this, in a {preilluminated)
+suspension of photosynthetic membrane-bounded vesicles.
+
+The magnitude and the kinetics of the resulting emission (electro
+photoluminescence - EPL) are strongly dependent on the (very low)
+electric conductivity of the membrane. Ionophores selectively
+increase this conductivity, to an extent that is determined i.a.
+by (a} their nature (carrier or channel) and concentration; (b)
+the identity and concentration of the translocated ion. As a
+result of ionophore action, EPL emission is diminished and often
+kinetically altered.
+
+We investigated this phenomenon under various conditions, and
+we present : (1} the theoretical background for the evaluation of
+ionophore effects from changes in EPL emission; (2) results on
+the gramicidin channel and the valinomycin carrier, regarding
+their kinetics and ion selectivity.
+
+215
+
+50574464

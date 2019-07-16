@@ -1,0 +1,115 @@
+Ahrombosis and Haemostasis
+
+© F. K. Schattauer Verlagsgesellschaft mbH (Stuttgart) 73 (3) 458-65 (1995)
+
+Interaction of Lp(a) with Plasminogen Binding Sites on Cells
+
+Lindsey A. Miles', Gunther M. Fless?, Angelo M. Scanu2.3, Patricia Baynham!,
+Matthew T. Sebald!, Pamela Skocir4, Linda K. Curtiss’, Eugene G. Levin,
+
+Jane L. Hoover-Plow4, Edward F. Plow4
+
+From the 'Department of Vascular Biology and Department of Immunology, The Scripps Research Institute,
+La Jolla, CA, USA, the 7Department of Medicine and ‘Department of Biochemistry and Molecular Biology.
+University of Chicago, Chicago, IL, USA, the “Center for Thrombosis and Vascular Biology (FF20),
+Department of Molecular Cardiology, Cleveland Clinic Foundation, Cleveland, Ohio, USA
+
+Summary
+
+Lp(a) competes with plasminogen for binding to cells but it is not
+known whether this competition is due to the ability of Lp(a) to interact
+directly with plasminogen receptors. In the present study, we demon-
+strate that Lp(a) can interact directly with plasminogen binding sites on
+monocytoid U937 cells and endothelial cells. The interaction of Lp(a)
+with these sites was time dependent, specific, saturable, divalent ion in-
+dependent and temperature sensitive, characteristics of plasminogen
+binding to these sites. The affinity of plasminogen and Lp(a) for these
+sites also was similar (Ky = 1-3 44M), but Lp(a) bound to fewer sites
+(~10-fold less). Both gangliosides and cell surface proteins with car-
+boxy-terminal lysyi residues, including enolase, a candidate plasmino-
+gent receptor, inhibited Lp(a) binding to U937 cells, Additionally, Lp(a)
+interacted with low affinity lipoprotein binding sites an these cells
+which also recognized LDL and HDL. The ability of Lp(a} to interact
+with sites on cells that recognize plasminogen may contribute to the
+pathogenetic consequences of high levels of circulating Lp(a).
+
+Introduction
+
+Lipoprotein(a) [Lp(a)] is a distinct lipoprotein particle, which is as-
+sociated with the development of premature atherosclerosis and with
+disease processes involving thrombosis (1-7). Lp(a) has a structure si-
+milar to low density lipoprotein (LDL) but contains an unique apopro-
+tein, apopratein(a) [apo(a)], which is disulfide-linked to apoB-100.
+Apo(a) is highly homologous to plasminogen. The cDNA of the apo(a)
+isoform which was sequenced predicted a structure containing 38
+kringles, disulfide-looped structures of ~80 amino acids; of these, 37
+were 75-85% identical to kringle 4 of plasminogen and one was 91%
+identical to kringle 5 of plasminogen (8). The kringles of plasminogen
+possess lysine binding functions and are important in mediating the
+interactions of plasminogen with its substrates and inhibitors. Lp(a)
+particles also may exhibit lysine binding properties and interfere with
+
+ 
+
+Correspondence to: Dr. E. F. Plow, Center for Thrombosis and Vascular
+Biology (FF20), Cleveland Clinic Foundation, Cleveland, OH 44195, USA -
+FAX Number: + 216445 8204
+
+Abbreviations used are: apo(a), apoprotein(a), BSA, bovine serum al-
+bumin; CPB, carboxypeptidase B; EACA, €-aminocaproic acid: HBSS, Hank’s
+balanced salt solution, 0.05 M HEPES pH 7.4; HDL, high density lipoprotein;
+HUVEC, human umbilical vein endothelial cells; LDL, low density tipo-
+protein, Lp(a), lipoprotein(a); SDS, sodium dadccyl sulfate and SDS-PAGE,
+SDS polyacrylamide gel electrophoresis; TCA, trichloroacetic acid.
+
+functions of plasminogen which depend upon kringle-mediated inter-
+actions (9-15).
+
+Plasminogen interacts with cel] surfaces via its kringles (14). The in-
+teraction of plasminogen with cells has profibrinolytic consequences,
+and Lp(a) competes for the interaction of plasminogen with cells
+(17-19). This competition inhibits plasminogen activation on cell sur-
+faces (19, 20), an effect which may contribute to the thrombotic and
+atherosclerotic risks associated with high levels of circulating Lp(a).
+The interpretation of these experiments has been that Lp(a) binds to
+plasminogen receptors. Although apo(a) binds directly to endothelial
+cells, it was not shown whether this interaction was inhibited by plas-
+minogen (19). Lp(a) binding to human monocyte-derived macrophages
+has been demonstrated, but a potential contribution of plasminogen
+binding sites was not evaluated in this study (21). Indeed, apo(a) has
+the ability to interact with adherent skin fibroblasts via mechanisms
+not shared with plasminogen (22). Moreover, direct interaction of
+apo(a) with a mouse macrophage cell line (P388D.1) was inhibited by
+acetylated LDL and was totally unaffected by plasminogen (23).
+
+Based upon these inconsistencies, we have sought to test whether the
+intact Lp(a) particle can interact directly with plasminogen binding
+sites on cells. Complicating such an analysis are the interactions of
+Lp(a) with lipoprotein binding sites on cells. Interaction of Lp(a) with
+the high affinity apoB/E receptor for LDL has-been demonstrated
+although Lp(a} appears to have a lower affinity for these sites (24-26).
+Interaction of modified Lp(a) with the scavenger receptor, which also
+binds other modified (acetylated or oxidized) but not native lipopro-
+teins, has been demonstrated (27). Finally, many cells express “non-
+selective” lipoprotein binding sites (28-31). These sites bind both LDL
+and HDL. Such interactions are presumably dependent upon the lipid or
+hydrophobic character of the lipoprotein particles. To dissect the inter-
+action of Lp(a) with plasminogen binding sites, we have selected
+specific cell types, culture conditions and assay conditions to block its
+interaction with lipoprotein binding sites.
+
+Experimental Procedures
+
+Proteins and lipoproteins, Lp(a) was prepared from fresh human plasma by
+flotation centrifugation followed by affinity chromatography on lysine-Sepha-
+rose and CsCl density gradient centrifugation as described (32, 33). No conta-
+Tnination of the preparations by plasminogen was detected by either Coomassie
+Blue staining of sodium dodecyl sulfate (SDS) gels or by treatment with strep-
+tokinase and measuring plasmin activity with a chromogenic substrate. $2251.
+The sensitivities of these assays excluded plasmin(ogen) contamination of >1%
+and >0.4%, respectively. Lp(a)-free LDL (21), HDL (34) and acetylated LDL
+(35) were prepared as previously described. The LDL contained no apoA-1 and
+
+ 
+
+40005199

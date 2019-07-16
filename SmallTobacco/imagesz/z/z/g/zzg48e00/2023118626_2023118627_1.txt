@@ -1,0 +1,76 @@
+Methodi:
+
+Methoprene Analysis
+
+Methoprene (ppm)
+
+th
+
+nN
+
+5.
+3.
+
+6
+4
+
+ 
+
+K-57
+
+RSROIT = + 6.6%
+
+HPLC
+
+Dec 7, 1989
+S. S. Yang
+Code Methoprene (ppm)
+III-ll-a 1.0
+-b 1.0
+III-12-a 1.0
+-b 1.1
+IITI-13-a 1.0
+-b 1.0
+ITI-14-a 1.0
+-b 1.0
+III-15-a 1.0
+~b 1.0
+= Loft
+4,
+ene: are t 634,
+
+IV-lli-a
+-b ND
+IV-12~a: ND
+-b ND
+IV-13-a ND
+~b ND
+IV-14-a ND
+-b ND
+IV-l5-a ND
+-b ND
+
+column: Waters, NovaPak C18 (3.9: X 150 mm)
+mobile phase:
+
+flow rate: programming
+
+solvent~swittcching, A: methanol-water (85/15),
+
+detection: UV 274 nm.
+injection: 2 microliter.
+run time: 12 minutes.
+
+sample prep.:
+
+4 grams/40 ml hexane, shake 4 hus, filter (20: m1),
+
+evaporate to dryness, bring to: 1 ml with methylene
+
+chloride.
+
+B: 100% isopropanol
+
+1.5 - 1.0 - 1.5 (ml/min).
+
+ECISTTEZSO?

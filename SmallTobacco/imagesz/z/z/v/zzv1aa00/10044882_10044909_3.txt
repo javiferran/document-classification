@@ -1,0 +1,37 @@
+Analysis of the Gaseous Phase of Cigerette Smoke “he
+| HAGOO 27061
+
+puffs on one or more cigarettes. In this system each puff is col-
+lected in a smoke collection flask, which is re-evacuated prior to
+the next puff The gases removed from the flask during the re-
+
+evacuation process are collected in fritted bubble traps placed
+
+between the collection flask and the vacuum pump.
+
+-€. Physical Adsorpticn
+
+Keith and Tesh [13] reported a reasonably Simple and reliable
+method to determine the total gaseous materials contained in a puff
+of smoke. The measurement of this material was based on the increase
+in weight of a tared flask containing 5A moleculer sieve pellets.
+
+The source of vacuum for the system was obtained by cooling the
+flask to liquid air temperature. This unique method does not require
+
+the use of a conventional smoking machine.
+
+D. Cold Trap
+
+An extensive investigation of low temperature collection and
+fractionation was conducted by Osborne, Ademek and Hobbs [21]. The
+gas collected in a syringe after each puff was transferred to an
+evacuated ccllection chamber and cooled to liquid air temperature.
+Periodically, the noncondenseble gas was permitted to expard into a
+previously evacuated reservoir where the pressure and volume were
+determined end the gas eventually returned to the collection chamber.
+The condensed mixture was evaporated and re-collected in traps cooled
+
+to the desired temperature by the liquid air cooling of a heat trans-
+
+fer fluid in which the traps were immersed. Ine system was capable

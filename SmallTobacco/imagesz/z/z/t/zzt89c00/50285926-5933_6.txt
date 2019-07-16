@@ -1,0 +1,155 @@
+294
+
+The finding that the level of c-myc mRNA
+is reduced during the initiation of differentia-
+tion by the “vitamin D pulse” procedure is
+consistent with the view that a decrease in
+the expression of c-myc gene acts as a stim-
+ulus for the events which lead to terminal
+differentiation of HL 60 cells.
+
+Discussion. The induction of monocytic
+differentiation of HEL 60 celis by a brief
+exposure to a vitamin D analog should pro-
+vide a system useful for the study of several
+puzzling aspects of the control of differentia-
+tion of leukemic cells. It may permit a clearer
+picture of the relationship of the events which
+initiate a differentiation pathway to the phases
+of the cell cycle, the importance of which is
+suggested by the transient prolongation of
+the generation time observed during induc-
+tion of differentiation by the procedure de-
+scribed here (Fig. 2), and in several other
+differentiating cell populations (18-22). Fur-
+ther, the well-delineated progression toward
+the differentiated phenotype (Fig. 1) may
+facilitate a step by step analysis of the bio-
+chemical events which lead from the initiation
+of the process, presumably at genomic level,
+to its final expression as changes in cell
+structure, enzyme levels, and membrane
+properties, the well-documented markers of
+monocyte-like differentiation (6-9, 13).
+
+We are grateful to Dr. Giovanni Rovera and Dr. Alan
+Pater for the DNA probes, to Dr. Nicholas Ponzio for
+the gift of the opsonized sheep red blood cells, ta Dr.
+Deborah Kay and Mr. Cesar Fernandez for help with
+the photographic work, and to Ms. Cynthia Gibbs for
+assistance with the preparation of the manuscript.
+
+1. Collins SJ, Gallo RC, Gallagher RE. Continuous
+growth and differentiation of human myeloid leu-
+kemic cells in suspension culture. Nature (London)
+270:347-348, 1977.
+
+2. Collins SJ, Ruscetti FW, Gallagher RE, Gallo RC.
+Terminal differentiation of human promyelocytic
+leukemic cells induced by dimethyl sulfoxide and
+other polar compounds. Proc Natl Acad Sci USA
+75:2458-2465, 1978.
+
+3. Breitman TR, Selonick SE, Collins SJ. Induction of
+differentiation of the human promyelocytic leukemia
+cell tine (HL-60) by retinoic acid. Proc Natl Acad
+Sci USA 77:2936-2942, 1980.
+
+4. Rovera G, Santoli D, Damsky C. Human promyelo-
+cytic leukemia cells in culture differentiate into
+macrophage-like cells when treated with a phorbol
+
+DIFFERENTIATION OF HL 60
+
+10.
+
+It.
+
+12.
+
+15.
+
+17.
+
+CELLS BY 1,25(0H)2D3
+
+diester. Proc Natl Acad Sci USA 76:2779-2783,
+1979,
+
+. Chiao JW, Freitag W, Steinmetz JC, Andreef M.
+
+Changes in cellular markers during differentiation of
+HL-60 promyelocytes to macrophages as induced by
+T-lymphocyte conditioned medium. Leuk Res 5:
+477-483, 1977.
+
+. Muraoc Si, Gemmell MA, Callaham MF, Anderson
+
+NL, Huberman E. Control of macrophage cell dif
+ferentiation in human promyelocytic HL-60 leukemia
+cells by 1,25-dihydroxyvitamin D, andphorbol-12-
+myristate-!3-acetate. Cancer Res 43:4989-4996,
+1983.
+
+Reitsma PH, Rothberg PG, Astrin SM, Trial J, Bar-
+shavit Z, Hall A, Teitelbaum SL, Kahn AJ. Regu-
+lation of myc gene expression in HL-60 leukacmia
+cells by a vitamin D metabolite. Nature (London)
+306:492-494, 1983.
+
+. Tanaka H, Abe E, Miyaura C, Shiina Y, Suda T.
+
+1,25-dihydroxyvitamin D induces differentiation of
+human promyelocytic leukemia cells (HL-60) into
+monocyte-macrophages, but not into granulocytes.
+Biochem Biophys Res Commun 117:86-92, 1983.
+Mangelsdorf DJ, Koeffler HP, Donaldson CA, Pike
+JW, Haussler MR. 1,25-Dihydroxyvitamin D3-in-
+duced differentiation in a human promyelocytic
+leukemia cell line (HL-60): Receptor-mediated mat-
+uration to macrophage-like cells. J Cell Biol 98:39 1-
+398, 1984,
+
+Tarella C, Ferrero D, Gallo E, Pagliardi GL, Ruscetti
+FW. Induction of differentiation of HL-60 cells by
+dimethyl sulfoxide: Evidence for a stochastic model
+not linked to the cell division cycle. Cancer Res 42:
+445-449, 1982.
+
+Matsui T, Nakao Y, Kobayashi N, Kishihara M,
+Ishizuka S, Watanabe S, Fujita T. Phenotypic differ-
+entiation-linked growth inhibition in human leuke-
+mia cells by active vitamin D, analogues. Int J
+Cancer 33:193-202, 1984.
+
+Studzinski GP, Gierthy JF, Cholon JJ. An autora-
+diographic screening test for mycoplasma] contami-
+nation of mammalian cell cultures. In Vitro 8:466-
+472, 1973.
+
+. Yam LT, Li CY, Crosby WH. Cytochemical iden-
+
+tification of monocytes and granulocytes. Amer J
+Clin Pathol 55:283-290, 1971.
+
+. Maniatis T, Fritsch EF, Sambrook J. Molecular
+
+Cloning—A Laboratory Manual. New York, Cold
+Spring Harbor Laboratory, 1982.
+
+Watt R, Stanton LW, Marcus KB, Gallo RC, Croce
+LM, Rovera G. Nucleotide sequence of cloned cDNA
+of human c-myc oncogene. Nature (London) 303:
+725-728, 1983.
+
+. Pater MM, Pater A. Thymidine kinase of herpes
+
+virus as a vehicle for the isolation and characterization
+of unknown mammalian promoters and enhancers.
+J Mol Appl Genet 2:363-371, 1984.
+
+Muller R, Slamon DJ, Tremblay JM, Cline MJ,
+
+ 
+
+50285932

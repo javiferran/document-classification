@@ -1,0 +1,51 @@
+(TPM) of cigarette smoke in a single puff. The data indicated that the
+concentration of smoke components is significantly higher at the end of the
+puff, whereas the TPM was approximately uniform. However, Ceschini’s
+experiments might have an inherent error as he took partial puffs to arrive
+at conclusions regarding continuous intrapuff. In contrast, the results
+presented here were obtained directly from the continuous intrapuff
+measurements. -
+
+In this study, the effects of flow on the delivery of mainstream
+nicotine during a 2 second puff were demonstrated.
+
+INSTRUMENTATION -
+A. INTRAPUFF SMOKING SYSTEM | oO
+
+A system was developed to capture smoke particulates in real time
+during an individual puff.The apparatus configuration was such that
+near-zero dead volume existed between smoke exiting the cigarette and the
+collecting filter pad. This was an important criteria for reducing any loss
+in smoke particulates. Figure 1 is a schematic of the IPSA, illustrating
+its five interacting components. A 100 cc. piston-type smoking machine
+provides the vacuum necessary for puffing. The timer controls the puffing
+frequency, and interfaces with the computer for puff initiation. A filter
+pad mounted on a translational stage collect smoke particulates as it moves
+‘past the mouth end of the cigarette during the puff thus time segregating
+the collected TPM. The pad is adjusted to travel a distance of 10 cm at a
+velocity of 5 cm/sec. A positive pressure smoking machine allows the
+measurement of flow rate and calibration of pressure transducers. -A
+Reynolds type (1) flow sensor was inserted immediately between the butt end
+of the cigarette and the filter pad to measure puff volume. The flow
+sensor is part of the flow-measuring apparatus, which consists of three.
+differential pressure transducers attached to a Validyne MC1 demodulator
+for signal amplification and demodulation.An IBM AT computer with Asystant+
+software from Macmillan Software Company was used for data acquisition.
+
+B. Flow Sensor
+
+Figure 2 illustrates the die-cast low density polyethylene flow
+probe.This sensor is 32 mm in length, 8-mm o.d. and 6-mm i.d. The pressure
+taps are 8-mm in length with Swagelok threads.A flow restrictor is located
+in the center of the tube with a 2-mm diameter hole. At the cigarette end
+of the sensor the restrictor is.cone-shaped as indicated. As air flows
+through the sensor, a pressure differential across the probe is generated.
+The differential produced is proportional to flow rate through the sensor.
+
+A differential pressure transducer system was set up such that one
+transducer measures pressure differential across the taps of the flow
+sensor, while a second measures absolute pressure. A third transducer was
+required to balance signals and reduce oscillation among the sensors.
+Readings from the third transducer were not used in measurement.
+
+@L86 6580S

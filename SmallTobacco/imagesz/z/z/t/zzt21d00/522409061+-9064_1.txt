@@ -1,0 +1,58 @@
+The main objective of sending out this Reactivation mailing is to determine whether the
+member is a motorsports enthusiast or not, as well as what the member would like to
+see in future mailings. Once the brand receives the responses back from this mailing,
+their next step will be to divide the club Into two groups: Motorsports Fans and Non-
+Motorsports fans. :
+
+Project Details
+Let’s try this one more time..hopefully the last.
+|. Member Elimination
+
+We identified a group that we called the Drop Group (Group #7). We flagged this
+group as cell 7. From this group, you will need to do the following:
+
+1.) Pull UB Flavor =1
+Pull UB Segment= FS, CS
+
+2.) Change the status of these smokers from “A” in WWC to “I” WWC status. These
+smokers will no longer be members of the WWC.
+
+3.) These smokers should be removed from cell 7 - they will not be mailed the
+Reactivation piece.
+newt
+
+IL_Sending Members to SEP
+
+We also identified a group that we called the SEP Group (Group #5). We flagged this:
+
+group as cell 5. From this group you will need to do the following:
+
+1.) Pull LST_RESP < 9401
+
+2.) Chango status of these identified smokers to be available for solicitation in SEP 4-
+(ls this “R"?) and change their WWC status from “A” to “I”. These smokers will no
+longer be members of the WWC and will be sent to the SEP.4 conversion program.
+Conv.ste., Event (BRC), PIT profile (now)
+
+NOTE: If some of these smokers reside in Oklahoma, thelr status should be changed
+so they are available for solicitation to EW SEP4 and change their WWC status from
+“A” to “i", - These smokers will no longer be members of the WWC and will be sent
+to the EW SEP 4 conversion program.
+
+3.) These smokers should bea removed from cell 5 - they will not be mailed the
+Reactivation piece.
+
+i, New Member Eliminati
+
+We also need to eliminate the new WWC members from the Reactivation mailfila but
+not from the WWC.
+
+m
+nN
+iS)
+ia
+8
+©
+Ss
+a
+tv

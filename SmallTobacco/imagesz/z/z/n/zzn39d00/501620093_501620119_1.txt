@@ -1,0 +1,56 @@
+CONTROL AND MIXIMIZATION OF TOBACCO SMOKE
+DOSE IN CHRONIC ANIMAL STUDIES
+
+why do we need inhalation studies with whole tobacco smoke,
+and what can we hope to accomplish with them? A stated purpose
+of the tobacco and health program is to develop a less hazardous
+cigarette (Reference 1). The major risks associated with tobacco smoke
+are cancer, notably respiratory tract cancer, chronic respiratory
+disease(s), and cardiovascular disease(s). While the toxicity and
+the harmful effects of individual tobacco smoke components can be
+assessed in bioassay systems not involving inhalation exposure,
+the full pathogenic potency of as complex a mixture as tobacco
+smoke ultimately must be determined by inhalation studies with whole
+smoke. This presentation focuses on some crucia] problems related
+to dosimetry and maximization of smoke exposure in tobacco smoke
+inhalation studies. We will limit our discussion to efforts aimed
+at the improvement and development of bioassays for testing the
+chronic toxicity and carcinogenicity of whole tobacco smoke in smal]
+laboratory rodents using passive smoke inhalation techniques.
+
+Methods to Estimate Sustained Dose
+
+Before discussing how to control and maximize the dose of
+tobacco smoke delivered to experimental animals, we need to take
+stock briefly of the major methods currently used to measure sus-
+tained dose and to suggest possible new approaches. It is important
+to remember that we will be measuring tobacco smoke components
+only, rather than whole tobacco smoke, but hopefully such measure-
+ments will be indicative of a class of compounds or a significant
+fraction of tobacco smoke. Currently, two main options are avail-
+able for measuring or estimating tobacco smoke dose, with perhaps
+a third one to be added in the future. The first is to measure
+normally occurring tobacco smoke constituents (or their derivatives)
+in the body or body fluids of exposed animals. The simplest and
+most common example of this approach is determination of COHb. The
+second principal approach, developed more recently, is to label |
+tobacco with chemical or radioactive tracers, then determine the
+amount of tracer in the respiratory tract of, the exposed animals.
+This method is much more complicated than the former and requires
+that one have some knowledge of the fate of the tracer during
+pyrolysis, its distribution in the tobacco smoke, its volatility,
+etc. Typical examples of this approach are studies with decachloro-
+biphenyl (2), 14¢ hexadecane (3), and !4c-dotriacontane (4,5). The
+advantage of this method is that one can measure dose to the lung
+directly (though it may be debatable what fraction of tobacco smoke
+the measured quantity represents). The disadvantage is that (at
+least with the markers currently in use) a destructive test is re-
+quired to determine the amount of tracer in the lungs. A third
+possible alternative is to use depletion of smoke components from
+the exposure chamber as a measure of uptake or dose to the animals.
+(This approach, if feasible, probably will apply only to static
+rather than dynamic expasure conditions. )
+
+24
+
+y600 2910S

@@ -1,0 +1,68 @@
+INBIFO institut fiir biologische Forschung GmbH - Kéln PRIORITY
+
+ 
+
+ 
+
+ 
+
+Report P 0500/3237 97/10/8 Page 51
+BATCH DOSE MUTAGENICITY (rev./piate) REGRESSION ANALYSIS
+NO.
+PLATE M SE RSD REGR. SD CORR. TEST
+COEF. COEF.
+1 2 3
+(ng/ (8) (rev./ (rev./
+plate) mg) mg)
+
+ 
+
+ 
+
+ 
+
+0794 0.200 41 «432 «438 «(37.0 2.6 12.4
+bo 0.400 39 44 39 40.7 1.7 7.1
+' 0.600 52 47 52 50.3 1.7 5.7
+. 0.800 49 60 51 63.3 3.4 11.0
+f 11000 56 74 66 65.3 5213-8 34 6 0.898 +4L
+0795 «40.200 26 «34 «29 «29.7 2.3 13.6
+0.400 37 38 40 38.3 0.9 4.0
+: 0.600 46 37 43 42.0 2.6 10.9
+i 0.800 449 «55 49 51.0 2.0 6.8
+1.000 72 64 46 60.7 7.722.0 37 6 0.896 +4L
+| 0796 «0.200 40 25 23 29.3 5.4 31.7
+| 0.400 44 35 38 39.0 2.6 11.8
+0.600 59 48 38 48.3 6.1 21.7
+0.800 39 53 49 47.0 4.2 15.3
+1.000 «58 «54 «61 «57.7 2.0 6.1 33 6 0.810 H4L
+: 0797 0.200 36 28 41 35.0 3.8 18.7
+‘| . 0.400 42 51 38 43.7 3.8 15.2
+0.600 49 51 41 47.0 3.1 11.3
+0.800 57 60 64 60.3 2.0 5.8 .
+too 1.000 69 62 58 63.0 3.2 88 36 6 0.894 +4L
+WJ all 0.200 - 32.8 1.9 19.9
+0400 - -  - 40.4 1.2 10.6
+| " 0.600 -  - 46.9 1.8 13.6 ~
+i! 0.800 -  - 52.9 2.0 12.8
+‘ 1.000 - 61.7 2.312.9 35 3 0.850 +4L
+
+ 
+
+i Table 35 MUTAGENICITY OF TPM WITH S9 ACTIVATION IN STRAIN TA1537,
+RGO-
+
+i “| VIRGO
+
+Remarks: date of assay: 05-MAR-97
+regression analysis: using Poisson weights
+test: statistically significant difference from 0
+N: nonlinearity, L: linearity
+
+970917 11:05:58 P, 1 USER_DISK:[IT_A_H]MUT_3237.L1S;12
+
+ 
+
+ 
+
+SEALLLP9Oz

@@ -1,0 +1,76 @@
+if if Examples with
+
+‘no’ ‘yes” answers
+... proceed to...
+5. Is it a simply branched (I) acyclic aliphatic (A) hydrocarbon (6) T chic = ¢ —CICHy), Yylose
+or a common carbohydrate?
+This drops out the generally innocuous hydrocarbons and carbo- NO YES
+hydrates. (6) (Class
+})
+6. Is the substance a benzene derivative bearing substituents con- G) TW ogy oy
+sisting only of (a) hydrocarbon chains or 1’-hydroxy or hydroxy Z ocH, a?
+ester-substituted hydrocarbon chains and (b) one or more alkoxy 1 | in ios
+groups, one of which must be para to the hydrocarbon chain S Sv
+in (a)? CH,CH=CH, CH,CH=CH2
+. . . _., NO YES
+This places in class II safrole. myristicin and related substances, (7) (Class II)
+
+2
+
+. °
+7. Is the substance heterocyclic? 8 P~CHe
+O CH,CH tu
+
+‘oS
+CH,0H
+NO YES
+(16) (8)
+- ge 0
+8. Is it a lactone or cyclic diester? 10 9 ¢ ro Mayon
+This question separates the lactones and cyclic diesters from other . OH Ne
+heterocyclic compounds. ° 0 0
+NO YES
+(10) (9)
+
+. . . *
+9. Is it a lactone fused to another ring, or a five- or six-membered Wl o-es en,
+
+«,B-unsaturated lactone?
+
+: : 0
+This places certain lactones known or Suspected to be of unusual NO YES
+toxicity in class III.
+
+ 
+
+(23) (Class
+IIE)
+*if it is a lactone, from this point on treat the structure as if
+it were the hydroxy acid in the form of its more stable tautomer
+and proceed to question 20 if it is open chain, to 10 if it is
+heterocyclic and to 23 if it is carbocyclic; if it is a cyclic diester
+treat as the separate components. °
+. ZA Eo eHeOH
+10. Is j 1 mf SiC} en,
+. Is it a 3-membered heterocycle? 0” eS
+This places such substances as the epoxides and ethylenimine in YES
+class HHT. NO (Class
+(11) III)
+11. Disregarding only the heteroatoms in any one ring, does 12 33 Q
+that heterocyclic ring contain or bear substituents other than “7 ™ SCH,
+simply branched (1) hydrocarbons (including bridged chains and
+monocyclic aryl or alkyl structures), alkyl alcohois, aldehydes,
+acetals, ketones, ketals, acids, esters (including cyclic esters other
+than lactones), mercaptans, sulphides, methyl ethers, hydroxy or NO YES
+Single rings (hetero or aryl) with no substituents other than those (12) (33)
+
+just listed?
+Questions 11-15 separate out various categories of heteroaromatic
+substances. Under 11, set aside and do not consider the atom(s),
+usually oxygen, nitrogen or sulphur, making the ring heterocyclic.
+If there is more than one hetero ring, regard each ring separately,
+with the remainder of the structure as substituents of that hetero
+ring. Other than the heterocyclic atom(s), does the ring carry any-
+thing besides the simple groups listed? If so, the answer is ‘yes”
+
+899PE800

@@ -1,0 +1,30 @@
+TNO-report
+
+ 
+
+B-92-0388 May 1992 “ page 34
+
+Table 10. Results of the decipol measurements.
+
+| Inievair | air Outlet air
+
+Fane! member
+
+ 
+
+The sensory filtration efficiency is calculated according to the following equation:
+efficiency = (Ca-Cb).100/ Ca (%)
+
+where: Ca = air quality in inlet air after substraction of the air quality Cr in the
+room (decipol)
+Cb = air quality in outlet air after substraction of the air quality Cr in the
+room (decipol)
+Cr = air quality in the room = 3.1 decipol.
+
+The sensory filtration efficiency is therefore:
+
+(13.4 - 3.1) - (8.4 - 3.1)
+x 100 = 49 %,
+(13.4 - 3.1)
+
+hé2E 101052

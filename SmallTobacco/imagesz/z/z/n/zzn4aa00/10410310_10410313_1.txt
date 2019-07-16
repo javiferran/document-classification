@@ -1,0 +1,148 @@
+1018
+
+vansables were selected for cxaminahon by regression analysis
+No emphasss has been placed on formal significance testing. but
+In the table presenting 2 summery of the regression analyses
+ne find it helpful to andicete where the ¢ value for inclusion
+of an “explanatory” variable rn the equavion exceeds 2.
+
+RESULTS
+
+‘fable no displays the coefhcients of corrclanion
+beeween the death-rates and a selection of our “explana-
+tory" variables. In anterprening ths table we have con-
+sidered nor only the magnitude of the cocfheients but
+also ther consistency of sgn and Consistency between
+the sexes.
+
+Doctor densiy has 3 negative correlanon with thz
+deaths from heart-disease and bronchitis. Nurse density
+shows a less consistent paltern, there being particularly
+large positive correlations with deaths from 1.#.D.
+G.NP. per capita is quite strongly negatively correlated
+with all the death-sates except road accidents. Popula-
+tron density is mostly negatively correlated with the
+death-rates and this correlanon is fairly large with 1.8.0.
+deaths. Cigarette consumption is posiuvely associated
+with all causes of death.
+
+Total calorie intake is strongly positively associated
+with 1.4.D. and bronchius deaths. Total fat intake is
+quite strongly posiuvely associated with 1.4.0. mortality
+and negatively associated with cerebrovascular disease
+deaths sn males. Both sawwrated fats and snonounsatu-
+rated fats are strongly posinvely associated with 1.4.D.
+mortahty and not strongly posimvely associated clse-
+where. Polyunsaturated fats are moderately to weakly
+negatively associated with deaths other than road acci-
+dents. Keys’ prediction of average serum-cholesterol 1s
+very strongly positively associated with 1.H.D. deaths and
+shows Intle association elsewhere.
+
+Not included in the table are total far, saturated fat,
+monounsaturated fat and polyunsaturated fat intake
+expressed as an energy percentage of total calorie intake.
+Their patiern of association with 2.4.b. deaths is aimost
+identical to that of these fats expressed in absolute
+terms.
+
+Alcohol consumption is strongly negatavely associated
+with 1.H.D. deaths, moderately negatively with bron-
+chins, and moderately positively with road-accwent
+deaths. The large correlation with 1.4.0. deaths promp-
+ted us to break alcoho! con umpuon into its three main
+components—wines, beers, and spirits. As can be seen
+from table i, wine appears to account for the entire
+
+TABLE 1I—REGRESSION ANALS STS
+
+i RT FS,
+
+ 
+
+ 
+
+THE LANCET, MAY 12, 1979
+
+rom aD
+10 °
+usa
+Q o.. @austaaria
+scoriamd ©
+- wa
+2 6
+s u OCAWADA
+v
+2? 8
+2 GIRL LAND
+2 @wOoRwar
+-° ght tniAuanns
+x @oewnake
+25 ° @btLGus
+2 swi btn e @austhia
+a wES1 GEAMANT
+z Tal?
+3 8. 9
+SvrsZER and
+e
+? FAanct
+640 080 120 160 200
+
+WINE CONSUNPTION (L05,p Seole)
+Relationbip between 1.1.0. mortalityerate in enen aged 55-64
+and wine conqusptlon.
+
+alcohol effect and the correlation coeficiemt with 1.H.D.
+deaths 1s of the same magniucs 3 that of Keys’ predic:
+won, The figure shows the associanon between 1.4.0.
+deaths in males aged 55-64 and the logarithm of wane
+consumption (litres per capita per annum).
+
+Repression analysis was done with various subsets of
+the andependent vanables. The mos! important hadings
+were:
+
+(2) Doctor and nurse density showed relauvely hile
+associahon with the death-rates when other vanables
+were aken into account.
+
+(DG.N.P. per capita was strongly negatively related
+to mortalaty and this effect was andeperident of other
+varables.
+
+(3) Cigarette consumpuon was strongly positively
+related 10 bronchitis mortality and showed appreciable
+associahon with hypertensive disease deaths an both
+sexes and 1.H.D.deaths mn females.
+
+(4 Alcohol consumption wat very strongly negatively
+assocated with 1H.D, mortality an both males and
+females. Of the three alcohol components wine had the
+strongest association wath LH.D., its magnitude being the
+same as that of total alcohol. The wine effect was strong
+
+DEATH RATE AS DEPENDENT VARIABLE
+te a Ne A IS
+
+ 
+
+Independent Hvpenenwse » Cerebro axcular | :
+vansabdler durast | ao { disease 1 Bronchins Read accadenes
+i A EET A _——
+1 uw 1 f u ' ” ’ a py '
+
+- ES
+Deciots "ee tof S Bo. A pet ea Y » t
+Dotees . wot mo. 7 as .8 1oi or bow ek a
+GNP Poems beB | [te 2M | oe ye) ae -4 >
+Cagarenes 1 We : 6 of use > 1s | w bars ow, 8
+Want log scote 3 W 2" 20° 3 “3 Ve ow 1 M
+Ress prediction , is -m 6 y 8 3} +0 tb 2 a
+"a LTovalsvms . |
+
+of squates * explained” \ ! . | 1
+
+bs the 6 vatset lea ‘ 6s 32 , oe Rr) ae a fone 4 Ys st
+
+*rvatue ict anclysien of shes ateably mine TEC ote needs eS
+* the numbers ap ahe sable ore vandardned represen fects see tent

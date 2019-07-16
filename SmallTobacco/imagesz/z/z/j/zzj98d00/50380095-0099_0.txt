@@ -1,0 +1,139 @@
+——
+
+Proc, NGtl. Acad. Sci. USA
+Vol. 89, pp. 8889-8893, October 1992
+Biochemistry
+
+An inhibitory carboxyl-terminal domain in Ets-1 and Ets-2 mediates
+differential binding of ETS family factors to promoter sequences of
+
+the mb-I gene
+
+(DNA-binding proteins/B-cell-specific gene expression)
+
+James HAGMAN AND RUDOLF GROSSCHEDL
+
+Howard Hughes Medical Institute, Departments of Microbiology and Immunology, and Biochemistry and Biophysics, University of California, San Francisco,
+
+CA 94143-0414
+
+Communicated by Haroid E. Varmus, May 28, 1992 ©
+
+ABSTRACT The mb-I gene is expressed only during the
+early stages of B-lymphocyte differentiation. Here we show that
+the mb-J proximal promoter region contains a functionally
+important binding site for members of the ETS family of
+DNA-binding proteins. We found that both the E26 virus-
+encoded y-ets and the myeloid/B-cell-specific factor PU.1 bind
+efficiently to this site in vitro. By contrast, Ets-1, the lympho-
+cyte-specific cellular homologue of v-ets, and the related, more
+ubiquitously expressed Ets-2 protein interacted weakly with
+this binding site. DNA binding by both Ets-1 and Ets-2,
+however, could be increased 20- to 50-fold by deleting as few
+as 16 carboxyl-terminal amino acids. The inhibitory carboxyl-
+terminal amino acid sequence is highly conserved between
+Ets-1 and Ets-2 but is not present in either v-ets or PU.1.
+Replacement of the carboxyl-terminal amino acids of v-ets with
+those of Ets-1 decreased DNA binding by v-ets drastically.
+Cotrapstation of Ets-1 transcripts encoding proteins of differ-
+ent lengths suggested that Ets-1 binds DNA as a monomer.
+Therefore, the carboxyl-terminal inhibitory domain appears to
+interfere directly with DNA binding and not with homodimer-
+ization, Finally, the functional relevance of ETS factor binding
+to the mb-I promoter site was evidenced by the stimulation of
+trarscription through this site by a v-myb-v-ets fusion protein.
+Together, these data suggest that one or more ETS family
+factors are involved in the regulation of mb-1 gene expression.
+
+ 
+
+The B-lymphocyte-specific mb-J gene is a model for the
+regulation of lineage- and stage-specific gene expression. The
+mb-I gene encodes a 32-kDa protein that is required for the
+expression of IgM molecules on the B-cell surface (for
+review, see ref. 1). Specific mb-] transcripts have been found
+only in cells that comprise the early stages of B-lymphoid-cell
+differentiation (2). Tissue culture transfection experiments
+suggested that proximal mb-1 promoter sequences. residing
+between nucleotides —68 to +70 contain sufficient informa-
+tion for early B-cell-specific gene expression (3). Analysis of
+linker scanning and deletion mutations across this region
+indicated the importance of at least two distinct nuclear
+factor-binding sites for mb-! promoter function (3). Both sites
+were shown to interact with ubiquitous factors in vitro. One
+factor was identified as Spl, whereas the identity of the
+second factor, termed MUF2 (b-/ upstream factor 2), is
+unknown. Interestingly, the MUF2 site is identical to a
+sequence within the polyomavirus enhancer region (PEA3
+site) that is recognized by the nuclear DNA-binding protein
+Ets-1 in vitro (4). Ets-1, which is expressed primarily in
+lymphoid tissues, has been implicated as a tissue-specific
+regulator of transcription (for review, see ref. 5). Therefore,
+the question arises as to whether Ets-1 or another lymphoid-
+
+ 
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked “advertisement”
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+8889
+
+specific factor can bind the MUF2 site and participate in the
+regulation of mb-! gene expression.
+
+The ETS family of nuclear proteins is characterized by a
+conserved DNA-binding motif referred to as the ETS domain
+(6). Two members of the ETS family, the B- and T-cell-
+specific Ets-1 and myeloid/B-cell-specific PU.1 proteins, are
+expressed in a cell-type-specific manner that suggests a role
+in the regulation of lymphoid-specific genes (7-11). By con-
+trast, Ets-2, which is closely related to Ets-1, is expressed in
+a wide range of tissue types and cultured cells (8, 9, 12). The
+v-ets polypeptide is encoded by a transduced c-ers-/ gene
+expressed by the avian retrovirus E26 as part of a tripartite
+fusion protein, p135es-myb<ts (13, 14).
+
+Here we report that Ets-1 and PU.1 bind the mb-/ promoter
+in vitro, although with different efficiencies. We show that
+this differential DNA binding is governed by the presence of
+inhibitory carboxyl-terminal amino acids in Ets-1 and Ets-2,
+which are absent in PU.1 or v-ets.
+
+MATERIALS AND METHODS
+
+Plasmid Construction and i Vitro Mutagenesis. Plasmids
+pv-etsHS4 and pv-etsHB2 contain either the Apa I-Stu I or
+Hpa \-Bgl I fragments of pe-etsm (provided by J. M. Bishop,
+University of California, San Francisco) for expression in
+vitro (15). The murine c-ets-1 cDNA clone SKc-ets1.6 (16)
+was provided by J. H. Chen (M.D, Anderson Cancer Center,
+Houston). The murine Ets-2 (c-ets2-KS+) and PU.1 (PU.1-
+KS+) cDNA clones were provided by R. Maki (LaJolla
+Cancer Research Center). Mutations were introduced by
+using oligonucleotide-directed mutagenesis (3) and primers:
+pce-etsN385D, 5’-CAGTTTCTCATAATCCATCTTAG-
+GTTTGT; c-etsI401V, 5'-CGTCTTGTGGATGACATTTT-
+TGTCATAATAGTAGCG; pc-etsCAl, 5'-CGTGCAGC-
+TCTTCAGGGATCGATCACAGCAGGCTCTGCAGG; and
+PU.1AC, 5’-GGCCAGGCCCCCACGTC- ACTGCA-
+GCTCGCCGCTGAACTGG. The plasmid pEts-I/v-ets was
+constructed by insertion of the HindIII-Sal I fragment of
+pe-etsm into SKc-ets1.6, and -pv-ets/Ets-1 was made by
+insertion of the Eco47III-Not I fragment of SKc-ets1.6 into
+pv-etsHS4, po-etsHCA (to make Ets-LANAC; see Fig. 4) was
+constructed by deletion of the Hpa I fragment from pc-
+etsCAl. EVE26S3 and EVE26A2 were made by subcloning
+the 2.2-kilobase (kb) EcoRI fragment of pc-etsm into EVRF2
+(17).
+
+In Vitro Transcription, Translation, and Protein Analysis.
+Plasmid DNA was transcribed in vitro, and RNA transcripts
+were purified with Qiagen columns as suggested by the
+manufacturer (Qiagen, Chatsworth, CA). Ets-2AC protein
+was translated from RNA transcribed from c-ets2-KS+ DNA
+
+ 
+
+Abbreviations: wt, wild type; CAT, chloramphenicol acetyltrans-
+ferase; MUF2, mb-I upstream factor 2.

@@ -1,0 +1,35 @@
+Anelysis of the Gaseous Phase of Cigerette Smoke 12.
+
+. HEEGOE ATG
+isolation and estimation of some 80 different materials. Three major
+column systems were utilized, one being for lov molecular weight
+hydrocarbons, and the other two for lerge hydrocarbons and oxygenated
+
+smoke components. To achieve better reproducibility 1/8 inch columns
+
+were used instead of the capillary columns.
+
+Philippe, et al. [25] have also analyzed semiquantitatively
+@ number of gaseous hydrocarbons. Their gas caromatographic appa-
+ratus was a laboratory built instrurent with a thermal conductivity
+detector. The primary column was a 9 foot, 1/4 inch coiled copper
+tube packed with activated alumina and kept at room temperature. To
+reduce the retention of the gas mixture components, the alumina was
+partially deactivated by passing the carrier gas over CuSQ,°5H20.
+Some fractions eluted frou the colwm contained more than one
+component. and were further frectionsted at rena tempersture on a
+
+second column of alumina coated with 3,3’ -oxydipropionitrile.
+
+Many other investigzitors have made contributions to the gas
+chromatographic method of analysis of cigarette snoke, but perhaps
+the more notevorthy are, Willianson and Allmsn [52], Laurene, et al.
+
+(24), and Spears and Routh [27].
+
+’ The Spears and Routh method of vapor phase analysis offers
+@ routine Precedure for the evaluation of filter materials. The
+@etermination of the major constituents of the ccllected smoke can
+be accomplished quickly and relatively accurately. The subambient
+
+temperature prograning of a column which possesses sufficient polarity

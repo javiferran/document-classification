@@ -1,0 +1,59 @@
+From: Stanley, Ronnie L.
+
+To: Martin, Timothy
+
+CC: Caldwell, Alan L.
+
+BCC:
+
+Primary Date: 1/12/1998 1:27:00 PM
+
+Last Modified Date: 2001-Nov-20 13:40:28
+
+Last Touched Date:
+
+Sent Date: 1998-Jan-12 13:27:00
+
+Received Date: 1998-Jan-12 13:27:00
+
+Subject: Export Phase III Report: Salem 85 (New Gulf) {F}
+
+Attachments:
+
+From: Martin, Timothy G.
+
+To: Stanley, Ronnie L.
+
+Cc: Caldwell, Alan L.
+
+Subject: FW: Export Phase III Report: Salem 85 (New Gulf)
+Date: Friday, January 09, 1998 5:41PM
+
+Ron, what caused the pack moisture to be this high?
+F528-T ran at Tobv] in 1997:
+
+DATE PACK UPPER LOW UPPER LOWER
+MOIST ACTION ACTION REJ. REJ. TARGET
+970911 11.97 12.20 11.30 12.75 10.75 11.75
+971009 11.79 12.20 11.30 12.75 10.75 11.75
+971009 11.93 12.20 11.30 12.75 10.75 11.75
+971203 11.89 12.20 11.30 12.75 10.75 11.75
+971203 11.71 12.20 11.30 12.75 10.75 11.75
+971230 11.93 12.20 11.30 12.75 10.75 11.75
+980107 11.72 12.20 11.30 12.75 10.75 11.75
+
+These are all the results seen for the year of 1997. As you can see it is one of our big
+runs, Looking back into CTMS, we ran 2 cans to 1B5 on 12/30/97. This is where the
+Phase III's came from . There wasn't any in house pack moistures taken from this unit.
+One can of the same product was ran in 3B4 over the same time frame. There was 1
+sample taken from this machine. (Results were 11,93) This is .18 above target. I spoke
+with Jerry Manuel about how this blend was put up and after looking at the information,
+we concluded it was put up appr<<File Attachment: MA16327.XLS>>ximately +.20
+heavy. Looking at the one result we received, it tracks this thought. I can't explain the
+numbers seen on the Phase III, but we are tracking OK using Cate/Fate.
+
+RJR000000042 1085988
+
+70012 5697
+
+2962 0822S

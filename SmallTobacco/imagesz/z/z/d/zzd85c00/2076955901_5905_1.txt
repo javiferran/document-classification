@@ -1,0 +1,22 @@
+Strength Ratings for the Total Panel
+
+Nax/Puft Total
+Cigarettes Panel
+0237 8mg DL no C/A 1.00 2.68
+0239 8mg DL 25%<C/no A 1.04 2.66
+0234 8mg DL C/A 1.10 2.97
+
+COMMENTS :
+
+In earlier tests (POLs 0234 and 0237) it was found that cigarettes without
+casing or aftercut performed better than those with casing and aftercut. POL
+0239 was made with a 25% reduction in casing and no aftercut. This model
+also performed worse than the model without casing or aftercut.
+
+Note: Only twenty smoker groups were used in the calculation of these
+results. WUL smokers were not included in POL 0234.
+
+The attached liking and regression maps indicate that liking ratings were
+highest (tended to be higher than expected) for the ultra-low smokers.
+
+2069969202

@@ -1,0 +1,54 @@
+Visible Sidestream Smoke Measurement Page 2
+Joe Inman
+January 24, 1985
+
+PRODUCT COMPARISON
+
+The 52 products were compared using Duncan’s Multiple Range Test. As noted
+above, the comparisons were run twice: once, assuming the two devices were
+indistinguishable, and, again adjusting the values to account for the es-
+timated device differences.
+
+The comparisons assuming indistinguishable devices are summarized in
+Table 1. The comparisons after adjusting for the estimated device
+difference* is summarized in Table 2. In both Tables 1 and 2, lines between
+products indicate that no significant difference between those products was
+found. For instance, in Table 1, a line comects NFO-352B, NFO-352E,
+NFO-353B, and NFO-353C, so those products cannot be distinguished on the
+basis of the data. However, no line connects NFO-353C and NFO-351B, so
+those products are distinguishable.
+
+The primary goal of the study was to determine which of the prototype
+products give off less visible sidestream smoke than any other products on
+the market. Six of the prototype products gave off significantly less
+sidestream smoke than any of the commercial products that were tested.
+Those were NFO-352B, NFO~352E, NFO-353B, NFO-353C, NFO-351B, and NFO350E.
+That is indicated in both Tables 1 and 2. Note that even though NFO-351C
+has a reading that is less than any of the commercial products, due to
+measurement error, it cannot be distinguished from NOW Box 100’s (which is
+coded as "NOW 100S" in the Tables).
+
+SUMMARY
+
+This memorandum has summarized the statistical analysis of visible
+sidestream smoke measures that were run on 52 products. Since the measures
+were made on two different measurement devices, a comparison of the two
+devices was also run. The primary goal of the study was to determine which
+of the prototype products differed in visible sidestream smoke from all of
+the market products that were tested.
+
+* The absorbance values obtained on the original machine were adjusted by
+the estimated difference between the two measurement devices. The variance
+was also adjusted to take account of the variance associated with estimating
+the mean difference between machines. That added about 7% to the estimated
+standard deviation. The standard deviation was inflated in this scenario on
+all comparisons even though it need only have been inflated on those
+“comparisons involving products that were measured on different machines.
+That will have the effect that fewer significant differences will be found
+than would be otherwise.
+
+ 
+
+ 
+
+SLOL STé6ag

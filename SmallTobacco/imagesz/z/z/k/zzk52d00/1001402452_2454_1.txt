@@ -1,0 +1,52 @@
+CHARGE NO, 6906. -2- FEBRUARY 2, 1984
+
+ 
+
+Diethyl malate (DEM), a positive control compound, was re-
+tested. Incubation conditions were modified in an attempt to
+optimize the results from extended incubations (30 and 60 min.)
+with the test compound. These modifiications consisted primarily
+of incubating the V79 cells (6) in a 5% CO, and 95% humidity
+environment. Analysis of the data from this experiment revealed a
+more linear response for the 30 and 60 minute plates at all doses
+tested. The current protocol has been modified to incorporate
+these changes in incubation.
+
+Both the initial and modified experiments gave comparable
+results: a dose/responce was evident at the highest doses of DEM
+tested (0.1 and 1.0 mm).
+
+Acetaminophen, another positive control compound, was tested
+in the GSH assay with and without activation. The activation
+system utilized had previously been established for V79 cells by
+H. Garcia. (7) Two mls of the reaction mixture +/- S9 and ace-
+taminophen (0, 0.001, 0.01, 0.1, and 1.0 mM) were preincubated for
+five minutes at 37°C to avoid any temperature shock to the cells.
+Following preincubation, these reaction mixtures were added to
+plates containing cells, washed with phosphate buffered saline
+immediately prior to addition, and further incubated at 37°C for
+an additonal 15, 30 or 60: min. Analysis of the data indicated no
+dose/responce for any of the does of acetaminophen tested, how-
+ever, plates incubated with S9 contained 2X the amount off GSH of
+plates: incubated without S9. Experiments are planned to quanti-
+tate the amount of GSH contributed to the reaction mixture by S39,
+
+CSC from 2R1, in the absence of metabolic activation, was
+also tested in the assay. Results are currently being analyzed and
+will be reported next month.
+
+TV. = 001402453 |
+
+Analysis of a rephosphorylation of the three previous CSC-SD-
+DNA experiments with a fresh batch of 32P-ATP failed to reveal the
+existence of any adducts. Analysis. of a 1D TLC indicated that the
+phosphorlyation of normal bases had taken place. Subsequent to
+these experiments SD-DNA was labeled with a freshly prepared batch
+of 2R1 CSC, Phosphorylation of this labeled SD~DNA and analysis
+by 2D TLC-AR revealed the existence of at least 7 faint adduct
+Spots upon extended exposure. However, when stored digests of
+this experiment and the initial CSC-SD-DNA experiment, which was
+performed with fresh CSC. and demonstrated the existance of
+adducts was rephosphorylated and analyzed the following week, no
+adducts could be detected. Since adducts were present in both of
+these samples. when analyzed immediately after labeling with fresh

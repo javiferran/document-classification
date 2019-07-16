@@ -1,0 +1,34 @@
+-~6-
+
+a. Porapake~Q 1/8 inch 0.D. x 3 meter SS column programmed
+from -190°C to 200°C at 10°C/min and with 30 cc/min helium
+
+flow. This column resolved compounds from C, to about C as
+
+7?
+well as CO and C05.
+
+b. Carbowax+20M on Chromosorb-G-HMDS 1/8 inch 0.D. x 3
+meter SS column programmed at 6°/min from -190° to 225°C and
+held at 225°C. Helium flow was 30 cc/min, This column re-
+solved compounds containing from 6 to 12 carbon atoms,
+
+ec. OV-17 10% on Chromosorb-G-HMDS 1/8 inch 0.D. x 3 meter
+SS column programmed at 30°C/min from -190°C to 300°C and
+held at 300°C. Helium flow was 30 cc/min, This column re-
+solved compounds containing from 10-36 carbon atoms,
+
+Nearly all the activity was eluted from the OV-17
+colum, with the compounds resolved on the other columns
+eluting from OV-17 as early peaks. The CO and CO, peaks
+from the Porapak column were not detected by FID; the radio-
+activity from these compounds was counted over the range of
+their retention times.
+
+‘Liquid Scintillation Counting
+
+A Packard Tricarb Model 3003 liquid scintillation spec-
+
+trometer was used with optimized gain and window settings,
+
+CTR CONTRACTS 010096 _

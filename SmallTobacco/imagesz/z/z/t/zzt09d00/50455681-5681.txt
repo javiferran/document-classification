@@ -1,0 +1,138 @@
+0090-9556/88/1601-0001$02.00/0
+DRUG METABOLISM AND DiSPOSITION
+
+Copyright © 1986 by The American Society for Pharmacology and Experimental Therapeutics
+
+Vol. 16, No. t
+Printed in U.S.A.
+
+THE 1986 BERNARD B. BRODIE AWARD LECTURE
+
+The Genetic Regulation of Drug-Metabolizing Enzymes
+
+DANIEL W. NEBERT
+
+Chief, Laboratory of Developmental Pharmacology, National Institute of Child Health and Human Development, National Institutes of Health
+
+I feel very honored, indeed, and also very humble, to have the
+privilege of joining my four esteemed colleagues (1-4) in being
+named as recipient of the fifth Bernard B. Brodie Award in Drug
+Metabolism. I thank the American Society for Pharmacology
+and Experimental Therapeutics (administrators of this award)
+and the CIBA-GEIGY Corp. (sponsors of this award) for their
+recognition of my studies on the genetic regulation of drug-
+metabolizing enzymes. My training began in the laboratories of
+Howard 5. Mason, and then Harry Gelboin, who both helped
+me in choosing the direction of my future studies. I am thankful
+for my association during the subsequent 18 years with numerous
+talented colleagues and collaborators without whose skill, hard
+work, creativity, and continued support and friendship the work
+lam about to describe would not have been possible. Although
+their contributions are well documented in the literature, there
+are several individuals whose contributions are not. One of these
+is Ernst Caspari, in 1959 with The Department of Biology,
+Wesleyan University, Middletown CT, who inspired me to think
+that “there can be little sense to biology, except in the context of
+genetics and evolution.” Two others include Mort B. Lipsett,
+previous Director of the National Institute of Child Health and
+Human Development (NICHHD), and Arthur S. Levine, Sci-
+entific Director of the NICHHD, who helped create the environ-
+ment needed for the pursuit of innovative basic research. The
+other individual is my wife, Kathleen Dixon, who has critically
+reviewed many of my publications since 1981, and who gave
+birth to two beautiful, healthy twin boys the same day that John
+Schenkman informed me of my being recipient of the Brodie
+Award.
+
+This paper is directed at the graduate student and beginning
+postdoctoral fellow. I wish to illustrate the chain of events in my
+career—how the thinking in my laboratory led to the design of
+an experiment, and how our interpretation of new data led to
+the next hypothesis. At each point in time, of course, develop-
+ment of the next experiment was heavily influenced by the
+prevalent thinking, the skill and creativity of my postdoctoral
+fellows and collaborators, and the techniques available.
+
+Genetic Locus Defined, The metabolism of carcinogenic poly-
+cyclic hydrocarbons, such as benzo[a]pyrene, was known 2 dec-
+ades ago to be carried out by a P-450 enzyme, aryl hydrocarbon
+hydroxylase (AHH).' We had found that it was possible to study
+in cell culture the regulation of AHH activity—including induc-
+tion by benzo[aJanthracene, cycloheximide, and actinomycin D
+(5-9). The induction, by polycyclic hydrocarbons, of an enzyme
+that metabolized polycyclic hydrocarbons, seemed very exciting
+because of its relevance to human environmentally caused cancer
+
+This paper is dedicated to the memory of Mort B. Lipsett (1921-1985), whose
+enthusiastic support as a friend and administrator | shall never forget.
+
+" Abbreviations used are: AHH, aryl hydrocarbon hydroxylase; BP, benzo[a]
+pyrene; MC, 3-methytcholanthrene; TCDD, tetrachlorodibenzo-p-dioxin; UDPGT,,
+UOP-glucuronosyitransferase; NMOR,, NAD(P)H:meadione oxido reductase; RFLP,
+restriction fragment length polymorphism.
+
+and toxicity. The induction of an enzyme by many of its sub-
+strates also appeared to be very important in fundamental studies
+of eukaryotic gene regulation.
+
+A survey of AHH inducibility among several inbred mouse
+strains (10) therefore “seemed like a neat idea” for several rea-
+sons. (i) As Severo Ochoa noted, “All things being equal, it is
+better to have a biologic mutant than not to have a biologic
+mutant.” {ii} In 1969, carcinogenesis, mutagenesis, and toxicity
+were just beginning to be measurable in tissue culture. The intact
+mouse thus promised to be a better model for the study of
+pathophysiologic effects of environmental chemicals. (iii) The
+observations of genetic differences in the mouse can most likely
+be extrapolated to human disease caused by the metabolism of
+environmental carcinogens and toxic chemicals, A survey of
+several inbred mouse strains (10) revealed a fundamental differ-
+ence (table 1) between C57BL/6 (B6) and DBA/2 (D2) mice. 3-
+Methylcholanthrene (MC) treatment increased hepatic AHH
+activity more than 6-fold in B6 but not D2 mice. A 2-nm spectral
+shift in the reduced P-450-CO complex was also seen in MC-
+treated B6 but not D2 mice. The B6-D2 difference was not
+observed following phenobarbital treatment. One interpretation
+of the table 1 data is that MC treatment of B6 but not D2 mice
+might lead to the appearance, or large increase, of at least one
+new P-450 protein; alternatively, MC might cause a decrease in
+one or more other proteins, unmasking an already existing P-
+450 protein in B6 but not D2 mice. Why does the B6 mouse,
+when presented with a polycyclic hydorcarbon stimulus, respond
+with an increase in polycyclic hydrocarbon metabolism while
+the D2 mouse does not? The rest of my career to date has been
+devoted to gaining a better understanding of this observation.
+
+We first wondered what would happen if the genetically “re-
+sponsive” B6 mouse were crossed with the genetically “nonres-
+ponsive” D2 mouse. The lack of AHH induction was found to
+be inherited as a Mendelian autosomal recessive trait (11) [al-
+though the inheritance of this trait appeared to be more compli-
+cated when we studied crosses between other inbred mouse
+strains (12)]. Moreover, inheritance of this trait was found in
+
+TABLE 1
+
+Aryl hydrocarbon (benzofajpyrene) hydroxylase (AHH) from liver
+microsomes of control and drug-treaied mice
+
+AHH Specific Activity x
+
+ 
+
+ 
+
+Sean Col 3-Methylcholanthrene* Phenobarbital’ ¢CO-reduced)
+pmol/min}mg protein
+am
+B6 400 450
+2500 448
+1000 450
+D2 400 450
+400 450
+1000 450
+
+ 
+
+* Eighty mg per kg of body weight for 2 days.
+Sixty mg per kg of body weight for 5 days.

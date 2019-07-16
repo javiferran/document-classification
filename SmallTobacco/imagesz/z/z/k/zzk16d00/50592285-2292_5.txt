@@ -1,0 +1,99 @@
+ceo
+
+ 
+
+FiGure 6 Pore structure and a four-barrier raodel. A scheme is dr:
+1982; Miller et al, 1984) on the basis of conduction and blocking studies. A
+is proposed to drop, is shown in register with free energy profiles for K * (sol)
+
+awn of cag
+
+ 
+
+aysical model previously derived for this channel (Miller,
+nent of the \unnel region, along which the applied voltage
+nd Cs* (dashed), These profiles were derived by fitting the /-¥
+
+   
+ 
+
+data to the model, with parameters given in Table 1, The unhydrated Cs* ion shown in the scheme is drawn ta scale.
+
+profiles derived above for the conducting ions are not
+consistent with this structure. The main problem concerns
+the symmetry of the channel. On one hand, the channel's
+diffusion pathway is clearly asymmetric in structure; both
+Cs* and organic cations (Coronado and Miller, 1982)
+block ata specific binding site at an electrical distance of
+~0.4, But on the other hand, the free energy profile derived
+for K* is highly symmetric, with three energy barriers
+symmetrically positioned along the pore. It makes sense
+that the blocking site for organic cations and Cs* should be
+
+located near the constricted region of the channel, the .
+
+selectivity filter. But why should there:be a second barrier
+for K* movement in the middle of the wider tunnel region?
+Furthermore, why should a blocker’s binding site be
+located near the selectivity filter, which should be an
+energy peak in the channel (Armstrong, 1975)?
+
+Of course, without a detaifed structure of this channel
+protein, we cannot answer these questions. But we do wish
+to propose an alternative ion conduction profile which is
+more harmonious with our structural picture of this pore.
+This profile, shown in Fig. 6, is highly asymmetric. We
+propose, as Hille (19755) has done for the Nat channel,
+that the selectivity constriction itself provides both ion
+binding sites and a major rate-determining step for trans-
+port through the channel, We imagine that a cluster of
+polar groups is located at the selectivity filter, and that a
+conduction ion can approach this structure from either
+side and bind to it before being fully liganded in the center
+of the hole. The configuration in which an ion is complexed
+with the selectivity filter in front and water behind is
+Proposed to represent a binding well in the free energy
+
+482
+
+ 
+
+e. There will be two of these, one far approach from
+and one fram the right. We further postulate that
+ally difficult step for the conducting ion is the actuall
+sit through the selectivity filter, i.¢., in moving between
+lefiward and rightward binding positions. It is reasonable
+to suppose that this step might be energetically unfavor-
+able, since additional dehydration of the ion will have to
+occur here, concomitant with specific liganding by the!
+Groups in the selectivity filter.
+
+Our pore thus contains an active site, with a single
+liganding structure in the channel contributing two binding
+sites and a transition state. We place these close together,
+at electrical distances of 0.34, 0.37, and 0.4, to be consis-
+tent with the voltage dependences of both organic and
+inerganic blockers. The pore should also contain barriers to
+entry, since partial dehydration will occur when the con-
+ducting ion enters the 0.8 nm—wide tunnel region; accord-
+ingly, we place barriers at electrical distances of 0.05 and j
+0.95, respectively. Once an ion enters the tunnel from the
+trans side by hopping over the barrier at 0.95 electrical 4
+distance, what does it experience? According to our struc-
+tural picture, it will diffuse along a relatively wide, feature- §
+less region until encountering the constriction. We envision |
+this relatively {ree diffusion process as a series of small 4
+energy barriers, and for simplicity we model this as a single
+low barrier. This is not an entirely unreasonable assump-
+tion, given that the distance from the trans-facing tunnel
+entry to the selectivity constriction is only 0.6-0.7 nm
+(Miller, 1982) .
+
+Does the free energy profile thus developed qualitative-
+ly, and shown in Fig. 6, work? With the parameters 4
+
+ 
+
+  
+
+BIOPHYSICAL JOURNAL VOLUME 48 1985

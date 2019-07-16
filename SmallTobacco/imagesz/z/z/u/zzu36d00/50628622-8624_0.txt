@@ -1,0 +1,53 @@
+Molecular characterization of the signal for radiation-inducible genes and the isolation of
+novel radiation-inducible genes in the yeast Saccharomyces cerevisiae:
+
+Michael Fasullo, Ph.D. Loyola University
+
+Specific Aims:
+
+Damage-inducible (DIN) genes have been cloned and characterized from many
+organisims, including yeast, bacteria, and man. Many of these genes are induced by a variety
+of DNA damaging agents that inflict a diverse spectrum of DNA lesions, including base pair
+damage, cross-links, bulky adducts, and singie- and double-strand breaks. These DNA
+damaging agents include chemicals that cause oxidative damage via the formation of free
+radicals, similar to those found in tobacco smoke. The diversity of DNA lesions caused by
+free radicals provokes the question of whether all these lesions can serve as the primary
+signal for damage-induction or whether these lesions are processed to a common signal that
+triggers the induction of DIN genes. The aim of this project is to focus specifically at
+ionizing radiation as an agent that induces DIN genes in yeast, to elucidate the genetic
+pathway by which a single double-strand break may serve as a signal for the induction of
+such genes, and to isolate novel radiation-inducible genes that may be triggered directly by
+the presence of DNA double-strand breaks. The yeast Saccharomyces cerevisiae has been
+chosen for these experiments becuase many genes involved in the repair of radiation damage
+are well defined and the molecular biology and genetics to address the phenotypes of
+mutated genes is well advanced. In addition, roughly 1% of the yeast genome is speculated
+to encode damage-inducible genes (Ruby and Szostak, 1985), only a few yeast genes have
+been characterized as damage-inducible, and previous attempts to isolate DIN genes have
+not utilized ionizing radiation as the DNA damaging agent-
+
+Significance:
+
+Human genes that are induced by ionizing radiation include TNFa, p53 , protein
+kinase C, IL-1, collagenase and yadd45 (growth arrest and DNA damage). These and other
+characterized genes represent a subset of a theoretically much larger set of genes (for review
+see Fornace, 1992). Although the functional significance of the DIN genes has yet to be
+explained, recent evidence has found that failure to induce gadd45 is correlated with
+radiosensitivity in patients afflicted with Ataxia telangiectasia, and such patients have a
+higher incidence of cancer, especially lymphomas. The induction of these genes by ionizing
+radiation and free radicals may occur by a variety of signal transducing mechanisms.
+Oxidative damage to membranes may trigger the expression of protein kinase C which
+phophorylates transcription factors, such as jun, that in turn induce the expression of such
+genes (Hallahan et al., 1991), although this may not be the mechanism of the induction of
+gadd45. Alternatively, DNA damage may be the primary signal for the induction of damage-
+inducible genes. This is suggested by the observation that cell lines that are defective in
+damage repair have higher levels of the expression of particular damage-inducible genes
+(Herrlich et al., 1992). Nonetheless, the signal transduction mechanism which is provoked
+by a DNA lesion is poorly understood.
+
+Elucidation of the pathway by which radiation-induced DNA lesions directly stimulate
+DIN genes may be better addressed in yeast. This proposal is divided into the following
+sections. First, elucidation of the mechanism by which a single double-strand break can
+
+l
+
+50628622

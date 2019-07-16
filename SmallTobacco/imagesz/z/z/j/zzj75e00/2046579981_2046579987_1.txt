@@ -1,0 +1,63 @@
+Subject: Integrated Nielsen Panel
+February 15, 1994
+Page 2
+
+Share Variances
+
+Share trends and absolute share levels in the new Integrated Nielsen service are generally
+consistent with the Expanded panel for most brands, companies and segments including
+PM's products. However an absolute share differences between the two services is
+evident for total RJR. This primarily reflects the Integrated services more fully capturing
+RJR promotional UPC codes.
+
+MONTHLY SHARES - NOV. '93
+
+NEW CURRENT
+
+INTEGRATED EXPANDED
+
+Philip Morris 44.8 45.0
+Marlboro 26.8 26.5
+B&H 2.5 2.6
+
+Virginia Slims 2.8 2.8
+Merit 2.8 2.8
+Basic 4.4 4.7
+
+RJ Reynolds 31.3 30.2
+Winston 6.9 6.7
+
+Discount Category 32.6 32.3
+
+ 
+
+Other Issues/Features
+* Monthly data will be reported 12 times per calendar year, with each 13 week calendar
+
+quarter aggregated into a 4-4-5 configuration of weeks. This will provide a
+consistent reporting cycle with PM financial tracking/reporting.
+
+- Anaverage weekly volume measure will be available for each of the 12 monthly
+periods to allow for trended volume analysis.
+
+* Monthly data for each of the trade classes will be available from 6/91 to current.
+Weekly data for supermarkets will be available from 1/91 while drug and mass
+merchandiser scanning data begins 6/91. Weekly data for the 800 convenience
+stores will only be available on a forward basis (beginning the w/e 1/8/94).
+
+* Forward inventory will be collected in a sub-sample of 400 scanning supermarkets
+monthly to allow for the continued tracking of days supply, out-of-stocks and share
+of inventory in this trade class. Inventory data will also continue to be available in
+convenience stores (on a weekly and monthly basis) from the full 800 store sample.
+
+¢ Convenience store data will be segmented into small versus large stores (based on a
+200 CPW criteria) to allow for tracking of this trade class by store size.
+
+* Region and Section level data will be available for supermarkets, convenience stores
+and all outlets combined. Drug store and mass merchandiser data will be available at
+a Region level but not individual Sections due sample size issues.
+
+- In addition to PM defined geographies (Regions & Sections), a total of 47 Nielsen
+defined ScanTrack markets will be available for the scanning supermarket data.
+
+GSEBLSITIG

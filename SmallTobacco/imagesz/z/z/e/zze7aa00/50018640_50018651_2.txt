@@ -1,0 +1,77 @@
+irst of
+olving
+ratory
+r auto
+
+being
+1.
+
+42 by
+sed in
+ctheme
+ists of
+
+irrors
+. their
+of the
+‘Tor is
+cr was
+ature.
+ff the
+imTors
+irror,
+. The
+
+ 
+
+ 
+
+Long-path infrared spectroscopy for air pollution research 189
+
+small mirror in turn reflects the beam to fill the second large mirror. This mirror then forms
+an image of the source just off the edge of the small mirror so that the beam exists from the
+cell. Four passes are thus shown in Fig. I(a).
+
+Entrance
+image
+
+ 
+
+TT
+i 7/5/35
+IN
+
+Centers of curvature
+of large mirrors
+
+Fic. 2. Small mirror with thirty-five images (216 m path length)
+
+By decreasing the separation between the centers of curvature of the two large mirrors
+(i.e., decreasing the angle between their surfaces) any integral multiple of four passes can be
+obtained. This is shown in Fig. 2 where thirty-five images appear on the small mirror.
+The numbers in Fig. 2 give the order in which the images are formed. In practice the path
+length is determined by counting the number of images on the small mirrors, multiplying
+by two, then adding two to account for the entrance and exit passes. These thirty-five
+images correspond to seventy-two passes of the beam through the cell. With a base path-
+length of 3 m (i.e., radius of curvature of mirrors = 3 m) seventy-two passes corresponds
+to a total path-length of 216 m. .
+
+The distance between the centers of curvature shown in Fig. 2 is equal to half the separa-
+ration between successive even-numbered (or odd-numbered) images. As these centers are
+brought closer together the odd-numbered images move to the right while the even-
+numbered images move to the left, with higher-numbered images moving most rapidly.
+The former exit image then falls on the mirror and is reflected to form a new odd-numbered
+image on the lower left. This new image is in turn reflected to the upper right to form a new
+exit image. As the centers grow even closer, image No. 2 finally begins to over-step the
+edge of the mirror so that image 3 and all succeeding images become progressively narrower
+as the number of images is increased.
+
+It is apparent that when many images are desired the edges of the small mirror which are
+adjacent to the entrance and exit images must be straight, parallel, only lightly bevelled,
+coated to the edge, and not obstructed by mirror mounts. Another critical feature is that
+the line joining the centers of curvature of the two large mirrors must be perpendicular to
+these entrance and exit images at the small mirror. If it is not, the rows of images will be
+tilted either up or down parallel to this line. When the horizontal separation between
+centers is small (i.e., at long path-lengths), a small vertical displacement of one of these
+centers will exaggerate the tilt of the rows of images and may throw the exit image far out
+of line.

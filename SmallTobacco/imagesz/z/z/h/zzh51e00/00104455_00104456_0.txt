@@ -1,0 +1,51 @@
+f
+&.
+
+Lirillard
+
+MEMORANDUM
+August 1, 1974
+TO > Dr. H. J. Minnemeyer
+FROM : P. D. Schickedantz
+
+SUBJECT: PMO Aerosolization
+
+Formulations have been prepared with the object of
+obtaining a PMO aerosol which would enable human inhalation
+of about 30 mg of PMO over a period of a few minutes to a
+few hours.
+
+Test formulations were dispensed using a Devilbis Model
+# 40 hand-buib nebulizer operated either by squeezing or by
+low pressure laboratory air after removing the bulb. The
+amount of liquid dispensed, found by weight loss after a
+given number of squeezes, was as follows:
+
+mg/squeeze
+Water 2.7
+1:1 propylene glycol-water (w/w) 2.0
+PMO saturated 4:1 propylene glycol-water (w/w) 0.93
+PMO saturated propylene glycol 0.4
+
+The variability in delivery is undoubtedly due either
+to evaporation, in the case of water, or weight gain of water
+by hydroscopic propylene glycol. The true delivery is
+probably about 1 mg/squeeze as was obtained for the 4:1
+propylene glycol-water mixture which should be nearly in
+equilibrium with air at 35% humidity.
+
+The room temperature solubility (@ 24°C) of PMO was found
+to be 123 mg/g in propylene glycol and 65 mg/g in 4:1 propylene
+glycol-water (w/w). (For practical purposes PMO is insoluble
+in water or glycerine.)
+
+Using 1 mg of solution/squeeze as the delivery, 240
+squeezes would be required to deliver 30 mg of PMO from PMO
+saturated propylene glycol and 460 squeezes for PMO saturated
+4:1 propylene glycol-water.
+
+The nebulizer filled with PMO saturated 4:1 propylene
+glycol-water was operated using the laboratory air supply. A
+rotometer in the air line read 15 scfh at 5 psi. The weight
+
+SSPPOTOO

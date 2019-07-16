@@ -1,0 +1,130 @@
+Vor. 66, 1992
+
+TABLE 3. Biological activity in demain 3
+
+ras cooperativil -
+P ¥ a trans
+
+ 
+
+Plasmid (no, of times positives patrate
+no, of experiments) activation
+pl647 3/3 100
+pl6da 33 97
+pl649 3/3 84
+pl652 24 10
+pl6s3 Aid 100
+pl6s4 4/4 100
+pl6ss 4/4 39
+pl6s7 14 32
+pl6s3 2/4 35
+pl6s9 3/4 57
+
+ 
+
+suggest that the primary effect of mutations in the carboxyl
+terminus result from structural perturbations that affect the
+intracellular stability of the protein. ’
+
+It has been recently suggested that alterations of the CKII
+site preferentially affect trans-activation (6) and transforma-
+tion functions (16). The role of serine phosphorylation or of
+the amino acids comprising the CKII site itself is not clear;
+hawever, the data presented in this study indicate that
+phosphorylation itself is not essential for transformation or
+transcriptional regulatory functions of the protein. However,
+the mutated E7 proteins that were poor substrates for
+phosphorylation (pl465 and p1646) were slightly impaired
+for trans activation of the Ad E2 promoter (56 and 65% of the
+wild type, respectively). The mutant pl454, which was
+wild-type in trans activation, demonstrated a much-reduced
+ability to be phosphorylated, suggesting that a high level of
+phosphorylation per se is not required. It is important that
+mutations in the CKII site did not alter the ability of E7 to
+interact with the pRB protein, indicating that substantial
+structural perturbations were not introduced by these muta-
+tions, and further, that in vivo phosphorylation plays no
+direct role in the association of E7 and pRB. Furthermore,
+mutations in the CKIT domain described in this study do nat
+substantially alter the acidic nature of this region (16). Thus,
+if maintenance of the negative charge in this domain is
+important, the deletions and amino acid substitutions de-
+scribed in this work would not have substantially altered this
+
+property.
+
+p1467
+pt4a6s
+1458
+plas?
+01646
+pl4sa
+1453
+
+2
+&
+o
+
+   
+
+FIG. 6. pRB binding. Transfected COS-7 cells were lysed and
+immunoprecipitated with polyclonal antisera to HPV16 E7. Immune
+Precipitates were run on SDS-PAGE (7.5% polyacrylamide) gels,
+electroblotted to nitrocellulose, and probed with a monoclonal
+antibody to human pRB. Detection was with “I-labeled goat
+anti-mouse antiserum. Autoradiography was for 2 to 4 days.
+
+wy
+
+of
+
+i
+A
+
+HPV16 E7 MUTAGENESIS
+
+nm oO
+as
+© Oo
+a2 0
+
+ 
+
+MOCK
+pt6s3
+P1646
+1467
+pl4es
+piasa
+plas3
+
+  
+
+FIG. 7. Phosphorylation of E7 mutants. Transfected COS-7 cells
+were metabolically labeled with (‘°S)eysteine or [“P]P;. Products of
+immunoprecipitations were separated on SDS-PAGE (12% poly-
+acrylamide) gels. ,
+
+Mutations in the carboxy] terminus of E7 generally af-
+fected the intracellular stability of the polypeptide. Both
+EIA and the HPV E7? proteins contain Cys-X-X-Cys motifs
+that have been implicated in the coordination of Zn** atoms.
+At least two functions, DNA binding activity (8) and protein
+dimerization (17), have been ascribed to polypeptide do-
+mains containing zinc thiolate complexes. As yet, there is no
+evidence that E7 is capable of sequence-specific DNA bind-
+ing, and the role of Zn** chelation in E7 dimerization has not
+yet been explored. With the extended distance (30 amino
+acids) between the Cys-X-X-Cys motifs in E7, this protein is
+unlikely to form a classical zinc finger structure as originally
+proposed for transcription factor Illa (26). Nevertheless, the
+zinc thiolate complex may be important for the structural
+integrity of the E7 protein. Recent studies with chimeric
+HPV6 and HPV16 E7 proteins have also shown that the
+carboxyl-terminal regions of both high- and low-risk E7
+proteins are interchangeable and thus functionally equiva-
+lent (31). Therefore, substitutions which disrupt this frame-
+work would be expected to severely alter the tertiary struc-
+ture of the protein. In this work, the deletion or substitution
+of cysteine residues in the carboxyl terminus generally
+resulted in an unstable, biologically inactive protein.

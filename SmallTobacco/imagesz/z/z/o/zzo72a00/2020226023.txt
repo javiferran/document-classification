@@ -1,0 +1,40 @@
+PROJECT TITLE: Project Tomorrow CON F{ 0 EN I AL
+
+PROJECT LEADER:  R. W. Dwyer
+PERIOD COVERED: November, 1991
+
+I. THERMAL PROPERTIES OF CIGARETTE
+
+A.
+
+B.
+
+Objective: Relate the design of cigarettes to their thermal properties.
+
+Results; The heat loss of freely smoldering cigarettes has been measured with
+acalorimeter. Additionally, the heat loss of cigarettes smoldering on
+fabric/foam substrates has also been measured. Cigarettes smoldering on
+substrates lose weight at about 85% of their rate during free burn. The
+cellulose-based fabric used in these experiments.has a heat of smoldering
+combustion comparable to the cigarettes themselves. The dimensions of the
+cigarette coals were unchanged by placing them on the substrate, contrary to
+NIST’s observation. The power output of the freely smoldering cigarettes
+appears'to be a linear function of the MBR, while. the heat flux appears to be
+independent of MBR.
+
+Further, experiments show that substrates affect cigarette MBRs at separation
+distances of up to 4.5 mm, suggesting that the.disruption of the boundary layer
+may be an important factor in-extinguishments
+
+We have.also monitored the out flow of gases from cigarettes smoldering in free
+air and on fabric/foam substrates.. We see the flow rates cycling about a mean
+flow--this behavior may be related to. temperatures cycling in the cigarettes.
+
+Plans: We plan to measure the heat flux of freely smoldering cigarettes and
+
+cigarettes smoldering on fabric/foam substrates as functions of air flow. This
+should allow us to determine heat flux as a function of flow rate in order to
+
+explain the role of flow on fabric ignitions.
+
+ezoszz0z02e

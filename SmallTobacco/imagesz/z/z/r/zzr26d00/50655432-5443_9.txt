@@ -1,0 +1,160 @@
+Iso-Vy
+
+= wen ft :
+% Lf
+xt 5 1 ! J
+—E : f | i
+LZ of FRart , ' '
+8 4 t ! 1
+a “5% Ty t '
+
+i y r)
+
+1
+
+“40+ Li b
+10 ! !
+“15 i Ly
+
+-20+
+
+ 
+
+ 
+
+ 
+
+ 
+
+INSPIRATORY PRESSURE GENERATION
+
+Isa-Pes
+
+B REST
+r
+
+eV 150° Vp
+
+a
+
+t
+
+if
+LA
+
+or r tr
+
+Pga (crm HzO)
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+=28,
+
+Viste
+
+sonia soa ti
+SO _ SO Vste 50 90 Vste 50 90 Vie SO _ 90
+2s 75 250 73 25°«75 2 675
+
+Expiratory Time Interval
+
+“Sate 30 SO ate 50, SO 3030
+25 7S 25 75 P25 0,90 Viste os * 1?
+
+Expiratory Time Interval
+
+FIG. #1. Comparison of age-matched normal (AMN) and chronic obstructive pulmonary disease (COPD) subjects
+with respect to expiratory esophageal pressure (Pes; A) and expiratory gastric pressure (Pga; B). @ and -—--, AMN
+data; x and ----, COPD data. Expiratory time intervals were measured from the end of inspiratory flow (Vste) of one
+breath to the beginning of inspiratory flow of the next breath; data are presented at Vste, 25, 50, 75, and 90% of
+expiratory time. Analysis of variance indicated that group-by-expiratory time interaction was significant at the 0.05
+level. Therefore, at each expiratory time, we compared AMN and COPD subjects by group ¢ tests. Statistically
+significant differences were indicated by asterisks as in Fig. 6. See legend of Fig. 7 for definitions of other abbreviations.
+
+sistent with the turning off of a very small degree of
+expiratory muscle tone during the course of inspiration,
+since the passive abdominal wall would demonstrate only
+a very slight positive deflection of abdominal pressure
+during inspiration over the same range of abdominal
+displacements. In summary, the tracings shown in Figs.
+9 and 10 fully support the utilization of our model for
+analyzing inspiratory pressure generation and are con-
+sistent with the presence of only minimal abdominal
+tone during inspiration.
+
+One assumption in our analysis is that the Pes and
+Pga points at end expiration during exercise do not differ
+from the RP. As noted in METHODS, Pes and Pga values
+at end expiration during rest determine the RP. There-
+fore our calculations of diaphragmatic and nondiaphrag-
+matic pressures are based on the differences between the
+
+TABLE 2. Electromyogram activity across TI intervals in chronic obstructive pulmonary disease subjects
+
+instantaneous inspiratory pressures and the RP (see Fig.
+2). Accordingly, if end-expiratory Pes and Pga values
+during exercise differ from RP, our calculations of Ppra,
+Pram, and Ppgr will be in error.
+
+However, since we noted that our calculations of Ppia
+throughout exercise were essentially equal to our direct
+measurements of Pdi, we conclude that even if end-
+expiratory Pes and Pga values during exercise differed
+from the RP, they would still lie on the Pdi = 0 isopleth.
+While not affecting Ppra calculations, increases or de-
+creases from rest in the tonic activity of the IAM and/
+or expiratory muscles would introduce errors into our
+calculations of the nondiaphragmatic components of the
+inspiratory pressure vectors. For example, an increase in
+tonic activity of the expiratory muscles during the tran-
+sition from rest to exercise would cause our estimates of
+
+ 
+
+ 
+
+ 
+
+% of Trat % of Peak Activity at
+Exercise Intensity Muscle Which Peak ~ ce
+Activity Noted 25% Tr 50% Tr 16% Tt 90% TI
+50% WR peak Diaphragm 8342 2645 4945 8445 8942
+Parasternal 7543 44468 6746 8642 8024
+Intercostal
+Sternomastoid Toa4 3748 5849 8344 1644
+100% WR peak Diaphragm 7442 4045 70+4 8942 $241
+Parasternal 664 56+6 Ws 90+1 1543
+Intercostal
+Sternomastoid 6843 4948 76+3 8841 +1
+
+ 
+
+Values are means + SE. Ti, inspiratory time; WR peak, peak work rate. Electromyogram (EMG) activity was quantitated by the amplitude
+of a 75-ms digital moving average. At both 50 and 100% WR peak, we used a 1-way analysis of variance {ANOVA) to compare the three muscles
+with respect to percent of Ti at which peak EMG activity occurred. At both work rates, differences among muscles were not significant at the
+6.05 level, At both 50 and 100% WR peak, we used a 2-way repeated-measures ANOVA to compare the three muscles over the time of inspiration.
+At both work rates, muscle-by-time interactions and differences among muscles were not significant at the 0.05 level. However, at both work
+rates, the time effect was significant at the 0.001 level.
+
+  
+   
+ 
+
+   
+
+ 
+
+50655441

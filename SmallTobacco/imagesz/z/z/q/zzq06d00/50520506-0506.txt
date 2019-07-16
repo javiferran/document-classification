@@ -1,0 +1,145 @@
+THE JOURNAL OF Bioacical. CHEMISTRY
+© 1993 by The American $ y for Biochemistry and Molecular Biology, Inc.
+
+ 
+
+  
+
+Vol. 268, No. 4, Issue of February 5, pp. 2 iS
+Printed in U8 A.
+
+ 
+
+Expression, Characterization, and Tissue Distribution of a New
+Cellular Selenium-dependent Glutathione Peroxidase, GSHPx-GI*
+
+(Received for publication, March 26, 1992}
+
+Fong-Fong Chut, James H. Doroshow, and R. Steven Esworthy
+From the Department of Medical Oncology and Therapeutics Research, City of Hope National Medical Center,
+
+Duarte, California 91010
+
+We have characterized a new selenium-dependent
+glutathione peroxidase, GSHPx-GI, by expressing a
+GSHPx-GI cDNA isolated from human hepatoma
+HepG2 cells in human mammary carcinoma MCF-7
+cells, which have virtually undetectable expression of
+either the classical cellular enzyme, GSHPx-1, or
+GSHPx-GI at the protein level. One of the G418-re-
+sistant clones, neo-D1, expresses the transfected
+GSHPx-GI cDNA. This is based on 1) the presence of
+an additional GSHPx-GI DNA restriction fragment
+detected by Southern analysis; 2) the presence of a 1.9-
+kilobase (kb) GSHPx-GI mRNA in addition to the 1.0-
+kb endogenous mRNA by Northern analysis; and 3) the
+appearance of a 22-kDa ™Se-labeled protein which is
+absent in parental MCF-7 cells revealed by SDS-poly-
+acrylamide gel electrophoresis.
+
+GSHPx-GI expressed in neo-D1 is a tetrameric pro-
+tein localized in cytosol. GSITPx-GI does not cross-
+react with antisera against human GSHPx-1 or human
+plasma glutathione peroxidase (GSHPx-P). Similar
+substrate specificities are found for GSHPx-1 and
+GSHPx-GI; they both catalyze the reduction of H,Oo,
+tert-butyl hydroperoxide, cumene hydroperoxide, and
+linoleic acid hydroperoxide with glutathione, but not
+of phosphatidylcholine hydroperoxide. GSHPx-GI
+mRNA was readily detected in human liver and eolon,
+and occasionally in human breast samples, but not
+other human tissues including kidney, heart, lung, pla-
+centa, or uterus. In rodent tissues, GSHPx-GI mRNA
+is only detected in the gastrointestinal tract, and not
+in other tissues including liver. In fact, GSHPx-GI
+appears to be the major glutathione-dependent perox-
+idase activity in rodent GI tract. This finding suggests
+that GSHPx-GI could play a major role in protecting
+mammals from the toxicity of ingested ipid hydroper-
+oxides.
+
+In conclusion, we have demonstrated that GSHPx-
+GI is the fourth member in the selenium-dependent
+glutathione peroxidase family, in addition to GSHPx-
+1, GSHPx-P, and phospholipid hydroperoxide gluta-
+thione peroxidase (PHGPX).
+
+ 
+
+* This work was supported by American Heart Association Greater
+Los Angeles Affiliate, Grant-in-Aid 901 GI-2, and National Cancer
+Institute Cancer Center Support Grant CA 33572. The costs of
+publication of this article were defrayed in part by the payment of
+page charges. ‘This article must therefore be hereby marked “adver-
+tlsement” in accordance with 18 U.S.C. Section 1734 solely to indicate
+this fact.
+
+The nucleotide sequencefs) reported in this paper has been submitted
+to the GenBank™/EMBL Data Bank with accession number(s)
+X68314.
+
++ To whom correspondence should be addressed: Dept. of Medical
+Oncology, City of Hope National Medical (tr., 1500 E, Duarte Rd.,
+Duarte, CA 91010-0269. Tel.: 818-359-8111 (ext. 3891/2426); Fax:
+818-301-8233.
+
+Selenium-dependent glutathione peroxidase activity is due
+to the expression af multiple isozymes. Three of the isozymes
+have been previously purified and characterized at the protein
+level. They are: (a) the classical cellular glutathione peroxi-
+dase, GSHPx-1' (1), (b) the phospholipid hydroperoxide glu-
+tathione peroxidase, PHGPX (2), and (c) the plasma gluta-
+thione peroxidase, GSHPx-P (3, 4). Both GSHPx-1 and
+GSHPx-P are tetramers and have similar substrate specifici-
+ties. They can metabolize HQ. and fatty acid hydroperoxides
+effectively but metabolize phospholipid hydroperoxide and
+cholesterol hydroperoxide poorly (5, 6), On the other hand,
+PHGPX is a monomer and has different substrate specificities
+compared to GSHPx-1 and GSHPx-P. PHGPX catalyzes the
+reduction of phospholipid hydroperoxide, cholesterol hydro-
+peroxide, and linoleic acid hydroperoxide much more effec-
+tively than the reduction of H,O, and tert-butyl hydroperax-
+ide.
+
+GSHPx-1 and PHGPX are present in most of the tissues
+that have been examined. GSHPx-1 is present abundantly in
+erythrocytes, kidney, and liver (7); and PHGPX is present in
+testis at a high level (8). On the other hand, GSHPx-P exhibits
+tissue-specific expression: it is detected in plasma, milk, and
+lung (3, 4, 9, 10). In humans, GSHPx-P mRNA is expressed
+in liver, kidney, heart, lung, placenta, and breast tissue:
+whereas, in the rodent GSHPx-P is not expressed in liver,
+although rodent kidney has a higher level of expression which
+may compensate for no GSHPx-P expression in liver (11).
+The cDNA sequence of these three glutathione peroxidase
+isozymes have been previously reported; they all contain a
+UGA codon coding for selenocysteine (12-15).
+
+In addition to these three isozymes, a 24-kDa epididymal
+secretory protein homologous to glutathione peroxidase has
+been reported in mouse. This 24-kDa protein is inducible by
+testosterone, and it is only expressed in epididymis (16, 17).
+Since the published nucleic acid sequence of the 24-kDa
+protein does not contain a UGA codon, whether it should be
+included as an isozyme of the selenium-dependent glutathione
+peroxidases is debatable.
+
+We isolated a GSHPx-GI clone from human liver and
+human hepatoma HepG2 cDNA libraries in Agt11; this CDNA
+shares sequence homology with GSHPx-L (18). The cDNA
+clone, GSHPx-GI, was subsequently reported by Akasaka et
+al. (19), who also isolated it from a human liver library.
+GSHPx-G1 cDNA contains a UGA codon; this suggests that
+it may be a fourth selenium-dependent glutathione peroxidase
+isozyme. Because the protein product of GSHPx-GI had not
+heen identified, it was possible that GSHPx-GI was a pseu-
+dogene. In this report, we present data on the analvsis of
+
+ 
+
+* The abbreviations used are: GSHPx, selenium-dependent gluta-
+thione peroxidase; PHGPX, phospholipid hydroperoxide glutathione
+peroxidase; DMEM, Dulbecco’s modified Eagle's medium: PAGE,
+polyacrylamide gel electrophoresis.
+
+2571

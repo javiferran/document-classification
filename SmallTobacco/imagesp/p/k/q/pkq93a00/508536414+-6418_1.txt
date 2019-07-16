@@ -1,0 +1,67 @@
+VY. TEST MATERIALS
+1. IGNITION SOURCE: The ignition source for all tests shall be
+cigarettes without filter tips mage from natural tobacco, 85 + 2 mm
+(3.3 £ 0.1 in) long and with a p ing density of 0.27 + 0.02 g/cm?
+(0.16 + 0.01 oz/in?) and a total weight of 1.1 + 0.1 g (0.039 + 0.004
+oz). Pall Mall non-filtered cigarettes ordinarily will meet these
+specifications.
+2. SHEETING MATERIAL: 100% cotton bedsheeting material, weight 125 +
+28 g/m? (3.7 + 0.8 o2z/yd7), white in color, and not treated with flame
+retardants, shall be used to cover test cigarettes. For testing, the
+fabric is cut into squares 127 x 127 mm (5.0 x 5.0 in).
+3. POLYURETHANE FOAM SUBSTRATE: Polyether type polyurethane foam
+which meets the requirements of the UFAC Filling/Padding Component
+Test Method--1990, containing no inorganic fillers or flame
+retardants, having a density of 24.0 + 1.6 kg/m3 (1.5 + O.1 lb/ft3):
+UFAC Standard Polyurethane Foam. This material can be obtained from
+several commercial sources.
+a. Substrate shall be cut into pieces 203 x 203 x 51 mn (8.0 x
+x 2.0 in) for vertical panels and 127 x 203 x 51 mm (5.0 x 8.
+2.0 in) for horizontal panels.
+b. Each panel shall be hand crushed before use by wadding or
+balling up one time in the fist.
+4. TEST ROOM: The test room shall be draft protected and equipped
+with a suitable system for exhausting smoke and noxious gases produced
+during testing.
+5. FIRE EXTINGUISHER: A pressurized water fire extinguisher or other
+suitable fire safety equipment shall be immediately available in the
+test room.
+6. WATER BOTTLE AND WATER BUCKET: A water bottle fitted with a spray
+nozzle shall be provided to extinguish any ignited portions of the
+test apparatus or components. A water bucket shall be provided for
+immersing smoldering or burning materials removed from the test
+apparatus or components.
+
+8.0
+0x
+
+7. SCALE: A linear scale graduated in millimeters or tenths of an
+inch shall be used to measure char length.
+8. OTHER APPARATUS: In addition to the above enumerated items,
+
+straight pins, a knife or scissors, a staple gun and staples, and
+tongs are required to perform the testing.
+
+VI. GENERAL REQUIREMENTS
+
+1. TEST APPARATUS:
+a. The specimen holder shall consist of two wooden panels, each
+nominal 203 x 203 mm (8.0 x 8.0 in) and nominal 19 mm (0.75 in)
+thickness, joined together at one edge. As shown in Figure I, a
+moveable horizontal panel support is positioned on a centrally
+located guide.
+
+2. SAMPLE REQUIREMENTS:
+a. From the upholstery cover fabric sample to be classified, three
+specimens shall be cut for vertical panels each 203 x 381 mm (8.0 x
+15.0 in) and three specimens for horizontal panels each 203 x 254
+mn (8.0 x 10.0 in).
+b. The vertical panel specimens shall be cut with the long
+dimension being in the warp or machine direction and such that the
+major areas of weave variation will lie in the crevice of the
+assembled test apparatus.
+
+FCTM--1990
+April 1, 1990
+
+STP9 CG80S

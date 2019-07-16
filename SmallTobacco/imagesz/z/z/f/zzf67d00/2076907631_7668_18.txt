@@ -1,0 +1,61 @@
+PRIORITY
+
+Report B1041 / P 0500/3213 97/11/12 Page 15
+
+Due to technical reasons, it was necessary to interrupt the daily exposure of one or more
+
+ 
+
+groups for short intervals. Since these interruptions were shorter than 36 min (10 % of the daily
+exposure time), the daily exposure was extended for the respective groups accordingly - with
+the exception of the lowest and highest 1R4F groups, where in one instance 19 min of
+
+exposure were not compensated for.
+
+In order to characterize the test atmospheres as well as to check the reproducibility of the
+
+mainstream smoke generation, relevant analytical parameters were determined at appropriate
+
+intervals. (Table 5).
+
+ 
+
+ 
+
+Parameter Assay Principle Determination Remarks
+Schedule
+TPM gravimetry after trapping on Cambridge >1 time/day -
+fitters
+9 particle size fluorometry after precipitation in monihly in diluted MS only
+= distribution a spinning spiral duct (aerosol
+centrifuge)
+water in TPM Karl-Fischer titration of water in TPM- 1 timeAveek in diluted MS only
+loaded Cambridge filters
+carbon nondispersive infrared photometry of continuously, daily -
+monoxide gas/vapor phase
+nicotine capillary gas chromatography after 1 time/week -
+trapping on sulfuric acid-impregnated
+silica gel
+formaldehyde, reversed phase high performance . in diluted MS only
+
+acetaldehyde, liquid chromatography of
+and acrolein 2,4-dinitrophenythydrazine (DNPH)
+
+ope
+
+ 
+
+derivatives after trapping in DNPH nN
+
+solution 3
+glycerol capillary gas chromatography . in diluted MS only B .
+temperature thermistor probe 2 times/day - Ss °
+telative humidity psychrometry continuously, daily in conditioned air only 3S =
+Table 5 Analysis of Mainstream Smoke ne
+
+Remarks: sample collection sites: Figure 1 and Figure 2
+determination of relative humidity before exposure chamber inlet and temperature at
+
+exposure chamber inlet and outlet
+
+cite tech Tee ft 0 eee On

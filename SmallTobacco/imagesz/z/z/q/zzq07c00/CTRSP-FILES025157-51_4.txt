@@ -1,0 +1,128 @@
+. . Comparison of Multivariable Methods for Prediction—! 343
+
+of weight loss, and severe tumor effects. To be
+classified as having severe tumor effects, a
+patient had to have extensive or incapacitating
+clinical manifestations, such as coma, jaundice,
+or major functional impairment due to meta-
+static lesions, rather than morphologic evidence
+alone or relatively minor clinical manifestations
+such as mild hemiparesis or laboratory abnor-
+malities in liver function. The second variable,
+co-morbid severity, referred to the presence of
+severe additional diseases, beyond the lung
+cancer itself, that would themselves be expected
+to have poor prognosis. Examples of severe
+co-morbid ailments are uncontrolled decompen-
+sation of heart or liver, repeated previous
+episodes of acute myocardial infarction, or re-
+current episodes of overt stroke. The two types
+of severity had previously been formed into a
+composite ordinal variable, called functional
+severity, which had been coded as 6, 1, 2 ta
+reflect its absence or two ascending levels of
+prognostic severity.
+
+3. Chronometry. This variable indicated the
+pre-zero duration of symptoms attributable or
+possibily attributable to the lung cancer. For
+patients who had had appropriate symptoms,
+the pre-zero duration of the symptoms was
+coded directly in months and tenths of months.
+In earlier analyses [19, 20], we had found that
+patients with only primary symptoms had better
+survival rates if the symptoms had a long rather
+than short pre-zero duration. The results were
+consistent with the concept that slow growing
+cancers often produce symptoms “slowly”, ie.
+over an extended period of time.
+
+4. Unresolved pneumonia. Although not a
+formal component of the A-E stages, this at-
+tribute was included here because we had previ-
+ously noted (in unpublished bivariate analyses)
+that it was often associated with high survival.
+
+5. Chronic cough.
+6. Chronic dyspnea.
+
+7. Chronic pulmonary disease.
+8. Active tuberculosis.
+
+These four variables, each cited as present or
+absent, were included in the analysis because
+they represent diagnostic co-morbidity. Since
+their clinical manifestations, particularly in
+patients with primary symptoms, cannot readily
+be distinguished from those caused by the tung
+cancer, the diagnostic attribution of symptoms
+is difficult in patients who have both lung cancer
+and one or more of these four manifestations.
+Although symptoms in such patients were listed
+
+in the appropriate category of the symptom
+pattern variable, we recognized that the symp-
+toms might sometimes be due to the co-morbid
+condition, rather than the cancer. For example,
+hemoptysis might be caused by active tuberculo-
+sis or chronic pulmonary disease in a patient
+with a slow-growing asymptomatic lung cancer.
+The diagnostically co-morbid conditions were
+included so that their possible effects on both
+classification of symptoms and prognosis could
+be suitably accounted for in the analyses.
+
+9. Extraneous iatrotropy. This variable re-
+ferred to “lanthanic” paticnts [21] whose iatro-
+tropic’ stimulus, i.e. the reason they had sought
+medical attention, was unrelated to a sympto-
+matic manifestation of lung cancer. In such
+patients, the lung cancer was detected with a
+screening or case-finding procedure conducted
+as part of a “routine” diagnostic process. The
+iatrotropic stimulus was either a complaint un-
+equivocally attributable to a co-morbid disease,
+rather than lung cancer, or a routine examin-
+ation, performed for reasons such as new
+employment or insurance. Patients who had
+deliberately sought a “check-up” while ostens-
+ibly asymptomatic were not included in this
+category unless the check-up was done as part
+of a regulatory scheduled program of periodic
+examinations.
+
+10. Anemia. This variable, classified as present
+or absent according to appropriate criteria, was
+included because we had previously noted (in
+unpublished analyses) that it seemed to affect
+survival.
+
+1i, TNM stage. This is the classical morpho-
+logic variable used in conventional prognostic
+analyses. It was cited, according to standard
+criteria [22], in the three ordinal stages of I, II,
+and Ti.
+
+12, Histologic type. This is another classical
+morphologic variable in prognosis. It was cited,
+in a nominal rating scale, according to the
+histologic type of the cancer. Patients whose
+only microscopic evidence of cancer was in a
+Pap smear of sputum or other sites, rather
+than in histologic tissue, were listed as cytology
+only.
+
+13, Age. The patient’s age was cited directly
+in years.
+
+14, Sex. Sex was classified as male or female.
+
+15. Cigarette smoking. The amount of cus-
+tomary cigarette smoking, before onset of symp-
+toms referable to lung cancer, was classified in
+five ordinal categories as none, slight (<1/2
+pack/day), moderate (> 1/2 but <1 pack/day),
+
+CTR SP-FILES o?5t61t
+
+11025179

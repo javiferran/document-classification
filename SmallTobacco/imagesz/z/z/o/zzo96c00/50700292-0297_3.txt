@@ -1,0 +1,76 @@
+biophysical properties and nicotine sensitivity (Fig P-1). More detailed study, combining site directed
+mutagenesis and amino acid specific biochemical modification provided definitive evidence that a5
+physically contributes to the channel pore and defined the specific residues within the M2 domain of a5
+that line the channel in the open and closed state (see Ramirez et al., 1996 APPENDIX).
+oAB2 c FIGP-4 Clearly the demonstration that a5 can
+‘eet participate in operational nAChR
+aiais aemaiaiaaiid ini O5ngeng) channels is important, but, in a sense,
+* the most compelling aspect of this work
+* is the extension of the analysis to native
+a nAChRs. We have obtained two lines of
+Aomplude (oh “Valage (ea evidence that support the participation of
+a5 in native nAChRs in the CNS and
+PNS. First, «5 deletion experiments
+(described above) are consistent with
+en ' nn these heterologous expression studies
+v=-100n1V Ve-/0mV indicating that the influence of «5 on both
+° * conductance and pharmacology are the
+same in native and in in vitro expressed
+nAChRs. Second, the properties of
+heterologously expressed a4a5B2
+complexes are identical to those of the ~
+50 pS conductance class (called “L”) that we have described in detail in MHN neurons. This represents
+the first demonstration that the properties of any heterologously expressed combination of a and B
+nAChR subunits precisely mimics a native nAChR complex (!). In view of the novelty of these studies, an
+initial report of the work was published as a full (5 page) article in Nature a few months ago. The more
+extensive studies of «5 and of «7, in native nAChRs will be submitted to Neuron within the next few
+months (Yu & Role, 1996 a, b).
+¢. Modulation of distinct nicotine-activated channel subtypes
+These studies began with our work on the modulation of nicotine activated macroscopic currents:
+Studies on the effects of protein kinase C were published in J. Neurophysiol (Valenta et al.,1994). The
+more recent studies of A kinase as well as more detailed study of the modulation of specific subtypes are
+at various stages of completion: Neuron has two manuscripts, one of which is /n_ press; two other
+manuscripts, that are related to the proposed work and acknowledge CTR support, are submitted to J.
+Physiol. and Anesthesiology, respectively two manuscripts are still in preparation, but the experiments
+are largely completed. Key findings are summarized below.
+
+Studies of the modulatory effects of cAMP and PKA (using cAMP analogues and permeable A
+Kinase activators and inhibitors) suggest that activation of this pathway increases the magnitude of the
+macroscopic currents evoked by nicotine in neurons. A kinase activation increases V,,,, without altering
+the apparent affinity for nicotine. Our search for agents that might act as the endogenous regulator(s) of A
+kinase revealed, to our surprise, that micromolar PGE, - more than either VIP or CGRP as originally
+proposed - consistently activated cAMP dependent kinase and modulated nicotine-gated currents. PGE,
+satisfied several criteria for a potential in vivo modulator of nAChRs. Treatment of primary neurons with
+0.5-10,,M PGE, activates adenylate cyclase and mimics the A kinase modulation of nicotinic AChRs (i.e.
+PGE, increases the amplitude of nicotine-evoked macroscopic currents). Assays of single channel activity
+with permeable activators of A kinase or with PGE, applied to the remainder of the cell reveals differential
+modulation of the nicotine gated channel! subtypes. Consistent with the net effect on macroscopic current
+amplitude, the opening probability (P,) of a predominant nAChR subtype (~ 25 pS) is enhanced by
+exposure to 0.5 uM - 104M PGE, (or A Kinase activation). This increase in P, is unique to the 25 pS
+channel subtype. Monitoring of the opening frequency of the 15, 35 and 50 pS channels, often within the
+same patch, reveals decreased P, for nAChRs other than the 25 pS channel (Fig P-2).
+
+ 
+ 
+ 
+  
+  
+  
+   
+  
+ 
+  
+ 
+  
+
+Current {pA)
+
+ 
+
+ 
+
+REPORT OF PROGRESS PAGE 2 CTR 2783 / ROLE
+
+ 
+
+50700295

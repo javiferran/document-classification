@@ -1,0 +1,143 @@
+734 v-fps induced Intracellular Signals
+
+the construction of pZIP M17, pZIPneoSvVi(xX), had no
+etfect on v-Fps-induced Egr-1 promoter activation (Fig.
+4b). Thus. expression of the M17 HiaRas mutant inhibits
+signals induced by v-F ps leading to the activation of the
+Epgr-1 promoter ;
+
+We next examined the effect of the M17-inhibitory
+HaRas mutant on v-Raf-induced Egr-1 promoter activa-
+tion. Cotransfection of the M1? HaRas mutant with
+p3611, which expresses v-Raf. had no effect upon v-Raf-
+induced Egr-? promoter activation (Fig. 4c) This imphes
+that the effect of the M17 HaRas mutant 1s not a nonspe-
+cic effect upon the Egr-1 promoter and that tiaRas
+medsated v-Fps-induced signal(s) that lead to Egr-1 pro-
+moter activation, The data also demonstrate that 1f Raf-1
+18 a8 COMponent in v-Fps-induced promoter activation, it
+functions downstream from or independently of HaRas.
+
+A Dominant Negative Mutant of Rai- 1 Blocks Both v-
+Fps- and v-Ras-induced Egr-1 Promoter Activation. If
+Raf-1 functions downstream from HiaRas in v-Fps-in-
+duced Egr-1 expression. then blocking Raf-1 function
+would be expected to block both v-Fps- and v-HaRas-
+induced Egr-1 promoter activation. To block Raf-1
+expression, we used a recently charactenzed inhibitory
+mutant of Raf-1 that was shown to mbhibst serum. and
+phorbol ester-induced DONA synthesis (15) and v-Sre-
+moduced Epr-1 expression (38) This mutant contains a
+tryptophan substituted for leucine in the ATP binding
+site and results in a kingse-defective Raf. protein that
+functions as a dominant negatwe mutant (15). p301-1
+expresses the kinase-defective mutant of Raf-1 under the
+control of the cytomegalovirus early promoter (Fig. 5a).
+Cotransfectton of 9301-1 with plV2 3 (v-Fps) into Nik
+373 cells blocked v- Fps-induced-inducegd Egr-1 promoter
+activabon (Fig. $b) When pv-HaRas was cotransfected
+in cells with p301-1, a similar decrease in CAT activity
+was observed (Fig. 56). To demonstrate that the effect of
+the Raf-1 mutant was not blocking Egr-1 promoter act.
+vation, we examined the effect of this mutant on Egr-1
+promoter activatton induced by the serine/threonine ki-
+nase v-Mos (39). 9301-1 had no effect on CAT gene
+eapression induced by cotransfection of pEgr-1 P1 2 with
+PHT25. which eapresses v-Mos (39). Thus, the effect of
+the inhibitory Raf.1 mutant on v-Fps- and v-HaRas-in-
+duced Egr-? promoter activation 1s not a nonspecific
+effect of the Ral-1 mutant. These data suggest a Raf-1
+requirement for both v-Fps and v-HaRas to induce Egr-i
+promoter activation
+
+Discussion
+
+In thes report, we have shown that the protein-tyrosine
+kinase activity of v-Fps can induce the transcriptional
+activation of the Egr-1 gene, which encodes a mitogen-
+responsive transcription factor, The induction of Egr-1 by
+v-Fps was insensitive to depleting cells of PKC Activation
+of the Egr-? promoter by v-Fps in transient expression
+aS5aV$ Was sensitive to inhibitory mutants for both HaRas
+and Raf-1) v-HaRas-induced Egr-1 promoter activation
+was sensitive to the mhibitory Raf-1 mutant, whereas v-
+Raf-1-induced Egr-1 promoter activation was unaffected
+by the M17 HaRas mutant. We recently demonstrated
+that the induction of the Egr-t promoter by v-Fps ts
+dependent upon a group of closely packed serum re-
+sponse elements (40). Consistent with the suggestion that
+the v-Fps.induced activation of the Egr-1 promoter ts
+
+PUBLICATIONS
+
+dependent upon Rat-1. v-Raf lan activated form of Raf-
+1) activated the Egr-1 promoter via the same serum
+response elements (41). These data describe an intracel-
+lular signal activated by v-F ps that results in the activation
+of the Egr-1 promoter This signal is independent of PKC
+and dependent upon both HaRas and Raf-1, where Rat-
+1 functions downstream of HaRas.
+
+We previously demonstrated that v-Fps activated a
+PKC-dependent intracellular signal that resulted in the
+induction of 9E3/CEF4 expression (6). Thus, the obser-
+vahon reported here that v-F ps-induced Egr-1 expression
+1s independent of PKC suggests that v-Fps is capable of
+achivating both PKC-dependent and PKC-independent
+intracellular signals. This 15 similar to the observation that
+v-Sre also activates both PKC-dependent and PKC.-inde-
+pendent intracellular signals (22). The activation of both
+PKC-dependent and PKC-independent intracellular sig-
+nals by protein-tyrosine kinase implies that a complex
+set of signals may be activated that ultimately result in
+the transformed phenotype.
+
+Precise molecular details of FiaRas and Raf-1 involve-
+ment in v-Fps-induced intracellular signals remain to be
+determined: however. it was recently reported that the
+G IPase-activating protein of HaRas, GAP (42), 1s phos-
+phorylated on tyrosine in response to v-Fps (28). GAP
+increases the rate of GTP hydrolysis on HaRas, which
+down-regulates biaRas function (42). Thus, GAP could
+be a target of v-Fps for controlling HiaRas actiwity, and
+the control of HaRas activity could, in turn, contribute to
+the conuol of Raf-1 tn the HaRas- and Raf-1-dependent
+intracellular signal characterized here. In this regard, at 15
+of interest that overexpression of GAP has been shown
+to block transformation by v-Src (43) and HaRas (44)—
+presumably by down-regulation of HaRas function. Thus.
+if the v-Fps-induced phosphorylation of GAP down-reg-
+ulates GAP activity, this would have the effect of sustain-
+ing Or up-regulating ttaRas-mediated signals.
+
+Activation of Raf-1 has been reported in response to
+mitogenic stimulation of quiescent cells (26, 29, 30, 32).
+Increased phosphorylation of Raf-1 is beheved to be
+responsible foc actwating the kinase activity of Raf-1 (30,
+45). Raf-1 phosphorylation takes place on serine, threo-
+nine, and tyrosine residues (30). A nechanism for acti-
+vation of Raf-1 by v-Fps has not been determined; how.
+ever, it has been suggested that the protem-tyrosine
+kinase, v-Sre, induces tyrosine phosphorylation on Raf-}
+(30). Thus, induction of Raf-1 may mvolve input by
+muluple kinases with specificity for both tyrosine and
+serine/threonime. Since, v-tiaRas-induced Egr-1  pro-
+moter activation was biocked by the dominant negatwe
+Raf-1 mutant, HaRas may function to recruit a protein
+kinase!s) that phosphorylates and activates Raf-1.
+
+it was previously demonstrated that micromyected an-
+trbodies raised against Ras blocked transformation-re.-
+lated phenotypes induced by v-Fps but not by v-Raf (33,
+46). Thus, the induction of Egr-1 by v-F ps may contribute
+to the transformed phenotype induced by v-Fps. The
+report that the tumor-suppressing Wilms’ tumor gene
+product binds to the same DNA target sequences as the
+Egr-1 gene product (11, 12) suggests the possibshty of a
+role for Egr-1 in v-Fps-induced transformation. Thus. the
+PKC-independent signaling pathway mediated by the
+protooncogenes Haas and Rafl-1 may prove to be im.-
+portant for transformation induced by v-Fps and perhaps
+other transforming protein-tyrosine kinases.
+
+012673

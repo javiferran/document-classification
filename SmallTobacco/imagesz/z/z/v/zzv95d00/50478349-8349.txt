@@ -1,0 +1,125 @@
+‘Tux JourNAL OF BroLogicaL CHEMISTRY
+© 1991 hy The American Society for Hiochemistry and Molecular Bialogy, Inc.
+
+Vol. 266, No. 19, Issue of duly 5, pp. 12612 12617. 1991
+Printed in USA
+
+Regional and Mechanistic Differences in Platelet-derived Growth
+Factor-Isoform-induced Alterations in Cytosolic Free Calcium in
+Porcine Vascular Smooth Muscle Cells*
+
+(Received for publication, February 19, 1991)
+
+Pamela A. Dilibertot, Gerry Gordon, and Brian Hermani§1
+
+From the tLaboratories for Cell RBiciogy, Department of Cell Biology and Anatomy and the §Cancer Cell Biology Program,
+Lineberger Cancer Research Center, School of Medicine, University of North Carolina, Chapel Hill, North Carolina 27399
+
+Three specific platelet-derived growth factor
+(PDGF) isoforms are thought to bind with differing
+affinities to two distinct PDGF receptors which
+undergo activation following dimerization. Recent evi-
+dence has been presented that marked differences exist
+between the ability of PDGF-AA versus PDGF-AB and
+PDGF-BB to stimulate alterations in second messen-
+gers in cultures of vascular smooth muscle cells
+(VSMC), a result which was thought to be due to low
+numbers of the A-type receptor in this cell type (Sach-
+inidis, A., Locker, R., Vetter, W., Tatje, D., and Hoppe,
+J. (1990) J. Biol. Chem. 265, 10238-10243, 1990), In
+particular, PDGF-BB and PDGF-AB but not PDGF-
+AA could elicit alterations in cytosolic free calcium
+(Ca**,). However, because these studies were per-
+formed on large cell populations using biochemical as-
+says of PDGF activity, a minor PDGF-AA-Ca?'-re-
+sponsive population of cells might go undetected. To
+test this possibility, VSMC were isolated from either
+thoracic or abdominal pig aorta, and alterations in
+Ca**; were monitored using Multiparameter Digitized
+Video Microscopy following stimulation with PDGF
+isoforms alone, or either before or after exposure of
+VSMC to 5 mm EGTA. PDGF-AA-responsive cells were
+found to exist only in cultures of thoracic VSMC,
+caused oscillations in Ca”*;, represented 20% of the
+PDGF-BB-responsive cells, and were subsequently re-
+sponsive to PDGF-BB. PDGF-BB elicited monophasic
+alterations in Ca?*; in both thoracic and abdominal
+VSMC. Prior addition of EGTA inhibited PDGF-AA
+but not PDGF-BB-induced alterations in Ca?*;, Addi-
+tion of EGTA during PDGF-AA-induced Ca**; oscilla-
+tions inhibited subsequent oscillations in Ca”*;, while
+addition of EGTA at the peak of the PDGF-BB Ca**
+response resulted in a more rapid return of Ca**; to
+prestimulation levels. These data suggest that regional
+differences in the distribution of PDGF-A- and B-type
+receptor exists in viva, and that activation of the A-
+and B-type PDGF receptors results in distinct altera-
+tions in Ca’*;,
+
+* This work was supported by Grants AG07218, AG10104, 2-PO1-
+CA29589, and 2-P30-C.A16086 from the National Institutes of Health.
+the Gustavus and Louise Pfeiffer Research Foundation, and Grant
+FRA-383 from the American Cancer Society. The costs of publication
+of this article were defraved in part by the payment of page charges.
+This article must therefore be hereby marked “advertisement” in
+accordance with 18 U.S.C. Section 1734 salely to indicate this fact.
+
+{To whom correspondence should be addressed: Dept. of Cell
+Biology and Anatomy, CB 7090, 232 Taylor Bidg., University of
+North Carolina, Chapel Hill, NC 27599.
+
+PDGF" elicits a variety of biological activities in VSMC
+(mitogenesis, chemotaxis, and vasoconstriction) through the
+existence of distinct PDGF isoforms and receptors (1-4).
+Human PDGF consists of two disulfide-bonded homologous
+peptide chains, A and B (PDGF-AB). Each chain is the
+product of a distinct cellular gene, their expression being
+independently regulated and the two chains sharing approxi-
+mately 50% homology (5-7). Porcine PDGF appears to be a
+BB homodimer as is PDGF isolated from most animal species
+(except human} (8). Skeletal and smooth muscle, growth
+factor-stimulated fibroblasts and a number of tumor cell lines
+produce exclusively PDGF-AA (9-11).
+
+These different types of PDGF molecules are thought to
+bind to at least two distinct types of PDGF receptors. The
+originally described receptor (B-type, 180 kDa, similar to the
+CSF-1 receptor) was found to bind the B chain of PDGF, is
+located on chromosome 4 and possesses tyrosine kinase activ-
+ity (12). A second type of PDGF receptor (A-type, 170 kDa,
+similar to the c-kit gene product) is thought to bind both
+PDGF A and B chains, is located on chromosome 4, and also
+contains tyrosine kinase activity (13). Since the receptors
+display some selectivity in terms of which PDGF chains they
+can bind, and because active PDGF molecules are thought to
+exist as dimers, a number of models have recently been
+proposed where PDGF binding to its receptors requires di-
+merization of the A- and B-type receptor subunits to elicit
+functional activity (14-16). These models predict that dimer-
+ization of two A-type receptors could lead to binding of all
+three types of PDGF isoforms (AA, BB, AB), while dimeri-
+zation of two B-type receptors could only lead to binding of
+PDGF-BB (although some data suggests that PDGF-AB can
+bind to cells containing only the B-type receptor albeit at 10-
+fold lower affinity than PDGF-BB). A key aspect of these
+models is that in cells lacking the A-type PDGF receptor,
+there should be no response to either PDGF-AA or PDGF-
+AB.
+
+The mechanisms by which PDGF binding to its receptor is
+transduced into biological activity are still unclear. Our lab-
+oratory has been studying the role of POGF-induced altera-
+tion in Ca**; in PDGF-stimulated mitogenesis (17-21). PDGF
+addition to a variety of cells causes a rapid transient increase
+in Ca’*,; within seconds of addition (22), and results from our
+laboratory as well as others (17-21, 23-31) demonstrate that
+inhibition of POGF-stimulated increases in Ca**; also inhibit
+
+? The abbreviations used are: PGF, platelet-derived growth factor;
+Ca*™*,, cytosolic free calcium; VSMC, vascular smooth muscle cells;
+MDVM, multiparameter digitized video microscopy; DMEH-H, Dul-
+becco’s madified Eagle’s medium with high glucose; EGTA, [ethyl-
+enebis(oxyetheylenenitriloljtetraacetic acid; IP3, inositol 1,4,5-tris-
+phosphate.
+
+12612

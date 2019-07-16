@@ -1,0 +1,64 @@
+41097
+
+CRC contract RESEARCH CENTER
+
+PRIORITY
+
+Study Plan B3311 / P 0500/3311 - 1999/1/11 Page 4
+
+42 Cigarettes
+
+The Reference Cigarette 1R4F was provided by the University of Kentucky, Tobacco and Health
+Research Institute (for specifications see Tobacco and Health Research Institute, 1990),
+manufactured: Jan.1983, packaging: soft packs for 20 cigarettes, date of receipt at CRC:
+Aug.1998, CRC numbers 15BX07, 15BX08, 15BX09, and 15BAO3. The cigarettes will be stored
+at CRC in modular fab unit C122 at controlled room temperature. The cigarettes will. be
+conditioned in modular lab unit C122 for >8 to <20 days prior to smoking, at a temperature of 22
+
++1 °C and 60 + 2 % relative humidity, without selection according to weight or resistance to draw
+{SOP CRC 87 and 203).
+
+4.3. Animals and Animal Treatment
+
+Hybrid B6C3F, mice, bred under specific pathogen-free (SPF) conditions, will be obtained from
+Charles River, Portage, M!, U.S.A.
+
+The mice will be individually identified with subcutaneous transponders (SOP CRC 165). Forty
+male and 40 female B6C3F, mice will be randomly allocated to 1 untreated cage-housed group,
+1 positive control group, and 2 smoke-exposed groups (SOP CRC 125) (Table 1).
+
+Group‘ Treatment Number of TPM Cyclophos-
+Mice/Sex Concentration phamide
+
+(ug/l) (mg/kg BW)
+
+0-GR cage-housed 10 - -
+
+1-GR positive control, 10 - 12.5
+
+2-GR head-only MS-exposed 10 320 -
+
+3-GR . 10 640 -
+
+Table 1 Groups and Concentrations
+
+The mice will be kept in an animal laboratory unit with restricted access (CRC modular
+laboratories Ci11, C112, and C113) under hygienic conditions (SOP CRC 4, 6, and 20}. The
+laboratory air (filtered fresh air) will be conditioned. Positive pressure will be maintained inside
+
+oo
+
+4
+
+v
+Lo yellow
+
+x
+
+\
+
+9218617802
+
+s,
+
+‘.

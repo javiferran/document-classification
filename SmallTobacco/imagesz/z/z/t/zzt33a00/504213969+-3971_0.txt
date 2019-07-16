@@ -1,0 +1,51 @@
+INTEROFFICE MEMORANDUM
+
+SUBJECT: Quarterly Report, July - September DATE: September 28, 1984
+
+Chromatography Unit
+
+TO: L. A. Lyerly FROM: K. L. Rush
+
+ANALYTICAL SERVICE TECHNOLOGY
+Ne
+
+During the third quarter, a number of modifications and improvements were
+made. Among these were:
+
+New Carbonyls In Smoke Method (Ayers)
+
+The new method developed by Analytical Methods has been put into routine
+service. Two operators have been trained to perform the analyses. No
+significant problems have been encountered and data have been provided for
+a number of studies. Demand for these analyses has been moderate and is
+expected to continue at about the same rate.
+
+Low Level Menthol In Smoke (Summers)
+
+Optimization of the current method for the determination of the menthol
+content of cigarette smoke has expanded the working range to include a
+lower detection limit. The interest in this lower level of detection has
+has been the result of interest in cigarettes with menthol contents less
+than 0.05%, as compared with normal levels of 0.40 to 1.25%. Analyses of
+smoke from cigarettes with menthol contents of QO, .07, 11, and .27 mg/cig
+gave deliveries of 0, .01, .02, and .04 ng/cig respectively. Tests are in
+progress by the Sensory Unit to determine the least detectable level by
+the smoking panelists. More tests may be requested; pending the results
+
+of these tests.
+Determination Of Wintergreen By Liquid Chromatography (Greene, Womble)
+
+Modification of the liquid chromatographic method for the determination of
+licorice content of tobacco products has provided the capability to
+simultaneously determine the content of wintergreen in wet snuff ag well.
+This eliminates a second sample preparation by distillation and both can
+be quantitated from the same LC chromatogram. Also, since sample
+preparation only requires an extraction, this procedure could be used on
+site to monitor the production of wet snuff. Comparison of data from the
+established GC method and the new LC method to determine the accuracy and
+recovery has been completed, and the precision study is underway. All
+data collected to date show very good agreement between the two methods,
+
+and both produce valid results.
+
+ 696E  Lznos

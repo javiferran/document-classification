@@ -1,0 +1,41 @@
+“Hello. This is Laura with Moonlight Tobacco Co. May I please speak with the person
+in your store responsible for ordering and receiving cigaretics?”
+
+(if a new person comes on line:)
+
+“Hello. This is Laura with Moonlight Tobacco Co. We are calling retailers in your area
+who carry Moonlight cigarettes to find out how satisfied they are with our products and
+our service. I'd like to ask you just a few questions. It won't take but a couple of
+minutes, and we would really appreciate your input so we could serve you better.”
+
+1. Do you have a Moonlight cigarette display in your store?
+Yes
+No
+
+Any additional comments:
+
+ 
+
+2. Do you have point of sale materials displayed in your store?
+Yes _ (continue to 3)
+No (skip to 4)
+
+Any additional comments:
+
+ 
+
+3. Which point of sale materials are displayed? -
+Poster
+Sticker
+Display sign
+
+Any additional comments:
+
+ 
+
+L910 662e¢g
+
+RJR0000000005059250
+70015 9172
+
+a

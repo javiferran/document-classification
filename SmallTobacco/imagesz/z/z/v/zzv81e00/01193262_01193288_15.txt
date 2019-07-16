@@ -1,0 +1,75 @@
+: ©. O
+: + BABLE_S
+; _ Pressure Drop Puff - Wet Ta
+- Sample - Shred Wgt. g ma HO Count mg/cig
+
+- 1.16 - 36 10.9
+
+op 1.10- - = 35>
+
+forth in Table 5 (a). ——
+
+- - PABLE 5 (a) ~ -
+
+py
+
+Acetalaehyde 2742 34.2 -,- 53.4
+
+a Acetonitrile 5.0 | 6.9 18.5
+~ Acrolein 2.5 - 27 7.5
+ Puran - 1,2 1.5 3.4
+ropimaldenyde - 1.8 oo 3.1 48
+
+; Acetone - 15.6 21.4 | 28.9
+__> propionitrile 0.9 1.3 2.9
+_ Isobutyaldehyde 6.8 - ‘2 - 3.6
+Benzene 3.4 4.2 - 7.5
+
+47.8
+
+- 15.6
+
+5.8
+
+361
+
+q
+- fot
+
+ 
+
+19.7 -
+
+“the data on the organic gas phase components in #g/puff ie set - -
+
+43g
+
+- 23.5
+
+the values obtained with the blends comprising a combination of
+
+| the ‘two components of the present invention with tobacco are
+
+noticeably lower than the values-from tobacce alone. Second,
+
+use of the combustible material and the filler material in com> -
+
+- bination yields lower-values than those obtained when using
+
+these materials separately in tobacco blends. In fact, it will
+
+4 —s —
+
+~ l6é=
+
+= = a ———
+
+19.300 |
+
+~2.3
+
+3.5
+
+Tnree facts are readily apparent from the above gata. First,
+
+ee I NS

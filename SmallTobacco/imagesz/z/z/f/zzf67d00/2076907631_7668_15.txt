@@ -1,0 +1,33 @@
+a
+
+PRIORITY
+
+Report B1041 / P 0500/3213 97/11/12 Page 12
+
+The VIRGO test cigarettes were conditioned according to [SO standard 3402 (1991). The
+mainstream smoke was generated using 4 modified 30-port INBIFO smoking machines (type
+USM85) equipped with a 4-piston pump and 30 electric heaters * (Figure 2) using a 2-phase
+pulse density-modulated heating mode. The mean heating energy and the smoking conditions
+
+are shown in Table 4 and Figure 3.
+
+Parameter Unit of VIRGO-CA-26 VIRGO-CA-49 VIRGO-CC-24 VIRGO-CC-51
+
+Measure
+mean total J 23.0 (SD: 0.2) 23.0 (SD: 0.1) 23.0 (SD: 0.1) 23.0 (SD: 0.1)
+b
+energy oy -
+puff count *” puffsper 8.0 , 8.0 8.0 8.0
+. cigarette ( __ 4
+puff volume = ml per 36.3 36.3 36.0 36.0
+puff ,
+
+Table 4 Smoking Conditions of VIRGO Cigarettes
+
+KO pgkenrlateel ¢ sdf
+
+ 
+
+* type A22-K
+calculation from the electrical current per puff and heater resistance, calculated on the basis of
+empirically determined resistance at different temperatures of the heater during 1 puff

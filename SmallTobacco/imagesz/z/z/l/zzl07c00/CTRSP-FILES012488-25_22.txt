@@ -1,0 +1,35 @@
+Changes in Smoking Characteristics 561
+
+in part, by Dean R. C. Brown. Computer processing time was provided by the SFU
+Computing Center. We are beholden to Miss Mary Weinkam for able assistance in
+computer programming. We thank the referees and Mr. Ron Wilson of the National
+Center for Health Statistics for their helpful suggestions and criticisms.
+
+REFERENCES
+
+Blair AB, Walrath J, Rogot E (1985): Mortality patterns among U.S. veterans by occupation. I. Cancer.
+INCI 75; 1039-1047,
+
+Bureau of the Census, U.S. Department of Commerce (1960): Classified Index of Occupations and
+Industries. U.S. Government Printing Office, Washington, D.C.
+
+Bureau of the Census, U.S. Department of Commerce (1970): Classified Index of Occupations and
+Industries. U.S. Government Printing Office, Washington, D.C.
+
+Covey LS, Wynder EL (1981): Smoking habits and occupational status. } Occup Med 23:537-542.
+
+Sterling TD, Weinkam JJ (1976): Smoking characteristics by type of employment. J Occup Med 18:743-
+734.
+
+Sterling TD, Weinkam JJ (1978): Smoking patterns by occupation, industry, sex and race. Arch Environ
+Health 33:313-317.
+
+U.S. Department of Health, Education, and Welfare (1974): Current Estimates from the Health Interview
+Survey. Publication (HRA) 74-1054, Series 10, No. 72, Washington, D.C.
+
+U.S. Deparment of Health and Human Services (1981}: Current Estimates from the Health Interview
+Survey. Publication (PHS) 81-1564, Series 10, No. 136, Washington, D.C.
+
+CTR SP-FILES 012510
+
+11012530

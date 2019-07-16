@@ -1,0 +1,74 @@
+In addition to the low affinity (uM) PGE, receptors, we
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.0008 have obtained evidence for the expression of high affinity
+Control (nM) PGE, receptors that also modulate the activity of at
+
+. 0.0006 mAfer PG least some of the nicotine gated channel subtypes. The
+5 o.o004 high affinity PGE, receptors are not linked to either PKA or
+x PKC. Instead, activation of high affinity PGE, receptors
+0.0002 elevates intracellular calcium which depresses P, of bath
+
+the 25 and 50 pS nACHRS, The decrease in opening
+probability requires Ca” influx from outside the cell. These
+data support the notion that synaptic activity involving
+nicotine-activated channels can be fine-tuned by subtype
+specific up or down regulation of P, by PGE, . Thus, the ultimate effect on synaptic gain will depend on
+local PG concentrations as well as the profile of nAChRs expressed.
+
+Two other studies that underscore the importance of nicotine gated channel diversity have come to
+fruition during this past award period and, in view of their partial support from CTR (equipment used in
+these studies was purchased with CTR funds) will acknowledge CTR, when published. Both manuscripts
+have already been submitted (to J. Physiol, (Lond.) and Anesthesiology, respectively.) The former
+study examines the contribution of distinct nAChR subtypes to through-transmission at a model synapse.
+The analysis predicts that differential expression of the 25 vs. 50 pS channel will substantively alter the
+efficacy of transmission, a conclusion that is well supported by our findings that PGE, differentially
+modulates these nAChR subtypes. Last, but not least, we have recently completed a study of the effects
+of specific general anesthetics on neuronal nicotine gated channels - previously unexplored territory for
+either anesthesiologists or “nicotine-clogists’. This study demonstrates that the predominant CNS type
+nAChR - «42 - is potently inhibited by two general anesthetics whereas «7-type nAChRs are entirely
+unaffected. These findings could be particularly important in light of the role of both of these receptors at
+distinct pre and post synaptic sites within the CNS.
+
+PROGRESS AIM 2: MODULATION OF SYNAPTIC TRANSMISSION BY NICOTINE
+
+Publications: [1] McGehee. & Role. (1994) Effects of Nicotine on Biological Systems II, p. 119-126
+[2] McGehee, et al., (1995) Science 269: 1692-1697 [3] Role & Berg, D.K. (1996) Neuron (in Press)
+[4] McGehee & Role (1996) Curr.Opin.Neurobio.(in Press). Manuscripts: [5.] Girod et al. (in prep.)
+
+The dearth of evidence for “true” nicotinic synapses in the CNS stands in striking contrast to the
+widespread effects of nicotine on CNS function®. There are several regions - including the projection of
+septal cholinergic neurons to MHN and MHN- interpeduncular nucleus (IPN ) synapses - that have all the
+components required for nicotinic synapses (i.e. AChE, ChAT, ACh in presynaptic projections, soma-
+dendritic nAChRs on the target neurons). Nevertheless, physiological studies of the synaptic transmission
+at these sites reveals that ATP, glutamate or aspartate activated receptors -not nicotinic receptors-
+mediate synaptic transmission.
+
+This intriguing dichotomy underscores the possibility that an important site of nicotine action may be
+at presynaptic receptors. Most studies of presynaptic nAChRs have utilized somewhat indirect or low
+resolution techniques (such as autoradiography and studies of release from synaptosomes). These
+studies, although suggestive, do not provide definitive proof that a primary effect of nicotine in the CNS
+may be to modulate the evoked release of other neurotransmitters, rather than to act at “classic” nicotinic
+synapses. The original proposal set as its second aim a test of this hypothesis by examining directly the
+mechanism(s) by which nicotine might modulate CNS synaptic transmission. Despite the cut in funds
+sustained by the original proposal | just could not resist pursuing the studies presented in preliminary form
+in the original application. The lack of restraint may have been for the best since, | think, the work praved
+the most interesting of all our studies of nicotine action in the CNS.
+
+The central role of glutamatergic transmission in cognition, arousal, and appetitive behaviors, functions
+thought to be altered by nicotine, helped to focus our studies on a glutamatergic synapse. We confirmed
+our preliminary studies demonstrating that synaptic transmission at the projections of MHN within the IPN
+is mediated by activation of NMDA and non NMDA-type glutamate receptors (despite coincident
+
+15pS_-25pS_—-35pS
+
+REPORT OF PROGRESS PAGE 3 CTR 2783 / ROLE
+
+50700296

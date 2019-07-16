@@ -1,0 +1,68 @@
+126 Kapur, Glass, Loftus, Alman, and Feller
+
+Measurements and selected psychological tests. In addition, there are included
+ophthalmic, audiologic and special physical examinations as well as measurements of
+other parameters on sub-samples of the study population. The findings of all
+examinations are encoded in computer readable format and are available for
+inlerdisciplinary analyses.
+
+The orofacial aspect of the study includes five general series of examinations or
+procedures, including:
+
+(1) Interim hedlth history and survey of dietary habits.
+
+(2) Orofacial examinations.
+
+(3) Tests of masticatory function and taste thresholds.
+
+(4) Analyses of whole and parotid saliva and secretion rates.
+
+(5) Other procedures including radiographs, photographs, study models and oral
+
+cytological examinations.
+
+INTERIM HEALTH HISTORY
+
+Episodes of illness, need for treatment or hospitalization and types of dental treatment
+requised since the last examination are recorded by the patient on a simple interim
+history form. No assessment of genezal health is made as this information is available
+from the parent study for evaluation in relation to ora) findings. Dental treatment 1s not
+provided as pari of the study, although treatment provided by the subdject’s own dentist is
+recorded.
+
+A brief questionnaise concerning food selection habits has been developed, including
+an appraisal by the subject concerning his frequency of eating, the taste and difficulty in
+chewing the specified foods.
+
+ORO-FACIAL EXAMINATIONS
+
+As considerable detail is required concerning findings of oral examinations, three
+optically scanned forms' were devised 1o permit machine processing of the documents of
+original data entry. Only positive findings are recorded by making a pencil mark in the
+appropriate pre-coded position. (Glass et al., 1969, 4 and d).
+
+The record of examination for teeth, casies, and restorative treatment is shown in
+Figure 1. Identification data are coded in the left margin and at the top. For each tooth,
+the precoded marking positions are identical, The SUEM positions refer to sound,
+unerupted, extracted or mmussing. The OBLMD refer to occlusal, buccal, lingual, mesial and
+distal surfaces. Under each of these columns, the position marked F refers to a filling; the
+D 1-3 positions refer to estimated depth of decay; and Dx refers to the carious lesion
+detected only from radiographs.
+
+The findings of the examination of the periodontium are recorded on the form shown
+in Figure 2. Provisions for identification are located in the left margin and at the top.
+Under missing repli(aced), the replacement of a missing tooth may be coded as none, not
+indicated, fixed or removable. Changes in the position of teeth may be recorded such as
+extruded, lingual or buccal version, mesia) or distal dnft and rotation. Arbitrary, ordinal
+scales have been devised to score occlusal wear, tooth mobility, amount of calculus
+present, pocket depth, gingival changes and oral hygiene. Occlusal interference. food
+
+* Optical Scanning Corporation, Newtown, Pennsylvania
+
+Aging and Human Development, Volume 3, 1972
+
+PUBLICATIONS
+
+10322406
+
+003668

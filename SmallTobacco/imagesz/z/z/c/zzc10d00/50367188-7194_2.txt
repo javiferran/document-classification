@@ -1,0 +1,146 @@
+The observations that both GPI-anchored proteins and
+glycosphingolipids are apically disposed has suggested a
+mechanism for apical sorting (38, 57). Hydrogen bonding
+may cause these molecules to cluster together in microdo-
+mains in the TGN, which resemble the apical surface. Some
+apical proteins (e.g., HA) become resistant to solubilization
+by non-ionic detergents shortly before reaching the apical
+surface, perhaps due to interaction of their membrane-
+spanning segments with clustered glycosphingolipids (58).
+This model postulates that unknown proteins interact with
+these clusters and sort them into vesicles leading to the api-
+cal surface.
+
+The search for peptide-sorting signals and for basolateral-
+sorting signals has until recently been frustrating. The basic
+strategies have been to mutate or delete various portions of
+molecules, especially cytoplasmic domains, and to construct
+chimeric molecules. Much of the earlier work gave confus-
+ing and even directly contradictory results (10). There are
+several likely explanations for these problems. Almost all
+earlier studies used viral spike glycoproteins. Their oligo-
+meric structure is necessary for proper transport and easily
+disrupted by mutations. Many studies did not directly exar-
+ine the polarity of delivery from the TGN to the surface but
+only steady state distribution, which is complicated by insta-
+bility, endocytosis, and transcytosis. Distribution was often
+assessed by fluorescence microscopy and seldom quanti-
+tated. Finally, the cells expressing the construct may not
+have been fully polarized. This may have especially been
+true in transient expression systems where either only a
+small fraction of cells express a transfected gene or cells lose
+polarity due to a viral expression vector, We have also fre-
+quently found stable, clonal MDCK cell lines that are poorly
+polarized. In our hands, polarized apical delivery of the en-
+dogenous gp80 is the most reliable indicator that the cells are
+well polarized (62).
+
+The first studies to use a cellular, rather than viral, protein
+and to overcome these problems used the plgR. Normally
+this protein travels first to the basolateral surface and then
+is transcytosed to the apical surface (45), Deletion of either
+the cytoplasmic domain or this domain and the membrane
+anchor produces a molecule that travels directly from the
+TGN to the apical surface (43, 44). This suggests that the cy-
+toplasmic domain is needed for basolateral sorting. If just
+the membrane-proximal 17 residues of the 103 amino acid
+carboxy-terminal cytoplasmic domain are present, the pIgR
+is sorted to the basolateral surface (12). In contrast, a dele-
+tion of this 17-mer that leaves the remainder of the cytoplas-
+mic domain fused in frame is sorted apically. Most impor-
+tantly, this 17-mer can be transplanted to a normally apical
+protein and redirect it to the basolateral surface.
+
+In recent months quite a few examples of cellular proteins
+have been found that are normally basolateral, but can be
+converted to apical proteins by mutating or deleting their cy-
+toplasmic domain (Table I) (27). The simplest interpretation
+is that these domains contain basolateral sorting signals.
+However, only in the case of the pIgR has it been demon-
+strated that the signal can function when transferred to a het-
+erologous protein. The cytoplasmic domains of these pro-
+teins have no obvious homology or structural feature in
+common, $0 it is difficult to discern what the basolateral sig-
+nals are. A tantalizing hint is that in several cases there is
+a correlation (first noted for HA; 7) between rapid endocyto-
+
+Mostov et al. Plasma Membrane Protein Sorting in Epithelial Cells
+
+Table I, Cellular Plasma Membrane Proteins in Which
+Mutation of Their Cytoplasmic Domain Affects Polarity
+
+ 
+
+ 
+
+Protein Reference
+plgR 44,12
+HAt 7
+LDLR 28
+
+TR 28
+
+LGP 120 28
+
+FeR II 28
+NGFR 34
+
+lysosomal acid phosphatase C. Peters and K. von Figura
+(personal communication)
+I. Geffen and M. Spiess
+
+(personal communication)
+
+ASGPR
+
+* The influenza virus coat protein, HA, is not a cellular protein, but is in-
+cluded here as it serves to illustrate principles discussed in the text.
+
+sis via clathrin-coated pits and basolateral targeting. In most
+endocytosed receptors, the signal for clustering in coated
+pits involves a Tyr residue, although in some cases (but not
+all) an aromatic Phe or Trp can substitute for the Tyr (48).
+Mutagencsis studies have shown that residues near the Tyr
+are important and have led to the proposal of several differ-
+ent, but related consensus sequences of four to six residues
+including the Tyr (61). The internalization signals from the
+LDLR, M6PR, and plgR can substitute for the signal in the
+TER (16). Computer modeling and biophysical studies have
+indicated that the signal consists of a particular type of re-
+verse 6 turn and that several side chains, including the Tyr,
+are exposed on one side of the turn and presumably interact
+with some other molecule (17) (C. Peters and K. von Figura,
+personal communication).
+
+In at least five cases there is a correlation between endocy-
+tosis and basolateral sorting. Particularly revealing is the
+HA, which is normally apical and not endocytosed. Replac-
+ing a particular residue in its 10 amino acid cytoplasmic do-
+main with a Tyr yields a molecule that is oligomerized, rap-
+idly endocytosed and basolaterally sorted (7). In LGP120
+(28) and ASGPR (I. Geffen and M. Spiess, personal commu-
+nication) mutation of a cytoplasmic Tyr reduces endocytosis
+and produces an apical, rather than basolateral molecule.
+The IgG FRI lacks a Tyr internalization signal. Neverthe-
+less, a deletion in its cytoplasmic domain blocks endocytosis
+and redirects the molecule from the basolateral to the apical
+surface (28). The NGFR is normally apical and not endo-
+cytosed. An in-frame deletion of part of the cytoplasmic
+domain creates a basolateral, rapidly endocytosed mole-
+cule (34).
+
+On the other hand, there are clear examples where endocy-
+tosis and basolateral sorting are not correlated. In both the
+LDLR and TfR mutation of the cytoplasmic Tyr blocks en-
+docytosis but not basolateral sorting (28). Other mutations
+in their cytoplasmic domains redirect the proteins from the
+basolateral to the apical surface. In the pIgR, the mutant
+with only the 17-mer basolateral sorting sequence is baso-
+lateral and not detectably endocytosed, while the mutant
+with an in-frame deletion of this signal is apical and endocy-
+tosed at a near wild-type rate (12). Moreover, mutation of
+both Tyr residues virtually eliminates endocytosis, but does
+not alter basolateral sorting (C. Okamoto and K. Mostov,
+unpublished data).
+
+579

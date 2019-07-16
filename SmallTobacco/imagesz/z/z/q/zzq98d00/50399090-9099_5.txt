@@ -1,0 +1,104 @@
+The Journal of Immunology
+
+FIGURE 4. JunB and JunD representation A
+
+in DNA-binding AP-1 induced through slg Untreated
+or CD40 in normal and PKC-depleted B anti-lg
+
+cells. Primary murine splenic B fympha-
+
+cytes were cultured in medium alone (A) or M12 3 4 5 6
+
+were depleted of PKC by incubation with .
+
+PMA at 100 ng/ml for 20 h (B), after which
+both groups of cells were incubated in me-
+dium alone (M), or were treated with either
+Flab’),GaMlgM at 10 g/ml (anti-tg) or with
+CD40L/CD8qa fusion protein cross-linked
+with anti-CD8 Ab (CD40L; see Materials
+and Methods) for 4 h. Cells were harvested
+and lysed in hypotonic buffer, after which
+nuclei were collected and extracted. Equal
+quantities of nuclear extracted protein were
+analyzed by EMSA with an oligonucleotide B
+containing a consensus TRE (AP-1 site). An-
+
+ 
+
+3305
+
+  
+
+ti-Jun Abs were added to binding reactions ; PMA pre-treated
+before electrophoresis as follows: lane 1, anti-Ig CD40L
+na Ab; lane 2, broadly reactive Jun family- M 1 5 6 M12 8 4 5 6
+
+specific Ab; lane 3, JunB-specific Ab; /ane
+4, JunD-specific Ab; Jane 5, both anti-JunB
+and anti-JunD Ab; and Jane 6, preimmune
+rabbit antiserum. The principal nucleo-
+protein complexes are marked by arrows
+and designated 1 to 3; 3a represents JunB-
+depleted activity and 3b represents junD-
+depleted activity. One of two comparable
+experiments is shown,
+
+DNA binding, nuclear AP-1 containing Jun is
+induced through sig and CD40
+
+B ceils were stimulated with either anti-Ig or CD40L, after
+which nuclei were collected and extracted as described in
+Materials and Methods. Nuclear extracts were tested by
+EMSA with an AP-1 site (TRE)-containing oligonucteo-
+tide probe. As shown in Figure 4A, substantial induction of
+nuclear TRE-binding activity was apparent following B
+cell stimulation with either reagent. In both cases, ex-
+tended electrophoresis demonstrated the presence of three
+TRE-binding nucleoprotein complexes, the most highly
+mobile of which (labeled 3 in the figure) is the most abun-
+dant. Two of these complexes (the uppermost and lower-
+most bands in Fig. 4A) were abolished when binding re-
+actions were conducted in the presence of an antiserum
+that recognizes all Jun family members (/ane 2), indicat-
+ing that these TRE-binding complexes contain Jun pro-
+teins. When a JunB-specific antiserum was added to the
+binding reaction, the major portion of the predominant,
+most electrophoretically mobile band was inhibited; this
+inhibitory effect was focused on the lower portion of the
+nucleoprotein complex (band 3b, lane 3). When a JunD-
+specific antiserum was used, the predominant nucleopro-
+tein complex was again inhibited; in this case, however,
+the effect was focused on the upper portion of the complex
+
+2 3 4
+
+ 
+
+    
+
+(band 3a, lane 4). Anti-JunD also led to inhibition of the
+least mobile, uppermost complex. When anti-JunB and
+anti-JunD were used in combination to inhibit nucleopro-
+tein complex formation, virtually the entire predominant,
+highly mobile complex was abolished (Jane 5). The effects
+of anti-Jun Abs were specific inasmuch as preimmune rab-
+bit serum did not alter nucleoprotein complex formation
+(Jane 6). Thus, B cell AP-1 is dominated by a particular
+nucleoprotein complex, the Jun component of which con-
+sists for the most part of JunB along with some JunD.
+
+Induction of Jun-containing nuclear AP-1 mediated
+by sig, but not by CD40, is PKC-dependent
+
+The two B cell receptors triggered in this study differ in
+terms of the PKC dependence of intracellular signaling for
+junB, a major component of B cell AP-1 (3, 28, 29, and
+this study). In view of the immunoinhibitory results dis-
+cussed above, if this difference is reflected at the protein
+level, the slg-mediated induction of the JunB-containing,
+predominant complex should be markedly diminished in
+PKC-depleted B cells, whereas CD40-mediated induction
+should be little affected. This is just what was observed
+(Figs. 4B and 5). As shown in Figure 4B, in PKC-depleted
+B cells the predominant, more highly mobile compiex

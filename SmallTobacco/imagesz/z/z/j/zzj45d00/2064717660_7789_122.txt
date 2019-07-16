@@ -1,0 +1,46 @@
+\NBIFO Institut fir biologische Forschung GmbH - Kain PRIORITY
+
+ 
+
+Addendum to Report P 0500/3237 97N0/8 Page 30
+~ 12005
+% 4 + VIRGO-CA
+2 © : VIRGO-CC
+3 O : 1R4F
+~~ fae : without S9
+z= 1000 —— : with sg
+3S
+=
+o
+5 00-1
+bt
+=
+2 800
+
+600 —|
+
+400 -
+
+200 +
+
+ 
+
+8037/970926
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.0 02 O04 06 0.8 10
+TPM DOSE (mg/plate)
+
+Figure A2 Mutagenicity of TPM in Strain TA1537
+
+Remarks: mean + SE, N = 12 plates
+data see Tables A3, AG, A7, A12 to A15
+
+Z8ZZb-Ly90z

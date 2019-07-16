@@ -1,0 +1,67 @@
+ee PONS
+consistent with a 12-14 day half-life for serum thiocyanate.
+
+Replications of human smoking behavior were performed with the Human Mimic
+Smoking Machine (HMSM), in support of the Pharmacokinetic (PK) study. Data
+were reported to Dr. J. Robinson for statistical analysis. Five hundred
+nineteen puff-profile data files were replicated.
+
+YER8801.92W Page 4
+
+Additional analytical support was provided for both the Urine Mutagenicity
+(UM) and the Pharmacokinetic (PK) studies. Analyses for serum thiocyanate,
+plasma and urine nicotine and cotinine, and urine creatinine were performed
+by RJRT personnel or contracted laboratories in support of the urine
+mutagenicity study. Determinations of urine creatinine and serum
+thiocyanate were provided by Roche Biomedical Laboratories, Inc. A method
+for the determination of serum thiocyanate was implemented by Biobehavioral
+personnel. Determination of nicotine and cotinine in plasma and urine was
+provided by the laboratory of Dr. N. Benowitz, University of California at
+San Francisco. Determinations were made on 160 urine and 720 plasma
+samples. Data from all analyses were provided to the primary investigators
+for statistical analysis and interpretation.
+
+Measurement of urine creatinine by Roche Biomedical Laboratories, Inc. was
+found to be inaccurate. As a result, urine samples from the PK study were
+submitted to Forsyth Laboratory Medicine for analysis. Both quality
+assurance data and analytical data were satisfactory.
+
+B. Complete manuscripts describing 1987 Human Studies Program. (5/88)
+
+Data collection for the 1987 Human Studies Program was completed in July,
+1987. Data analysis is still continuing in some areas because of the
+magnitude of the study. The following was accomplished:
+
+a. Smoking behavior and pharmacokinetic data were statistically analyzed
+and reported in draft manuscript form. These data were included in the
+RJRT Monograph entitled "Chemical and Biological Studies on New Cigarette >
+Prototypes that Heat Instead of Burn Tobacco".
+
+b. Data were prepared for presentation at a series of RJRT-sponsored
+seminars. These data were also presented to outside consultants and
+scientists as required.
+
+€TSs 6eSTs
+
+¢. Manuscripts have been or will be prepared for publication in the
+scientific literature. These include three presentations at the Society of
+Toxicology Meeting in Dallas (2/88) and the International Symposium on
+Nicotinic Receptors in the CNS in Uppsala, Sweden (6/88).
+
+d. A data base of the blood chemistries from the 1987 Human Studies was
+established on the Sun computer. The database contains over 36,000
+individual test results. Work is underway to merge into the database
+results of nicotine/cotinine analyses, smokelab analyses, and urine
+mutagenicity portions of the study. A manuscript describing an analysis of
+the blood chemistries is in preparation.
+
+C. Complete other studies as required. (Ongoing)
+
+A puff-profile/smoke component dose study was conducted in support of NPT.
+Puff-profiles were measured on a panel of 18 RJRT volunteer smokers who
+smoked each of three cigarettes; Camel Light, and two PREMIER prototype
+cigarettes (SP-2 and SP-4). Puffing parameters were monitored during each
+test session, and the recorded profiles were reproduced on the Human Mimic
+Smoking Machine (HMSM) for the determination of mainstream smoke yields
+under human smoking conditions. Results of this study were presented to
+NPT and R&D management.

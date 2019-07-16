@@ -1,0 +1,200 @@
+m
+lat
+
+dle
+
+ 
+
+ 
+
+ane econ nt ancien anna mdmmiattam em
+
+ahaa 2 meee
+
+“4
+anemia a sate ene
+
+ 
+
+TABLE II
+ASYMMETRIC FOUR-BARRIER MODEL
+
+ 
+
+ 
+
+6 Energy [K*] Energy [Cs*]
+0.05 7.6 6.6
+0.34 —2.4 —34
+0.37 V7 8.8
+0.40 —2.5 3.4
+0.60 5* S*
+0.80 o* oF
+0.95 7.0 67
+
+ 
+
+Parameters for the four-barrier model of Fig. 6, as in Table IT. Asterisks
+denote parameters that may be varied up to 1 RT unit without affecting
+the fits to the data. J- curves drawn according to this free energy profile
+are indistinguishable from those drawn in Figs. 2, 3, and 4.
+
+wesented in Table I] it does. The curves through all the
+lata points shown in this repart can be equally well fil by
+this four-barrier mode! as with the symmetric three-barrier
+model. Even the nearly linear /-¥ curve for symmetrical
+K*, which was the original reason for choosing a symmetri-
+cal energy profile (Coronado et al., 1980), can be well fit
+with the asymmetric profile here. For the same reasons as
+with the simpler three-barrier model, the parameters are
+rather tightly constrained by our data, especially those
+issociated with the positions and energies of the wells and
+peak at the selectivity filter. This is admittedly a more
+complicated model than the symmetrical three-barrier
+proposal, but now ihe energy profile is consistent with the
+structural profile of the channel deduces from previous
+work.
+
+The same qualitative conclusions derived above for the
+simpler profile still] hold. Cs* block is a result of tight
+binding (Kp ~ 3 mM) at the cis-facing well, located at 0.34
+electrical distance. The peak energies for Cs* and K* are
+approxintely equal. We would say that the major deter-
+minant of ion selectivity in this channel is a three-way
+interaction of the ion with a single liganding structure ina
+region 0.4-0.5 nm wide. This structure acts both as a
+favorable liganding region and an unfavorable rate-
+huniting selectivity filter, according to the specific position
+of the ion with respect to the groups in the constriction.
+
+CONCLUSIONS
+
+The present results resolve the difficulty alluded to in the
+introduction: the fact that Cs* blocks this channel at all.
+We now know that Cs* blocks the channel by binding
+tightly at a deep well asymmetrically positioned in the
+permeation pathway, not by plugging up the pathway
+sterically. The selectivity filter of the channel is wide
+enough (0.4-0.5 nm) to allow passage of Cs*; the low
+conductance of this ion is simply due to its extremely tight
+binding. In the framework of our model, we can also assign
+a full selectivity sequence of monovalent cation binding to
+the Cs* blocking site, by combining our results here with
+those previously obtained with the other group | A cations
+
+CUKIERMAN ETAL. The K* Channel of Sarcoplasmic Reticulum
+
+|
+{
+
+{Coronado et al., 1980). Equilidrium binding affinity to
+this site increases in the sequence: K*(1} ~ Rb*(1.2) <
+Na7(1.6) < Li7(2.8) < Cst(20),
+
+Finally, we ask why we failed to observe Cs* currents
+previously. Our error was due to the fact that in past work
+(Coronado el al, 1980) we employed very high Cs*
+concentrations (>| M) to search for the channel. We now
+know that at high Cs*, the channel remains open all the
+time; no fluctuations can be observed because it simply
+never closes. This behavior is intimated in the traces of Fig.
+1, which show longer open times at 300 mM Cs* than at 30
+mM Cs". Indeed, we could not obtain Cs* data at concen-
+trations higher than 600 mM. The reason for this cffect is
+not known with cervainly, but preliminary experiments
+(not shown) suggest that the channel is able to close only
+when it is nol cecupied by an ion. In other words, ion
+occupancy holds the channel open, as has been suggested
+for invertebrate acetylcholine receptors (Marchais and
+Marty, 1979) and squid axon K* channels (Swenson and
+Armstrong, 1982), and indeed for this channel in the
+presence of ous blocking ions (Coranado and Miller,
+1982). For a Cs* dissociation constant of 3 mM, the
+channel would be unoccuoied only 0.3% of the time at 1 M
+Cs*, and would thus have very little opportunity to close.
+Single-channel Muctuations at | M K* could be seen,
+however, since K* binding is 20-fold weaker than that of
+Cs*.
+
+     
+
+ 
+
+On balance, we
+the initial expe:
+study.
+
+obably grateful lo Dr, C. F. Stevens for suggesting
+mt the result of which forced us ta undertake this
+
+   
+
+ 
+
+This work was suppavied by National Institutes of Health grant RO1-
+AM-19826. Dr. Y s a Hoffmann-LaRoche fellow of the Life
+Sciences Research Foundation.
+
+ 
+
+REFERENCES
+
+Adams, D. J., W. No:
+endplate channels by ;
+Physiol. 78:593-G
+
+Armstrong, C. M
+branes. {1 Mem
+3. 325-358.
+
+Begenisich, T. B., and MM. D. Cahalan. 1980. Sodium channel permeation
+in squid axon. I]. Non-independence and current-voltage relations. J,
+Physiol. (Lond). 3-257.
+
+Coronado, R., and C. Miller. 1979, Voltage-dependent caesium blockade
+of a cation channe! from fragmented sarcoplasmic reticulum. Nature
+(Lond,), 280:807-810
+
+Coronado, R., and C. Miller. 1982. Conduction and block by organic
+cations in 2 K*-sciective channel from sarcoplasmic reticulum incorpa-
+rated into pianar bilayer membranes. J. Gen. Physiol. 79:529-547,
+
+Coronado, R., R. L. Rosenberg, and C. Miller. 1980. Tonic selectivity,
+saluration, and bleck in a K*-selective channel from sarcoplasmic
+reticulum. J. Gen. Phystol. 76:425-453.
+
+Eisenman, G. 1961. On the elementary atomic origin of equilibrium ion
+specificity. Jn Symposium on Membrane Transport and Metabolism.
+A. Kleinzeller and A. Kotyk, editors. Academic Press Inc., New York.
+163-179.
+
+French, R. L., and J. 8. Wells. 1977. Sodium ions as blocking agents and
+
+, T. M. Dwyer, and B. Hille. 198. Block of
+ermeant cations in frog skeletal muscle. /. Gen.
+
+  
+ 
+  
+ 
+
+Potassium pores of nerve and muscle mem-
+.4 Series of Advances. G. Eisenman, editor. Vol.
+
+ 
+
+ 
+
+483
+
+ 
+
+|
+
+= i
+
+oct ete enna Mn uefa ne fe aan arelaeent A Nat ORE
+
+1
+i
+1

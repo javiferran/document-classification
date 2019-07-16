@@ -1,0 +1,47 @@
+Hogue, Brenda G.
+
+Human Coronavirus Receptors
+
+Background and Significance
+
+Coronaviruses are one of 14 RNA virus families that infect humans and a broad range
+of domestic animal species. Some of the viruses appear to be zoonotic. They are a
+medically important group of viruses exhibiting tropisms for the lung, intestine, liver,
+brain, kidney, eye, heart, and peritoneum resulting primarily in respiratory,
+gastrointestinal, cardiovascular, and neurological diseases. In humans, they are known
+to cause acute respiratory infections and gastroenteritis. However, they have been
+implicated in association with acute lethal necrotizing enterocolites in children (Science
+229:978, 1985), chronic enterocolites or Sprue (Dig. Dis.Sci. 27:1039, 1982),
+pericarditis (J. Med. Virol. 6:259, 1980) and multiple sclerosis (Science 209:933,
+1980; Ann. Neurol. 31:525, 1992; Talbot et al, Virol, in press). Two recent studies
+show that a significant sample of multiple sclerosis brain tissue was positive when
+either specific probes or PCR were used to detect coronavirus nucleic acid (Ann,
+Neurol. 31:525, 1992; Talbot et al, Virol., in press). This is particularly significant
+since coronaviruses infect humans and could possibly serve as a cofactor in such a
+neurological disease. Recently a primate model was used to show that the primate CNS
+is susceptible to infection with coronaviruses (Virol 188:274, 1992). It has been
+clearly shown that coronaviruses can target to the brain of experimentally infected mice
+(Perlman, et al., 1989, 1990). It seems reasonable to postulate that such may also
+occur in humans during the course of a "normal respiratory infection" with these
+viruses. It is well documented that coronaviruses can readily establish persistence in
+both tissue culture and in the animal. This may apply to humans as well. Our
+proposed studies are significant in that they will increase our understanding of the
+initial step in infection of the human respiratory tract by coronaviruses and allow us to
+begin studies toward understanding how these viruses also infect the CNS.
+
+ 
+
+Three receptors have been identified thus far for coronaviruses. The receptor for the
+mouse hepatitis coronavirus-A59 (MHV-A59) is a member of the carcinoembryonic
+antigen family. Aminopeptidase N, also known as CD13, was recently identified as the
+receptor for the human coronavirus-229E and transmissible gastroenteritis coronavirus
+(TGEV) (Nature 357:417; 420, 1992). All of these coronaviruses have two major
+envelope proteins, the spike (S) and matrix (M). In all cases S interacts with the
+receptor. Some coronaviruses have, in addition to the S and M, a third major envelope
+protein, the hemagglutinin-esterase (HE). BCV, a bovine coronavirus, expresses HE
+and this protein can use N-acetyl-9-O-acetylneuraminic acid (Neu5,9Ac3) as a receptor
+determinant to initiate an infection (J. Gen. Virol. 73:901, 1992). The data from this
+study suggests that a second receptor may be involved. The receptor(s) for the human
+coronavirus OC43 has not been identified. HCV-OC43 does bind Neu5,9Ac> on
+erythrocytes (Proc. Natl. Acad. Sci., USA 85:4526); however, we do not know if :hig
+is a receptor determinant on cells that are normally infected by this virus. Data from

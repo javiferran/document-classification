@@ -1,0 +1,134 @@
+5088 ‘TESH ET AL.
+
+A 8
+
+12345678
+
+eae lt
+
+FIG. 2, Characterization of SLT-binding glycolipids derived from
+murine macrophages. (A) Orcinol-stained glycolipids; (B) glycolipids
+separated identically to those in panel A and subsequently treated with
+purified SLT-1, anti-SLT-1 monoclonal antibody; and '*T-labeled
+secondary antibody. Toxin binding was visualized by autoradiography.
+Lanes: 1, puritied glycolipid standards; 2, glycolipids derived trom
+Vero cells (1 mg); 3, human umbilical vein EC (3 mg); 4, C3H/HeJ
+macrophages (10 mg); 5, C3H/HeN macrophages (10 mg); 6, purified
+Gb; (1 pg); 7, purified Gb, (0.1 yg); 8, purified Gb, (0.01 pg). The film
+was intentionally overexposed to visualize the faint toxin-binding bands
+in macrophage extracts.
+
+ 
+
+toxins tested (1.0 wg per well) manifested cytotoxicity. Macro-
+phages, which have been demonstrated to be key cellular
+mediators of the immune response to bacteria and bacterial
+antigens, were not killed in vitro by treatment with SLT-T or
+SLT-II over a broad concentration range.
+
+Quantitative analysis of toxin receptor expression in murine
+macrophages. Numerous studies have detnonstrated that neu-
+tral glycolipids of the globo series, found in the membranes of
+a variety of mammalian cells, serve as toxin receptors and that
+the level of toxin receptor expression may be a critical deter-
+minant of susceptibility to cytotoxicity (10, 24, 35). Binding of
+the holotoxin:to the glycolipid Gb, results in receptor-medi-
+ated endocytosis, intracellular trafficking of the toxin to the
+trans-Golgi network and endoplasmic reticulum, and, ulti-
+mately, the translocation of the enzymatic A subunit into the
+cytosol where ribosome inactivation occurs (50), Purified
+SLT-I and monoclonat antibody directed against SLT-I were
+used to detect and compare the levels of toxin-binding glyco-
+lipids present in murine macrophages, Vero cells (toxin-
+sensitive cells; high Gb, expression), and human umbilical vein
+EC (relatively toxin-insensitive cells, low Gb, expression).
+Total membrane plycolipid extracts and glycolipid standards
+were separated by thin-layer chromatography, and dilutions of
+purified Gb, separated on the same plates were used to
+quantitate glycolipids present in the membranes of each cell
+type (Fig. 2). In accordance with earlier studics (58), we
+estimated that Vero cells (Fig. 2, lance 2) and EC (lane 3)
+contained ~80 nmol of Gb, per mg of cells and 100 pmal of
+Gb, per mg of cells, respectively. Macrophages derived from
+the LPS-hyporesponsive C3H/HeJ mouse strain (lane 4) ex-
+pressed undetectable levels of the toxin-binding glycolipid
+(<L0 pmol of Gb; per mg of cells) in this assay. Macrophages
+derived from C3H/HeN mice (lane 5) contained barely detect-
+able levels of Gb, (~20 pmol of Gb; per mg of cells). Both
+C3H/HeN and C3H/HeJ macrophages possessed an additional
+toxin-binding glycolipid which migrated with purified Gb,.
+These data support the concept that the relative resistance of
+murine macrophages to the cytotoxic action of SLT-I and
+SLT-II may be due, in part, to low levels of Gb; in the
+macrophage membranes,
+
+INFECT. IMMUN.
+
+Kinetics of TNF production by murine macrophages stim-
+ulated with SLTs or LPS. We and others showed that pre- or
+coincubation of human venous EC with recombinant human
+TNF-« and purified Shiga toxin or SLTs sensitized the EC to
+cytotoxicity (33, 58, 59), Furthermore, human EC do not
+secrete elevated levels of TNF-a when stimulated with suble-
+thal concentrations of purified Shiga toxin (57). These data
+suggest that although cytokines may upregulate the expression
+of Gb, by EC and participate in the development of vascular
+injury characteristic of HUS and other postdiarrheal sequelae,
+EC may not be the source of the cytokines. In light of the
+report by Barrett et al. (3) that macrophages respond to SLT-IL
+with elevated TNF activity and histopathological studies show-
+ing an influx of inflammatory cells into sites of toxin-mediated
+damage (46-48), we examined whether macrophages produce
+TNF and other proinflammatory cytokines when stimulated
+with the toxins. It should also be noted that patients with
+bloody diarrhea and HUS are often endotoxemic (30). Unlike
+SLT-macrophage interactions leading to cytokine production,
+which have not been systematically examined, it is now well
+documented that LPS is a potent inducer of proinflammatory
+cytokine production from macrophages in vitro and systemi-
+cally in vivo (38, 45). We therefore quantitated and compared
+cytokine production by macrophages derived from LPS-re-
+sponsive and LPS-hyporesponsive mice in response to treat-
+ment with purified LPS or SLTs.
+
+The kinetics of TNF production by murine macrophages in
+response to treatment with purified SLT-I or LPS was mea-
+sured by the L929 cytotoxicity assay (Fig. 3). TNF activity was
+rapidly induced from C3H/HeN macrophages treated with LPS
+(10 ng/ml), showing a slight elevation at the 0.5- and 1-h time
+points and a major elevation at the 3-h time point. TNF activity
+remained elevated throughout the course of the experiment
+(36 h). As expected, macrophages derived from the C3H/HeJ
+mouse strain did not produce elevated levels of TNF activity
+following treatment with LPS. In contrast to the rapid induc-
+tion of TNF activity from C3H/HeN macrophages by LPS, the
+induction of TNF activity by SLT-I was significantly delayed.
+After 9 h of stimulation with purified SLT-I (100 ng/ml), low
+levels of TNF activity (25 to 50 U/ml) were detected in
+C3H/HeN macrophage culture supernatants. After 12 h, TNF
+activity levels began to rise and reached near-maximal levels
+(~200 U/ml) by 13 h. TNF production in response to SLT-1
+then remained elevated throughout the course of the experi-
+ment but did not reach the same levels induced by a 10-fold-
+lower dose of LPS at any time point. In comparison with results
+of treatment with LPS, C3H/HeJ macrophages produced low
+levels of TNF activity (~50 U/ml) in response to stimulation
+with purified SLT-I (P < 0.001 by paired ¢ tests).
+
+The control of TNF synthesis and secretion is complex,
+involving regulation of transcriptional, translational, and post-
+translational processes. Beutler et al. (7} used nuclear tran-
+scription assays and Northern (RNA) blot analysis of mRNA
+extracted from C3H/HeN and C3H/HeJ macrophages to show
+that the LPS-hyporesponsive cells did not produce elevated
+levels of TNF mRNA in response to stimulation with 10 ng of
+LPS per ml. In conjunction with the experiments to character-
+ize the induction of TNF activity in murine macrophages
+stimulated with SLT-I, we also extracted total cytoplasmic
+RNA from the cells at each time point to examine the kinetics
+of TNF-c mRNA induction. Equivalent amounts of RNA were
+blotted onto nylon membranes and hybridized to **P-labeled
+TNF-x (Fig. 4A) or GAPDH probes (Fig. 4B), and induction
+of TNF-c mRNA was compared with mRNA levels of the
+housekeeping gene (Fig. 4C). At the earliest time point tested
+(0.5 h), TNF-« transcript levels were elevated in SLT-I-treated

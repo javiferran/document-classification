@@ -1,0 +1,57 @@
+| INBIFO Institut fiir biologische Forschung GmbH - Kain PRIORITY
+| | Report P 0500/3237 97/4018 Page 23
+t
+
+ 
+
+TESTER DE- DOSE MUTAGENICITY (rev. /plate) REGRESSION ANALYSIS
+
+  
+
+ 
+
+ 
+
+ 
+
+STRAIN TER-
+MI- PLATE M SE RSD REGR. SD CORR. TEST
+NA- COEF. COEF .
+TION i2 3
+(ng/ (8) (rev./ (rev./
+plate) mg) mg)
+1 TASB. end «(0.04 148 116 133. 132.3 9.2 12.1
+‘ 0.08 316 274 334 308.0 17.8 10.0
+0.12 416 446 504 455.3 25.8 9.8
+‘ 0.16 679 617 655 650.3 18.0 4.8 4228 116 0.991 ++#L
+TALOO end 0.04 189 201 194 194.7 3.5 3.1
+0.08 265 305 280 283.3 11.7 7.1
+0.12 386 375 323 361.3 19.4 9.3
+0.16 486 511 449 482.0 18.0 6.5 2306 114 0.980 H4L
+TAIS35 end 0.04 19 17 21 19.0 1.2 10.5
+0.08 12 18 9 13.0 2.6 35.3
+0.12 15 17 17 16.3 0.7 7.1
+0.16 21 24 22 22.3 0.9 6.8 33 29 0.329 = N
+: TAIS37 end 0.04 44 41 34 39.7 3.0 12.9
+fas aa 0.08 66 49 65 60.0 5.5 15.9
+“ 0. 73 90 84.7 5.8 11.9
+0.16 107 102 99 102.7 2.3 3.9 536 53 (0.966 H4L
+Table 7 MUTAGENICITY OF MSC WITH S9 ACTIVATION, 1R4F,
+
+i LONG-TERM CONTROL USING BATCH NO. 4512
+
+. Remarks: date of assay: 25-FEB-97: TA98
+vi 26-FEB-97: TA100 ~
+: 04-MAR-97: TA1535
+05-MAR-97: TA1537
+: regression analysis: using Poisson weights
+test: statistically significant difference from 0
+N: nonlinearity
+L: linearity
+application volume: 50 yl per plate
+
+ 
+
+M 970917 10:32:03 P. 1 USER_DISK:[IT_A_HJIR4F_3237.L1S;13
+
+Ss9ZLZyp90e

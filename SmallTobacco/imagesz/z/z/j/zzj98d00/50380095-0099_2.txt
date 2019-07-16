@@ -1,0 +1,71 @@
+Biochemistry: Hagman and Grossched! Proc. Natl. Acad. Sci. USA 89 (4 992) BRO]
+
+ 
+
+A
+
+ 
+
+IK LSOPDEVARRWGKRENKPK: EKLSRGLRYYYOKN\! INETAGKPYVYREVCOLOSLLSYTPEEHSSASGL TSsuACgge vets
+LSOPDEVARRWGKAKNKPK
+
+EK LSRGLAYYYDKNI MATAGKRYYYRFVCOLGSLLGY TPEE| HaMLOVEPDaD Ets-1 wt
+
+ 
+
+     
+ 
+
+- -LHAMLDVKPDaD Ets-1 93850
+CHAML DVKPDAD Ets-1 ory
+LHAMLOVKPDAD Ets-1 N385DHd01y
+
+HSSASG LTSSMACSSF Els-1/v-ets
+wetsAc
+Ets-1ac
+
+Tt tte eee LHAMLOVKPDaD wels/Ets-1
+
+Fic. 2. Differential binding of the mb-s promoter se-
+quence by v-ets, Ets-1, and chimeric proteins. (A) Partiat
+carboxy-terminal amino acid Sequences of v-ets, Ets-1, and
+chimeric polypeptides (13, 21). Boxes indicate the regions of
+identity between v-ets and wt Ets-l. The amino termini of
+wets and v-ets/Ets-1 chimeric Polypeptides coincide with
+residue 85 of the v-ets Segment of p135eaz-myb-ets (13). The
+amino termini of Ets-1 and Ets-1/v-ets chimeric polypep-
+tides begin with residue 1 of Ets-1 (16). Dashed line repre-
+sents the wt Ets-] sequence. (B) (Upper) Electrophoretic
+mobility-shift assay of P-labeled wt oligonucleotide probe
+(Fig. 1A) binding by in Vitro-translated Proteins. The bracket
+indicates the Position of specific Protein-DNA complexes.
+
+ucts were synthesized in Parallel reactions, separated by
+SDS/PAGE, and visualized by using autoradiography, Ap-
+
+protein was reduced by a factor of 34 relative to that of v-ets PU.1, which shares 38% of the ETS-domain amino acids with !
+(Fig. i '
+
+ig. 2B, lane 10). The data indicate that the 12 carboxyl- murine Ets-1 (6). Ets-2 and PU.1 proteins each bound the :
+terminal amino acids of Ets-1 Strongly suppress DNA binding MUF? site Specifically in vitro (Fig. 3; data for specific i
+by both Ets-1 and the closely related y-ets. competition are not shown). Similar to Ets-1, deletion of the i
+
+To examine whether the Ets-1 carboxyl terminus can carboxyl terminus enhanced DNA binding by 20-fold (lanes
+inhibit the binding of a more distantly related factor, we 2 and 3). In contrast, DNA binding by PU.1 was more |
+substituted the 15 carboxyi-terminal amino acids of PU.1 efficient than by native Ets-1, and deletion of PU.1 carboxyl- |
+with the 23-carboxyl-terminal amino acids of Ets-1. The Ets-1 terminal sequences did not further enhance DNA binding
+carboxyl terminus decreased DNA binding by the chimeric (lanes 5 and 6),
+Protein by only 2- to 3-fold relative to wt PU.1 (data not Stoichiometry of Ets-1~DNA Complexes, The inhibition of !
+shown). The Ets-1 carboxyl terminus appears to affect DNA DNA binding by the carboxyl termini of Ets-1 and Ets-2 could \
+binding only when linked to amino acids that are conserved involve the regulation of homodimer Or multimer formation, | 1
+between Ets-1 and v-ets. To determine whether Ets-1 binds the MUF?2 site as a
+
+Inhibition of Ets-2 DNA Binding by Its Carboxyl Terminus, monomer or homodimer, Ets-1AC Polypeptide lacking the '
+The ETS domains of Ets-1] and Ets-2 are nearly identical (96% inhibitory carboxyl terminus or Ets-1ANAC polypeptide with .
+
+identity between the two
+
+are highly conserved (9, 21). Therefore, we examined not shown). When analyzed in an electrophoretic mobility-
+whether deletion of the 16 carboxyl-terminal amino acids of shift assay, Ets-1AC/DNA complexes migrated more slowly
+Ets-2 has an effect on DNA binding. For Comparison, 13 than complexes Containing the ANAC Polypeptide (Fig. 4,
+amino acids were deleted from the carboxyl terminus of lane 2 vs. 4), Cotranslation of the AC and ANAC transcripts

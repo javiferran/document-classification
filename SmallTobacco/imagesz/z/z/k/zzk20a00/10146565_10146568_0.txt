@@ -1,0 +1,120 @@
+HK51522009
+
+Importance of injection site for coronary blood
+flow determinations by microspheres in rats
+
+PIERRE WICKER AND ROBERT C. TARAZI |
+Research Division, The Cleveland Clinic Foundation, Cleveland, Ohio 44106
+
+WICKER, PIERRE, AND Ropert C. Tanazi. Importence of
+injection site for coronary blood flow determinations by micra-
+spheres in rats. Am. J. Physiol. 242 (Heart Circ. Physiol. 11):
+H94-H97, 1982.—Because coronary blood flow (CBF) detes-
+Tinations require that blood and microspheres be uniformly
+mixed in the root of the aorta, we developed a technique of left-
+atrial (LA) catheterization in rats and compared the variability
+of results obtained by LA injection and left-ventricular (LV)
+injection as regards systemic [cardiac output (CO)), proximal
+(coronary), and distal (renal, cerebral) flows in anesthetized
+animals. CBF values averaged 410 + 224 and 358 + $9 (SD) ml.
+min™’.100 g”’ from LV and LA injection, respectively, or 5.7 +
+2.9 and 4.9 + 1.3 (SD) %CO. The variability with LA injection
+was significantly lower than with LV injection as shown by the
+marked differences in standard deviations obtained with the
+two methods (224 vs. 99 ml-min™'.100 g~ or 2:9 vs. 1.3 SCO,
+P > 0.01). In contrast, no significant difference in variability
+was found for either CO or more distal regional flows. These
+results indicate that LV injections might be adequate for sys-
+temic flow and regional flows to relatively distal beds but that
+accurate measurements of CBF require LA injection of micro-
+spheres.
+
+cardiac output; regional blood flow; left-atrial catheterization
+
+ 
+
+ 
+
+SINCE ITS INTRODUCTION in 1967 by Rudolph ahd Hey-
+mann (13), the microsphere method has beeh extensively
+used because of its simplicity and the possibility of de-
+termining regional as well as systemic blood flow even in
+small animals like rats (7-9, 11, 14). However, the accu-
+racy of results from microsphere injections depends fun-
+damentally on the uniform mixing of microspheres in the
+bloodstream; in that respect the site of injection may be
+critical, particularly for coronary blood flow mieasure-
+ments. Because of alleged difficulties of left-atrial cathe-
+terization, most studies of rats have utilized a left-ven-
+tricular approach, assuming in the process that mixing
+was adequate (7, 9, 12, 14). However, experiments in dogs
+have shown that left-ventricular injections give less de-
+pendable results and more marked differences in the
+distribution of microspheres to the heart than injections
+into the left atrium (2, 5). Moreover our preliminary
+experiments in rats did show a high variability of coro-
+nary blood flow measurements with left-ventricular in-
+jections. We therefore developed a technique of left-atrial
+catheterization in rats thet could be performed with no
+major technical difficulties. This allowed us to compare
+the variability of blood flow detezminations made by left-
+atrial injections with that of measurements obtained by
+left-ventricle injection, as regards systemic (cardiac out-
+
+He
+
+put) and regional (coronary, renal, cerebral) flows. The
+results show that /) intra-atrial injections lead more
+consistently to adequate dispersion of the microspheres
+in the aortic root than do intraventricular injections and
+2) the intra-atrial-injection technique must be preferred
+for precise determinations of coronary blood flow because
+of the lower variability resulting from better mixing of
+the microspheres.
+
+METHODS
+
+Experiments were carried out in anesthetized rats sep-
+arated into two groups. In group A (n = 10) the micro-
+spheres were injected first into the left atrium and sub-
+sequently into the left ventricle. In group B (n = 10) the
+left-ventricular injection was performed first followed by
+the intra-atrial injection. The sequence of studies was
+regularly alternated so that one animal of group A (left-
+atrial injection first) was followed by one of group B
+(left-ventricular injection first).
+
+Preparation of rats. Sprague-Dawley rats were anes-
+thetized with pentobarbital sodium (30 mg/kg ip), and
+anesthesia was subsequently maintained with small doses
+(6-10 mg/kg ip) given as required approximately every
+30-45 min. The rats were intubated through the mouth
+and ventilated with room air. The same surgical sequence
+was used in all animals whatever the order of injection.
+
+First, a catheter was positioned in the left atrium. The
+left-atrial appendage was exposed by thoracotomy
+through the third left intercostal space, the pericardium
+was opened, and a PE-10 tubing was advanced through
+a small cut of the lateral wall of the appendage, secured
+in place, and passed through the chest wall along the
+sternum. The chest was closed after lung expansion by
+positive-intratracheal pressure while a negative pressure
+was applied to the thoracic cavity. The animal was dis-
+connected from the respirator, and the rest of the exper-
+iment was performed while the rat was breathing spon-
+taneously.
+
+Two catheters (made up of a 3- to 4-cm-long Teflon
+tubing inserted into a PE-50 tubing) were then advanced
+3 and 3.6 cm in the aorta through a right- and left-
+femoral-artery cannulation, respectively. The right-fem-
+oral catheter was connected to a Micron MP-15 trans-
+ducer for blood pressure recording. The left catheter was
+used to withdraw blood. A PE-10 tubing catheter was
+finally inserted into he right-carotid artery.
+
+In group A the carotid catheter was advanced into the
+left ventricle under blood pressure control after the left-
+
+0363-6135/82/0000-0000801.25 Copyright © 1982 the American Physiological Society

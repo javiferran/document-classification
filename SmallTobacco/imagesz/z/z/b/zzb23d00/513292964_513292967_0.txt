@@ -1,0 +1,55 @@
+ATTACHMENT 1
+
+December 16, 1980
+
+TO: Distribution ~
+SUBJECT: KDF-2 Speed-Up Meeting
+
+A meeting was held in Room 108 at 9:00 a.m. on December 10, 1980, to
+discuss progress on KDF~2 speed-up trials and determine next steps.
+This memo is to summarize current status and action plans. Those
+
+attendine are listed under distribution,
+
+#8 KDF-2 at No. 64
+
+1. Current Status
+
+a. Modifications were made and operation is much improved
+(reference Bad Wrap Task Force Minutes dated 12-1-80).
+
+Size and weight control tests will be repeated before
+Christmas to verify results.
+
+Machine has not been operated continuously at speeds above
+450 meters per minute (4500 cuts per minute). Concern was
+expressed regarding heat buildup and cutting head ledger
+
+and knife flutter at higher speeds. Increased noise levels
+would also be a problen.
+
+2. Action Plan
+
+a. Verify quality at current operating speeds with size and
+weight control (complete before Christmas).
+
+b. Begin comprehensive testing in accordance with test designed
+
+by Bad Wrap Task Force as soon as possible after quality
+
+verification completed in early January. NOTE: High speed
+
+test should be at 525 meters per minute (5250 cuts per minute).
+
+c. Report on progress mid-January.
+
+#12 KDF-2 at No. 12 (1-8)
+
+1. Current Status
+
+a. Began running 70Ml plug wrap on 12-2-80 and has run successfully
+
+at 500 meters per minute with short runs as high as 520 meters
+per minute,
+
+y96z 6zeTS

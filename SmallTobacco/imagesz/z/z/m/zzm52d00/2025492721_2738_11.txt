@@ -1,0 +1,36 @@
+12
+
+In our extensive studies of correlations with radon levels of house
+characteristics, locations, and socioeconomic factors", we encountered two situations
+which would lead to r-S correlations:
+
+(1} urban houses average 25% lower radon levels than rural houses, and urban
+people smoke 20% more frequently judging from urban-rural differences in tung
+cancer rates
+
+(2) houses of smokers have 10% lower average radon levels than houses of non-
+smokers.
+
+A detailed calculation of the effects of these r-S correlations found that (1)
+changes the slope of an m vs r regression by 18%, but the effect is almost completely
+compensated by our correction for smoking, changing the slope, B, of an m/m, vs r
+regression by less than 1%. The smoking correction does not compensate (2}, but
+it changes the slope B by only 5%. Items (1) and (2) were found to add linearly in
+their effect on B.
+
+These recognized r-S correlations, therefore, change B by only 6% and thus
+reduce. our discrepancy by only about 3%. It seems most unlikely that there are
+unrecognized r-S correlations that are over an order of magnitude larger than these as
+would be necessary to explain our discrepancy.
+
+Dependence on BEIR-IV theory
+
+All calculations to this point, inctuding our correction for smoking, have been
+
+carried out using the BEIR-IV theory*. However, we have shown that our discrepancy
+
+would be about equally large for any other m-r-S relationship based on data from the
+
+ 
+
+ SEL26bS20z

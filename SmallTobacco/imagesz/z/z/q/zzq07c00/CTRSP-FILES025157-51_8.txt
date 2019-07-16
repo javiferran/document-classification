@@ -1,0 +1,126 @@
+te
+
+Nae
+
+10.
+
+H.
+
+soe
+
+13.
+
+Gilpin E, Olshen R, Henning H, Ross J. Risk predic-
+Won after myocardial infarction. Cardiology 1983; 70:
+T3-H.
+
+Schimitz PIM, Habbema JDF, Hermans J. The
+performance of logistic discrimination of myocardial
+infarction data in comparison with some other dis-
+criminant analysis methods. Stat Med [983; 2:
+199-205.
+
+Cook EF, Goldman L. Empiric comparisons of multi-
+variate analytic techniques: advantage and disadvan-
+tage of recursive partitioning analysis. J Chron Dis
+1984; 37; 721-731.
+
+Harrell FE. Lee KL, Califf RM, Pryor DB, Rosait RA.
+Regression modelling strategies for improved prognos+
+tic predictions. Stat Med 1984, 3: 143~152.
+
+Madsen EB, Gilpin E, Henning H. Short term progno-
+sis in acute myocardial infarction: Evaluation of differ-
+ent predictor methods. Am Heart J 1984; 107:
+1241-1251.
+
+Brenn T, Amesen E, Selecting risk factors: A compari-
+son of discriminant analysis, logistic regression and
+Cox’s regression model using data from the Tromse
+heart study. Stat Med 1985; 4; 413-423.
+
+Harrell FE, Lee KL, Matchor DB, Reichert TA.
+Regression models for prognostic prediction: advan-
+tages, problems, and suggested solutions. Cancer Treat
+Rep 1985; 69: 1071-1677.
+
+Ciampi A, Thiflault J. Nakache J-P, Asselain B.
+Stratification by stepwise regression, correspondence
+analysis and recursive partition: A comparison of three
+methods of analysis for survival data with covariates.
+Comput Stat Data Anal 1986; 4: 185-204.
+
+Peduzzi P, Holford T, Detre K. Chan ¥-K. Compazi-
+son of the logistic and Cox regression models when
+outcome is determined in all patients after a fixed
+petiod of time. J Chron Dis 1987; 40: 761-767.
+Cook EF, Goldman L. Asymmetric stratification. An
+outline for an efficient method for controlling con-
+founding in cohort studies. Am J Epidemic! 1988: 127.
+626-639.
+
+14,
+
+1s.
+i.
+
+17,
+
+18,
+
+19.
+
+21
+
+Comparison of Multivariable Methods for Prediction—i 347
+
+Feinstein AR, Wells CK. Lung cancer staging—
+a critical evaluation. In: Matthay R, Ed. Recent
+advances in lung cancer. Clin Chest Med 1982; 3:
+291-305. +
+Feinstein AR. On classifying cancers while treating
+patients. Arch Intern Med 1985: 145: 789-1791.
+Feinstein AR. Clinical biostatistics: XIV. The purposes
+of prognostic stratification: XV. The process of prog-
+nestic stratification (Part 0); XVI. The process of
+prognostic stratification (Part 2); XVIE. Synchronous
+partition and bivariate evaluation in predictive stratifi-
+cation, Clin Pharmacol Ther 1972; 13: 285-297,
+442-457, 609-624, 755-768.
+
+Feinstein AR, Schimpf CR, Hult EW (with technical
+assistance of HL Bidwell}. A reappraisal of staging and
+therapy for patients with cancer of the rectum. 1.
+Development of two systems of staging; If. Patterns of
+presentation and outcome of treatment. Arch Intern
+Med 1975, 135: 1441-1462.
+
+Feinstein AR, Pritchett JA, Schimpif CR. The epi-
+demiology of cancer therapy; II. The clinical course:
+data, decisions, and temporal demarcations; WL The
+management of imperfect data: IV. The extraction of
+data from medical records. Arch Inter Med 1969; 123:
+323-344, 448-461, 571-590.
+
+Feinstein AR. Symptoms as an index of bielogic
+behaviour and prognosis in human cancer. Nature
+1966; 209: 241-245.
+
+Feinstein AR. A new staging system for cancer and 2
+reappraisal of “early” treatment and “cure” by radical
+sargery. N Engl J Med 1968; 279: 747-753.
+Feinstein AR. Clinical Jadgment. Baltimore: Wilfiams
+& Wilkins Co.; 1967.
+
+American Joint Committee for Cancer Staging and
+End Results Reporting. Clinical Staging System for
+Carcinoma af the Limg. Chicago: American Joint
+Committee on Cancer; 1973.
+
+Walter SD, Feinstein AR, Wells CK. Coding ordinal
+independent variables in multiple regression analysis.
+Am J Epidemiat 1987, 125: 319-323.
+
+CT SP-FILES O25165
+
+11025183

@@ -1,0 +1,36 @@
+coy
+
+Analysis of the Gaseous Phase o7 Cigarette Smoke 5.
+| WENO As
+of maintaining the trap et any temperature between -170°C and room
+
+temperature.
+
+This method of collection and fractionation-of the gaseous
+phase was simplified to sone degree by Irby and Herlow [9], although
+the trapping system remained rather elsborate. In this methed the
+smoke was collected in a LeRoy still cooled to -196°C. The non-
+condensables can be quantitatively removed from the still. The still
+end the main trap are so constituted that, by proper reguiation of
+the voltage applied to the heater and of the vacuum applied to the
+ease surrounding them, any desired temperature from -196°C upward
+can be obtained. By altering the temperature of the still and the
+trap, evaporative distillation can be carried out. The carrier gas
+flow is srranged to flow through this irap so that it can also serve
+
+@s a sample inlet trap for a gas chrozatograrh.
+
+Such techniques of cellection as these, in addition to being ,
+time-consuming, generally permit the partial loss of some components
+through imperfect collection, velatizetion during fractionation, or
+through chemical interaction of the condensed vapors. Also, the
+resulis cbtained by such methods are quite dependent on the collection
+
+system employed, as this frequently alters the partition of the less
+
+volatile components betveen the vapor an2 the particula:e phases.
+
+The method of collection enployed by Irby and harlow was
+modified by Grob [5] who replaced the still with a collection trap
+
+made of a 2,25 meter glacs criral with a wius of 40 ec. Tne smoke

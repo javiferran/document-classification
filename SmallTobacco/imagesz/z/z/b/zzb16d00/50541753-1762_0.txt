@@ -1,0 +1,91 @@
+Eur, J. Biochem. 224, 1-10 (1994)
+© FEBS, 1994
+
+Expression, cytoskeletal utilization and dimer formation
+of tropomyosin derived from retroviral-mediated cDNA transfer
+Metabolism of tropomyosin from transduced cDNA
+
+Gaddamanugu L. PRASAD, Rebecca A. FULDNER, Richard BRAVERMAN, Elwood MCDUFFIE and Herbert L, COOPER
+Cell and Molecular Physiology Section, Laboratory of Tumor Immunology and Biology, National Cancer Institute, Bethesda, USA
+
+(Received February 21, 1994) — EJB 94 0250/1
+
+_ Expression of the tropomyosin-1 isoform was enhanced by cDNA transfer in non-transformed
+murine 3T3 fibroblasts and also in v-Ki-ras transformed fibroblasts in which native tropomyosin-1
+expression had been reduced and tropomyosin-2 synthesis virtually eliminated by action of the
+oncogene. The level of synthesis of insert-derived tropomyosin-1 was similar in normal and trans-
+formed transductants (3-5 times normal levels). The high level of insert-derived tropomyosin-1
+expression resulted in a considerable increase in tropomyosin-1 utilization in the cytoskeleton of
+transformed cells, but this expression still did not reach normal levels, suggesting an oncogene-
+related inhibition of tropomyosin utilization. A large proportion of newly synthesized native tropo-
+myosin-1 in normal, unmodified fibroblasts appeared in homodimers which, upon prolonged incuba-
+tion, were largely converted to the heterodimers. Excess tropomyosin-1 derived from the inserted
+
+cDNA also appeared largely as the homodimer in both normal and transformed cells. This homodi-
+mer was utilized effectively in the formation of cytoskeletal structures but was partially converted
+
+to heterodimer by chain exchange. Under steady:
+toskeletal tropomyosin-1-containing dimers were
+
+-state conditions, approximately 33% of the cy-
+homodimers, compared to approximately 10% in
+
+normal fibroblasts. The results show that the increased amounf of tropomyosin-1 homodimer enter-
+ing the cytoskeleton under conditions of tropomyosin-i excess, results in an atypical microfilament
+composition. The effect of this excess of tropomyosin-1 homodimers on stability or function of
+microfilament fibers remains to be determined. The results also confirm that the mechanisms of
+
+rapid homodimer formation with conversion to
+vitro studies, also occur in vive.
+
+The synthesis of several microfilament-associated pro-
+teins, including tropomyosin (Cooper et al., 1985), vinculin
+(Raz and Geiger, 1982, Fernandez et al., 1992), a-actinin
+(Gluck et al., 1993), and gelsolin (Vandekerckhove et al.,
+1990) have been reported to be suppressed in neoplastically
+transformed fibroblasts. Among these, tropomyosin has been
+extensively studied.
+
+Tropomyosins are a family of ubiquitous actin-binding
+proteins with extensive a-helical structure that play a well-
+defined role in muscle contraction (Leavis and Gergely,
+1984; Payne and Rudnick, 1985, Lees-Miller and Helfman,
+1991), In non-muscle cells, the role of tropomyosins is less
+clearly understood, and it is generally thought that they are
+involved in stabilization of actin microfilaments which, in
+tum, play an important role in maintaining cell shape, motil-
+
+Correspondence to G. L. Prasad, Building 10, Room 8B07,
+Laboratory of Tumor Immunology and biology, National Institutes
+of Health, Bethesda, MD 20892, USA .
+
+Fax: +1 301 496 2756.
+
+Abbreviations. Nbs2, 5,5’-dithiobis-2-nitrobenzoate; PhMeSO,F,
+phenylmethylsulfony! fluoride; TMei, cDNA encoding human.
+tropomyosin-1.
+
+heterodimers by chain exchange, known from in
+
+ity, and interaction with extracellular supporting elements
+(Pollard et al., 1976; Coté, 1983; Stossel et al., 1985). The
+terminology of tropomyosins used in this study is one in
+general use for tropomyosins expressed in fibroblasts (Lea-
+vitt et al., 1986). Tropomyosins-1—3 correspond, in increas-
+ing order of electrophoretic mobility, to the high-M, tropo-
+myosins (284 amino acids), which are homologous to tropo-
+myosins expressed in muscle cells, while tropomyosin-4 and
+tropomyosin-5 correspond to the low-M, tropomyosins (247
+or 248 amino acids) characteristic of non-muscle cells. The
+reader is also referred to footnote 2 of Lehrer and Qian
+(1990) regarding the terminology of smooth muscle tropo-
+myosins. A number of studies have shown that down-regula-
+tion of expression of the high-M, tropomyosin isoforms con-
+sistently accompanies neoplastic transformation of murine
+and avian fibroblasts by a variety of retroviral oncogenes,
+chemical mutagens and transforming growth factors (Hen-
+dricks and Weintraub, 1981; Leonardi et al., 1982; Matsu-
+mura et al., 1983; Hendricks and Weintraub, 1984; Cooper
+et al., 1985, 1987; Leavitt et al., 1986). These findings have
+led to the proposal that deficiency of tropomyosin expression
+may be a causal biochemical event in neoplastic transforma-

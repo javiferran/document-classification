@@ -1,0 +1,18 @@
+24-Oct-97 ~/6569 Masier_4.doc . DRAFT Page 17
+
+Statistical Analysis
+
+The following statistical tests were performed on the biological data: For the overall
+comparison of the whole-body RASS- and sham-exposed graups (WBO, WB6, and WB12),
+the one-way analysis of variance for continuous data (Sachs, 1982) and the generalized
+Cochran-Mantel-Haenszel test (Koch and Edwards, 1988) for ordinal data were used with the
+TPM concentration as the stratifying variable. If the overall comparison showed a significant
+difference, the Duncan test (Duncan, 1955) and the generalized Cochran-Mantel-Haenszel
+test were applied to continuous and ordinal data, respectively, for a pairwise comparison
+between the groups. All tests were conducted at the nominal level of significance of a = 0.05
+(2-tailed). Due to the large number of parameters analyzed, no correction for multiple testing
+was applied, which would have made the tests very insensitive. Statistical significances,
+
+therefore, have to be considered as explorative indicators rather than confirmatory evidence.
+
+6LEvegsZ0c

@@ -1,0 +1,191 @@
+H96
+
+TABLE 2. Variability of coronary blood flow
+measurements with left-atrial or left-veniricular
+microsphere iniection in rats
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Left-Atria} Left. Ventnvular P
+Injection Inyecuun
+CBF, SBF, mi. min''. 356+ 98 (228%) 410 + 224 (255%) =<0.01
+100 e' :
+CBF, 4CO 4922.3 (227%) 57229 (451%) <0.0!
+CVR, mmHg: 0.3) + 0.07 (423%) 0.3120.14 (245%) = <0.0]
+mi’. mun.
+100 ¢
+
+Values are means + SD: values i in parentheses are SD expressed as
+€ of mean (coefficient of variation). n# 20. CBF. coronary blood flow:
+CO, cardiac output: CVR, coronary vascular resistance. Comparison by
+F test showed a significant difference between SDs. In contrast. no
+significant difference in mean value was found between the two groups
+(unequal-variance / test and Mann-Whitney test).
+
+TABLE 3. Variability of renal dnd cerebral
+blood flow measurements with left-atrial and
+left-ventricular microsphere injection in rats
+
+ 
+
+ 
+
+ 
+
+ 
+
+Regional Blood Left-Atrial Left. Ventricular
+Flow, m!- min” "100 at “Se icetis, Pp
+g tissue’ Injection Injection
+Right kidney ,
+(n= 20) 7299 (217%) 598271 (419%) NS
+Left kidney
+(n= 20) 566 + 131 (+23%} 689+ 101 (412%) NS
+Right-half brain
+(n = 18) 61414 (423%) 57214 (225%) NS
+Left-half brain ,
+(a » 18) 4415 (423%) 60215 (225%) NS
+
+ 
+
+Values are means + SD; values in parentheses are SD expressed as
+& of mean (coefficient of variation). P value calculated by F test
+{comparison of variance), NS, not significant. No statistically significant
+difference in mean values was found between the two groups or between
+the right and left side for each type of injection (unpaired ¢ test).
+
+was significantly higher (by approximately a factor of 2)
+with left-ventricular injection than with atrial injection,
+although the mean flow values from each approach were
+not significantly different (Table 2). This finding held
+true whether coronary blood flow was expressed in flow
+per 100 g of tissue or in percent of cardiac output; the
+same was true for coronary vascular resistance (Table 2).
+
+In contrast with the coronary blood flow determina-
+tions, no difference was found in the variability of renal
+or cerebral blood: flow measurements between the two
+sites of administration (Table 3). Results were similar
+when those flows were expressed in flow per 100 g of
+tissue or in percent of cardiac output or whether com-
+parisons were made between renal or cerebral resistance.
+
+Farther, when results obtained by left-atrial injection
+were compared with those obtained by left-ventricular
+injections within the same group of rats (groups A or B),
+the same conclusions were found, namely a higher vari-
+ability in coronary blood flow measurements from left-
+ventricular injections (Table 4), contrasting with the
+absence of such difference in renal or cerebral blood flow
+values.
+
+DISCUSSION
+
+These results indicate that the left-atrial injection of
+microspheres resulted in less variability of coronary
+
+HKG1522011
+
+P. WICKER AND R. C. TARAZI
+
+TABLE 4. Variability of coronary blood flow
+measurements with left-atrial or left-ventricular
+microsphere injection performed in same animal
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Left-Atnal Left-Venunicuiar P
+an Injecuon Injection
+CBF, mi-mis"'-
+100 g"' ,
+
+group A 342266 (419%) 357 2 163 (246%) <0.01
+
+group B 3732125 (234%) 46) £271 (259%) <0.025
+CBF, %CO
+
+group A 4521.0 (222%) 5.1222 (143%) <0.025
+
+group B 5.39215 (228%) 6223.6 (258%) <0.01
+CVR ,
+
+group A 0.33 = 0.04 (212%) 0.32 + 0.13 (241%) <0.0!
+
+group B 0.29 + 0.09 (231%) 0.30 + 0.15 (450%) NS*
+
+ 
+
+Values are means + SD; values in parentheses are SD expressed as
+% of mean (coefficient of variation). CBF. coronary blood flow. CO,
+cardiac output; CVR. coronary vascular resistance. In group A (n =
+10), left-atrial injection was performed first. In group B in = 10), left-
+ventricular injection was performed first. P value refers to comparison
+of variance (by F test) between the two sites of administration on basis
+of results within the same animal. No statistically significant difference
+in mean values was found between the two sites of administration in
+each group (paired # test).  * Close to significance level (P = 0.058).
+
+blood flow measurements than left-ventricular injection.
+For other organs like the kidney or brain or for cardiac
+output determinations the two sites of administration
+were comparable. |
+
+This prospective study thus confirmed the theoretical
+conclusions suggested by the basic requirement of the
+method as regards uniform mixing. In this comparison of
+results obtained between two similar groups and within
+the same group of rats, dispersion of coronary blood flow
+values was higher by a factor of 2 in left-ventricular
+injections. There are three possible explanations for these
+findings J) a greater intrinsic variability of coronary
+blood flow coincidental with left-ventricular injections;
+2) differences in experimental conditions between left-
+atrial and left-ventricular injections; and/or 3) an inade-
+quate mixing of microspheres with left-ventricular injec-
+tions.
+
+There was no reason why biological or intrinsic varia-
+bility should have been greater with left-ventricular in-
+jection as both left-atrial and left-ventricular injections
+were done in the same animal or in two similar groups.
+Biological variability cannot be precisely measured but
+one can obtain some estimate of it; in normal conditions
+coronary blood flow is essentially dependent on myocar-
+dial oxygen consumption as oxygen extraction is close to
+its maximum (6). Accordingly some of the data variability
+might be related to variation in oxygen needs; however,
+there was no difference between the two groups as re-
+gards mean values of heart rate or arterial pressure, two
+main determinants of oxygen consumption (1). It seems
+unlikely therefore that variability of oxygen consumption
+might have differed between left-atrial and left-ventric-
+ular injection. Similarly, differences in experimental con-
+ditions are very unlikely because exactly the same pro-
+tocol was followed in all animals. The probable reason
+for the discrepancy in results between the two sites of
+injection must lie principally in the adequacy of mixing
+obtained by atrial vs. ventricular injections. Adequate
+mixing of the microspheres with the blood as the particles
+flow out of the heart is one of the basic requirements for

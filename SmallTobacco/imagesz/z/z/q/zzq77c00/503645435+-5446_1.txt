@@ -1,0 +1,74 @@
+PROCEDURE
+
+The technique is similar ‘to the method used to
+demonstrate "magnetic lines of force” to high school
+science students. Iron oxide powder(s) which 4s
+identical to that-used by Cohen et al (average diameter
+approximately 5 microns), is suspended in a mucous-like
+solution of methylceltulose(s) and water, and the sus-
+pension placed in a uniform magnetic field of approxi-
+mately 250 gauss. The suspended magnetic particles
+immediately begin to rearrange themselves into straight
+ines, (or “strings"} along the imaginary magnetic field
+
+nes, ,
+
+It has been reported(s,7,6) that both the quantity
+and the viscosity of sputum or mucous in the lungs of
+people exposed to smoke, dust, and fumes differ greatly.
+With the help of a calibrated viscometer, the proportions
+of methylcellulose and water were adjusted to obtain a
+range of “artificial mucous" viscosity which corresponds
+to that typically found in human bronchi,(9) 1.8, a
+relative viscosity range (with respect to water at 20°C)
+of 1.0 -10.0. Using a magnetic separation technique, the
+non-magnetic contaminants of the iron oxide powder were
+removed. The magnetic component was then divided so that
+one milligram of the powder could be vigorously stirred
+into each of the methylcellulose samples in order to form
+a uniform mixture.
+
+Each petri dish containing the mixture was placed at
+the center of a pair of "Helmholtz coils" where it under-
+went magnetization. The experimental procedure consisted
+of the following sequence:
+
+i. The mixture was de-magnetized by an ac “de-
+gaussing" field. ,
+
+2. An external dc magnetic field of approximately
+250 gauss was applied for five minutes and then the field
+was removed.
+
+3, The sample was allowed to remain with no external
+
+field applied for an additional five minutes.
+During each sequence a serfes of 35 m photographs was
+taken of the mixture at intervals of approximately one
+minute. The negatives were enlarged onto 14x17 in.
+sheet film and the dimensions of the magnetic string
+images were measured with the calibrated scale of a di-
+section microscope.
+
+RESULTS
+
+The initial suspension of degaussed fron oxide in
+plain water (relative viscosity = 1.0) was a fairly uni-
+form mixture as shown in Fig, 1. When the external dc
+field was applied the magnetic particles began to align
+themselves and the familiar string patterns were formed
+as seen in Fig. 2 taken at te#0.5 minutes after the start
+of magnetization. As the time spent in the magnetic
+field increased, the numerous smaller strings joined into
+
+ 
+
+w
+°
+Ww
+a
+£
+w
+=
+a
+an

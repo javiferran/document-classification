@@ -1,0 +1,17 @@
+nitrogen gas flows through the sample and is measured by a flow meter. The infrared spectrum
+and temperature measurements are started simultaneously. After about three seconds, the heater
+is positioned where the sample is in the center. The heater block was moved in the same time
+frame with each measurement so that the healing rates experienced by the samples were
+reproducible. The sample temperature is measured and monitored by thermocouples throughout
+the pyrolysis process. It should be pointed out that the "true" sample temperature is rather
+difficult to obtain during a dynamic process, especially at a fast heating rate. The measured
+temperatures in this study were averages of at least five experimental runs, and should closely
+represent the sample temperatures. Post data processing included Fouricr transforming
+interferograms to single beam spectra, calculating absorption spectra using the first ten single
+beam spectra co-added at the beginning of the experiment as the background, and obtaining the
+gas evolution profiles from the absorption spectra. A further reduction in flow cell volume or
+increase in the flow rate through the addition of a make-up gas is possible to further increase the
+
+temporal resolution recognizing though at the expense of reduced absorbance.
+
+2078582268

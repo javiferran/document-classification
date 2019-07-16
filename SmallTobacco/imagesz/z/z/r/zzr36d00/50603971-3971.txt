@@ -1,0 +1,100 @@
+DEVELOIHENTAL BIOLOGY 129, 169-178 (1988)
+
+Molecular Consequences of awa®*, A Cell-Autonomous Lethal Mutation
+
+of Drosophila Induced by Hybrid Dysgenesis
+
+CHARLES R. DEAROLF,! NICK TRIPOULAS, JOE BIGGS, AND ALLEN SHEARN
+Department of Biology, The Johns Hopkins University, Baltimore, Maryland 21218
+
+Accepted May 2, 1988
+
+The abnormal wing disc locus, which is at salivary gland chromosome position 100C-D of the Drosophila melanogaster
+genome, has been identified by a recessive lethal mutation, awd™, induced by hybrid dysgenesis. When homozygous, this
+mutation eauses abnormal development of the brain, the ovaries, and the larger imaginal discs as described in the
+preceding paper (C. R. Dearolf, E. Hersperger, and A. Shearn, 1988, Dev. Biol. 129, 159-168). The DNA corre-
+sponding to this locus was isolated from a genomic library prepared from awd” heterozygotes by screening with a
+P-element probe. The awd” aliele resulted from the insertion of a P-element fragment into a gene that encodes an 0.8-kb
+poly(A)* RNA. In mutant larvae, that 0.8-kb transcript is replaced by two chimeric transcripts that are 0.7 and 1.3kbin
+length, both of which contain P-element and awd sequences. The wild-type azwd* gene transcript is most abundant
+during the second and third larval instars but is found at a lower level during every developmental stage as well as in
+continuous cell lines. Thus the azwd* gene transcript can be detected in normal larvae at a developmental stage long
+before defects are expressed in mutant larvae. Moreover, some tissues, for example the salivary gland of nonmutant,
+third-instar larvae, contain high levels of this transcript, even though these tissues appear to develop normally in
+
+mutant larvae. ©1988 Academic Press, Inc.
+
+INTRODUCTION
+
+The abnormal wing discs (awd) gene of Drosophila was
+identified in a screen for hybrid-dysgenic late larval/
+early pupal lethal mutations (Dearolf et al, 1988). The
+most obvious defect caused by mutations at this locus is
+the abnormal morphology of wing dises dissected from
+homozygous mutant, third-instar larvae. Such dises are
+smaller than normal discs of a comparable age, they are
+misshapen, and they are incapabie of differentiating a
+normal inventory of wing structures. Further studies
+revealed that the eye-antenna and leg discs are also
+affected by the mutation. Although those discs appear
+morphologically normal, they are also incapable of dif-
+ferentiating a normal inventory of imaginal structures.
+In addition to these imaginal disc defects, which were
+shown to be cell autonomous, it was observed that
+transplanted mutant ovaries were sterile and that the
+mutant central nervous system was histologically ab-
+normal (Dearolf, 1986; Dearolf et ai, 1988).
+
+The developmental consequences caused by the awd’®
+lethal mutation provided some inferences about the
+normal requirements for the product of the gene
+(Dearolf et ai, 1988). It was inferred that during em-
+bryogenesis and early larval development the awd*
+gene is not required, that during the second half of
+normal larval development the awd* gene is required in
+
+* Present address: Division of Chemistry and Chemical Engineer-
+ing, California Institute of Technology, Pasadena, CA 91125.
+
+169
+
+ 
+
+50603971
+
+the wing disc as well as in the brain, and that somewhat
+later in development it is required in the eye-antenna
+and leg dises and the ovary.
+
+However, the normal pattern of gene transcription
+cannot necessarily be determined from the analysis of
+the developmental consequences of mutations
+(McKeown ef al., 1987; Hartley et al, 1987). In order to
+determine the pattern of gene transcription for awd, we
+have isolated both genomic DNAs and cDNAs which
+correspond to the awd gene, analyzed the pattern of
+accumulation of the awd* transcript during normal de-
+velopment, and analyzed the effect of the awd muta-
+tion on that pattern. These results considerably extend
+what was inferred about the expression of the awd gene
+from studying the developmental consequences of mu-
+tations in the gene and have provided the foundation for
+identifying the awd protein.
+
+MATERIALS AND METHODS
+Stocks
+
+Flies were maintained on a medium of cornmeal,
+yeast, molasses, and agar at 20°C unless otherwise
+noted. The markers and balancers used are described in
+Lindsley and Grell (1968).
+
+Isolation of DNA
+
+Plasmid and phage DNA were isolated using stan-
+dard procedures (Maniatis et al, 1982). High-molecu-
+lar-weight Drosophila genomic DNA was isolated by the
+
+0012-1606/88 $3.00
+Copyright © 1988 by Academie Press, Inc.
+All rights of reproduction in any form reserved.

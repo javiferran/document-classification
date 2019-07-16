@@ -1,0 +1,143 @@
+D
+#
+
+ys
+
+targets but was originally planned to distinguish
+polytomous unranked nominal categories, such
+as the histologic type (adeno, epidermoid, small
+cell, etc.) of a particular cancer; and Cox regres-
+sion is intended to appraise the entire “dy-
+namic” pattern of a survival curve, rather than
+a “static” outcome, such as the duration or
+binary existence of survival.
+
+Nevertheless, each of the four procedures has
+often been regarded as “robust” enough to be
+used in ways that differ from its underlying
+theoretical principles and justifications. Al-
+though not wholly proper according to math-
+ematical principles, binary events have been the
+dependent variable in linear regression and Cox
+regression; and ordinal variables have been the
+target of logistic regression.
+
+In this research, we wanted to compare the
+performance of the four multivariable analytic
+procedures in a manner analogous to studying
+“observer variability”. When challenged by
+data for the same biologic phenomena, would
+the four procedures produce the same results?
+Would the same independent variables be
+chosen as significant predicators? Would the
+selected predictors be given similar weights or
+ranks of “importance”? Would the results have
+similar accuracy when patients are classified in
+the “generating” groups used for developing the
+models, or in “challenge” groups that were not
+previously examined?
+
+BACKGROUND AND GOALS
+
+The questions just cited have seldom been
+explored with empirical data, and the existing
+explorations have pursued only a limited spec-
+trum of challenges,
+
+In a non-exhaustive search of the literature,
+we found 13 published reports in which specific
+real data, rather than simulated data sets, were
+used to compare the performance of these multi-
+variable procedures [1-13], One report [9] ex-
+amined three procedures—the discriminant
+function, logistic, and Cox methods—but in
+most instances, the tested procedures were con-
+trasted in pairs. In several studies, multiple
+logistic regression and discriminant function
+analysis were compared either with each other
+6, 3-5), or with alternative non-parametric ana-
+lytic procedures such as recursive partitioning
+13,4, 6, 10, 13]. In other single studies, the com-
+
+pared multivariable procedures were methods of -
+
+linear vs logistic (2], discriminant function vs
+
+CTR SP-FILES
+
+ALVAN R. FEINSTEIN ef ai.
+
+Cox [8], and logistic vs Cox regression [12]. In
+one report, Cox’s method was compared when
+used alone and when amplified with alternative
+tactics for specifying predictor variables [7]. In
+another study [11], Cox regression was com-
+pared with recursive partitioning and with
+correspondence analysis. No previous study
+contained a simultaneous comparison of all four
+multivariable procedures.
+
+Another limitation in previous studies has
+been the composition of the groups under
+analysis. A biologically important predictive
+factor should presumably have the same effect
+regardless of its prevalence in the group
+under analysis, but the effect might be altered.
+or unrecognized if different magnitudes of
+prevalence lead to different statistical decisions
+during the dat analysis. For this reason,
+the composition of the groups under study is
+an important consideration when analytic
+methods are compared. To determine whether
+the analytic interpretations are affected by
+statistical rather than biologic distinctions,
+the compared analytic methods should be
+tested not with a single group of data, but with
+several groups having different prevalences of
+the main~ biologic factors. The effect of the
+
+prevalence of various predictors was acknowl-
+
+edged in several previous reports [3, 4, 8},
+but prevalence has not hitherto been deliber-
+ately altered to allow a systematic study of its
+effects,
+
+A third problem in previous research was the
+frequent absence of “confirmation” studies. The
+particular algebraic models fitted to a set of data
+called the generating, training, or development
+set have usually been checked by their perfor-
+mance when “re-substituted” in the same set of
+data (1-5, 7,8, 10]. The models have seldom
+been “confirmed”, however, with tests in new or
+challenge sets of data for different groups of
+people who had not been included in the devel-
+opment set, but who were reasonable candidates
+for application of the developmental results
+2-5, 7, 8, 10].
+
+We therefore had three main goals in the
+current research:
+
+(0) To compare the results obtained when
+four multivariable methods were applied
+to the same sets of data.
+
+(2) To vary the composition of the data sets,
+so that the performance of the methods
+could be tested for biologie factors
+
+having different degrees of prevalence.
+
+a
+
+O25
+
+11025176
+
+re,
+
+mh
+
+L136

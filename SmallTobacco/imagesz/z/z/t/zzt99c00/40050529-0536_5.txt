@@ -1,0 +1,138 @@
+440
+
+ 
+
+    
+ 
+
+ 
+
+Oberto at al, Vol. 279
+
+A B
+
+100
+Fig. 6. The voltage-sensitive Ca7~
+— 20 channel agonist Bay K8644 attenuates
+x Pb**-induced apoptosis. Cerebellar
+= granule cells were treated as follows: A)
+m 60 With increasing doses of Po** for 8h
+3 +25 uM Pb?* in the apoptotic medium in the absence
+— (C) or the presence (@) of 0.25 uM Bay
+2 40 K8644. B) With apoptotic medium con-
+° taining 25 uM Po** and increasing
+2 doses of Bay K8644. Each value repre-
+= 20 senis the % neuronal death (mean +
+S.E.M., 9 = 7).* P < 0.01 denotes the
+difference between Bay K8644 and ve-
+0 T T T T T — T aT T —p — hicle.
+0 20 40 60 8000 100 Qo J 2 3 4 $
+[Pb?*] uM IBay K8644] uM
+
+TABLE 1 demonstrated here that the concentrations of Pb'* that fa-
+
+Dose-dependent protection by Bay K8644 of nimodipine-induced
+cerebellar granule neuron death
+
+Cultures were exposed to 10 y.M nimodipine and to different doses of Bay K9644.
+Neuronal death was assessed after 48 h.
+
+ 
+
+3
+VSCC Agonist Bay K % Neuronal Death
+
+8644 (uM)
+
+Nimodipine 10 »M
+
+ 
+
+Control
+0 3.0413 62 + 4.0
+o.1 3.5423 38435
+0.2 4343.2 15 = 1.8°
+0.3 2841.8 8+15"
+
+ 
+
+Each value is the mean + S.E.M. of four experiments; * P < 0.01 when
+campared with the ceils treated with nimodipine in the absence of Bay K8644,
+
+tic medium conditions by shortening the time between appli-
+cation of the apoptotic medium and the appearance of neu-
+rotoxicity. That the neuronal death promoted by Pb** is of
+the apoptotic type is suggested by 1) staining with the apop-
+totic-specific dye Hoechst 33342, 2) the protection offered by
+protein and RNA synthesis inhibitors and 3) internucleo-
+somic cleavage of the DNA, as demonstrated by the specific
+in situ labeling of DNA breaks in nuclei and on agarose gel
+electrophoresis. The observation that the neurotoxicity of
+Pb** becomes progressively weaker when this heavy metal
+is added after a delay following the application of the apo-
+ptotic medium (fig. 5) indicates that the Pb** effect is not the
+result of activation of latent neurotoxic mechanisms but is
+the result of de novo synthesis of RNA and proteins. These
+conclusions are based on the fact that neuronal death was
+promoted by Pbh** only for cells exposed simultaneously to
+both Pb** and the apoptotic medium (fig. 5). These results
+were obtained in a neuronal culture nearly free of glial cells.
+This condition excludes the possibility that Ph** facilitates
+neuronal apoptosis indirectly by primarily damaging glial
+cells and thereby undermining their neurotrophic compe-
+tence.
+
+The plasma levels at which Pb** begins to affect children’s
+CNS function are between 27 and 270 ug/100 2d, which is
+equivalent to Pb** concentrations from 1.3 to 13 uM (Gold-
+stein, 1992). Because plasma Pb** gains ready access to the
+extracellular environment of nerve and glial cells, it is sug-
+gested that the concentration of Pb** in the extracellular
+space of the CNS is comparable to that of plasma (Bradbury
+and Deane, 1993; Cory-Slechta, 1990). Thus, importantly, we
+
+40050534
+
+cilitated apoptotic death in cultured cerebellar granule neu-
+rons from neonatal rats were within the range of those that
+are associated with neurotoxic activity in the plasma of chil-
+dren. The evidence that Pb** at low micromolar concentra-
+tions facilitates apoptosis in neurons obtained from newborn
+rat cerebella might help to explain the greater neurotoxic
+action of Pb** during CNS development. The sensitivity to
+Pb** toxicity of cultured granule neurons obtained from
+newborn rat pups may support the hypothesis that Pb**
+exerts its neurotoxic effects by facilitating the pathophysio-
+logical process of suicidal death during neuronal selection in
+CNS development, while excluding necrosis as a process op-
+erative in Ph** neuratoxicity.
+
+Pb* * is a divalent cation, and its neurotoxic action might
+be related to its ability to substitute for Ca” ” and either to
+inhibit or to increase the action of Ca** (Audesirk, 1993). In
+several neuronal systems, decreased concentrations of free
+cytosolic [Ca**],, induced by drugs that prevent Ca** influx
+by blocking VSCC, can facilitate apoptosis (Franklin and
+Johnson, 1992; Koh et al., 1995; Galli et al., 1995). Nimodip-
+ine (a blocker of L-type VSCC) (Galli ef al., 1995; Koh et al.,
+1995) added to high K*-containing medium elicited apoptosis
+in cerebellar granule cells, and its action was blocked by Bay
+K8644 (table 1), an agonist of the L-type VSCC (Hagiwara
+and Byerly, 1981; Franklin and Johnson, 1992). Because it is
+known that among the heavy metals, Pb** is the most potent
+inhibitor of VSCC in vertebrate neurons competing with
+Cat* in entering the cells (Audesirk, 1993), we performed
+experiments aimed at establishing whether Pb~* reduces
+[Ca**], in cerebellar granule cells. Using fura-2 single-cell
+Ca*t* imaging (De Erausquin e¢ al., 1990; Kiedrowski and
+Costa, 1995), we monitored changes in [Ca‘"]; after the
+addition of Pbt* to the incubation medium. Although Pb**
+elicited a decrease of fura-2 fluorescence by decreasing the
+Fesa/Faga ratio, which suggests that it induces a decrease in
+[Ca**],, methodological artifacts due to fura-2 fluorescence
+quenching by Ph** cannot be excluded. In fact, in a cell-free
+experiment, Pb'* quenched the fluorescence of fura-2 in
+both Ca**-free and Ca**-saturated media. Reduction of ra-
+dioactive Cat~ uptake into neurons, however, suggests that
+Pb** reduces Ca** influx (Audesirk, 1993). These observa-
+tions and the evidence presented here that Pb**-accelerated

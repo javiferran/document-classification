@@ -1,0 +1,153 @@
+LIPID TRANSFER BETWEEN LIPOPROTEINS
+
+proteins have a common architecture with an apolar core of
+triglyceride and cholesteryl ester and a surface shell of 2-nm
+thickness containing phospholipid, cholesterol, and apoproteins.
+If differences in the surfaces of the lipoproteins account for
+the observed differences in rate, the two features of greatest
+importance would be the compasition and the radius of cur-
+vature. Although some apoproteins occur in more than one
+density range, there is no obvious gradation of protein com-
+Position from VLDL to LDL to HDL. The importance of
+minor lipid components as well as differences in the proportions
+of the major lipid components is not known. Pyrene transfer
+from a triglyceride-rich dispersion, with a diameter of 50 nm
+and containing only the lipid components of VLDL but no
+apopratein (Charlton et al., 19786), has a rate constant of 11.6
+s", very close to that of VLDL, 15 st.
+
+The rate of a reaction, [P];p 2 [P]* > [Plaq is given by
+the Eyring theory as
+
+kg= AP psotnan (25)
+where AG? is the free energy of formation of the activated
+complex, & is Boltzmann's constant, h is Planck’s constant,
+and T is the temperature in degrees K, and R is the gas
+constant (Glasstone et al., 1941). From the observed rate
+constants, AG* can be calculated; from AG* = -RT In Kt,
+the equilibrium constant K* for formation of the activated
+complex is obtained. The calculated values for K* for pyrene
+transfer from HDL, LDL, and VLDL are 49 x 1077, 11 x
+10-2, and 2.4 X 107, respectively, If the activated state is
+the probe in aqueous solution, K* would then be numerically
+equivalent te the distribution coefficient and the association
+rate would be encounter limited (10°-10 M7“ s). The
+experimental value for [P].q under these experimental con-
+ditions is 0.2 X 10 M (Charlton et al., 1976). The corre-
+sponding free-energy change for transfer of pyrene from HDL
+to buffer is 9.0 kcal mol; consequently, the activated state
+of the probe must be mare energetic than the state of the probe
+in buffer, since formation of the activated state for transfer
+of pyrene from HDL requires an additional 4.9 kcal more
+positive than that of pyrene in the aqueous solution.
+
+The similarity of the distribution coefficients suggests that
+the lipid core (solvent)-solute interactions are energetically
+nearly identical in the three lipoprotein classes and that the
+free-energy barrier must lie physically between the core and
+the aqueous phase, presumably at the surface in the interfacial
+region. Additional support for penetration of the interfacial
+region as the kinetically limiting step is provided by the finding
+that the transition state pX, of 9-(3-pyreny!)nonanoic acid is
+about 4.5, rather than pH 7.1, the pX,, of the fatty acid in the
+phosphatidyicholine surface (Doody et al., 1980). Moreover,
+if the activated state corresponded to that of the probe in
+buffer, the transfer of the probe from buffer to lipoprotein
+would be diffusion controlled. The observed relationship be-
+tween the transfer rates and the molal surface tension incre-
+ment also supports the assignment of the kinetically limiting
+processes to the interfacial region. The transfer of a hydro-
+phobic molecule from the lipoprotein into the aqueous solution
+requires the formation of a cavity in the aqueous solvent. The
+energy required for this process has been related in a number
+of systems (Melander & Horvath, 1977) to the surface area
+of the solute molecule and the surface tension of the aqueous
+solution. Consideration of activated state enthalpy AH* and
+the corresponding entropy, AS*, listed in Table I, does not
+provide a clear indication as to whether or not the differences
+in rates of transfer between the lipoprotein classes have a single
+origin as, for example, the entropy of activation.
+
+VOL. 21, NO. 17, 1982 4029
+
+A conceptual basis for the rate dependence on the lipoprotein
+radius comes from an analogy to the evaporation of liquid
+droplets described by Kelvin's law
+
+In P/P = Ky fr (26)
+where X is a constant, P is the vapor pressure over a curved
+surface of radius 7 and the equivalent of ky the dissociation
+constant, P° is the vapor pressure over a flat surface, and y
+is the surface tension (LaMer & Gruen, 1952; DeFay et al.,
+1966). Thus, the transfer of a compound from a lipoprotein
+can be described by the relationship
+
+kegoue™Reir (27)
+
+where = is the interfacial tension. Data presented in Figure
+4, which are for lipoproteins that range in diameter from 15
+to 60 nm, illustrate the clear exponential relationship between
+the log rate constant and the lipoprotein sizes. This equation
+has also been used to describe small molecule transfer between
+polymer particles in an oil-in-water emulsion (Ugelstad &
+Mork, 1980).
+
+The amphipathic molecules that comprise the surface of the
+lipoproteins and membranes prevent extensive molecular in-
+teractions between bulk aqueous and apolar phases and reduce
+the interfacial tension to zero or to very low values (Gruen
+& Haydon, 1980; Tanford, 1979}. Furthermore, the surfaces
+of biological membranes and lipoproteins are topographically
+heterogeneous (DePierre & Ernster, 1977), with the lateral
+movement of both lipid and proteins several orders of mag-
+nitude more rapid than the desorption process.
+
+In summary, evidence has been presented to show that the
+transfer and the rate of transfer of pyrene and DG between
+lipoproteins can be treated simply as partitioning between two
+immiscible phases. The rate can be modified by changing the
+solubility of the transferring species in either phase. Radius
+of the donor lipoprotein has a large effect, which may be
+explained by a simple analogy with the evaporation of mole-
+cules from the surface of a liquid droplet. Transfer rates
+between different lipoprotein classes are intermediate between
+the homogeneous transfer rates. The probability of transfer
+of the lipophilic material from the aqueous solution to one of
+several individual lipoprotein surfaces is governed by both the
+number of lipaprotein macromolecules and their cross-sectional
+area. Thus small lipoproteins, such as HDL and LDL, because
+of the large number of particles, should have a promoting effect
+on the equilibration of lipids in the circulation.
+
+Acknowledgments
+
+We are grateful for the helpful discussions and comments
+of Drs. Henry J. Pownall, John B. Massey, William W.
+Mantulin, Michael C. Doody, James Y. Kao, and Kirk C.
+Aune. Phyllis Gutierrez and Sharon Bonnet provided excellent
+assistance in preparation of the manuscript.
+
+References
+
+Almgren, M. (1980) J. Am. Chem. Soc. 102, 7882-7887.
+
+Aquan-Yuan, M., Mackay, D., & Shiu, W. Y. (1979) J.
+Chem, Eng. Data 24, 30-34.
+
+Birks, J. B. (1970) Photophysics of Aromatic Molecules, pp
+301-371, Wiley-Interscience, New York.
+
+Charlton, S. C., Olson, J. S., Hong, K.-Y., Pownall, H. J.,
+Louie, D.'D., & Smith, L, C. (1976) J. Biol. Chem. 251,
+71952-7955,
+
+Charlton, S. C., Hong, K.-Y., & Smith, L. C. (1978a) Bio-
+chemistry 17, 3304-3309,
+
+Charlton, S. C., Catapano, A. L., Kinnunen, P. K, J, &
+Lomasky, S. J. (1978b) Fed. Proc., Fed. Am. Sac. Exp.
+Biol. 37, 284.
+
+50244036
+
+mee

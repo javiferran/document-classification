@@ -1,0 +1,50 @@
+TNO-report
+
+CO Re rt
+
+B-92-0388 May 1992 page 20
+
+The results are visualised in Figures 11 - 16.
+
+In the figures the modules are indicated with numbers.
+
+1 = Celanese G240/11
+
+2 = Celanese G240/25
+
+3 = Enka LM2P06
+
+4 = Enka MDO20FP2N
+
+5 = Enka MD020CP2N
+
+6 = 2 * EnkaMDO20CP2N (2 modules nr. 4 in series)
+
+Required are:
+
+- high filtration efficiency;
+
+- low pressure drop;
+
+- low membrane surface area;
+
+- low module volume.
+
+OL2e1Olos2e
+
+Filtration efficiency
+
+The general trend is that the filtration efficiency decreases when the air velocity increases.
+
+For formaldehyde the outlet concentration was lower than the detection limit for all modules.
+
+Selection is then not possible.
+
+For ammonia and acetone the filtration efficiencies at the lower air speeds are high; more
+than 85%.
+
+ 
+
+The efficiency for nitrogen dioxide seems to be influenced by the concentration. In Figure 12
+
+the efficiencies for NO, concentrations of 150 - 200 ppb are given.

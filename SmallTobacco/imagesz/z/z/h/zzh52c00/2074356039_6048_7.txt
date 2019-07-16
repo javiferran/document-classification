@@ -1,0 +1,52 @@
+ATTACHMENT D
+
+Parliament Launch-Retail Gratis
+
+T
+Parliament: 960A
+
+EDUR
+Please use the Retail Gratis Agreement form to determine your account’s gratis payment level.
+Maximum gratis is 12 cartons.
+
+SFA
+
+1) TSM prebooks or sells product from van stock.
+2) TSM generates a “pay later” invoice.
+
+3) TSM verifies performance.
+
+4) TSM pays the account.
+
+GRATIS PAID FROM VAN STOCK
+1) TSM completes the Gratis Agreement Form and has it signed by the retailer.
+
+2) TSM attaches the form to the next expense voucher to be reimbursed for the gratis payments.
+
+3) TSM uses EAS to reimburse him/herself for gratis paid out of van stock.
+(See Attachment C - consignment procedures.)
+
+FSI_ - CHAIN ACCOUNTS
+1) Account Manager prebooks product.
+
+2) Account Manager mass assigns the gratis promotion code.
+
+3) TSMs verify that the new brands are in the store and displayed.
+4) TSMs click the verify button in SFA.
+
+5) Account Manager invoices the account for the gratis amount.
+
+PREBOOKING INSTRUCTIONS
+
+Revenue and gratis product should be prebooked when possible. Any gratis quantity that is less than one
+carton should be paid using van stock. This wil! limit the number of checks for less than $20 that need to
+be mailed to retailers. Accounts that receive more than one carton of gratis should be paid using
+SFA/FSI.
+
+When an account has not received its prebooked product, you may sell cartons from your van to gain
+distribution. In this case, you should use the same rules described above to determine whether to invoice
+the gratis or pay it out of van stock.
+
+If you have any questions, please contact your immediate supervisor.
+
+9r09SErz0z

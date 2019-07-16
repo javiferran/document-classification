@@ -1,0 +1,162 @@
+16a-Hydroxy-17-or0 Steroids
+Scheme III
+° H OH ou
+OH ,OH OH
+Base (90H) “20
+—_—> —_—
+3a uw 2
+
+ 
+
+BB
+ou 89m e | Pou
+yo <a °
+<_— a
+a 4
+
+ 
+
+4
+iw 74%80)
+
+ketones. The equal content of '*0 found in [M - acetic
+acid]* and (M — discetic acid]* fragments gave the as-
+signment of the [M - acetic acid]* quantitatively to be [M
+~ 36-acetie acid]*. ‘The percent of '°O labeling at the
+16a-hydroxyl group in 3a diacetate was then calculated
+from the data in Table III by the following equations:
+
+[16-"0, 17-60} + [16-'60, 17-'°0](0.5%, m/e 328) =
+(17-60](17%, m/e 268) (1)
+
+(16-"°0] =
+(16-180, 17-!Q] + [16-"*O, 17-!90)(81.5%, m/e 332)
+(2)
+
+The analyais gave 83% '°0 labeling at the 17-carbanyl and
+98% “O labeling at the 16a-hydrozyl group. Ketol 3a
+treated under the same condition used for la showed no
+labeling at the 16a-hydroxyl group and 78-80% 80 la-
+beling at the 17-carbonyl group, showing the extent of
+oxygen equilibrium of the 16a-hydroxy 17-ketone (Table
+TI). In contrast, the recovered bromo ketone after the
+same §-h treatment showed only 17% "0 incorporation
+into the 17-carbonyl group, showing that the exchange rate
+for the a-bromo ketone is much slower than that for the
+a-hydrozy ketone. The 178-hydrozy 16-ketone 4 obtained
+by ketol rearrangement of 3a in CH,OH-NeOH-H,°0
+showed 74% '80 labeling at the 16-carbonyl and 91%
+incorporation into the 176-hydroxyl group.
+
+The reaults demonstrate that the formation of 16a-
+hydroxy 17-ketone by alkaline hydrolysis of 16a- and
+168-bromo ketones is by the direct Sy2 displacement of
+the 16¢-bromine (mechanizm B, Scheme I) and not by the
+putative epoxide mechanism (mechanism A, Scheme ID.
+Once the 16a-hydroxy 17-ketone is formed by the dis-
+placement the 17-ketone ia hydrated easily even under
+controlled conditions (mechanism B, Scheme II). Under
+the drastic keto! rearrangement conditions (Scheme II),
+the hydrate 11, which should initially place the '*0 label
+at C-17, may be dehydrated to [.7-'°O]-enediol 12 or, al-
+tematively, may be equilibrated back to [17-"0]-17-ketone
+Sa. The labeled 3a could be enolyzed to 13 and give rise
+to [17-"80}-enedia! 12. The '®O labeling at the 17-position
+ia definitive and extensive and therefore shows that the
+enediol mechanism previously formulated? is in error. The
+first etep must be the 17-hydration and not the enolizction.
+
+a
+
+(18) The details for the assignment of the [M - AcOH]* peak to be
+quantitatively [M - 38-AcOH]* and for quantitative analyais of the "O
+labeling at the 1G6e-hydrozyl group were discussed in the preliminary
+paper.
+
+J. Org. Chem., Vol. 47, No 21, 1982 4027
+
+M1029
+
+Table IV. Isotape Effects on
+
+ 
+
+Epimerization of 16a-Brom
+}s0H tel amt of products,” %
+
+equiv substr ib 2b = 3b
+O12 Ib 41 50 9
+
+lb i6p-d 60 37 3
+0.30 Ib 31 41 28
+
+1b 168-d 40 42 18
+0.60 18 22 60
+
+1b
+lb 168-d 17 23 60
+© The 16a-bromo 17-ketone 1b was treated with NaOH
+in aqueous pyridine at room temperature for 10 min.
+Tne relative amounts of products were determined by
+R,
+
+Although the possibility of the enolization of 17-labeled
+3a to give intermediate 13 cannot be eliminated on the
+basis of currently available evidence, there is no reason to
+balieve that the rate of enolization of the nonlabeled 3a
+should be elower than that of the labeled 3a. If the ketol
+rearrangment involves the enol 13 as an obligatory inter-
+mediate, the #0 content at the 17-hydroryl group of 13,
+then, is expected to be lower than that of f1. The observed
+labelings of 91% at the 176-hydroxyl and of 74% at the
+carbonyl, which is the extent of the equilibrium after the
+ketol rearrangement, strongly favors the hydration-de-
+hydration mechaniam (Scheme III, 3a 11 — 12). In this
+mechaniam, the 17-hydration is the first step, with the
+degree of *O labeling equa! to the initial 18Q content of
+the medium, and gives the intermediate triof 11, and this
+is followed by the 1,2-dehydration to preferentially remove
+nonlabeled water from 16- and 17-positions, presumably
+the 176-hydroxide addition'® and the 17a-hydrozyl and
+166-proton elimination in the trans quasi-diaxial confor-
+mation, to give the 16-ene-16,17-diol 12. Ketonization of
+12 then gives highly 176-lebeled, thermodynamically stable
+ketol 4. The !8O labeling at the 16-position of 4 under the
+drastic conditions should be equal to the '*O content of
+the diluted medium after the ketol rearrangement which
+was analyzed to be 74%. If the initial 18D labeling at the
+17-carbony! is very fast and the enolization to form 13 is
+slow and obligatory, the '°O labeling at the 17- and 16-
+positions should have been equal. The large discrepancy
+of the two labelings disputes the enolization mechanism,
+and we postulate the hydration-1 ,2-dehydration mecha-
+nism for the ketol rearrangement. ‘The formation of the
+16@-hydroxy compound should be a positive indication of
+the enolization mechenism involving the intermediate 13.
+The fact that it was not detected at. ail during the rear-
+rangement further supports the hydration-dehydration
+mechanism.
+
+Isotope Effeet on Epimerization of the 16a-Bromo
+17-Ketone la. When 3f-hydrory-5a-androstan-17-one-
+16,16-d, (do, 12%; dy, 6%; dp, 82%) was subjected to the
+bromination of CuBr,, the 16a-bromo 17-ketone Ib-16-d
+(62.atom %) was quantitatively obtained. The deuterium
+labeling at the 168-position of Ib was lesa by approrimately
+20% than that of the starting material. This should be
+due to the enolization-ketonization reaction of the starting
+material before the hromination and not to the enolization
+
+ 
+
+ 
+
+(19) The first @-side attock by the nucleophile at the Ih-carbonyl
+function u favored in this mechaniam. Nucleophilic 178 additions of
+Me" and NH,NH, to the 163-bromo l7-ketone 2 have been reported to
+form the 178-substituted i6a,:7a-epoxide.“"* The @ uida of tho 17-
+carbonyl in tho compound 2 is sterically more hindered by the presence
+of bromine than in the 1Ga-hydronylated compound 3. Recent total
+structure analysis ahowed that the eddition product of CN to 2 is the
+L74-cyano 16a,17e-epoxide (Swenson, D. C.; Duaz. W. L.; Numazawa, ML;
+Osawa. Y. Crvat. Struct. Commun. 1982, 11. 617.

@@ -1,0 +1,33 @@
+386
+
+The mean current is calculated as an integral of the single channel
+current openings as a function of time recorded prior to, during, and
+after SP application. This analysis, therefore, is not constrained by the
+number of channel types available in a given patch of membrane. The
+prediction, based on the observed decrease in frequency shown in Figure
+3, is a decrease in the mean current with SP application. A mean current
+plot for one experiment is shown in Figure 4. In seven of eight
+experiments, ten second applications of SP significantly decreased the
+single channel mean current. If the cell-attached patch were held for a
+long enough duration, the reduction in mean current recovered to control
+levels (data not shown),
+
+ 
+
+ 
+
+0 T TA
+
+0 70 140-210 280 350
+
+Time (sec)
+
+Figure 4. SP modulation of AChR channels is reflected in a decrease in the mean
+current
+
+Mean ACh-elicited current integrated as a function of time (bin size is 50 seconds)
+
+before, during and after a 10 second application of SP, The patch pipette contained
+12.6 pM ACh.
+
+50578132

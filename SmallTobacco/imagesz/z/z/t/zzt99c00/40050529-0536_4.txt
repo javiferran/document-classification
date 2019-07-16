@@ -1,0 +1,179 @@
+oso ne
+
+1996
+
+Temporal aspects of Pb** action on apoptosis. Cere-
+bellar granule cells exposed to the apoptotic medium for 10h
+were incubated for different time periods with Pb**. As
+shown in figure 5, the increase in neuronal death induced by
+10h of exposure to the apoptotic medium (open bar) was
+markedly potentiated in the presence of Ph ~* (dashed bars).
+Potentiation of Pb** neurotoxicity, however, became pro-
+gressively less effective when Pb*7 was added with a delay
+after the application of the apoptotic medium. When Pb**
+was added to the apoptotic medium during the last 2 h of
+incubation, potentiation of neurotoxicity was virtually non-
+existent (fig. 5).
+
+Role of Ca** in Pb**t-induced apoptosis. Among the
+heavy metals, Pb*™ is the most potent inhibitor of VSCC
+(Audesirk, 1993). To investigate whether Pb** facilitates
+apoptosis in our experimental model by reducing Ca** entry
+into the cells, we exposed cerebellar granule cells for 8 h to
+the apoptotic medium with or without Pb*~, in the presence
+or in the absence of the L-type Ca** channel agonist Bay
+K8644 (Franklin and Johnson, 1992; Galli e¢ al., 1995; Hagi-
+wara and Byerly, 1981; Carboni and Wojcik, 1988). As shown
+in figure 6B, adding Bay K8644 to the apoptotic medium
+reduced in a dose-related manner the neuronal death elicited
+by Pb**, and Pb** competes with the neuroprotective action
+of 0.25 uM Bay K8644 (fig. 6A). Similar protective effects of
+Bay K8644 were observed against apoptotic neuronal death
+induced by the application of nimodipine, a selective blocker
+of L-type VSCC (Janis and Triggle, 1983). Adding nimodipine
+(10 «M) to the culture medium for 48 h induced the death of
+approximately 50% of the granule cells, an effect that wae
+completely prevented by co-administration of 0.3 uM Bay
+K8644 (table 1).
+
+| culture medium
+
+10 h apoptotic medium, no P
+
+ee 10 h apoptotic medium + 100 pM Pott
+
+ 
+
+ 
+
+bet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+— 39 < *&
+ae rq
+~ bees
+& Bee
+‘~ 60 Kix
+Cy bese’
+3 betes
+a k
+© 40 2
+3
+=
+a .
+e . I
+
+20 =
+
+o Lo
+2 a
+
+  
+
+hours [delay of Pb** application
+after apoptotic medium exposure)
+
+Fig. §. Temporal aspect of the action of Ph** on apoptotic death of
+cerebellar granule neurons. Neurons were washed and expose: to the
+apoptotic medium; 100 4M Pb**-acetate was either not adued or
+added together with the apoptotic medium for 10 h or for various
+intermediate times: 8, 6, 4 or 2 h. After 10 h of exposure to the apoptatic
+medium, celis were stained with a mixture of fluorescein diacetate and
+propidium iodide. The % of dead neurons is expressed as the mean =
+S.E.M... = 4." P < 0.01 when compared with cells not exposed to
+apoptotic medium; & P < 0.05 when compared with cells exposed to
+the apoptotic medium in the absence of Po’ *.
+
+é
+Pb*++ Neurotoxicity and Apoptosis 439
+
+Discussion
+
+The United States Public Health Service has called lead
+(Pb**) the most serious environmental hazard to young chil-
+dren (U.S. Dept. of Health and Human Services, 1992; Ham-
+mond and Dietrich, 1990). Despite reductions in exposure,
+Pb** remains a danger to children, particularly in lower-
+income urbanized areas, as highlighted by frequent alarming
+reports from health authorities in different states. In 1984 an
+estimated 3 million preschool-age children had high blood
+Pb** levels (Hammond and Dietrich, 1990), and in 1993 the
+American Academy of Pediatrics recommended that all chil-
+dren under 6 years of age be tested for Pb'" poisoning
+(American Academy of Pediatrics, 1998).
+
+Despite the need for understanding the mechanisms of
+Pb" * neurotoxicity, no comprehensive studies have yet es-.
+tablished the reason for the high susceptibility of the devel.
+oping CNS to Pb‘”. Here, in vitro aspects of in vivo Pb***
+toxicity were replicated in primary cultures of cerebellar
+granule neurons obtained from 6 to 8-day-old rat pups and
+grown for 7 to 9 days (7-9 DIV). The cerebellar cultures are
+an almost-pure population of granule neurons with less than
+5% glial cell contamination (Nicoletti ef al., 1986), which
+makes it possible to study Pb~* neurotoxicity in the absence
+of the glial cell’s contribution to the process. Moreover, cere-
+bellar granule neurons obtained from newborn rats are
+highly susceptible to glutamate-induced necrosis (Favaron et
+al., 1988; Manev et al., 1990; Schramm et a/., 1990), and they
+represent the first well-established CNS neuronal model in
+which apoptosis induced by drug, by toxin, and by lack of
+nutrient and/or of depolarizing agent has been documented
+(Gallo et al., 1987; Balazs et al., 1988; D’Mello e¢ al., 1993;
+Galli et al., 1995; Marini and Paul, 1992; Yan et al., 1994).
+Wood and colleagues (1993) have recently found an in vivo
+correlate to the susceptibility of 7 to 9-DIV cerebellar granule
+neurons to apoptosis, showing naturally occurring DNA frag-
+mentation in the granule layer of newborn rat cerebella to be
+limited to the period of 7 te 14 days after birth.
+
+Ujihara and Albuquerque in 1992 demonstrated by using
+the patch-clamp technique that Pb~* is a noncompetitive
+antagonist of both NMDA and glycine receptors. The ability
+of Ph** to block the NMDA-activated current in cultured
+hippocampal neurons may explain the neuroprotective effect
+of 50 to 100 uM Pb** on glutamate-induced necrosis ob-
+served in cerebellar granule cells (fig. 1}. Our in vitro exper-
+iment presented in figure 1 also shows that despite its neu-
+roprotective effect on glutamate-induced necrosis, Pb** is
+itself neurotoxic. Pretreatment of cerebellar granule cells
+with cycloheximide or actinomycin D blocked Pb**-induced
+cell death, pointing to apoptosis as a mechanism that may
+account for Pb** neurotoxicity. To examine this possibility,
+apoptosis was induced by exposing cultured cerebellar gran-
+ule neurons to a nondepolarizing medium lacking FCS but
+containing 5 4M dizocilpine to prevent Ca**-dependent ne-
+crosis due to persistent glutamate receptor stimulation after
+Pb**-induced glutamate release from the terminals of the
+granule cell neurites (Gallo et a/., 1982). As figure 4A shows,
+the process of neuronal death induced by the apoptotic cul-
+ture conditions is slow; it takes several hours to became
+apparent and days to be completed. Pb** dramatically po-
+tentiated, in a dose-dependent manner, the neuronal death
+induced by exposure of cerebellar granule cells to the apopto-
+
+ 
+
+40050533

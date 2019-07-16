@@ -1,0 +1,143 @@
+Proc. Natl. Acad, Sei, USA
+Vol. 85, pp. 5951-5955, August 1988
+Cell Biology
+
+Characterization of human tracheal epithelial cells transformed by
+an origin-defective simian virus 40
+
+(immortalization /ion transport / phenotype / differentiation)
+
+D. C. Gruenert**, C. B. Baspaum*?, M, J. WecsH’, M. Li’, W. E. FINKBEINER*{, AND J. A. NADEL*!!
+
+*Cardiovascular and *Cancer Research Institute, and Departments of Anatomy, ‘Pathology, and |'Medicine, University of California, San Francisco, San
+Francisco, CA 94143; and SLaboratory of Epithelial Transport, Department of Internal Medicine, University of lowa College of Medicine, lowa City, 1A 52242
+
+Conununicated by Joha A. Clements, April H, 1988
+
+ABSTRACT _ To facilitate understanding of the mecha-
+nisms underlying pulmonary diseases, including lung cancer
+and cystic fibrosis, we have transformed and characterized
+cultures of human tracheal epithelial cells. Cells were trans-
+fected by calcium phosphate precipitation with a plasmid
+containing a replication-defective simian virus 40 (SV40) ge-
+nome. Colonies of cells with enhanced growth potential were
+isolated and analyzed for transformation- and epithelial-
+specific characteristics. Precrisis cells were observed to express
+the SV40 large tumor antigen, produce cytokeratins, have
+microvilli, and form tight junctions. After crisis, cells contin-
+ued to express the SV40 large tumor antigen as well as
+epithelial-specific cytokeratins and to display the apical mem-
+brane microvilli. Apical membrane C] channels were opened in
+postcrisis cells exposed to 50 4M forskolin. These channels
+showed electrical properties similar to those observed in
+primary cultures. The postcrisis cells have been in culture for
+>250 generations and are potentially ‘‘immortal.”’ In addition
+to providing a useful i# vitro model for the study of ion
+transport by human airway epithelial cells, the cells can be used
+to examine stages of neoplastic progression.
+
+ 
+
+Recent studies investigating mechanisms of carcinogenesis
+have shown that cultured human epithelial cells from various
+organs can be transformed by exposure to carcinogens,
+viruses, and/or oncogenes (for reviews, see refs. 1 and 2).
+Such cells possess altered growth properties that can be
+correlated with their neoplastic potential. Foreskin and
+mammary epithelial cells treated with chemicals or radiation
+show enhanced growth capacity (3, 4), Human keratinocytes
+(5) have been immortalized with Harvey murine sarcoma
+virus (v-Ha-ras). Human keratinocytes, immortalized with
+adenovirus type 12/simian virus 40 (Ad12/SV40) hybrid
+virus, become tumorigenic after subsequent exposure to the
+Kirsten ras (KRAS) oncogene or a chemical carcinogen (6, 7).
+
+In contrast to the relatively large number of studies
+describing cells from other organs (recently reviewed in refs.
+1 and 2), only three reports indicate transformation of
+respiratory tract cells (8-10). Bronchial epithelial cells im-
+mortalized with v-Ha-ras display anchorage-independent
+growth and form tumors in nude mice. However, these cells
+were poorly differentiated and did not contain tight junctions
+or keratins characteristic of differentiated epithelial cells.
+The epithelial origin of the cells was verified by the presence
+of keratin. A somewhat greater level of differentiation was
+retained by diethylnitrosamine-transformed fetal tracheal
+cells, which contained mucin. These cells also expressed
+carcinoembryonic antigen and wool merokeratin and had
+enhanced, although limited, growth capacity (9). A third
+study primarily described methods for transfection and
+
+ 
+
+The publication costs of this article were defrayed in part by page charge
+payment, This article must therefore be hereby marked ‘‘advertisement”’
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+ 
+
+5951
+
+showed expression of the SV40 large tumor antigen (T
+antigen) three to four subcultures posttransfection (10).
+
+A goal of the present study was to develop a transformed
+human tracheal epithelial (HTE) cell line for detailed studies
+of the mechanisms regulating Cl ion transport. This aspect of
+epithelial function is essential for rehydration of airway
+mucus. Abnormalities in the Cl conductance pathway also
+appear critical to disease processes such as those occurring
+in cystic fibrosis (11, 12).
+
+Phenotypic characteristics have been well maintained in
+S¥40-transformed fibroblasts (13-15). In SV40-transformed
+epithelial cells (16-19), certain aspects of phenotype are
+retained better than others (17, 18, 20, 21). A plasmid
+containing a 5V40 genome defective in the origin of replica-
+tion (pSVori~) has been shown to enhance the transforma-
+tion efficiency of human fibroblasts (22). The defective origin
+of replication precludes background virus replication and
+eliminates the possibility of cell death or interference with
+phenotypic expression in the host cell due to uncontrolled
+viral DNA synthesis or production of viral particles. We have
+used the pSVori~ plasmid to transform HTE cells. Trans-
+formed cells pass through a period of ‘‘crisis,”’ after which
+phenotype may change and loss of certain differentiated
+functions may occur (21, 23). We have analyzed both pre- and
+postcrisis cells. Biochemical and morphological analyses
+reveal that the cells retain some aspects of the original
+phenotype even after crisis. These include the presence of
+microvilli, responsiveness to neural agonists, keratin produc-
+tion, and Cl ion transport.
+
+METHODS
+
+Cells and Culture Conditions. Cells were isolated from
+trachea, as described, by enzymatic digestion (24) or as
+outgrowths from tracheal tissue explants. Cells were plated
+onto dishes coated with fibronectin (Collaborative Research,
+Waltham, MA), Vitrogen (GIBCO), and bovine serum albu-
+min. Cultures were grown in LHC-8e medium (25) at 37°C
+under 5% CO,/95% air.
+
+Pure cultures of epithelial cells were generated by elim-
+inating contaminating fibroblasts through selective detach-
+ment (26). Pure cultures of epithelial cells were grown to 70%
+or 80% confluence before subculturing into 100-mm Petri
+dishes.
+
+Transformation, The pSVori~ plasmid was amplified in
+bacteria and then isolated after banding on CsCtI density
+gradients (27). Since the transfection efficiency is increased
+in linearized plasmids (22), pSVori~ was linearized with Xho
+I at a unique restriction enzyme site distal to the transforming
+genes in the SV40 portion of the plasmid. The plasmid was cut
+in a region distant to the SV40 genes to minimize endogenous
+exonuclease damage to genes essential for transformation.
+
+ 
+
+Abbreviations: $V40, simian virus 40; T antigen, large tumor antigen;
+HTE, human tracheal epithelial.
+
+~~ 50594477

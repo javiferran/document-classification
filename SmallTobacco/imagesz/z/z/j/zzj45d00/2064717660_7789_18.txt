@@ -1,0 +1,48 @@
+INBIFO institut fir biologische Forschung GmbH - Kéin PRIORITY
+A Report P 0500/3237 97/10/8 , Page 17
+
+ 
+
+! 9 Data: Tables and Figures
+
+ 
+
+ 
+
+ 
+
+ 
+
+! Tester Response Growth Sensitivity to
+I Strain
+i: withoutHIS withHiS CV uv AMP
+TASS recommended 0 + + + 0
+determined
+17 Dec.96 0 + + + 0
+25 Feb.97 0 + + + 0
+TA100 Tecommended 0 + + + 0
+determined
+: 17 Dec.96 0 + + + 0
+boy 26Feb.97 0 + + +
+TA1535 recommended 0 + + + +
+determined
+6 Sep.94 0 + + + +
+4 Mar.97 0 + + + +
+TA1537 recommended 0 + + + +
+determined
+6 Sep.94 0 + + + +
+5 Mar.97 0 + + + +
+[| -
+Table 3 Salmonella Typhimurium, Phenotypic Characteristics
+= Remarks: 0: ho growth, no sensitivity
+tq + growth, sensitivity
+pig HIS: _ histidine
+
+i
+{00 CV: _ crystal violet
+UV: ultraviolet light
+AMP: ampicillin
+
+ 
+
+SLOLLLV90e

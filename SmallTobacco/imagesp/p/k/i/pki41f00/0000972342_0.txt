@@ -1,0 +1,69 @@
+Research Department
+
+MEMORANDUM September 2, 1971
+
+NEW_IMPACT STANDARDS /715 MEV LoD
+
+A new series of impact standards has been developed and recently reported
+by R&DE, Southampton(!), Although the Southampton approach was expected
+to be an improvemant over the chemical standards, we felt that BéW's needs
+would still not be met by these new standards. Consequently, we have been
+pursuing the development of our own series. Preliminary results are quite
+encouraging.
+
+This memo covers my comments on the Southampton Report and the status of
+our developmental work.
+
+O6-R
+
+  
+
+Ad Comments on R&DE Report Ri
+
+Jeremy Wood's report contains several points of immediate importance in
+view of on-going WOODROSE activities and current R&D projects.
+
+1. The new series of nine impact standards are designed to give more
+precise determinations than the previous standards, covering the
+same impact sensation range (0 to 4 is now 1 to 9).
+
+2. The filter cigarettes are available from R&DE and Wood makes the
+recommendation that the new standards be used by all panels using
+WOODROSE .
+
+3. Very casually in passing, Wood makes the comment that impact "should
+be based on the whole cigarette and not merely on the first few puffs."
+This is news to me.
+
+ 
+
+The new series is based on the relationship between extractable nicotine
+delivery and impact. The desired levels of impact sensation are produced
+by blends of two flue-cured tobaccos, widely differing in nicotine concent,
+in proportions to yield theoretical nicotine deliveries, which give just
+noticeable differences (j.n.d.) in impact. Calculations for the tobacco
+blend formulations are based on the theory that the difference between two
+stimuli is what is important in determining j.n.d. and net absolute values,
+
+The impact standards, identified as IMP/1, IMP/2...IMP/9, were evaluated
+by “blind” panel testing. Ten members scored, by the old scale, adjacent
+pairs from memory, i.e., no standards were used. The panel average re-
+sults ranged from 0.56 for IMP/1 to 3.50 for IMP/9 with all samples falling
+in the "carrect" sequence. However, for three of the adjacent pairs,
+
+ 
+
+ 
+
+Diooe, D. J., RODE Report RD.806-R, "Inpact Standards - A Series of Special
+Standards for Assessing Impact on Inhaling," June 22, 1971.
+
+continued - - -
+
+599100120,
+
+ 
+
+ 
+
+/

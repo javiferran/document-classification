@@ -1,0 +1,105 @@
+a ae
+
+THE K* CHANNEL OF SARCOPLASMIC RETICULUM
+
+A New Look at Cs* Block
+
+SAMUEL CUKIERMAN, GARY YELLEN, AND CHRISTOPHER MILLER
+Graduate Department of Biochemistry, Brandeis University, Waltham, Massachusetts
+
+ABSTRACT K_*-selective ion channels from mammalian sarcoplasmic reticulum were inserted into planar phospholipid
+
+bilayers, and single-channel currents measured in salutions containing Cs*.
+
+Current through this channel can be
+
+observed in symmetrical solutions containing only Cs* salts. At zero voltage, the Cs* conductance is approximately
+15-fold lower than the corresponding K* conductance. The open channel rectifies strongly in symmetrical Cs* solutions,
+and the Cs* currents are independent of Cs* concentration in the range 18-600 mM. Biionic (Cs*/K*) reversal
+potentials are only 10 mV, showing that Cs” is nearly as permeant as K‘, though much less conductive. Addition of Cs*
+to symmetrical K* solutions reduces current through the channel ia a voltage-dependent way. The results can be
+explained by a free energy profile in which the channel’s selectivity filter acts in two ways: to provide binding sites for
+the conducting ions and to serve as a major rate-determining structure. According to this picture, the main difference
+between high-conductance K* and low-conductance Cs* is that Cs* binds toan asymmetrically positioned site ~20-fold
+
+more tightly than does K*.
+
+INTRODUCTION
+
+Virtually all K*-selective ion channels interact strongly
+with Cs*. Indeed, there is no known case in which a K*
+channe!—that is, an ion channel with a substantial select-
+ivity for K* over Na*—is not profoundly affected by Cs*
+in the millimolar range. In all cases studied, Cs* reduces
+K* current through the open channel, i.¢., it blocks the
+channel. The common mechanistic picture of this interac-
+tion is analogous to competitive inhibition in enzyme
+kinetics: the Cs* ion can enter the normal K* conduction
+pathway, but cannot permeate it. Whenever a Cs* jon is
+thus stuck in the open channel, K* ions are literally
+blocked from permeating. K* ions must wait for the Cs*
+ion to leave the channel via the same route that it had
+entered before they can traverse the pore. Though many
+variations in detail have been offered in the literature of
+Cs* block of K* channels, such studies are usually inter-
+preted in terms of these basic elements: the strong binding
+and nonpermeation of the Cs* ion.
+
+This picture is reasonable. A K*-selective site of low
+field strength may easily be expected to bind Cs* more
+strongly than K* (Eisenman, 1961). Since Cs* is slightly
+larger than K* (0.31 vs. 0.27 nm diameter, respectively), it
+is plausible to propose that simple steric hindrance
+accounts for the failure of Cs* to permeate the selectivity
+filter of a K* channel.
+
+This study is concerned with Cs* block of a K*-selective
+
+Dr. Cukierman’s permanent address is Instituto de Biofisica, Universi-
+dade Federal do Rio de Janeiro, 21941 Rio de Janeiro, Brazil
+
+Bropnys. J. © Biophysical Society
+Volume 48 September 1985 477-484
+
+0006-3495/85/09/477/8
+
+channel {rom the sarcoplasmic reticulum (SR), a channel
+whose ion conduction properties have been extensively
+studied (Coronado and Miller, 1979; Coronado et al.,
+1980; Miller et al.. 1984). Cs* has been shown to reduce
+K* currents through this channel in a particularly simple
+manner. Cs* appears to bind competitively with K* at a
+single site within the channel; the affinity of Cs* for this
+site varies with applied voltage as though the site is located
+35% of the way down the voltage drop across the channel.
+Since Cs* is cifective as a blocker from only one side of the
+channel (the »:5 side), and since previous studies failed to
+detect conduction by Cs*, we concluded that this blocker
+ion is in fact impermeant, and therein lies its ability to
+inhibit K* conduction (Coronado and Miller, 1979).
+
+The fact that Cs blocks the SR K* channel is surpris-
+ing, since it is known (Coronado and Miller, 1982) that
+organic cations as large as 0.5 nm in diameter can perme-
+ate; the smaller Cs* ion, then, cannot be excluded from
+permeating for purely steric reasons. We now show that
+our previous plug-in-the-bottle picture of Cs* block is
+incorrect, that the Cs* permeability is nearly as high as
+that of K*. We also show that a simple picture af Cs*
+conduction through the channel can quantitatively explain
+all our results on voltage-dependent inhibition of K*
+currents by Cs~ as well.as on open-channel currents under
+symmetrical Cs* and bionic Cs+ /K tconditions.
+
+ 
+
+MATERIALS AND METHODS
+
+In all experiments here, currents through single channels were recorded
+
+by inserting pur SR membrane vesicles into planar hpid bilayers
+composed of 90% phosphatidylethanalamine/ 10% phosphatidyicholine.
+
+ 
+
+$1,00 477

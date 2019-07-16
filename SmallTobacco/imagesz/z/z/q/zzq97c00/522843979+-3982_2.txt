@@ -1,0 +1,58 @@
+(SSUES RESOLVED
+
+DOT APPROVAL FOR LIGHTER - brand has dropped the lighter from the 4 pack sample order. at
+this time, brand does not want to pursue sending the lighter out separately from YA. key issue:
+would the brand want to get dot approval in anticipation of including the lighter in subsequent
+phases of the program. brand is not interested in pursuing approval at this time.
+
+AGENCY/SUPPLIER PARTICIPANTS - need to determine which cell these people belong in. key
+issue: don’t know in advance whether they should be offered sample kit or verified to order
+cartons. brand suggestion Is to include in cell 2...this would drive screening call volume up.
+jute will determine who these people are. the mailing will include a letter and sample kit order form
+with legal rqmts. the mailing will be handled outside this program by the brand.
+
+LABELS AND LABEL STOCK - kay to provide sample of existing label stock/packing slip, quantity
+on-hand, and approx. “sunk cost’. Decision needs to be made on whether this stock can be used.
+key issue: label requirements for outside of shipping container, use on order form to
+discourage non-verified orders, and a retum label. support team has determined that existing
+stock can be used. return label and outside shipping label are ok. small label on bottom left of form
+will be used on order forms to indicate verified status. label! will include PID if known, and YA
+customer number. CR will produce similar order form label and affix to verified order forms sent out
+by mail as result of phone inquiry.
+
+USE OF PID - use of pid’s to identify those ordering would be desirable. it helps match orders with
+consumers on the maillist, increases accuracy of order records on the sdb, and reduces data entry
+costs. drew is investigating the complexity involved in passing the pid to be printed on order
+materials. key Issue: passing the pid to the label would Involve an extra step in the process
+and may not justify added complexity. will not pass order file thru charlie for pid. pid will be on
+order form label to indicate verified status. some verified people will not have pid’s initially due to
+timing of initial order posting to sdb. drew will update YA records quarterly to ensure accurate pid.
+
+ORDER FORM DESIGN - should we consider producing an order form and price list that is
+consistent with what we see from other mail order companies? key issue: consumers are
+accustomed to seeing “simple” order forms (no frills). need to evaluate consumer perception
+of program cost since they are paying for product (will assume materials costs are built into
+the product cost). brand agrees with this approach and the agency will work within these
+parameters. 3 order forms will be needed: sample kit with legal, sample kit w/o legal, and carton.
+
+will probably print at print shop...need to consider “color’ coding to ease contro! efforts in sending the
+correct order form based on verified status. sample kit order form only sent out via direct mail (cells
+4, 1B, 2) and CR phone response. carton order form only sent out via direct mail (cell 3) and GATX.
+
+ORDER DISQUALIFICATION RESPONSE - what verblage? what letterhead? who will write?
+brand wants the letter on Eclipse letterhead. jule will consult with cary on defining the dispositions
+that will result in disqualification. jule will reach out to cary/lora for assistance in gatting the letter
+drafted for review (nancy would like to review). all disqualified orders will be handled via YA
+process, ex. If a verified order form with label is marked thru with new name, YA will
+bounceback response letter and request to resubmit non-verified order form with DL
+regardless of verified status on sdb (which YA has no visibility of).
+
+a
+ty
+Ne
+0
+oe
+wW
+wo
+ao
+ba

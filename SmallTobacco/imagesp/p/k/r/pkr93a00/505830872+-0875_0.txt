@@ -1,0 +1,71 @@
+SMOKING MACHINE CONTROL PROGRAM NOTES
+
+The current version of the 7317 exposure contro! program was written to contro! two Geneva smoking
+machines which have been modified to allow the computer to disable thelr cigarette loader and unloader
+functions. The program controls by momentarily enabling one of the load/unioad functions when that
+function Is required and must “remember” the age and location of each cigarette throughout the exposure
+to ensure that spent cigarettes are replaced at the proper time. The product smoking machine has two
+igniters that are controlled by the computer In addition to the loader and unloader, the reference smoking
+machine has none. The computer also times the duration of each exposure, automatically records CO
+monitor readings, and controls filter and Impactor samples. A realtime aerosol monitor was recently
+added to the exposure system and a subroutine may be written to record these readings also.
+
+The control program has been written as a series of subroutines that fall into one of the following three
+categories - EXPOSURE CONTROL, FUNCTION CONTROL, or SUPPORT. Following Is a brief
+description of the subroutines.
+
+EXPOSURE CONTROL SUBROUTINES:
+
+SUBROUTINE PARM |
+Loads required parameters fromthe data tables Into memory. |
+|
+
+SUBROUTINE LABL
+Allows the operator to enter Information Into the program before the Inklation of an exposure. The
+
+information may inchide which machine will be loaded with product and which with reference, the exposure
+concentration, or #f ether machine will not be used during an exposure cycle. The computer will record this
+Information In the exposure summation or will “ignore* a machine that was not used for exposure.
+
+SUBROUTINE LODE
+
+Loads the carousel following a prescribed pattern and maintains the carousel by replacing cigarettes after
+they have puffed the required number of times. The computer leaves LODE when a “start exposure"
+signal Is recelved and transfers control to subroutine EXPS, LODE functions through the following
+“Function Control Subroutines"
+
+* EJCA which controls machine #1 elector
+
+* IJCA which controls machine #1 Injector
+
+¢ TCHA which controls machine #1 torch #1 and li’s associated auxilliary puff port
+* TCHB which controls machine #1 torch #2
+
++ EJCB which controls machine #2 ejector
+
+« [JCB which contro! machine #2 injector
+
+SUBROUTINE EXPS :
+Continues to maintain the carousels by using the same subroutines used by LODE but also turns smoke
+to the animals, takes measurements, and controls various samplers that are required during an exposure.
+At the end of the prescribed exposure period exposure stops and the carousel unloads. Contro! then
+transfers to subroutine SUMA. EXPS uses the following contro! subjoutines In addition to those listed
+under LODE: |
+* SPLR which controls the samplers
+« COMO which records CO monitor readings
+* ARAM will record aerosol monitor readings if we decide to add tt. |
+
+|
+
+|
+
+i
+I!
+
+SUBROUTINE SUMA / |
+Sums information and data from each exposure and prints a summation table. The program then resets
+itself and walts for the next exposure cycle to bagin. |
+
+|
+
+2280 Seen

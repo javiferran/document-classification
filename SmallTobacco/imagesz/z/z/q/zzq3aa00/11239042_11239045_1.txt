@@ -1,0 +1,81 @@
+Nd
+
+nh
+
+We will combine [001C, D and E to determine the effects
+of exposing mice to fortified smoke for a longer period
+of time (13 weeks and 26 weeks). The 13 week period
+
+was selected based on the period of MCA exposure to 6-IT
+inoculations at 2 week intervals. The 26 week period
+was selected based on the need to increase the amount
+
+of MCA given when 2.5 mg fortified cigarettes are used.
+
+Although this study is quite large with the three
+levels of exposure, we could include one group of mice
+at one level only which would not be continued on un-
+fortified smoke. For such a study we should use either
+the 10 cig for 13 weeks or 10 cig for 26 weeks.
+
+The following is a brief outline of the various re-
+quirements for the MCA Fortified Smoke Studies.
+1OO01A: 10 mg MCA/cig, 10 cig/day, 3.25 wks - 1.4 mg MCA/mouse.
+60 mice/(12 mice/machine) = 5 machine runs.
+5 machine runs x 10.cig = 50 cig/day.
+50 cig/day x 23 days = 1150 cig.
+1150 cig x 10 mg/cig = 11.5 MCA.
+1150 cig/ (1800 Cig/h machine) = 0.65 wks to load cig.
+1150 cig loaded with Benzene alone = 0.65 wks to load cig.
+
+1001B: 10 mg MCA/cig, 10 cig/day, 7.0 wks, 2.8 mg MCA/mouse,
+
+' 60 mice/(12 mice/machine) = 5 machine runs.
+
+5 machine runs x 10 cig = 50 cig/day.
+
+50 cig/day x 49 days = 2450 cig.
+
+2450 cig x 10 mg/cig = 24.5 gm MCA.
+
+2450 cig/(1800 cig/4 machines) = 1.3 wks to load cig.
+This will be doubled if we choose to have. one group
+
+smoked only with fortified cigarettes and not continued
+
+on regular smoke. This study will be run with [001A
+
+therefore the same benzene controls will be used.
+
+1OO1C: 2.5 mg MCA/cig, 5 loaded cig/day & 5 standard cig/day,
+13 wks, 0.74 mg MCA/mouse. .
+
+60 mice/(12 mice/machine) = 5 machine runs.
+
+5 machine runs x 5 cig = 25. cig/day.
+
+25 €ig/day x 91 days = 2275 cig.
+
+2275 cig x 2.5 mg/cig = 5.6 gms MCA,
+
+2275 cig/(1800 cig/4 machines) = 1.4 wks to fill cig.
+
+4550 cig Benzene treated = 2.5 wks to fill cig.
+
+{001D: 2.5 mg MCA/cig, 10 cig/day, 13 wks, 1.5 mg MCA/mouse.
+60 mice/(12 mice/machine) = 5 machine runs.
+
+5 machine runs x 10 cig = 50 cig/day.
+
+50 cig/day x 91 days = 4550 cig.
+
+8550 cig x 2.5 mg/cig = 11.3 gm MCA.
+
+4550 cig/(1800 cig/4& machines/wk) = 2.5 wks to Fill
+
+Same Benzene Controls as [OOIC.
+
+1OO1E: 2.5 mg MCA/cig, 10 cig/day, 26 wks, 3.0 mg MCA/mouse.
+60 mice/(12 mice/machine) = 5 machine runs.
+
+CTR CONTRACTS o19295

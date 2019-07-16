@@ -1,0 +1,140 @@
+Oncogene (1994), 9, 3731-3736
+
+Susceptibility to radiation-carcinogenesis and accumulation
+
+chromosomal breakage in p53 deficient mice
+
+_© Macmillan Press Ltd, 1994
+
+« SYD
+
+Jonathan M. Lee!, John L.A. Abrahamson!, Rita Kandel?, Lawrence A. Donehower?, and Alan’
+
+Bernstein!35
+
+‘Division of Molecular and Developmental Biology, Samuel Lunenfeld Research Institute, and 2Department of Pathology, Mount Sinai Hospital, 600
+University Avenue, Toronto, Ontario, Canada, MSG 1X5 3Department of Molecular and Medical Genetics, University of Toronto, Toronte, Ontario,
+Canada. MSS IA8 4Division of Molecular Virology, Baylor College of Medicine, Houston, Texas, USA, 77030.
+
+The p53 tumour suppressor gene is an important
+participant in the cellular response to ionizing radiation
+and other DNA damaging agents. Cells which lack p53
+are unable to arrest cell cycle or enter inte apoptotic
+cell death following irradiation. Moreover, these p53
+deficient cells exhibit an increased resistance to DNA
+damaging agents, including radiation. The significance
+of this radiation-resistance and its relationship to the
+role that p53 plays in tumour suppression and the
+cellular radiation response has not yet been determined.
+
+In this report we have analyzed p53 deficient mice, -
+
+expressing either a mutant p53 transgene or having a
+
+- targeted p53 null allele, in order te investigate the role
+
+that p53 plays in governing susceptibility to radiation-
+carcinogenesis and in controlling the in vive
+accumulation of chromosomal abnormalities. We show
+that wild-type p53 plays a critical role in controlling
+susceptibility to -y-radiation-induced tumorigenesis, and
+sarcomas and lymphomas rapidly appear in irradiated
+p53 transgenic mice. Moreover, this susceptibility to
+radiation-carcinogenesis is associated with a two-fold
+increase in the in vivo accumulation of radiation-
+induced double stranded chromosomal breaks relative
+to that observed in wild-type animals. Taken together,
+these observations suggest that p53 acts to suppress
+tumour formation in vive by preventing the
+accumulation of cells that have sustained radiation-
+induced DNA damage. ,
+
+ 
+
+Introduction
+
+The genetic damage caused by both ionizing and non-
+ionizing radiation plays an important role in neoplastic
+development. The eukaryotic cellular response to radiation
+is multi-faceted and involves, in part, a cell cycle arrest at
+the GI/S or G2/M boundary (Kuerbitx er a/, 1993) and an
+apoptotic pathway of programmed cell death (Cohen ef al.,
+1992). The delay in cell cycle progression presumably
+allows time for the repair of damaged DNA prior to
+replication or division, while apoptosis may be a
+mechanism to eliminate genetically damaged cells. Recent
+evidence has suggested that p53 , which plays an important
+role in suppressing tumour formation in a wide variety of
+tissues (Levine et al., 1991; Lane & Benchimol, 1990), is
+additionally centrally involved in of the cellular response to
+radiation (Lee ef al., 1994), and in controlling the
+radiation-induced GI/S cell cycle arrest (Kuerbitx er al,
+1993) and apoptosis (Lowe et al., 1993; Clarke ef al.,
+
+1993).
+
+ 
+
+3To whom correspondence should be addressed. Received 19 August _.
+
+1994; Accepted in CRC form on 9 September 1994
+
+Exposure to ionizing (Kastan et al., 1991; Lu and Lane,
+1993) or non-ionizing (Lu and Lane, 1993) radiation -
+causes an increase in the intracellular levels of p53, most
+likely due to post-transcriptional stabilization of the p53
+protein (Kastan et al., 1991). The p53 protein is a
+transcription factor (Fields and Jang, 1990; Raycroft er al,
+1990; O’ Rourke ef al., 1990, Santhanam ef al., 1991;
+Ginsberg et a/., 1991; Farmer et al., 1992), and the
+radiation-induced increase in p53 levels leads to a
+transcriptional upregulation of the p21¢!P! gene (Dulic et
+al., 1994). p21C!P! was initially identified as a gene
+regulated by p53 (El-Deiry e@ al., 1993) and as a protein
+which interacts with the cyclin dependent kinase (Cdk)
+Cdk2 (Harper et al., 1993). The cyclical activation and
+inactivation of Cdks regulates cell cycle progression
+(Ohutsubo & Roberts, 1993), and p21C!P! is a potent
+inhibitor of Cdk 1, 2 and 4 function (Harper et al., 1993).
+Cdk 2 becomes activated late in G1 and a complex between
+active Cdk2 and cyclin Eis required for commitment into
+§ phase (Ohtsubo & Roberts, 1993). p53 dependent up-
+regulation of p21C!P! causes a direct inhibition of cdk 2
+activity, resulting in cell cycle arrest at the GUS border.
+Cells which lack p53 function continue cycling through
+GI/S after irradiation and halt cell cycle only at G2/M,
+suggesting that both p53 and p21CF! play necessary roles
+in a radiation-induced GI/S cell cycle checkpoint
+
+- (Kuerbitx et al., 1992).
+
+In addition to cell cycle arrest, apoptosis is a frequent
+consequence of the exposure of mammalian cells to +-
+radiation (Cohen ef al., 1992). p53 can induce apoptosis in
+a variety of diverse cell types, and also plays a necessary
+role in a pathway of radiation-induced apoptosis in
+immature mouse thymocytes (Lowe et al., 1993; Clarke er
+al., 1993). One of the consequences of the loss of this p53
+dependent, radiation-induced pathway of apoptosis is that
+cells from p53 deficient animals become highly resistant to
+the killing effects of -y-radiation (Lee and Bernstein, 1993;
+Lotem and Sachs, 1993). This radio-resistant phenotype
+associated with loss of p53 function may be one
+mechanism by which tumours with p53 mutations acquire
+resistance to radio-therapy and other chemo-therapeutic
+agents (Lowe ef al., 1993b). ;
+
+The importance of p53 in both tumour suppression and
+
+_ the radiation-response suggests that the two may be
+
+intimately related. The carcinogenic properties of radiation
+presumably stem from its ability to cause DNA damage.
+Thus, p53 may suppress tumour formation, in part, by
+preventing the accumulation of DNA damage. Consistent
+with this idea, cultured fibroblasts lacking p53 have .
+elevated levels of polyploidy (Harvey et al., 1993) and
+gene amplification in vitro (Livingstone et al., 1992; Yin
+et al., 1992). However, the effect that p53 loss has on in
+
+PUBLICATIONS 045702

@@ -1,0 +1,32 @@
+DRAFT Philip Morris USA CONFIDENTIAL
+
+In Vitro Cell Transformation-C3H 10T 1/2 Cells (Reznikoff et al., 1973)
+Assessment Period: 1974-?
+
+Assay Principle: (C74-3815)
+
+* endpoint: Transformation scored on basis of altered morphology, ability to grow in semisolid agar,
+agglutination by conconavalin A
+
+© = method: C3H 10T1/2 cells
+
+Resutts/Comments:
+
+* — systems like hamster embryo employ early passage cells from whole animals- morphology and genetic
+makeup vary from batch to batch. Low plating efficiency, limited growth in culture (C74-3815)
+
+* advantages of continuous cell line: easy to grow, high cloning efficiency, homogeneous cell
+population, large numbers of cells easily available, cells of mouse origin may correlate better with in
+vivo data, in vivo testing of transformed cells more easily done because of availability of suitable hosts
+(C74-3815)
+
+Classification for Cigarette Smoke:
+e
+
+Literature References:
+Reznikoff, C.A., Bertram, J.S., Brankow, D.W. and Heidelberger, C., Cancer Research, 33, 3239-3249
+(1973).
+
+TSSTSLv90c
+
+DOC CODE: P0622

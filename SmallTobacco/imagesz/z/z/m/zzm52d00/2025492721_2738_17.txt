@@ -1,0 +1,20 @@
+0.45 |
+0.27
+
+|
+0.09
+
+a
+-0.09
+
+Y
+-0.27
+
+CORR-m
+
+0.45
+0.45 0.27 0.09 0.09 0.4: |
+CORR-r |
+Fig. 2: CORR-m vs CORR-r for socioeconomic variables listed in Table 1.
+
+SELZEVSCOZ

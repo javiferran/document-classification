@@ -1,0 +1,28 @@
+TNO-report
+
+er RL NN
+
+B-92-0388 / May 1992 ; ~~ page 57
+
+Data Membrane Modules
+manufacturer: Enka Microdyn
+type: MD 020 CP 2N
+Materials of construction
+Fibres: Polypropylene
+Case: Polypropylene
+Petting: Polyurethane
+
+Dimensions
+
+internal fibre diameter: 1.3 mm
+external fibre diameter: 2.3 mm
+
+effective fibra length: 48 cm
+internal surface area: Oo.ilm
+
+Membrane characteristics
+
+pore size: 0.2 um
+porosity: 70 %
+
+Shéd £1 O10S2

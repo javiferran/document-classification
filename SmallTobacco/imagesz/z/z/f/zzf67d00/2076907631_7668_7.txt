@@ -1,0 +1,48 @@
+PRIORITY
+
+Report B1041 / P 0500/3213 97112 Page 4
+
+1 chernical analyses (INBIFO study P 0500/5315) as well as on experience from previous
+2 inhalation studies with URSUS test cigarettes (CRC/INBIFO studies B1032 / P 0500/3197,
+
+3 1995: B1033/P 0500/3204, 1994; and B1044/P 0500/3238, 1997; <INBIFO-study
+4 ~P.0500/6345). The mainstream smoke of VIRGO-CA and VIRGO-CC was generated using
+
+5 heater type A22-K with a 2-phase pulse density-modulated (PDM2) power profile (Table 2). The
+
+6 — smoke was diluted with filtered, conditioned fresh air to obtain a low and a high dose (Table 1).
+
+7 The mainstream smoke concentration was measured in terms of the number of cigarettes
+
+8 smoked per cubic meter of dilution air. The dilution factor was fixed and controlled for each
+
+9
+
+0
+
+group throughout the study.
+
+ 
+
+Test Cigarette Designation of MS Concentration TPM Smoke Num-
+Atmos- Type Dose Groups Delivery Dilution ber of
+phere wn MS Factor ‘Rats
+(cig.im®) (ug TPM (mg/cig.)
+- (sham - sham 0 <1 - 0 407
+exposure)
+MS 1R4F 1R4F-6 6 43 7.3 670 20
+IR4F-12 42 87 7.2 295 20
+1R4F-18 18 126 7.2 203 20
+4R4F-23 23 171 7.3 146 407
+VIRGO-CA VIRGO-CA-26 26 41 1.6 144 20
+VIRGO-CA-49 49 89 1.8 71 40?
+VIRGO-CC  VIRGO-CC-24 24 38 1.6 142 20
+VIRGO-CC-514 51 87 41.7 72 40?
+11
+12
+13 Table1 Groups, Research Cigarette Types, and Concentrations
+
+14
+
+2 includes satellite group of 10 male and 10 female rats for postinhalation investigations
+Nannie

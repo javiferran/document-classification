@@ -1,0 +1,60 @@
+DETAILED SCREENING CRITERIA
+
+The Screening Criteria that are applied to Targacept Primary and Secondary
+Screens are:
+
+1
+
+2.
+
+Binding affinity to @4B2 in rat brain with a Ki < 1000 nM, and
+
+Binding affinity to a7 in rat brain at least 100-fold lower than for o4B2, and
+
+. No significant activation of muscle type nicotinic receptor (1615) subtype
+
+expressed in human TE671/RD cells (Ena, < 30% that elicited by nicotine at 100
+MM or CNS/PNS separation greater than 3-log units), and
+
+. No significant activation of ganglionic-type receptor (0384 subtype) expressed
+
+in human SH-SY5Y cells (Emax < 30% that elicited by nicotine at 100 uM or
+CNS/PNS separation greater than 3-log units), and
+
+. Activation of nAChR expressed in rat striatal synaptosomes with Enax > 30%),
+
+and
+
+. Heart rate and blood pressure changes in rat similar to or less than those elicited
+
+by a five-fold or lower concentration of nicotine, and no significant changes of
+heart rate at | pmol/kg (at 1 umol/kg nicotine induces A Heart rate of 25
+beats/min), and
+
+. Acute subcutaneous studies showing cognitive improvement in scopolamine-
+
+induced amnesia in the passive avoidance paradigm. Positive outcome in this
+paradigm will be established by a statistically-significant (p<0.05) increase in
+step-through latency compared to scopolamine alone, and
+
+. Acute intragastric (gavage) studies showing cognitive improvement in the radial
+
+arm maze. Positive outcome in this paradigm will be established by a
+statistically-significant (p<0.05) decrease in memory (working/reference) errors
+compared to vehicle, and
+
+. Sub-Chronic intragastric (gavage) studies showing cognitive improvement in
+
+the radial arm maze. Positive outcome in this paradigm will be established by a
+statistically-significant (p<0.05) decrease in memory (working/reference) errors
+compared to vehicle
+
+10.For PD: Criteria 1 through 7 and acute and sub-chronic subcutaneous studies
+
+examining changes in locomotor activity. Parameters to be measured will be
+
+RJRO000001371017583
+
+70035 3516
+
+SOLE 6262S

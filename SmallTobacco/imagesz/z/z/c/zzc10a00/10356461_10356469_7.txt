@@ -1,0 +1,171 @@
+Platelet activation with thrombin is well-recognized to
+cause a marked shape change reaction, accompanied by actin
+
+polymerization and alterations in levels of the high affinity
+
+profilactin complex. Although the precise time course of
+events as assessed by different investigators have been some-
+what variable (Lind et al., 1987; Markey et al.. 1981), all
+agrec that early on (0-10 s) during platelet activation, there
+are high levels of the profilactin complex as well as un-
+polymerized actin, while later G0 s-5 min) profilin is found
+free or in a low affinity complex with actin, and extensive
+actin polymerization occurs. In our experiments, activation
+of platelets with thrombin resulted in a rapid and reversible
+movement of anti-profilin gold label to the plasma mem-
+brane (Fig. 3). Maximal movement to the membrane oc-
+curred temporally just before the onset of actin polymeriza-
+tion (Lind et al., 1987). observations are consistent
+with the hypothesis that the high affinity profilactin complex
+in platelets must interact with phosphoinositides resident in
+the plasme membrane to yield free profilin and actin for actin
+assembly (Lassing and Lindberg, 1985, 1988). The subse-
+quent decreased amount of gold label found at the membrane
+after longer periods of thrombin treatment, may indicate the
+transient nature of the profilin phosphoinositide interaction,
+due either to hydrolysis of PIP, to inositol 1.4.5 tisphos-
+phate and diacyigtycero] by phospholipase C, or other mech-
+anisms. Indeed, as intracetlular Ca” release, mediated by
+inositol 1,45 trisphosphate, is thought to increase the affinity
+of phospholipase C for PIP; (Manne and Kung. 1987), this
+event would provide a mechahism for dissociating profilin
+from the membrane. Because of the coordinated, finely regu-
+lated and spatially circumscribed nature of most cell move-
+ments, similar morphologic evidence for a transient mem-
+brane interaction with profilin will be difficult or impossible
+to obtain in other cell types. Nonetheless, as a general mech-
+anism, uncoupling of actin from profilin at the membranc,
+in conjunction with generation of actin nuclei or the uncap-
+ping of filament ends. would link receptor stimulation and
+actin filament growth both temporally and spatially.
+
+These observations atso lend further support to the con-
+cept that profilin may serve an important physiologic role in
+the regulation of polyphosphoinositide metabolism. We
+found that 13.8% and 22.6% of anti-profilin gold label was
+associated with plasma and internal membranes of resting
+platelets, respectively. If the profilin concentration in plate-
+lets is 30-40 pM (Goldschmidt-Clermont, P., 5. Baldassare.
+and T. Pollard, manuscript submitted for publication) then
+11 2M profilin is membrane associated. The binding of
+profilin to PIP and PIP, in the membrane may occur
+through a single profilin-PIP, bond or possibly through in-
+teraction with several (up to eight) inositide head groups. as
+recently proposed (Goldschmidt-Clermont, P., 3. Baldas-
+sare, and T. Pollard, manuscript submitted for publication).
+Clustering of acidic phospholipids has been noted in mixed
+vesicte preparations in vitro (Eklund et al... 1988, Haverstick
+and Glaser, 1987), and may well occur in vivo. Thus. profilin
+could bind 11-88 ~M PIP and PIP; in platelets, where the
+PIP and PIP: concentrations are estimated to be 100-200
+nM (Rittenhouse and Sasson, 1985). Evidence for distinct
+metabolic pools of phosphoinositides has been obtained in
+both red blood cells (King et al., 1987) and platelets (Billah
+and Lapetina, 1982). Short-term labeling experiments in
+thrombin-stimulated platelets have also suggested that nearly
+
+The Journal of Cell Bology. Volume 109, 1939
+
+PUBLICATIONS
+
+all the PIP, turnover occurs at the plasma membrane
+(Mauco e1 al., 1987).
+~ ‘These latter observations sre consistent with the possible
+ion of polyphosphoinositides cellular components.
+Glycophorin (Anderson and Marchesi, 1985) and gelsolin
+(anmey and Stossel, 1989) are other PIP; binding proteins
+that may participate in this process. Our current results pro-
+vide further evidence for the importance of phospholipid-
+protein interactions, and suggest that the profilin-phospho-
+inositide interaction may have wide consequence in control
+of phosphoinositide metabolism and cell signalling.
+
+Supported by United Sates Pubtic Health Service grants OM36507,
+KOBHLOISS2. and grants from the Council for Tobocco Research, USA
+and the Edwin S. Webster Foundation.
+
+Received for publication 17 April 1989 ahd in revised form 2 June 1989.
+
+References
+
+Ampe, C., F, Markey. U. Lindberg. and J. Vi d . 1988. The pri-
+mary structure of human platelet profilin: reinvestigation of the call spleen
+profilin sequence. FEBS (Fed. Eur. Biochem. Soc.) Lew. 228:17-21.
+
+Anderson, R. A., and V. T. Marchesi. 1985. Regulation of the association of
+membrane skeletal protein 4.1 with glycophorin by a .
+Nature (Lond.). 318:295-298. ' ,
+
+Billah, M. M., and E. G. . 1982. Evidence for miultipse metabolic pacts
+of phorphitidylinosito! in stimulated platelew. J. Biot, Crem. 287:11856-
+11859. : ,
+
+Blikstad, J.. 1, Sundkvist. and S. Eriksson. 1980. Isolation end charecierization
+of lactin and profilin from calf thyinus and train. Eur. J. Biochem.
+105:425-433. :
+
+Carlson, L., L. E. Nystrom, 1. Sundkvist, F. Markey. and U. Lindberg. 1976.
+Profilin, s tow molecular weight protein controlling actin polymerisability.
+In Contractile Systems in Non-muscle Tistues. 39-48. Elevier/Nosth-
+Holland. Amsterdam. , ,
+
+Eklund, K.K,. 3. Veorinen, J. Mikkloa, 3. A. Virtanen, and P. K. J. Kinaunen.
+$988. Ca"-induced istera) phase separation in phosphatidic acid/phos-
+phatidy! choline monctayers a3 revealed by fluorescence microscopy. Bio-
+chemittry. 27:3433-3437. '
+
+Garrett, R. 3. B., and C. M. Redman. (975. Localization of enzymes involved
+in polyphasphnénositide metabolism on the cyoplasmic surface of the human
+
+erythrocyte . . 2 \«
+
+Harris, H. E.. and A. G. Weeds. 1978. Platede: actin: sub-cellular distribution
+a association with profilin. FEBS (Fed. Eur. Biochern. Soc.) Lett. 9:
+
+88. . .
+
+Hanwig. J.. and P. Sheviin. 1986. The architecture of actin filaments snd the
+
+ulirasructurad location of actin-binding protein in the periphery of hing mac:
+. J. Cell Biot. 103: 1007-1020.
+
+Hanwig. }.. K. Chambers, and T. Stossel. 1989. Association of gelsolin with
+actin filaments and cell membranes of macrophages and platelets. J. Cell
+Biol. 109:467-479.
+
+Sanmey, P.. and T. Stossel. 1989. Gelsotin-polyphosphoinositide imeraction.
+Full expression of selootin-inhibaing function by polyphosphoinositises in
+vesicular form and inactivation by tution, sc or masking of the
+inositol bead group. J. Biol. Chem. 264: 4831.
+
+King. C. E., L. R. Stephens, P. T. Hawkins, G. R. Guy. and R. H. Michell. ,
+1937. Multiple metdolic pools of phosphoinositides oad cruemerbes in
+human erythrocytes incubated in a medium that petits raped transmembrane
+exchange of . Biochern. J, 248:209-217..
+
+Kwistkowski, D. 3., and G. A. P. Bruns. 1988. Hunian profilin. Molecular
+cloning, sequence comparison. and chromosomal analyses. J. Biol. Chem.
+263:5910-59185.
+
+Laemmli, U. 1970. Cleavage of structural during the assembly of the
+head of bacteriophage T4. Normre (Lond. ). 227:680-685.
+
+Larson, H.. and U. 1988. Thre effect of divalent cations on the inter-
+action between calf spleen profilin and differem actins. Biochim. Bophys.
+Acta. 933:95-103. ,
+
+Lassing. 1. and U. Lindberg. 1985. Specific imeractton between edyl-
+inositol 4,5-bitphosphate and lactin. Nature (Lond. ). 318:472-474.
+Lassing. }.. and U. Lindberg 198) . Specificity of the imerection between phos-
+phatidylinositol 4.$-disphosphare and the profilin: actin comptes. J. Cell Bio-
+
+chem. 37:255-267.
+
+Lind. S.€..P A Janmey. C Chaponnier. T. 3. Herbert. and T. P. Stossel.
+1987 Reversible binding of actin to gelsolin and profilin in human plateles
+enteacts J Celi Biol. 10$.833-842
+
+Magdolen, V.. U. Oechsnes, G. Muller. and W. Bandlow. 1988. The intron-
+contaning gene for yeast profilin 1PEV) encodes & vetal function. Afol. Cell
+
+037030

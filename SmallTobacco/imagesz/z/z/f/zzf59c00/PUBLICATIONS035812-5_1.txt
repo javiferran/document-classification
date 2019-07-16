@@ -1,0 +1,177 @@
+SERUM-FREE T CELL CULTURE
+
+sumed previously.
+
+AS a result of these conceptual advances. and because
+unique molecular reagents such as homogeneous IL 2
+and roltogenic monoclonal sntibodies are now readily
+available, events associated with each distinct phase of
+the T cell cycle could be explored by using fresh experi-
+mental approaches. Accordingly. to define the s¢rum con-
+tribution to events associated with T cell cycle progres-
+sion. experiments were planned to ascertain whether
+there Is indeed a serum requirement for the competence
+or progression phases {or both) of the T cell cycle. Re-
+markably. serum was found essential for an optimal race
+of IL 2 production and IL 2 receptor expression, whereas
+i proved quite unnecessary during iL 2-promoted G,.
+progressicn.
+
+MATERIALS AND METHODS
+
+Cutture nietium and additives. RPMI 1640 medium (Grand Is-
+land Biological Co.. Grand Istand. NY) was supplemented with 25.
+mM HEPES buffer (pH 7.2). 50 U/mt penicillin G. 50 ugfent genta-
+micin. and 300 agfmi veglitamine. Fetal calf serum (FCS: Sterie
+Systems. In¢.. Logan. UT} was heated (56°C. 30 min) and used as a
+medium supplement at 10% (v/v) Bovine serum albumin {BSA:
+Sigma Chemicals. St. Louts. MO: ne. A751 1) prepored from erystal-
+lized and lyophilized albumin was certified as essentially fatty actd
+(ree. Human serum albumin (HSA? Pierce Chemical Co.. Rockford.
+OL) was affintty purified by using a Cibacron Blue F3G6A column.
+tmmuncaffinty-purified human Immunogiobulin G (IgG) was ob-
+tained from Miles Sctentific, Naperville, IL. Human holotransfenin
+(Ti. Bochringer-Mannheim Biochemtcais. Indianapolts, IN} was cer-
+ttfted as 98% pure. TS Ulration experiments established that 20 nM
+‘was the minimal concentration to fully support DNA replication in
+the absence of serum. Therefore. a 10-fold excess (200 nM) was used
+routinely vo 3 Take an optimal rate of S phase trans, Recombir
+
+ 
+
+nant IL 2 (rll. 2; Takeda Chemical industrtes, Ltd., Osaka, Japan}
+was purified to homogeneny (17) and suppited at 1.0 mg/ml. sus-
+pended tn 0.1 M ammonium acetate (pH 5.0). Zinc crystals of puntied
+
+rk insulin. (27.1 USP insulin U/mg: Etanco Products Division. Eli
+
+ly Co.. Indianapolis. IN) were dissolved in 0.05 N HCI prior to
+further dilutions in RPMI 1640 medium with 1 uM BSA, Recombi-
+Rani Insulin-like growth factor 1 IGF-t; CIBA-GEIGY Lid., Basel.
+Switzerland) waa dissolved in RPMI 1640 medium with | uM BSA.
+‘The biologic potency of the insulin and iGF-1 preparations was tested
+for the conzentration-dependent stimulation of 2-deoxy-ghucose
+transport arid were shown to be fully active at the appropriate
+concentrations. Alt medium supplements were sterilized by filtrauion
+(024m). . .
+
+Ceti cuitures. Human peripheral mononuclear cells, Inolated from
+hepannized blood by Ficoll-Hypaque discontinuous density gradient
+centrifugation, were washed free of plasma and culwred in a hu-
+midified atmosphere of 5% CO» In alr by using 96-well microtiter
+plates a1 1 x. 10% cells/m! tn 0.2 ml RPMI 1640 medium. The T cell
+antigen receptor complex was activated by using antl-T3 (OKT3;
+Ortho Pharmaceutical Corp.. Raritan. NJ). Each lot of ant!-TS was
+trated with ane without a FCS Supplement: Maximal responses in
+serum-free and senaum-supplemented cultures were aimilar, and
+(imal concentrations ranged between 31/€,000 and 1/10,000 final
+dilutton. Entry into the S phase of the cell cycle was monitored by
+the incorporation of tritiated thymidine PH-TAR, 2 eCl/iml. specific
+activity = 8.0 mCi/mmol: Schwarz/Mann Div.. Becton Dickinson
+Co.. Mountain View, CAS during the final 4 hr of culture. Cultures
+were harvested on glass fiber filter paper with an automated cell
+harvester and were counted by liquid scintiliatian. .
+
+in some experiments. peripheral mononuciear cells were made IL
+2 receptor positive by culture in medium containing seram and anc
+TS for 3 days. They were then washed fret of IL 2 produced In situ
+and were cultured for 2 addittonsl days in IL 2-free medium to allow
+for their reaccumutatton in the early G, phase of the cell cycle.
+Subsequently. ike cells were washed and incubated In serum-free
+medium at 37°C for 30 min {*2} to dissociate surface-bound senam
+Proteins. Resumption of cell cycle progression was monitored alter
+the addition of rit 2 ¢t nh) to cells suspended in medium with or
+without FCS.
+
+IL 2 production In serum-containing vs serum-free medium wap
+dctermined by stimulating peripheral monanuclear cells (5 «x 10"
+
+* Abbreviations used in this paper. HSA. human serum albumin, TH.
+Asunaterrin: (GF+1. Insulin-like growth (actar %
+
+999
+
+celle/ml) with antt-T3 11/10.000) anil phorbol myrisuc acetate 1PMA.
+SO ngsmt: Consolidated Midlands Corp.. Brewster. NY). Aliquots of
+culture supernatants were harvested at intervals and quantified via
+the IL 2 bipassay.
+
+tL 2 assays. IL 2 biologic activity was determined by (he IL 2
+concentration-dependent proliferation of a claned munne ¢ytolytic
+T lymphocyte line (CTLL-2. subctone 15G) (18). a8 described (19).
+CTLL proliferation. as indicated by *H-TdR incorporation. was de-
+termined during the lest 4 br of a 24-hr culture penod. The sample
+dilutions yielding 50% of the maxtmum CTLL °H-TdR incorporatien
+fEDso} were divided by the ED of the standard (riL 2. 2 nM] to give
+the molar concentration of IL 2. ,
+
+The concentration of 1L 2 remaiming tn solution upon incubation
+with medium containing FCS or various proteins was montiored by
+using FIL 2 radiciodinated via solid-phase lactoperoxWase-glucose
+oxidase JEnzymobeads. Blorad Lats. Riehmand. CA) wecorgne to
+the manufacturer's instructions. The specific activity {| x 10° epm/
+pmol) was determined by using the 1L 2 bioassay.
+
+iL 2 binding assay. Radioiodinaied 1. 2 waa diluted with unia-
+beled rIL 2 to create the two desired specific activities (1.0 % 10°
+¢pm/pmol and 1.0 = 10° cpm/pmo}} so that binding assays Could be
+
+farmed at IL 2 concentrations ranging fram 1 pM to 100 nM.
+Ginding of IL 2 to utact cells was performed as described (20). except
+that the cell suspension [10* cells in 0.2 mi RPMI 1620 medium
+supplemented with | 2M BSA] was cverlayed onto a 0.2 ml mixture
+of 60% silicone off (Dexter Hysol 550 Muld: Dexter Corp.. Oriean. NY
+and 20% paraffin off (0-119: Fisher Scientific Co.. Fair Lawn. NJ).
+After 20 min incubation at 37°C. the tubes were centrifuged [8500
+» G. 90 sec}. the tips of the urbes containing the cell pellet were
+severed, and the cell-bound and -free radioactivity was determined
+by solid seintillatton counting. The calculated values for the number
+of binding sttes per cell were derived by Scatchard analysis of
+equilibriam binding data after sublraction ef nonspecific binding
+determined in the presence of a 400-fold molar excess of unlabeled
+Hgand.
+
+RESULTS
+
+T celt proliferation in serum-supplemented vs serum-
+Sree medium. The serum requirement for maximal T cell
+proliferation ts readily demonstrated by the response of
+anti-T3-stimulated human peripheral T cells cultured in
+serum-containing compared with serum-free medium. As
+Wlustrated tn Figure 2. the peak proliferative response in
+10% FCS occurs after 4 days of culture, whereas omission
+of serum results in a markedly attenuated response: in
+serum-free medium °H-TdR incorporation reaches less.
+than 20% of the level measured in serum-containing
+cultures.
+
+Because the rate of S phase transit was the index used
+for cell cycle progression in these experiments, transfer-
+rin (4 jron-saturated) was provided to cells in serum-free
+culture to ascertain to what extent it alone could support
+T cell °H-TdR Incorporation. As anticipated. the addition
+of Tf partially corrected the defictency noted in the ab-
+sence of strum, but maximal proliferation was delayed
+and the peak response still only approached 50% of that
+observed In the presence of 10% FCS iF ig. 1).
+
+IL 2 activity in serum-free and protein-free medium.
+A critical number of interactions between IL 2 and high
+affinity IL 2 receptors must occur prior to the generation
+of the Intracellular signals necessary for activated T cells
+to progress through the G, to the S phase (14). To attain
+this threshold. a receptor-saturating IL 2 concentration
+{2100 pM} must be sustained for at least 5 hr. Because
+purified IL 2 binds to plastic and glass in protein-free
+solutions. the disappearance of IL 2 via adsorption was
+considered a likely explanation for the depressed prolif-
+eration observed In serum-free medium. Therefore. the
+half-life (tYa) of IL 2 was determined by measuring the
+concentration of radtotodinated IL 2 remaining tn solu-
+tion as @ function of time In serum-free vs serum-con-
+
+PUBLICATIONS
+
+10355234
+
+035813

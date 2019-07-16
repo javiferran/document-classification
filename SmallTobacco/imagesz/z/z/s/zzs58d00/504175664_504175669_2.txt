@@ -1,0 +1,41 @@
+TABLE 1
+
+COMPARISON OF EPOXIDATION PROCEDURES
+
+Epoxide
+Epoxidation Method &4Cis % Trans
+Peracid 51 49
+Hypobromous acid + base 10 90
+Hypochlorous acid + base 20-30 70-80
+
+The trans epoxide can be exclusively obtained by hydrating the
+epoxide mixture in the presence of dilute acid. The cis isomer hydrates
+to form 1-~hydroxyneocarvomenthol (IV) at a substantially faster rate
+and leaves the desired trans isomer in good purity.
+
+ail
+
+Hee
+oO
+
+   
+
+Iv
+
+Cis Trans Trans
+
+The second advantage of the new process is lower cost. Although the
+epoxide yields by the hypochlorous acid method are not as good as those
+using peracid, the nominal price of the reactants far offsets the yield
+disadvantage. Epoxide yields of 32% have been realized by this method and
+can no doubt be improved with further work. Epoxide yields of 70% have
+been obtained by the bromohydrin method. The disadvantage in cost of
+the bromohydrin method is somewhat overcome by the fact that this method
+yields stereospecifically the desired trans isomer. The cost could be
+
+improved by reclamation and sale of bromide wastes. A cost comparison
+is given in Table I].
+
+ 
+
+999S LLhOS

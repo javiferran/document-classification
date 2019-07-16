@@ -1,0 +1,41 @@
+particulates measured in the first half second of the puff is consistent
+with the low nicotine concentration measured. Similarly, the large mass
+
+of particles near the plateau at the middle of the puff correlates with the
+high nicotine concentration measured. The total nicotine
+
+concentration per puff increases from puff to puff as nicotine distills and
+redistills along the tobacco rod. This phenomena was expected and agrees
+with puff-by-puff data. , ae
+
+It is evident that the intrapuff nicotine delivery is both a function
+of flow rate and coal combustion temperatures. Temperature measurements
+reported by Baker [5] showed a continuous increase during a 2 second square
+wave puff, as opposed to the late-skewed, gaussian type distribution of
+nicotine found in this work.
+
+Tables 9 - 17 report real-time, 14-C nicotine intrapuff deliveries.
+These results show strong correlation with the chromatographic data, in
+that 14-C nicotine delivery is weighted to the end of the puff. However, it
+was observed that the total 14-C activity. per puff,"plateaus" at puff 6,
+and then decreases for puffs 7,8 and 9. This phenomenon has been observed
+in the distribution reported in Table 18, and was attributed to the
+injection labelling process. Integrated volumes for each 0.4 second time
+segment were obtained numerically. The 14-C activity/cc was calculated from
+measured 14-C activity and corresponding volume. ot
+
+- The increase in nicotine concentration observed in the latter puffs
+(Tables 1 - 8) suggest the possible delivery of intrinsic cell-bound
+(endogeneous) nicotine. . However, exogenous 14-C nicotine, measured by the
+Berthold scanner, exhibits a gaussian behavior suggesting a depletion
+mechanism. More experiments are required to verify this hypothesis.
+
+Oo
+Ss
+- 0
+oT
+Ww
+wo
+oe
+~~
+a

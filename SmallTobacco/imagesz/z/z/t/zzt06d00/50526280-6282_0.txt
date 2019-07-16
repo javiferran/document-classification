@@ -1,0 +1,57 @@
+PI: Geoffrey L. Greene
+
+TITLE: Identification And Characterization of Genes that Differentially Regulate
+Proliferation in Response to Estrogen Agonists and Antagonists
+
+Abstract:
+
+The overall goal of this investigation is to elucidate the molecular mechamisms by which estrogens
+and estrogen antagonists differentially regulate gene expression and proliferation in hormone
+dependent tissues and cancers. To address this problem, the hormone responsive MCF-7 human
+breast cancer cell line will be used to identify differential changes in gene expression that occur in
+response to acute treatment with estrogens and estrogen antagonists. Identified genes will be
+sequenced and characterized in estrogen-sensitive and insensitive breast cancer cell lines and in two
+vascular cell lines.
+
+Specific_Aims
+
+1. To identify specific mRNA species from MCF-7K1 breast cancer cells whose expression is
+differentially modulated by estradiol (E2), 4-hydroxytamoxifen (OH-T, a partial hormone
+antagonist), or ICI 182,780 (ICI, a complete hormone antagonist). Total cellular RNA will be
+obtained from MCF-7K1 cells cultured in the presence or absence of thesc ligands and analyzed by
+the technique of differential RNA display. This technique permits rapid visualization and comparison
+of gene expression in target cells following acute treatment with estrogen agonists and antagonists.
+
+2. To clone, identify, and characterize target genes visualized by the differential display technique.
+An MCF-7K1 cDNA library will be generated and used to isolate cDNA clones of the differentially
+regulated genes. Individual clones will be chosen for further study. If novel genes are identified, the
+DNA sequence and temporal expression of selected candidates in response to agonist vs. antagonists
+will be determined. If known genes are identified, the mechanism of regulation by estrogen receptor
+and hormone agonist and antagonists will be addressed in several breast cancer cells, vascular
+smooth muscle cells, and human umbilical vein endothelial cells of variable sensitivity to estrogens.
+
+Preliminary Studies and Results
+
+RNA differential display was performed according to the method of Liang and Pardee (1, 2).
+Briefly, total cellular RNA was isolated from MCF-7 cells cultured in the presence of 50 ug/ml
+cycloheximide (CHX) or 50 ng/ml TNF-a +/- 10 nM E2, 100 nM OH-T, or 100 nM ICL RNA
+differential display identified six putative target genes and two of these were chosen for further
+characterization. The first gene was identified as monocyte chemoattractant protein-1 (MCP-1).
+
+Expression of MCP-1 mRNA by MCF-7 Cells
+
+Unstimulated MCF-7 human breast cancer cells do not express detectable levels of MCP-1 mRNA
+when measured by Northern blot or ribonuclease protection assay. Treatment with either CHX or
+TNF-a, a known inducer of MCP-1 expression, for 0.5-2 hours resulted in a significant increase in
+steady state levels of MCP-1 mRNA. Co-stimulation of cells with CHX or TNF-a and 10 nM E2
+suppressed steady state levels of MCP-1 mRNA. Under these conditions, E2-mediated suppression
+of MCP-1 mRNA was maximal by 1-4 hours (70% suppression). Two additional estrogens, estriol
+and DES, also mediated suppression of MCP-1 mRNA levels whereas the synthetic progesterone
+receptor agonist, ORG 2058, had no effect. Incubation of the cells with OH-T did not suppress
+MCP-1 mRNA accumulation and co-administration of 10 nM E2 and 2 uM OH-T or ICT abrogated
+the suppressive E2 effect. OH-T and ICI function as antagonisis of E2 action in the breast.
+Treatment of cells with actinomycin D did not alter the mRNA stability profile, which suggests that
+ER modulates MCP-1 mRNA expression at the transcriptional level. A synergistic down regulation
+of ER mRNA by TNF-a and E2 was also observed.
+
+Expression of MCP-1 mRNA in Other Cell Lines

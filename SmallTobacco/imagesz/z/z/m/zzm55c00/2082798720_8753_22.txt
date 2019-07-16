@@ -1,0 +1,37 @@
+PRIORITY
+
+GRC contract RESEARCH CENTER
+
+ 
+
+ 
+
+ 
+
+Study Plan B3311 /.P0500/3311 1999/1/11 Page 20
+SOP Title Deviation/Addition/
+Remarks
+AG 11/5 Gaschromatographische Bestimmung von Kohlenmonoxid in -
+Blut
+119/4 Bestimmung von Gesamitnicotin in Zigarettenrauch -
+128/3 Benutzung des Chromatographiedatensystems Multichrom :
+130/1 MaB®Bnahmen zur Gewahrleistung der Datensicherheit im -
+Umgang mit dem Labordatensystem Multichrom
+131/2 Entsorgung von Sonderabfailen -
+169/2 Ubertragung von Xchrom-Daten externer Priifeinrichtungen = -
+in die Datenbank .
+176/1 Photometrische und fluorimetrische TPM-Bestimmung (UV- _ fluorometric
+TPM, Fluor-TPM) determination
+203/1 Definition, Berechnung und Verwendung von -
+Bestimmungsgrenze und Nachweisgrenze
+Table 6 INBIFO Standard Operating Procedures, Team Analytical Chemisiry
+
+11/97
+
+“
+
+|
+
+evl86ze0z
+
+“yellow

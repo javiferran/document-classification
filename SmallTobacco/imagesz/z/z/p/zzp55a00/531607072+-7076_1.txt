@@ -1,0 +1,45 @@
+[if Interoffice Memorandum
+
+Fobacco Company
+Subject: ASHRAE Annual Meeting Trip Report Date: February 25, 2000
+To: Arnold Mosberg From: Paul Nelson
+
+On February 5-9, I attended the American Society for Heating Refrigeration and Air
+Conditioning (ASHRAE) winter meeting held in Dallas, Texas. While at the conference, I
+moderated a seminar, attended technical sessions dealing with indoor air quality, and
+attended/participated in committee meetings (TC 2.3 Gaseous Contaminants/ Removal
+Equipment, TC 2.4 Particulate Contaminants/Removal Equipment, SPC 145P Laboratory
+Test Method for Assessing the Performance of Gas-phase Air Cleaning Media, and GP-17P
+Sampling of Airbome Particle Concentrations in Commercial and Residential Buildings). In
+this report, relavent technical sessions will be described in approximate chronological order,
+followed by committee activities.
+
+Forum: Cabin Air Quality Standard: Contaminants and Levels of Concern
+
+This and the next forum described were set up to get feedback for the proposed
+standard on aircraft cabin air quality. Relatively little of interest was brought up in this
+forum. Some of the discussion moved around the potential for the spread of pathogenic
+organisms within the aircraft cabin, and desirability of measurement of leakage of
+lubricants/hydraulic fluids into the cabin. Additional discussion centered on whether air
+quality monitoring should be continuous on all flights, or measured at discrete intervals.
+
+Forum: Cabin Air Quality Standard: Airflow Requirements
+
+This was a contentious forum with requests for justification of recommended airflow
+rates that were not provided by two standards committees represented at the Forum. The
+proposed aircraft standard requires 5 CFM fresh air per occupant of the aircraft. That
+requirement was tied loosely to proposed revisions of ASHRAE standard 62. The view
+expressed by 80+% of the audience that expressed an opinion was that there should be a
+justification for any ventilation rate that is firmly grounded in the scientific literature. That
+is, there should be more than an “[unJeducated” guess as to what might work. A previous
+participant in 62-1982 (?) gave the committees justification for higher ventilation rates (Cain
+literature and building studies) and also questioned the current 62 committee’s justification
+for changing ventilation rates. A representative from the 62 standard committee paraphrased
+the justification on the equation (x cfm/occupant + y cfm/ft? occupied space) gave the same
+number as the current standard 62 when 5 cfm per occupant was used in conjunction with a
+proposed cfm/f? value. (He failed to realize that there are an infinite number of solutions to
+
+€Z0Z O9LES
+
+RJRO000001 153054518
+70056 5494

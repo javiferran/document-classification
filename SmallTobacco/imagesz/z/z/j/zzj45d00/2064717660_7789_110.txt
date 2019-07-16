@@ -1,0 +1,50 @@
+INBIFO tnstitut fir biologische Forschung GmbH - Koln PRIORITY
+
+ 
+
+ 
+
+Addendum to Report P 0500/3237 9710/8 Page 18
+
+ 
+
+STRAIN SPONT, CIGARETTE DOSE STAT. SIGN. OF ALL 4 BATCHES
+
+ 
+
+REVER- INCREASE
+SION MUTAGEN-  IN- STAT.
+BATCH ICITY CREASE SIGN.
+12 3 4
+Crev./ Cng/ (rev. /
+plate) plate) plate)
+TAI537 «23.2 -VIRGO-CA 0.200 = = = 29.0 1.30 =
+0.400= = + + 34.3 1.5 ++
+0.600 Het He +t HEE 42.5 1.8 ++
+0,800 tet tHe tet att 52.2 2.300 +H
+1.000 HH ++ Ht +e 51.2 2.2 ++
+VIRGO-CC 0.200+ = = = 31.5 1.4 =
+0.400 + ++ + ++ = 40.6 1.8 H+
+0.600 H+ +H Het H+ 47.3 2.0 HH
+0.800 ++ He He H+ 551 2.4 0 ++
+1.000 He He HH H+ 61.5 2.7 0 tt
+IR4F 0.050= = = = 37.8 1.6 +
+0.100 H H+ t+ +++ 56.0 2.4 ++
+0.200 tet tt Het HE 92.6 4,0 +H
+0.400 +t tet tet tet 130.3 5.600 ++
+1.000 +H +H +H H+ 134.4 5.8 ++
+
+ 
+
+Table A17 INCREASE IN MUTAGENICITY OF TPM WITH S9 ACTIVATION OVER
+SOLVENT CONTROL
+
+Remarks: date of assay: 09-APR-97
+Spontaneous reversion: solvent control DMSO,
+ttean of determinations at the start and at the end;
+statistical significance for difference of mutagenicity from
+solvent control using the ANOVA followed by the Dunnett test
+
+M =: 970918 =10:20:18 P. 1 USER _DISK:[IT_A H]INCDUNT42_3237.LIS;7
+
+OLLZL-27902

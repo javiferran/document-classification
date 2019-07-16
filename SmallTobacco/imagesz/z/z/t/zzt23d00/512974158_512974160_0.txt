@@ -1,0 +1,36 @@
+NICOTINE PREDICTION MODEL
+
+A statistical computer model would show how much Nicotine will be in
+our cigarettes after 2 years aging based on Nicotine In the tobacco
+crop, our purchase pattern, the effects of aging, cigarette design
+parameters (paper porésity, filter density, etc.), tobacco processing’
+(¥ G7, % GI3, Ammonitation, de-nic, etc.), and blending (% grades, belts,
+
+tobacco types, etc.).
+
+We are now printing on some of our packages the amount of Nicotine fn
+the cigarettes contained, Thus [t becomes necessary to manufacture
+cigarettes to a Nicotine specification. This has resulted ina
+substantial reject problem in manufacturing. For example, a large
+number of NOW cigarettes have been recalled from the fleld due to
+
+excessive Nicotine.
+
+The amount of Nicotine In the smoke of a cigarette depends on many
+
+things:
+
+Nicotine in the Tobacco crop
+X-Grades
+Str-Grades
+Off shore
+
+Purchase Pattern
+% X-Grades
+% Straight Grades
+% Off Shore
+
+Effects of Aging
+Nicotine Loss due to Sweats
+
+eSTP LEzts

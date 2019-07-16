@@ -1,0 +1,51 @@
+five males and five females were removed for health screening two
+weeks later. Health screening included: Nasopharyngeal wash
+culture, necropsy, limited histopathology, examination for
+intestinal parasites and serology tests for antibodies to Sendai
+virus, pneumonia virus of mice, Kilham rat virus/H-1 virus, rat
+coronavirus/silalodacryoadenitis virus and Mycoplasma pulmonis.
+No significant lesions or pathogenic microorganisms were found in
+the pre-exposure health evaluations of the shipment of rats
+received for this study.
+
+The animals were randomized 2 days before the start of the
+exposures using the Xybion Path/Tox software (XYBION Medical
+System Corp., Cedarknolls, NJ). Before randomization, the
+animals were observed for signs of wheezing, nasal discharge,
+shallow/irregular respiration, alopecia, palpable/visible tumors,
+listlessness, ataxia, rough haircoat, arched spine, dull/opaque
+eyes, or diarrhea. No such signs, nor any other signs suggesting
+unsuitability of the animals were observed.
+
+On exposure days, each animal was removed from its cage
+compartment, loaded into a polycarbonate restraining tube, and
+positioned at its assigned exposure port in the Cannon exposure
+system. After all animals were loaded, they were exposed to the
+test atmosphere for 6 hours, then returned to their assigned cage
+compartments in the housing chambers.
+
+6.4.3.4.3.3 Biological Measurements and Observations
+6.4.3.4.3.3.1 Daily Observations of Animals
+
+The daily observations of the animals did not show any physical,
+
+neurological, or behavioral changes attributable to the
+exposures.
+
+6.4.3.4.3.3.2 Body Weights
+
+Figure 8 presents the mean body weights as a function of time and
+exposure of all glycerol-exposed males and male controls
+together. The bars represent one standard error (SE). Figure 9
+shows the same data for females.
+
+ANOVA results indicate that group (1, 2 or 4 mg/L) means of the
+body weights are not significantly (P < 0.05) different within
+each sex of rats exposed to glycerol aerosols. Only the weight
+gain mean for the female controls was significantly higher than
+the weight gain means for the females exposure to 1, 2 or 4 mg/L
+glycerol aerosols. Because this phenomenon was not dose-related
+it was concluded by the testing laboratory that it had no
+biological significance.
+
+H1E9 1190S

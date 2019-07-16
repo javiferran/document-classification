@@ -1,0 +1,61 @@
+1.) Combine New Member-Franchise (Group 3-cell 3) and New Member-Competitive
+(Group 4-cell 4).
+
+2.) Drop anyone on MFID #2641 (SEP 1Final Mailing), MFID #2688 (SEP 1A Final
+Mailing) or MFID #3014 (SEP 2 Final Mailing).
+
+' 3.) Retain the balance for the Reactivation mailing.
+
+4.) Maintain the two cell 1D’s and keep these remaining smokers as “A” in WWC.
+
+mm: f alt Celt
+
+The status of the cells originally identified in Alert #0074-C are as follows:
+
+Cell 1 - No change
+
+Cell 2 - No change
+
+Cell 3 - see New Member Elimination
+
+Cell 4 - sea New Member Elimination
+
+Cell 5 - see Sending Members to SEP
+Cell 6 - No change :
+Cell 7 - See Member Elimination
+
+Creating the New Reactiviation Mailfi
+
+After completing the Member Elimination, the Sending Members to SEP and the New ©
+
+Member Elimination we now need to create an extract for the new Reactivation
+mailfile. The extract needs to be complete by 8/4/95. .
+
+Program number = 500860
+
+Response code for BRC = J72
+
+No coupons included.
+
+Printer = TBD (probably Webcraft)
+
+Drop date = mid- August (Fina! date TBD)
+
+Reactivation Remail
+
+3 weeks after the new Reactivation piece goes in the mail, a remail will ba sent to the
+
+same group of smokers. The printer, probably Webcraft, will dupe the original mailfile
+tape.
+
+Program number = 500860
+
+Response code for BRC = J73
+
+No coupons included.
+
+Printer = TBD (probably Webcraft)
+
+Drop date = TBD - 3 weeks after initial mailing
+
+€906 OPccsS

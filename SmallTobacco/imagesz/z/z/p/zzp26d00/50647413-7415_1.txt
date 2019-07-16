@@ -1,0 +1,59 @@
+transfected into the ES cells, and the consequences of their expression on hematopoiesis reproducibly
+examined over along time period. Thus, several ES cell lines were derived that expressed various levels of
+antisense vav transcripts transcribed from the phosphoglycerol kinase (pgk) promoter. These clones, when
+examined for hematopoietic cell differentiation, showed a dramatic reduction of blood cell containing colonies
+as compared with normal ES cells. The inhibition of hematopoietic differentiation was confirmed at the
+transcriptional level by examining various lineage specific mRNAs (e.g. GATA-1, PU.1 and CDii-b). Thus,
+the blocking of vav, a putative pan-hematopoietic specific gene, results in a profound disturbance of
+hematopoietic cell differentiation in these totipotential ES cells. ES cells, therefore, represent an ideal
+model system for expressing individual regulatory genes of HIV whose cellular and molecular effects on
+hematopoiesis can be followed throughout the various stages of differentiation into mature blood cells.
+
+ES cells will be transfected with PGK expression vector constructs containing vpr, a full length clone
+with a deletion of vpr, and a complete full length clone of HIV. Neomycin resistant clones will be isolated and
+analyzed for expression of HIV genes by Northern analysis. Selected clones expressing vpr will then be
+cultured in methylcellulose in the presence of hematopoietic growth factors, conditions that will promote
+blood cell differentiation in the developing ES cell colonies. The following parameters will be monitored to
+determine the effect of HIV genes on hematopoiesis: 1) morphology and cloning efficiency of ES cells; 2)
+percentage of hematopoietic positive colonies forming; 3) frequency and type of secondary colonies derived
+from primary colonies; 4) expression of hematopoiesis related genes during the various stages of ES cell
+differentiation. At the same, expression of HIV genes will be monitored by a combination of RT-PCR and
+Northern Blot analysis. The vpr gene will be cloned into a vector with an inducible promotor if acute
+disruption of ES cell proliferation and differentiation make the detailed study of vpr's effect difficult.
+
+While direct suppression of stem cells may represent one mechanism by which HIV can alter normal
+hematopoiesis, the demonstration that HIV can infect a human stroma cell line suggests another mechanism
+involving an effect on the regulatory function of accessory stroma cells within the bone marrow
+microenvironment in supporting the maintenance, proliferation and differentiation of hematopoietic stem
+cells. Early studies in long term bone marrow cultures established the importance of the stroma in the
+regulation of hematopoiesis. This regulation is mediated both by cytokines produced by the stroma and by the
+physical cell to cell interaction between progenitor and stroma cells. Also critical is the interaction of
+progenitor cells with the proteins of the extracellular matrix. While the role of stroma derived growth
+factors in the regulation of hematopoiesis has been well studied, the importance and function of specific
+adhesion molecules and extracellular matrix (ECM) proteins is presently the subject of active research.
+Important adhesion pathways through the integrin superfamily of adhesion molecules are being identified and
+the role of specitic ECM proteins defined. Such adhesive interactions are important in the “homing” of stem
+cells following transplantation and in the normal development of progenitor cells into mature and functional
+blood cells. As such, HIV infection of stroma cells may impair their ability to mediate the regulation of
+progenitor cell development via cytokine production and/or disrupt the normal adhesion pathways that
+mediate the cell to cell interaction important for this development. Therefore, our goal in the next two
+specific aims is to examine the effect of HIV on the hematopoietic support function and adhesion properties of
+stroma cells.
+
+Our second aim is to determine whether the vpr gene of HIV is responsible for the loss in the ability
+of HIV infected stroma cells to support the growth and differentiation of hematopoietic progenitor cells. We
+will employ the short-term coculture system developed in this laboratory to assess the hematopoietic
+support function (HSF) of vpr transfected stroma cells lines. The HSF will be measured by the ability of an
+adherent layer of BS-1, L88/5 or L87/4 cells (normal human stroma cell lines) to support the growth of
+hematopoietic colonies from murine bone marrow target cells overlaid in supplemented methylcellulose
+cultures. Since murine cells cannot be infected by HIV, their use as target cells ensures thal any observed
+decrease in colony formation is only due to an effect of the virus on the stroma’s ability to support hemato-
+poiesis. Also, since HIV can infect both human progenitor cells and stroma cells, the use of this murine bone
+marrow/human stroma coculture system eliminates the problem of determining whether virus suppression
+of hematopoiesis in long term cultures is due to an effect on progenitor celis or on the supporting stroma
+cells. BS-1 cells readily support the growth of CFU-GM, BFU-E and CFU-meg. However, the number of BFU-
+E and CFU-GM colonies is markedly reduced after HIV infection of the BS-1 cells. Viral specificity is
+demonstrated in antibody blocking studies which show that HIV's negative effect on the HSF can be blocked
+when the virus is exposed to antibody to its gp160 surface antigen. Further evidence suggests an effect of
+
+50647414

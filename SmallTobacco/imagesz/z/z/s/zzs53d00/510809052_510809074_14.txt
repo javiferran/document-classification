@@ -1,0 +1,37 @@
+,@
+
+ 
+
+Conclusion
+
+This paper has reviewed briefly the issues that are germane
+to an evaluation of potential public health effects from exposure
+to refueling gas vapors. The PS-6 study presents data with which
+one may, according to IARC criteria, classify gas vapors as an
+animal carcinogen and a presumptive human carcinogen;
+furthermore, the data from this study may be used to calculate an
+
+upper-bound risk factor as the EPA has done.
+
+However, the issue presents a two-edged sword that
+complicates the applicability of the animal data to humans.
+First, the animals were exposed to a wholly-vaporized blend
+unrepresentative of the mixture found in ambient vapors and,
+second, there is just reason to question each of the two animal
+models used in the experiment. If either of these two edges were
+blunted, the issue of characterizing risk to humans might have
+been a lot clearer and perhaps subject to less scrutiny. This
+was not the case, however, and the data available on exposure
+assessment and epidemiology were insufficient or not clear enough
+to overcome the problems with interpreting the animal
+experiments.
+
+Research is proceeding actively, exploring the uniquenss of
+the male rat's response to hydrocarbons and on the health of
+workers exposed to petroleum vapors. With the narrowing of the
+informational gaps discussed here, a sound basis will form with
+which to characterize risks from refueling vapors.
+
+3906 880TS
+
+-15-

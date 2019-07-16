@@ -1,0 +1,32 @@
+-13-
+
+Pyrolysis Studies:
+
+The presence of glutamine in foods either from natural sources or
+flavor usage probably results in a very low order of toxicity.
+However, under varying conditions of temperature, time, etc., food
+amino acids and proteins undergo a series of complicated reactions
+with carbohydrates to yield so called “browning products". The
+nutritional value, chemistry, toxicity and metabolism of these
+browned product mixtures (Maillard reaction products) have been
+reviewed recently. (Waller et al.,1983; Tovar et al., 1983). The
+chemistry (Ciusa et al., 1975) and mutagenicity (Shinohara et al.,
+1983) of some glutamine specific Maillard products have been
+
+reported.
+
+L-Glutamine was included among 25 amino acids subjected to sealed
+tube pyrolysis at 600°C for 1 minute and the products assayed for
+mutagenic activity. The pyrolysis products were not identified.
+The mutagenic activity was assayed against S. typhimurium strain
+TA98 in the presence of liver microsomal fraction S9. The
+pyrolyzate of L-glutamine showed mutagenic activity but the number
+of revertants per pyrolyzate of 1 M amino acid was less than for
+
+other amino acids such as glutamic acid, arginine, lysine,
+
+ornithine, valine and tryptophan (Matsumoto et al., 1977).
+
+02
+
+566E14859

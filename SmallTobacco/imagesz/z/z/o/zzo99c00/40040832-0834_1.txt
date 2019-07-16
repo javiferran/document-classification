@@ -1,0 +1,63 @@
+Fe receptors for al] immunoglobulin classes are members of the immunoglobulin gene
+superfamily (25). They are expressed on certain B and 7 lymphocytes, macrophages, NK cells
+and polymorphonuclear leukocytes. On macrophages, among other functions, FcR mediate
+endocytosis of immune complexes and phagocytosis <f IgG bound antigenic particles
+(26,27,28). Furthermore, FcyR plays an important role in antibody-dependent cell mediated
+cytotoxicity (ADCC)(29). To date three distinct murine fcyR have been identified. The best
+characterized is the mouse macrophage-lymphocyte Fc receptor for IgGl or TgG2b.A rat mab,
+designated 2.462, against this Fe receptor has been developed (28),
+
+Preliminary Results. We have demonstrated (4,5) molecular mimicry between the FcyR and
+the MHV-S peplomer protein. The evidence is as follows
+
+1. Monoclonal or polyclonal mouse, rat or rabbit IsGs, and the rat 2.462 anti-mouse
+FcoyR mab immunoprecipitated from MHV infected cells a po’ ypeptide with a molecular mass (180
+kD) identical to that immunoprecipitated by anti-S antibudies. Purified F(ab’), fragments
+of the 2.4G2 anti-mouse FeyR mab similarly immunoprecipitated the 180 kD polypeptide.
+Similar results were obtained with three different strains of MHV and cells of three
+different types. F(ab’), fragments of rabbit IgG did not immunoprecipitate any polypeptide
+chains. None of these antibodies immunoprecipitated any proteins from uninfected cells(4,5).
+
+2. Several experiments demonstrated that the protein immunoprecipitated by the 2.462
+anti-mouse FcyR mab from MHV infected cells is the S$ glycoprotein: (a) Partial proteolytic
+maps obtained by S. aureus V-8 protease treatment of the 180 kD proteins immunoprecipitated
+from infected cells either by the 2.4G2 anti-mouse f2yR mab or the anti-S mab were
+identical. (b) Sequential immunoprecipitation experimenss from MHV-infected cells revealed
+that the same polypeptide chain was recognized by the two mabs. (c) Actinomycin D did not
+influence the induction and expression of the 180 kD chain that was immunoprecipitated by
+the 2.4G2 anti-mouse FcyR mab, demonstrating that this protein is of viral origin (4,5).
+
+3. A goat anti-S serum, but not normal goat serum, the 2.4G2 anti-mouse FeyR mab and
+unrelated rat and mouse mabs, immunoprecipitated a 75-7 &D molecule from uninfected WEHI-
+3 cells, an FeyR-bearing cell line (4,5).
+
+4. A gaat anti-S serum, the 2.462 anti-mouse FeyR rab, monoclonal rat IgG2b and rabbit
+IgG, tmmunoprecipitated an identical 165 kDa polypeptide corresponding to recombinant S$
+protein, which we expressed using vaccinia virus vector system, in cells murine, rabbit and
+human origin. Since the 2.4G2 anti-mouse FcyR mab does not react with rabbit or human FoyR,
+these results demonstrate beyond doubt the presence of an Fe binding epitope on S$
+(manuscript in Appendix).
+
+5. MHV-JHM-infected cells, but not control uninfected cells, form rosettes with anti-
+sheep red blood cell (SRBC) antibody-coated SRBC (see Appendix).
+
+6. The 2.462 anti-FcyR mab neutralizes MHV-JHM and irhibits MHV 5S induced cell fusion.
+Multiple attempts to select mutants resistant to neutralization with the 2.4¢2 anti-FeyR
+mab were unsuccessful (manuscript in Appendix), suggesting that the sequences involved in
+the molecular mimicry of the FeyR are essential for infectivity. This is also supported by
+our previous observations that the Fc binding activity of S is conserved among several
+strains of MHV and MHV-JHM mutants that we examined (see Appendix).
+
+7. Computer analysis of the MHV-JHM S peplomer and the FeyR protein seguences using
+the Dayhoff Align program identified three short domains (6-13 aminoacids) of sequence
+similarity. Monte Carlo analysis of two af these nearly adjacent domains spanning amino
+acid residues 457 to 506 for S and residues 108 to 134 for the FcyR indicated that this
+sequence similarity for MHV-JHM S and FeyR is significay: (Monte Carlo score=7.35) (4}.
+
+Objectives and Specific Aims: The hypothesis to te tested is whether the molecular
+mimicry between MHV-S peplomer protein and Fe receptor plays a role in the pathogenesis
+of MHV and the induction of autoimmune disease. Our objective is to identify the structural
+basis of this molecular mimicry and determine whether it plays a role in the pathogenesis
+of MHV. Our specific aims are:
+
+40040833

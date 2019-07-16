@@ -1,0 +1,67 @@
+CHARGE NUMBER: 6904
+
+PROJECT TITLE: BIOCHEMICAL METHODS DEVELOPMENT AND
+UTILIZATION
+
+PERIOD COVERED: March 1-31,. 1982
+
+PROJECT LEADER: R. M. McCuen
+
+DATE OF REPORT: April 1, 1982
+
+1. L5178Y THYMIDINE KINASE MUTATION ASSAY?>?
+
+ 
+
+From recent experiments andi a reevaluation of all the data concerning
+potential inactive (negative) chemicals tested in this system, two agents
+in presence or absence off microsomal activation were found to produce no
+mutagenic response: while causing a dose related: increase in toxicity. The
+chemicals demonstrating these effects, and thus. were judged to be inactive
+in this bioassay, were ethanol and nicotine (tested as nicotine tartrate).
+Both of these ageniis have been termed negative in other in vitro and. in vivo:
+assays. The importance of this work is that in our laboratories this bioassay
+does not show that every agent tested produces a positive biological response.
+For any in vitro assay to be useful, it must be able to distinguish between
+chemicalis which are known to give a positive or negative response in other
+test systems. With these experiments, we now have more confidence in the
+‘usefulness of the L5178¥/TK'/- bioassay at PM.
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. V79' CHINESE HAMSTER CELL MUTATION ASSAY?
+
+An excellent dose response was obtained using these cells treated with
+DMBA and hamster liver S9.as the source of activation. As expected, no
+response was observed in the absence of S9. [In the previous experiment,
+little or no dose-response was seen with hamster S9 because too high a dase
+was tested.] A second experiment was completed this month using DMBA and
+and rat Hiver $9 as the source of activation. [Rat liver S9 is the activation
+system of choice used in other ini vitro assays at PM.] The results from. this
+experiment revealed that, as expected, DMBA was. active only in the presence
+of rat liver $9. An almost linear, four point. dose response was observed.
+The most important finding was that at least for this chemical the shape and
+magnitude of the dose response curve was. almost identical regardless of the
+source of the microsomal activation (rat. or hamster liver $9). This. suggests
+that rat liver S9:' can be used in future experiments where metabolic activation
+is required,
+
+ 
+
+3. REFERENCES
+1. Penn, d. M. and Ayers, D. J. Notebook No. 7669, pp. 127-130.
+
+2. McCuen;, R. W. Notebook No. 7703, pp. 68-70.
+3. Weiissbecker, L. Notebook No. 7533, pp. 79-104.
+
+. Rwy “aos
+
+/tde
+
+zvezobroop

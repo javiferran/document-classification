@@ -1,0 +1,61 @@
+YER8&801.92W ' Paget
+oo eeeeSSFSSSSSSSSSSSSSSSSSSSSSSSSSSssSeeeeeeeeeS age 1
+* not depend upon de-proteinization of the sample was chosen. It is linear
+over a range of concentrations of from 0.4 ug/ml to 100 ug/ml (0.04 mg/dl
+to 10.0 mg/dl).
+
+A study was executed in conjunction with Roche Biomedical Laboratories,
+Inc. to compare their continuous flow analysis for SCN with the method
+chosen by us. The sensitivity of their method was approximately 7 times
+less than that of ours.
+
+An R&DM describing the SCN method was written. A manuscript describing the
+SCN data obtained during the 1987 and 1988 Human Studies Programs is in
+preparation.
+
+D. Implement HPLC-EC method for determination of catecholamines and
+metabolites in plasma and urine. (9/88)
+
+Progress was made on implementation of an analysis for catecholamines in
+plasma and urine. Recovery of the catecholamines from standards made up in
+either deionized distilled water or bovine serum was approximately 90%
+using liquid-liquid extraction. Linearity of response to the calibration
+standards was established and the precision of the method was determined.
+The linearity of the response for epinephrine covers a range of from 10 to
+1000 pg/ml. The lower limits of detection and quantitation for
+norepinephrine were established at 20 pg/ml and 40 pg/ml, respectively. A
+linear response range of from 20 to 1000 pg/ml was established for
+dopamine. Discussions were held with technical staff at ESA and Waters
+Corporation to explore further methodological improvements.
+
+Program 3. Neurophysiology of Nicotine
+{ Personnel: Lippiello, Robinson }
+
+1. Evaluate and continue (if appropriate) support for extramural program
+studying the effects of nicotine on selected brain areas using in vitro
+slice techniques and in vivo behavioral techniques. (Bowman Gray School of
+Medicine, Dr. S. A. Deadwyler, P.I.) (Ongoing through 1/89)
+
+Excellent progress was made in Dr. Deadwyler's laboratory in 1988.
+Electrophysiological studies using the hippocampal and hypothalamic slice
+preparations were concluded as outlined in Dr. Deadwyler's original
+proposal. The article "Cholinergic Excitation of Supraoptic Neurons in
+Hypothalamic Slices of Rat" (Gribkoff, Christian, Robinson, Deadwyler and
+Dudek) appeared in Neuropharmacology. Two manuscripts describing the
+results of a series of intracellular recording studies were received for
+review, along with Dr. Deadwyler's 1988 progress report.
+
+Two learning tasks were established to study the effects of nicotine on
+learning, memory and performance in rats. Doses of nicotine in the 0.5
+mg/kg range did not appear to affect the performance of the animals in
+stimulus-discrimination or delayed-matching-to-sample tasks. A detailed
+report is in preparation.
+
+@2SS 6€STSs
+
+A patch-clamp recording laboratory was established in Dr. Deadwyler's
+laboratory. This technology will be used to assess the effects of nicotine
+on cell-membrane single-ion-channel functions that ultimately lead to
+signal transduction in the central nervous system.
+
+2. Evaluate and continue funding (if appropriate) of program studying the

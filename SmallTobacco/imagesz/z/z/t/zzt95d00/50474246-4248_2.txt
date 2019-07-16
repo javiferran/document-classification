@@ -1,0 +1,59 @@
+Nested Discontinuity - Gabriel Kaufmann
+
+a)
+
+b)
+
+¢)
+
+a)
+
+e)
+
+ 
+
+Figure 1. Possible configurations of nascent lagging DNA blocked
+by different inhibitory measures. (a) Aphidicolin arrests at
+the level of the 5'-proximal DNA primer. (b) A near~contiguous
+array of DNA primers partially arrested by COMDP, deposition is
+uncoupled from gap-filling which proceeds in the 5! to 3!
+direction. (c) As in example (b) except that gap-filling proceeds
+in the opposite polarity. (ad) Gap-filling and deposition are
+coupled. (e) DNA primers are juxtaposed, due to inhibition of
+DNA ligase. vv - iRNA, ---- DNA portion synthesized by pol a,
+oo ~ DNA portion synthesized by the gap-filling activity, ===== -
+lagging template. The arrows indicate free 3'-ends,
+
+BIBLIOGRAPHY
+
+i. Morrison, A., H. Araki, A.B. Clark, R.K. Hamatake,and A.
+Sugino. 1990. Cell 62: 1143-1151.
+
+2. Prelich, G.,and B. Stillman. 1988. Cell 53: 117-126,
+
+3. Weinberg, D.H.,and T.J. Kelly. 1989. Proc.Natl.Acad.Sci.
+U.S.A. 86: 9742-9746,
+
+4. Tsurimoto, T., T. Melendy,and B. Stillman. 1990. Nature 346:
+534-539.
+
+5S. Nethanel, T., G. Reisfeld, G. Dinter-Gottlieb and a.
+Kaufmann. 1988. J. Virol. 62: 2867-2873.
+
+6. Nethanel, T.,and G. Kaufmann. 1990. J. Virol. 64:5912-5918,
+7. Khan, N.N., G.E. Wright, L.W. Dudycz,and N.C. Brown. 1984.
+Nucleic Acids Res. 12: 3695-3706.
+
+8. Talanian, R.V., N.C. Brown, C.E. MeKenna, 1T.G. Ye, J.N.
+Levy,and G.E. Wright. 1989. Biochemistry 28: 8720-8724.
+
+9. Syvaoja, J., 8. Suomensaari, c. Nishida, J. 8. Goldsmith,
+G.S.J. Chui, 8. Jain, and 8. Linn. 1990. Proc, Natl. Acad.
+
+Sci. U.S.A. 87:6664-6668,
+
+10. Li, J.d., and T.J, Kelly. 1984. Proc. Natl. Acad. Sci.
+U.S.A. 81:6973-6977.
+
+3. Anticipated duration and annual direct costs
+We anticipate a 3 year duration at a cost of $60,000 per annun.

@@ -1,0 +1,65 @@
+YER8801.92W Page 13
+eee Ge TS
+
+chronic elevation of corticosterone, which in turn regulates the levels
+and/or activity of nicotine and corticosterone receptors. All of the
+responses observed demonstrated genetic variations. These results may be
+related to literature reports of the anxiolytic properties of nicotine.
+
+b. Receptor Regulation - A newly developed quantitative autoradiography
+technique was uséd to produce detailed maps of receptor densities in
+specific brain areas in rats and mice and to study changes in receptor
+patterns after chronic nicotine exposure. The results indicated
+significant differences in receptor patterns, both before and after chronic
+nicotine infusion, between rats and mice and among strains of mice. The
+primary brain areas involved were cortex, hypothalamus, hippocampus,
+striatum, and thalamus.
+
+c. Brain Electrophysiology - Studies in this area used hippocampal slices
+to assess nicotine-evoked electrophysiological responses in brain.
+Nicotinic antagonists known to block peripheral nicotinic receptors
+produced electrophysiological enhancement in the mouse hippocampus,
+suggesting that potentiation of these effects by nicotine itself may be
+related to receptor desensitization. Effects of nicotine in the
+hippocampus may be mediated by a low-affinity (bungarotoxin binding)
+receptor subtype. Nicotine also appeared to affect electrophysiological
+correlates of learning and memory, particularly in mouse strains known to
+be better learners. The general effect appeared to be one of potentiation.
+
+A detailed progress report on all of the above areas was submitted to RUJRT
+for review. In addition, four manuscripts and three abstracts, in which
+RJRT support was cited, were forwarded for review. A new proposal,
+entitled "A Genetic Analysis of the Role of Nicotine in Stress and
+Learning", was submitted for review and potential funding.
+
+4. Evaluate and continue (if appropriate) work to develop and purify
+antibodies to nicotinic receptors from rodent brain through extramural
+contract research at the University of Bath, England. (Drs. G. G. Lunt and
+S. Wonnacott, Co-P.I.'s) (Ongoing through 1989)
+
+Drs. Susan Wonnacott and George Lunt made significant progress in several
+areas of their RJRT-supported research in 1988, as follows:
+
+a. Purification of Nicotine Binding Sites from Rat Brain - An FPLC (Fast
+Protein Liquid Chromatography) method was used to obtain partial enrichment
+of the two major receptor subtypes in brain. Significant progress was also
+made in the synthesis of anatoxin derivatives for use in affinity
+chromatographic receptor purification.
+
+b. Nicotine-evoked Neurotransmitter Release - Detailed biochemical and
+pharmacological profiles of nicotine-evoked GABA (Gamma Aminobutyric Acid)
+release from hippocampal synaptosomes were obtained, giving important
+insights into the properties of the nicotine receptor's ion channel.
+
+ccSS 6ESTS
+
+c. Antibody Studies - Anti-receptor antibodies (mAb270, mAb290) obtained
+from Dr. Jon Lindstrom (Salk Institute) were used to purify nicotine
+receptor-bearing hippocampal synaptosomes. Apparently, about 15 % of the
+nerve terminals in this brain area have nicotine receptors associated with
+them.
+
+qd. Chronic Nicotine Administration Studies - Administration of nicotine to
+rats using either subcutaneous injections or continuous infusion with Alzet
+minipumps resulted in a significant upregulation of high-affinity nicotine
+receptors in whole brain, and in the striatum (where nicotine appears to

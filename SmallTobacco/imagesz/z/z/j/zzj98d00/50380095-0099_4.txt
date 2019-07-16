@@ -1,0 +1,177 @@
+Biochemistry: Hagman and Grosschedl
+
+   
+
+vinyb/v-ets ~- S A S A
+ETS binding — wt wt mut mut
+site
+Fic. 5, The MUF?2 site in the mb-1 Promoter mediates trans-
+activation by v-myb—v-ets protein. Three tandem copies of the mut
+oligonucleotide (see Fig. 14), which contains a wt MUF? site and a
+mutated Sp1-binding site, were inserted immediately upstream of the
+c-fos minimal promoter linked to the CAT reporter gene (3). As a
+control, the mut3 oligonucleotide, which contains mutations in both
+sites (see Fig. 1A), was used to construct a mutant reporter plasmid.
+wt and mutant (mut) reporter plasmids were transfected together
+with an effector plasmid encoding a v-myb-v-cts fusion protein (178
+carboxyl-terminal amino acids of v-niyb fused to the entire 491 amino
+acids of v-ets) expressed in the Sense (S) or antisense (A) orientation
+from the cytomegalovirus enhancer/promoter. A Rous sarcoma
+Virus—tuciferase plasmid was included as a control for transfection
+efficiency. Cell lysates were Prepared 42 hr after transfection, lysates
+for CAT assays were hormalized for luciferase activity, and CAT
+activity was quantitated by using the PhosphorImager.
+
+enhancer region is altered by the addition of myeloma nuclear
+extract (30). (Gif) The mammalian transcription factor GABP
+is composed of the ETS-related GABPa and notch-related
+GABP8 subunits (31). Using the mb-/ proximal promoter
+region (-59 to —38) as a probe, we have not observed any
+changes in the mobility of protein-DNA complexes after
+adding early B-cell nuclear extracts to binding reactions
+containing the ETS family factors described in this study
+(data not shown). However,.the interaction of the ETS
+factors with nuclear proteins may: not be readily detectable
+because of their low abundance;
+
+The carboxyl terminus of Ets-1 could inhibit DNA binding
+by a number of different mechanisms, The carboxyl terminus
+could interact directly with amino acids that contact DNA. In
+a variation of this model, the carboxyl terminus could interact
+with another region of the polypeptide. Indeed, a second
+internal inhibitory domain was recently identified in Ets-1,
+Suggesting that binding is inhibited by specific intramolecular
+Contacts between both domains (32). This result is consistent
+with our observation that a peptide containing the carboxyl-
+terminal 15 amino acids of Ets-1 did not inhibit DNA binding
+when incubated with Ets-1AC (lacking these’ same amino
+acids) at peptide concentrations up to 1 mM (data not shown).
+Moreover, the carboxyl termirius ‘Of Ets-1 had only a minor
+effect on the DNA binding of PU-1/Ets-1 chimeric polypep-
+tides, although PU.1 and Ets-1 récognize similar DNA se-
+quences. . Bee moh .
+
+Of the ETS family factors tested $0 far, only the v-myb-
+v-ets fusion protein. was able to appreciably transactivate
+transcription through the MUF site. We suspect that the
+relatively high binding affinity of v-ets for this site, together
+with the presence of two putative activation domains (one in
+the carboxyl-terminal domain of. v-myb and one in the
+amino-terminal domain of y-ets; refs. 23 and 32), accounts for
+this effect. As previously suggested, the inability of the
+cellular ETS proteins to activate transcription in similar
+assays may reflect the need for interactions with other
+transcription factors bound to the promoter. Studies of ETS
+
+  
+
+Proc. Natl. Acad, Sci. USA 89 (1992) 8893
+
+family Proteins and other factors bound to the mb-1 promoter
+may explain how a specific member of a family of nuclear
+
+peters is recruited for the activation of transcription in early
+B cells.
+
+of America. This study was supported by funds from the Howard
+Hughes Medical Institute.
+
+lL. Cambier, J. C. (1991) Curr, Opin. Immunol. 1, 25-27,
+
+2. Sakaguchi, N., Kashiwamura, S.-i., Kimoto, M., Thalmann, P.
+& Melchers, F. (1988) EMBO J. 7, 3457-3464,
+
+3. Travis, A., Hagman, J. & Grosschedl, R. (1991) Mol. Cell, Bial.
+11, 5756~5766.
+
+4, Wasylyk, B., Wasylyk, C., Flores, P., Begue, A., Leprince, D.
+& Stehelin, D. (1990) Nature (London) 346, 191-193.
+
+5. Leiden, J. M. (1992) Immunol, Today 13, 22-30.
+
+6. Karim, F. D., Umess, L. D., Thummel, C. S., Kiemsz, M. dL,
+McKercher, S. R., Celada, A., Van Beveren, C., Maki, R. A.,
+Gunther, C. V., Nye, J. A. & Graves, B. J. (1990) Genes Dev.
+4, 1451-1453.
+
+7. Ghysdael, J., Gegonne, A., Pognonec, P., Demis, D., Lep-
+
+tince, D. & Stehelin, D. (1986) Proc. Natl. Acad. Sci. USA 83,
+1714-1718.
+
+8. Bhat, N. K., Fisher, R. J., Fujiwara, S., Ascione, R. & Papas,
+T. S. (1987) Proc. Natl. Acad. Sci. USA 84, 3161-3165,
+
+9. Watson, D. K., McWilliams, M. J., Lapis, P., Lautenberger,
+J. A., Schweinfest, C. W, & Papas, T. S. (1988) Proc. Nail.
+Acad. Sci, USA 85, 7862-7866.
+
+10. Leprince, D., Gesquiere, J.C. & Stehelin, D. (1990) Oncogene
+Res. §, 255-265,
+
+ll. Klemsz, M. J., McKercher, S. R., Celada, A., Van Beveren,
+C. & Maki, R. A, (1990) Cell 61, 113-124.
+
+12. Boutukos, K. E., Pognonec, P., Begue, A., Galibert, F., Ges-
+quiere, J. C., Stehelin, D. & Ghysdael, J. (1988) EMBO J. 7,
+697-705,
+
+13. Nunn, M. F., Seeburg, P. H., Moscovici, C. & Duesburg,
+P.H. (1983) Nature (London) 306, 391-395,
+
+14. Leprince, D., Gegonne, A., Coll, J., de Taisne, C., Schnee-
+burger, A., Lagrou, C. & Stehelin, D. (1983) Nature (London)
+306, 395-397,
+
+15. Travis, A., Amsterdam, A., Belanger, C. & Grosschedi, R.
+(1991) Genes Dev, §, 880-894.
+
+16. Chen, J. H. (1990) Oncogene Res. §, 277-285.
+
+17. Matthias, P., Muller, M. M., Schreiber, E., Rusconi, §. &
+Schaffner, W. (1989) Nucleic Acids Res. 17, 6418.
+
+18. Grosschedl, R. & Baltimore, D. (1985) Cet 41, 885-897.
+
+19. Ho, J.-C., Bhat, N. K., Gottschalk, L. R., Lindstein, T.,
+Thompson, C. B., Papas, T. S. & Leiden, J. M. (1990) Science
+250, 814=818.
+
+20. Martin, M. E., Piette, J., Yaniv, M., Tang, W. J. & Folk,
+W. R. (1988) Proc. Natl. Acad. Sci. USA 88, 5839-5843,
+
+21. Gunther, C. V., Nye, J. A., Bryner, R. S. & Graves, B. J.
+(1990) Genes Dev, ‘4, 667-679.
+
+22, Klempnauer, K.-H. & Sippel, A. E. (1987) EMBO J. 6, 2719-
+2725.
+
+23. Weston, K. & Bishop, J. M. (1989) Cell 58, 85-93.
+
+24. Hagman, J., Travis, A. & Grosschedl, R. (1991) EMBO J. 10,
+3409-3417. ‘
+
+25. Pognonee, P.,-Boulukos, K. E., Gesquiere, J. C., Stehelin, D.
+& Ghysdael, 3.1988). EMBO J. 7, 977-983.
+
+26. Koizumi, $.,.Fisher, R. J., Fujiwara, S., Jorcyk, C., Bhat,
+
+” NLK,, Seth, & Papas, T. (1990) Oncogene 5, 675-681.
+
+27. Fisher, C..L., Gi vysdael, J. & Cambier, J. (1991) J. Immunol.
+146, 1743-1749,
+
+28. Hipskind, R. A:,. Rao, V.N., Mueller, C. G. F., Reddy,
+E. S.P.& Nordheim, A. (1991) Nature (London) 384, 531-534.
+
+29. Dalton, S.& Treisman, R. (1992) Cell 68, 597-612.
+
+30, Pongubala, J. M. R., Nagulapalli, S., Klemsz, M. J., McKercher,
+S.R., Maki, R. A. & Acthison, M. L, (1992) Mol. Cell Biol. 12,
+368-378.
+
+31, LaMarco, K., Thompson, C. C., Byers, B. P., Walton, E. M.
+& McKnight, S. L. (1991) Science 253, 789-791,
+
+32, Lim, F., Kraut, N., Frampton, J. & Graf, T. (1992) EMBO J.
+11, 643-652.

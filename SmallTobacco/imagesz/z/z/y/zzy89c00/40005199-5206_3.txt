@@ -1,0 +1,118 @@
+Table 2 Interactions af Lp(a), LDL and plasminogen with cells
+
+ 
+
+ 
+
+Beek) SE-LDL 25]-Plasminogen
+Competitor Concentration Bound! 1 Bound! %I? Bound! %I?
+None 14.1408 0 7.9405 0 560 + 90 0
+EACA 0.2M 5.7404 60 10.6+5.1 6 1041 98
+LDL 250 1M 7.8 «0.02 45 2.6403 67 600+ 1 0
+EACA+ 02M 1.8 + 0.03 87 2.7 +0.2 72 1440.1 97
+LDL 250 nM
+
+HDL 500 nM 6.9+06 51 2.2403 72 684 + 50 0
+EACA+.- 02M 2.1+£02 85 2.5403 68 14+] 97
+HDL - 500 nM
+
+Acetylated LDL 250 nM 8.1+0.2 43 3.5401 56 710 + 30 0
+EACA + 0.2 M 2540.2 82 2.140.2 73 1421 97
+Acetylated LDL 250 nM
+
+ 
+
+Cells were incubated with the indicated concentrations of competitors for 150 min at 37° C. 251-ligands were present at 10 nM.
+
+'(Molecules/Cell) * (103)
+21 = percent inhibition of binding
+
+sults validate our premise that the selected assay conditions effectively
+suppressed ']-Lp(a) binding to either the apoB/E receptor (HDL and
+acetylated LDL, which are not ligands for this receptor, were inhibi-
+tory) or the scavenger receptor (LDL and HDL, which are not ligands
+for this receptor, were inhibitory). Thus, the non-selective lipoprotein
+binding sites (28-31, 49) must mediate the lipoprotein-dependent
+component of Lp(a) binding.
+
+Characteristics of Lp(a) Binding to Plasminogen Receptors
+
+The time course of '?5]-Lp(a) binding to U937 cells was measured in
+the presence or absence of a saturating concentration of LDL (Fig. 3).
+Apparent steady state binding was achieved within 120 min. In the pre-
+sence of LDL, steady state binding was also observed, indicating that
+Lp(a) binding to plasminogen receptors also reached a steady state. To
+ascertain whether Lp(a) binding to plasminogen receptors was more ra-
+pid than total Lp(a) binding, additional experiments were conducted in
+which we determined the percent of total Lp(a) binding that was inhib-
+ited by EACA or LDL at 5 min intervals over the first 20 min. At these
+early time points, of the total binding inhibitable by EACA + LDL,
+53-60% depended upon plasminogen binding sites (inhibited by
+EACA) and 40-47% on the lipoprotein binding sites. (inhibited by
+LDL). Thus, the time course of Lp(a) binding to these two classes of
+sites was similar. :
+
+The following observations were made to further characterize the
+interaction of !*I-Lp(a) with U937 cells: 1. The interaction was diva-
+lent ion independent (Fig. 4). The extent of Lp(a) binding to U937 cells
+(150 min at 37° C) was similar in the presence of 2 mM Ca or 5mM
+EDTA. In parallel analyses, divalent ion availability also did not affect
+'5]-LDL or "5]-plasminogen binding to the cells, 2. The interaction
+of "5]-Lp(a) with U937 cells was temperature sensitive, "25.Lp(a)
+binding at 4°C was reduced by 88% compared to its binding at 37° C
+(Fig. 4). 'I-plasminogen and '°51-LDL binding to U937 cells also
+were temperature sensitive, being reduced by 67% and 77%, respec-
+tively, at the lower temperature. 3. The binding of !25I-Lp(a) to U937
+cells was reversible. "I-Lp(a) was incubated with cells for 60 min at
+37° C in a volume of 200 pl. At this time, one sel of samples was
+diluted to 10 ml, and the second set remained undiluted, After an addi-
+tional 15 min, the cells were recovered by centrifugation. Only 33% of
+the Lp(a) bound to the cells in the undiluted samples was recovered
+with the diluted cells. Since cell recovery in the diluted sample
+exceeded 80%, the dissociation of bound Lp(a) by dilution was exten-
+
+ 
+
+511 ofa) Bound
+(Molecules/Cell) x (10°)
+
+ 
+
+ 
+
+ 
+
+0 30 60 90 120
+Time (min)
+
+Fig. 3 Time course of '°51-Lp(a) binding to U937 cells at 37° C. U937 cells
+(4 X 10%ml} were incubated with 10 nM I-Lp(a} with buffer (@), 250 »M
+LDL (©), 0.2 M EACA (2) or a combination of 0.2 M EACA + 250 1M
+LDL. (A) for the indicated times
+
+100
+
+80
+
+60
+
+40
+
+51.Lp(a) Binding (%)
+
+20
+
+  
+
+0 WW
+
+Fig. 4 The divalent ion dependence and temperature sensitivity of Lp(a)
+binding to U937 cells. U937 cells (4 X J0%ml were incubated with 10 aM
+"S[-Lp(a) in the presence of 2 mM Ca? (W), 5 mM EDTA (C1) (both a 37° C)
+or at 4° C (RS). Binding was measured after 2 h, and percent binding was calcu-
+lated relative to a contro! in the standard HBSS buffer, without added divalent
+ions
+
+ 
+
+40005202

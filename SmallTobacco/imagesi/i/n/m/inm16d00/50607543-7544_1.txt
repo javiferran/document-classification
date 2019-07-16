@@ -1,0 +1,77 @@
+Studies of the interaction between a-bungarotoxin and peptide models of the ligand binding site on the nicatinic
+acetylcholine receptor. Biophys. J., 5$:149a.
+
+Song, G.-Q., Armitage, I.M., and Hawrot, E. (1990) A binding site peptide fragment of the nicotinic acetylcholine
+receptor: sequence-specific assignment of 'H-resonances in the dodecamer 0185-196, Biochem. Pharmacology, 40: 63-65.
+
+Preston-Hurlburt, P., Wilson, P.T., Dowding A.J., and Hawrot, E, (1990) Monoclonal antibodies directed against
+a synthetic peptide corresponding to the bungarotoxin binding region of the acetylcholine receptor. Biochim. Biophys.
+Acta, 1033: 324-328.
+
+Pearce, S.F.A., Preston-Hurlburt, P. and Hawrot, E. (1990) The role of tyrosine at the ligand-binding site of the
+nicotinic acetylcholine receptor. Proc. Royal Soc. B, 241: 207-213.
+
+Pearce, S.F.A. and Hawrot, E. (1990) Intrinsic fluorescence studies of peptide fragments from the a-subunit of
+the nicotinic acetylcholine receptor: perturbations produced upon binding with o-bungarotoxin. Biochem., 29:10649-10659.
+
+Hawrot, E., Colson, K.L., Amnitage, I.M., and Song, G.-Q. (1990) Bungarotoxin binding to acetylcholine
+Teceptor-derived synthetic peptides analyzed by NMR. /n Frontiers of NMR in Molecular Biology, ed: Live, D.,
+Armitage, I., and Patel D. (UCLA Symp. on Mol. and Cellular Biology, New Series, Vol. 109, Alan R. Liss, Inc., NY).
+
+Basus, V.J. and Hawrot, E. (1990) Binding-induced perturbations in c-bungarotoxin: assignment of a protein-
+peptide complex based on CAMELSPIN (ROESY) exchange spectra. Thirty-First Experimental Nuclear Magnetic
+Resonance Conference, Abstr.
+
+Pearce, S.F.A. and Hawrot, E. (1990) Acetylcholine binding to nicotinic acctylcholine receptor (nAChR)-derived
+peptide fragments determined by fluorescence quenching. Fourth Symp. of the Protein Socicty.
+
+Basus, V.J. and Hawrot, E. (1990) Structural studies of o-bungarotoxin bound to a fragment of the nicotinic
+acetylcholine receptor. XIV Intemational Conference on Magnetic Resonance in Biological Systems.
+
+Horne, W.A., Hawrot, E., and Tsien, R.W. (1991) @-Conotoxin GVIA receptors of Discopyge electric organ:
+binding to the nicotinic acetylcholine receptor. J. Biol. Chem., 266: 13719-13725.
+
+Tomaselli, G.F., McLaughlin, J.T., Jurman, M., Hawrot, E., and Yellen, G. (1991) Site-directed mutagenesis alters
+agonist sensitivity of the nicotinic acetylcholine receptor. Biophys. J., 60: 721-727.
+
+Hawrot, E. and Basus, V.J. (1991) Identification of intermolecular contacts between o-bungarotoxin and a binding-
+site peptide fragment of the nicotinic acetylcholine receptor. Biophys. J., 59: 189a.
+
+Pearce, S.F.A. and Hawrot, E. (1991) Time-resolved fluorescence studies of a-neurotoxins binding to peptides
+derived from the o-subunit of the nicotinic acetylcholine receptor. Biophys. J.. 59: 299a.
+
+Tringali, A.E., Pearce, S.F.A., Hawrot, E., and Brenner, H.C. (1991) Triplet state spectroscopic studics of alpha-
+cobratoxin binding to acetylcholine receptor alpha subunit peptides. Biophys. J., 59: 30!a.
+
+Schlyer, B.D., Maki, A.H., and Hawrot, E. (1992) o-Bungarotoxin binding to two acetylcholine receptor a-
+peptides and their mcthylmercury-modified analogs: intrinsic phosphorescence and optically detected magnetic resonance
+Studies. FEBS Lett., 297: 87-90.
+
+Hawrot, E., Messier, N.J., Vaslet, C.A., Hsu, S.H., and Gentile, L.N. (1992) Expression of a synthetic gene for
+o-bungarotoxin in E. coli, Ann. Soc. Neurosci. Mtg. Abstr., #259.3.
+
+Loring, R.H., Dou, Y.M., Rossant, C, and Hawrot, E. (1992) Interactions of Dithiols with Reduced or Arsenylated
+Nicotinic Receptor Peptides. Ann. Soc. Neurosci. Mig. Abstract #337.1.
+
+Tringali, A.E., Pearce, S.F.A., Hawrot, E., and Brenner, H.C. (1992) Phosphorescence and ODMR study of the
+binding interactions of acetylcholine receptor alpha subunit peptides with cobratoxin. FEBS Lett., 308: 225-228.
+
+Basus, V.J., Song, G., and Hawrot, E. (1993) NMR solution structure of an o-bungarotoxin/nicotinic receptor
+peptide complex. Biochemistry, in press.
+
+Usselman, J.A., Hsu, 5.H., Messier, N.J., Vaslet, C.A., and Hawrot, E. (1993) Purification and nicotinic receptor
+binding activity of a recombinant o-bungarotoxin. Biophys. J. 64: ALL6.
+
+Shi, Q.L. and Hawrot, E. (1993) Involvement of the vicinal disulfide bond between Cys-192 and Cys-193 in
+ligand binding to peptide fragments of the nicotinic acetylcholine receptor. Biophys. J. 64: A376.
+
+Gentile, L.N., Basus, V.J., Shi, Q-L., and Hawrot, E. (1993) Probing the contact zone between o-bungarotoxin
+and a portion of the @-subunit of the nicotinic acetycholine receptor by 2-D NMR. Biophys. J. 64: A125.
+
+Shi, Q.L. and Hawrot, E. (1993) Exploration of the possible role in agonist and antagonist binding activities of
+the disulfide bond between Cys-192 and Cys-193 in the o-subunit of the Torpedo californica acetylcholine receptor,
+Miami Biotechnology Symposium.
+
+Gentile, L.N., Basus, V.J., and Hawrot, E. (1993) Using 2-D NMR to probe the contact zone between a-
+bungarotoxin and portions of the a-subunit of the nicotinic acetylcholine receptor. Keystone Symp. on Frontiers of NMR
+in Molecular Biology.

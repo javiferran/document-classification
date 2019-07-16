@@ -1,0 +1,52 @@
+222 IONOPHORES AND ELECTROPHOTOLUMINESCENCE
+
+A more precise expression for Eq: including its time course is
+[13] :
+3_(R/d)
+
+(2) EB, ft) = 23 wa O,7 A) {1 - exp (-2A,t/3RC,)] E cos @
+
+where cL is the membrane specific capacitance. It can be seen
+from the above relations (1-2) that : (aye is up to three orders
+of magnitude higher than £, as typically R/d = 1000 for blebs
+
+(b) the high (R/d) ratios make the second term in the denominator
+of eq. (2} non negligible for many cases. (c) for relatively high
+da / Ln (20.001) any factor that will affect an will strongly
+affect E,-These points are illustrated in Fig. 5.
+
+Since EPL is a monotonous function of Ey {roughly exponential
+8,12,27'), and ionophores significantly and selectively increase
+Ane the resulting changes in EPL are bound to be a sensitive
+probe of ionophore action in the system. By variation of, i.a.
+the nature and amount of the ions in the suspension, the type
+and cancentration of the ionophore as well as of the external
+field intensity, and monitoring of the ensuing changes in EPL, a
+whole range of ionophore properties can be studied, with ps
+
+time resolution. A typical example is given in Fig. 6., where
+emission in presence of the ionophores is governed by the kinetic
+relationship between the rise of En (and EPL) and the turnover
+time of the ionophore (see below).
+
+3. Control experiments
+
+To establish the validity of our approach, we applied it to
+some of the best characterized ionophores, particularly gramicidin
+and valinomycin; their functional action was verified by ability
+to inhibit photophosphorylation, produce diffusion potential
+delayed luminescence (as in [6], accelerate the decay of the
+electrochromic carotenoid ‘shift [28], and modify the dark time
+dependence of EPL onset lag by collapsing the light-induced
+membrane potential [13] . In view of the latter, measurements
+were done at long dark times (tg > 300 ms ~ see Fig. 3), when
+this potential almost completely decayed.
+
+4. Gramicidin
+The addition of gramicidin to the suspension of blebs caused
+a sizeable decrease of EPL usually accompanied hy marked kinetic
+
+alteration of the emission pattern (the left side of Fig. 6 isa
+typical example).
+
+50574471

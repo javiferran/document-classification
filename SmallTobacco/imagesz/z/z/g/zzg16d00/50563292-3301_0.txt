@@ -1,0 +1,106 @@
+INFECTION AND IMMUNTTY, Nov. 1994, p. 5085-31104
+0019-9567/94/$04.00-+0
+Copyright © 1994, American Society for Microbiology
+
+Vol. 62. No. LL
+
+Purified Shiga-Like Toxins Induce Expression of Proinflammatory
+Cytokines from Murine Peritoneal Macrophages
+
+VERNON L., TESH,'* BELAKERE RAMEGOWDA,' axp JAMES E. SAMUEL!
+
+Department of Medical Microbiology and Immunology, Texas A&M University Health Science Center,
+College Station, Texas 77843-1114,' and MicroCarb, Inc., Gaithersburg, Manland 208707
+
+Received 13 April 1994/Returned for modification 22 June 1994/Acccpted 18 August 1994
+
+Infections with Shiga toxin-producing Shigella dysenteriae type 1 and Shiga-like toxin (SLT)-producing
+Escherichia coli cause outbreaks of bloody diarrhea in which patients are at risk for developing life-threatening
+complications involving the renal and central nervous systems. Histopathology studies and in vitro experi-
+ments suggested that the toxins damage toxin receptor-expressing endothelial cells (EC) lining glomerular and
+central nervous system capillaries. In the presence of inducible host factors (cytokines), EC sensitivity to SLT
+toxicity was increased ~1 million-fold. We hypothesized that to manifest the vascular lesions characteristic of
+infection with toxin-producing bacteria, two signals were needed: systemic toxins and elevated proinflamma-
+tory cytokines (tumor necrosis factor alpha [TNF-a], interleukin 1 [IL-1], and IL-6}. Human EC do not secrete
+these cytokines when stimulated with SLTs in vitro, suggesting that additional cells may be involved in
+pathogenesis. Therefore, we carried out comparative analyses of the capacity of purified (endotoxin-free) SLTs
+and lipopolysaccharides (LPS) to induce cytokine mRNA and proteins from murine macrophages. The cells
+were essentially retractory to SLT cytotoxicity, expressing low to undetectable levels of toxin receptor. SLTs and
+LPS induced TNF activity and IL-6 expression from macrophages, although dose response and kinetics of
+cytokine induction differed. LPS was a more effective inducing agent than SLTs. SLT-I-induced TNF activity
+and IL-6 expression were delayed compared with induction mediated by LPS, IL-la production required ~24
+h of exposure to SLTs or LPS. Macrophages from LPS-hyporesponsive C3H/HeJ mice produced low levels of
+TNE activity when treated with SLT-I, suggesting that LPS and SLTs may utilize separate signaling pathways
+
+for cytokine induction.
+
+Infections with Shigella dysenteriae type 1 or enterohemor-
+thagic Escherichia coli are associated with outbreaks of bacil-
+lary dysentery or hemorrhagic colitis, respectively. Patients
+with these bloody diarrheal diseases are also at increased risk
+for the development of life-threatening complications involv-
+ing the renal and central nervous systems (2, 27). One of these
+sequelae, the hemolytic-uremic syndrome (HUS), is a major
+cause of pediatric acute renal failure. 5. dysenteriae type 1
+expresses high tevels of a potent cytotoxin called Shiga toxin.
+Enterohemorthagic £. coli strains produce one or more exo-
+toxins which are collectively referred to as Shiga-like toxins
+(SLTs) or verocytotoxins. Serologic and nucleotide sequencing
+analyses showed that SLTs may be classified on the basis of
+their antigenic and genetic relationship to Shiga toxin (re-
+viewed in reference 42); SLT type I (SLT-I) is virtually
+identical to Shiga toxin, while SLT-II is ~56% homologous to
+Shiga toxin or SLT-I at the deduced amino acid sequence level.
+Although genetic variants of the toxins have been described,
+extensive biochemical and biologic studies have shown that all
+members of the SLT family are AB; holotoxins which act by
+inhibiting eukaryotic protein synthesis and utilize the neutral
+glycolipids globotriaosyiceramide (Gb,) or globotetraosylcer-
+amide (Gb,) as functional receptors (reviewed in references
+10, 35, and 42).
+
+The precise role of the toxins in colonic ulceration and
+bloody diarrhea or in the development of postdiarrheal sys-
+temic complications is not known. Comparative histopatho-
+logic examination of tissues from macaque monkeys fed either
+an invasive toxigenic S. dysenteriae type 1 strain or an atoxi-
+
+* Corresponding author. Phone: (409) 845-1313. Pax: (409) 845-
+3479. Electronic mail address: vitesh@sigma.tamu.edu.
+
+S085
+
+genic isogenic derivative suggested that Shiga toxin may exac-
+erbate disease by specifically damaging capillaries serving the
+colonic mucosa and by mediating the influx of inflammatory
+cells inta the intestinal compartment (17). Examination of
+kidney tissue from HUS patients showed damage to glomeruli,
+characterized by the swelling and detachment of glomerular
+endothelial cells (EC) from the basement membrane accom-
+panied by the deposition of microthrombi and influx of in-
+flammatory cells mto the glomeruli (46, 47), Rabbits given
+intravenous SLTs developed severe edema and petechial hem-
+orrhages in the cecal mucosa and widespread thrombotic
+microangiopathy, edema, and ischemic necrosis in the brain
+and spinal cord. Macrophages were occasionally found in the
+damaged tissues (4, 48, 65). Mice given SLTs developed acute
+bilateral renal tubular necrosis, and the sites of toxin-mediated
+damage and expression of Gb, were directly correlated (55,
+61). Taken together, these data support the concept that the
+toxins act in vivo to specifically damage Gb3-expressing cells in
+target organs, EC damage may then facilitate the exudation of
+neutrophils and monocytes into the affected tissues.
+
+Shiga toxin and SLTs were shown to be directly toxic for
+human vascular EC in vitro (43, 58), although the doses of
+toxin necessary to manifest EC killing were 10° to 10° times
+greater than the doses used ta lyse toxin-sensitive cell lines
+such as Vero or HeLa cells. We and others have found,
+however, that when EC were incubated in the presence of
+bacterial endotoxins or the proinflammatory cytokines tumor
+necrosis factor-e (TNF-«) and interleukin-1 (IL-1), they were
+markedly sensitized to the cytotoxic action of SLTs (33, 34, 58).
+The mechanism of cytokine-mediated toxin sensitization may
+involve increased synthesis and membrane expression of Gb;
+(59). Barrett ct al. (3) demonstrated that TNF activity could be
+elicited from murine macrophages by treatment with purified

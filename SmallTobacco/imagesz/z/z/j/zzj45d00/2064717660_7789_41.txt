@@ -1,0 +1,78 @@
+INBIFO {nstifut fir biologische Forschung GmbH - Kéln
+
+ 
+
+ 
+
+Report P 0500/3237 97/10/8
+BATCH DOSE MUTAGENICITY (rev./plate) REGRESSION ANALYSIS
+PLATE M SE RSD REGR. SD CORR. TEST
+COEF. COEF.
+1 2 3
+
+(mg/ (3) (rev./ (rev./
+
+plate) fg} mg)
+0798 «= 0.200 20 #14 #%48 17.3 1.8 17.6
+
+0.400 16 13 7 15.3 1.2 13.6
+
+0.600 21 16 10 15.7 3.2 36.2
+
+0.800 725 22 15 17.3 2.3 23.3
+
+1.000 18 20 #18 18.7 0.7 6.2 2 4 0.2042 L
+0799 =—-0.200 19 23 16 19.3 2.0 18.2
+
+0,400 1440618 «©6290 «=—-20.3 4.5 38.2
+
+0.600 23 20 18 20.3 1.5 12.4
+
+0.860 18 23 27 22.7 2.6 19.9
+
+1.000 25 22 25 24.0 1.0 7.2 6 4 0.393 = L
+asco) =—0..200 14 18 20 17.3 1.8 17.6
+
+0.400 20 21 #47 19.3 1.2 10.8
+
+0.600 24 13 25 20.7 3.8 32.2
+
+0.800 19 26 27 24.0 2.5 18.2
+
+1.000 28 #16 25 23.0 3.6 27.2 8 4 0.504= L
+0801 +=0.200 19 13 20 17.3 2.2 21.8
+
+0.400 19 12 25 18.7 3.8 34.9
+
+0.600 18 23 14 18.3 2.6 24.6
+
+0.800 144 24 27) 21.7 3.9 31.4
+
+1.000 21 2 14 20.0 3.2 27.8 4 4 0.248 = Lb
+all 0.200 - . - 17.8 0.9 16.9
+
+0.400 - - - 18.4 1.4 26.6
+
+0.600 - - - 18.8 1.4 25.4
+
+Q.800 - - - 21.4 1.5 23.5
+
+1.000 - - : 21.4 1,2 20.2 5 2 0.3444 L
+
+ 
+
+Table 20 MUTAGENICITY OF TPM WITHOUT ACTIVATION IN STRAIN TAQ3,
+VIRGO-CA
+
+Remarks: date of assay: 25-FEB-97
+regression analysis: using Poisson weights
+test: statistically significant difference from 0
+N: nonlinearity, L: linearity
+
+970917 12:03:01 P. 1 USER_DISK:[IT_A_H]MUT_3237.L15;12
+
+PREORITY
+
+Page 36
+
+LFOLZLZp90z

@@ -1,0 +1,51 @@
+a naturally occurring antagonist of IL-1@ and IL-18.
+
+Though originally described as "lymphocyte-activating factor, LAF", the biologic activities of
+{L-1 are numerous and several cell types such as fibroblasts, mesangial cells and keratinocytes
+are capable of producing or responding to IL-1. Within the CNS the cells that produce IL-1
+include neurons, microglial cells and astrocytes but it is also transported into the CNS from
+the periphery following an inflammatory response. IL-1 effects on CNS function include the
+induction of cerebral cortical activities such as sleep and wakefulness and such hypothalamic
+activities as fever, appetite and pituitary hormone release. The mechanisms involved in these
+effects are largely unknown. The effects of IL-1 are mediated through IL-1 receptors (IL-1R)
+which are also expressed in the CNS (dentate gyrus, cortex, hypothalamus) (Deyerle, 1992)
+by both neuronal and non-neuronal cells.
+
+Experimental Design
+
+| propose to investigate the expression of IL-1 (a, & and ra) and determine how this
+expression relates to the expression and function of nAChRs in the nervous system. The
+working hypothesis is that IL-1 alone, or complementary, to trophic factors such as NGF,
+enhances the expression of nAChRs. The subsequent activation of nAChRs in turn regulates
+the expression of this cytokine.
+
+Two avenues of research will be explored:
+
+1. | will use PC12 cells as a model to examine the interplay between IL-1 {all forms)
+expression, NGF, and nAChR function. Friedman et al (1991) have demonstrated that IL-1
+induces the expression of NGF mRNA. Preliminary results from my laboratory suggest that
+NGF stimulates the expression of IL-1ra protein suggesting a possible "feedback loop” in the
+expression of IL-1 by PC12 cells (IL-18 increase --> NGF increase -- > IL-1ra increase --> IL-
+1B activity blocked). Further, mRNA for IL-1 and NGF is co-localized in some regions of the
+brain (i.e. granule cells of the dentate gyrus, pyramidal ceils of the hippocampus, granule cells
+of the cerebellum and the olfactory bulb) (Bandtlow, 1991}. The effects of NGF on IL-1 (a,
+8, ra and IL-1R) expression by PC12 cells will be investigated further by measuring both RNA
+and protein expression using antibodies for each of the IL-1 members.
+
+The effects of IL-1 on nAChR expression in PC12 cells has not been determined previously.
+IL-1@ and IL-1 will be incubated with PC12 cells, and the effects of these mediators on
+nAChR subunit expression will be determined by Northern blot analysis using subunit specific
+probes, immunocytochemistry (nAChR subunit specific antibodies have been generously
+provided by Dr. Scott W. Rogers at this institution), and direct binding of radioiodinated
+antibodies to PC12 cells (Rogers, 1992). One member of the nAChR family that can be
+readily measured by ligand binding in PC12 cells binds '*l-a-bungarotoxin. Therefore the
+effects of the cytokines on nAChR subunits and o-bungarotoxin binding will be determined.
+Further, IL-1 effects will be tested for complementarity with NGF on nAChR expression and
+will be tested with IL-1ra to determine whether the antagonist abrogates the effect of IL-1.
+
+The effect of acute or chronic activation of nAChRs by nicotine administration on the
+expression of IL-1 (all forms) by PC12 cells will also be investigated. | will assess changes
+in IL-1 (a, 8, raanIL-1R) and nAChR subunit expression (mRNA and protein) following chronic
+and acute incubation of cells with nicotine.
+
+2. The relevance of the tissue culture model to the animal will be tested. The distribution and

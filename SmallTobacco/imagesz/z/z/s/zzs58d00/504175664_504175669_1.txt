@@ -1,0 +1,43 @@
+B. Halohydrin Route
+
+ 
+
+“OH to
+x
+HOX OH™ y +
+X=C1 ,Br
+Cis Trans
+
+The halohydrin route has a twofold advantage over the peracid method.
+In the first place, the peracid epoxidation yields approximately equal.
+amounts of the cis and trans epoxides while the halohydrin route provides
+a convenient method for an essentially stereospecific preparation of the
+trans epoxide which is desirable for use in the synthesis of menthol. |
+The trans isomer (I) can be stereospecifically transformed to 2~menthene-1-ol
+(II), a menthol precursor, while the cis isomer (III) yields compounds which
+are not useful in the menthol synthesis. The equations below are illustrative
+(1, 2, 3).
+
+E-O 3 OH ¢,-0H
+my) OAc 4 H
+HOAc : A H 5 . 2 ; 4
+OH OH
+I II
+
+Trans Menthols
+
+at OAc H — OH
+H A + +
+i»
+
+A comparison of the two methods of preparation for the menthene epoxides
+is given in Table I. The stercospecificity of the halohydrin method is
+readily apparent.
+
+epoxide
+
+ 
+
+epoxide
+
+SS9S LLhOS

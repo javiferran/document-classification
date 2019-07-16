@@ -1,0 +1,77 @@
+24. Sep, 1990 Se OA
+
+39.KW 90 WRE/MWO LAUF_INB.WM
+
+Erlauterungen zum Laufzettel fiir Dokumente
+
+(1) Dokumententyp auf dem Laufzettel cintragen (Report, Protocol, Application o. &.).
+
+(2) Jede Weitergabe des Dokuments ist auf der Vordeyseite durch Ausgangsdatum beim Weitergebenden und
+Eingangsdatum beim Empfanger mit Datum und Zeichen zu dokumentieren.
+
+(3) Die in der folgenden Tabelle aufgefihrten Stationen sind fiir jedes Dokument in der angegebenen
+Reihenfolge zu durchlaufen und auf der Vorderseite des Laufzettels einzutragen. Treten geplante oder
+unvorhergesehene Abweichungen auf, so miissen diese Abweichungen in der folgenden Tabelle vermerkt
+werden:
+
+ 
+
+ 
+  
+ 
+   
+   
+
+STATION BEMERKUNG
+
+ 
+
+Freigabe Autor
+
+ 
+
+   
+
+Freigabe SD bzw. Coordinator
+
+DP-Meeting (a)
+
+ 
+ 
+    
+  
+
+GLP-Cneck
+
+Language-Check
+
+LR-Standards-Priifung | |
+QA-Freigabe
+Approval GM oder Reviewer
+
+ 
+ 
+
+  
+    
+   
+  
+
+ 
+
+ 
+
+Binden
+
+Versand
+
+(4) Der Laufzettel ist Teil des Project Management Files (PMF), verbleibt bis zum Ausgang des Dokuments
+jedoch beim Dokument und wird erst danach im PMF eingeordnet.
+
+(a) Im Anschiu8 an das DP-Meeting werden die weiteren Stationen und der Reviewer festgelegt.
+
+ 
+
+7
+
+gzeg0lLsose

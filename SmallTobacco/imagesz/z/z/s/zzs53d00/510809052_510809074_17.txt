@@ -1,0 +1,35 @@
+Table 1
+API Protocol Outline for 2-Year Inhalation Study on Gasoline
+
+ 
+
+ 
+
+Numbers of Test Animals*
+
+ 
+
+ 
+
+Rats Mice
+Group and Concentration M F M F
+Control 100 100 100 100
+0.30 mg/Liter (67 ppm) 100 100 100 100
+1.29 mg/Liter (292 ppm) 100 100 100 100
+9.15 mg/Liter (2,056 ppm) 100 100 100 100
+
+ 
+
+“Ten animals per sex and species were sacrificed for examination at 3. 6. 12. and 18
+months of exposure. All animals surviving to 24 months of exposure were sacrificed
+for final analyses.
+
+Adapted from: ‘A Chronic Inhalation Study with Unleaded Gasoline Vapor” in J.
+
+Am. College Tox, 3:231-248. 1984.
+
+ 
+
+ 
+
+6906 @8@TS

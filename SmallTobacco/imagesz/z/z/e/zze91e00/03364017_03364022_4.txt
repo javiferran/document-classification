@@ -1,0 +1,159 @@
+- . 6 September 1978
+“troject | seep | gape | ome nov. | ec.| gan [_en.] mar] aa
+
+Blend Devel, .
+100 ‘
+150 100 50
+150
+
+ 
+ 
+    
+
+ 
+    
+ 
+
+Filter Devel.
+Flavor Devel.
+Sample Prep,
+Mkt. Res,
+Prod. Monitor
+Evaluation
+Tot. Man Hrs,
+
+ 
+ 
+       
+     
+   
+ 
+
+Blend Devel.
+-Filter Devel,
+Flavor Devel,
+Sample Prep,
+Mkt. Res,
+Prod. Monitor
+Evaluation
+Tot.-Man Hrs,
+
+ 
+   
+   
+      
+   
+       
+ 
+
+True 100
+
+Blend Devel.
+@ 8/10 mg
+
+Filter Devel.
+Flavor Devel,
+Sample Prep,
+Mkt. Res.
+Prod. Monitor
+Evaluation
+Tot. Man Hrs.
+
+  
+      
+   
+   
+   
+    
+ 
+ 
+  
+
+Kent ULT Blend Devel,
+Filter Devel,
+Flavor Devel,
+Sample Prep.
+Mkt. Res.
+Prod. Monitor
+Evaluation
+Tot. Man Hrs.
+
+ 
+   
+     
+ 
+       
+ 
+
+Blend Devel.
+Filter Devel,
+Flavor Devel.
+Sample Prep.
+Mkt. Res.
+Prod. Monitor
+Evaluation
+Tot. Man Hrs.
+
+ 
+   
+   
+ 
+
+50
+50
+
+  
+       
+       
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+
+KGL 100 Blend Devel,
+@ 8 mg Filter Devel.
+~ 2? Flavor Devel.
+’ Sample Prep,
+Mkt. Res.
+Prod. Monitor
+Evaluation
+Tot. Man Hrs,
+
+ 
+ 
+   
+ 
+
+   
+
+» Aspen-85
+
+Qe
+
+aspen-100
+
+Mkt. Res.
+Prod. Monitor
+
+ 
+ 
+  
+
+  
+  
+ 
+
+Filter Devel.
+Prod. Monitor
+
+ 
+
+Grand Total 1050 1375 800 875 900 350 700 50
+
+ 
+
+Tz0b9eco

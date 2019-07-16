@@ -1,0 +1,36 @@
+20
+
+21
+
+22
+
+24-Oct87 — -16569 Master_4.doc - DRAFT Page 16
+
+8-Hydroxy-Deoxyguanosine Determination
+
+As a measure for possible oxidative DNA damage, 8-OHdG was determined in 8
+rats/group after 6 (WBO and WB12 only) and 12 months (all groups) of inhalation. During the
+last exposure day, rats were killed as described. The lungs were perfused in situ with isotonic
+saline to remove erythrocytes. The lungs as well as the nasal respiratory epithelium and the
+nasal olfactory epithelium were stored frozen at -70°C until further processing. DNA
+extraction was performed according to Gupta (1984) with emphasis on fast tissue processing
+to prevent both DNA repair and artificial DNA oxidation. Enzymatic digestion of DNA as well
+as chromatographic separation (Nucleosil 100-5 C18 precolumn, CS Chromatographie
+Service, Langerwehe, Germany; Novapack C18, Waters Millipore; HPLC HP 1050, Hewlett
+Packard) and electrochemical determination (HP 1049A, Hewlett Packard) of 8-OHdG were
+performed according to Shigenaga et al. (1990). The amount of deoxyguanosine (dG) present
+
+in the samples was determined by its absorbance at 245 nm.
+
+As an integrative monitor for oxidative DNA damage without specification of the organs
+involved, 8-OHdG excretion in urine was determined in 5 to 6 rats/group at 5 and 12 months
+of inhalation. Twenty-four hour urine samples were collected as described for nicotine
+biomonitoring. The purification of 8-OHdG from the rat urine was performed according to
+Shigenaga et al. (1990) with some modifications. An internal standardization method was
+employed using SH+abeled 8-OHdG prepared from [1°,2’H}-dGTP (Amersham,
+Braunschweig, Germany) according to Kasai and Nishimura (1984). Interfering substances in
+the eluate were oxidized at +0.35 V before the actual 8-OHdG determination using an
+
+additional electrochemical detector.
+
+SbEveggLoz

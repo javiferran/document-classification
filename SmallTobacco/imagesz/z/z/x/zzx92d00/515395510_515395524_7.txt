@@ -1,0 +1,62 @@
+YER8&801.92W Page &
+eee aS
+
+determinations were made in plasma, urine, and saliva. A total of 434
+Samples was analyzed for nicotine and cotinine during the two pilot
+studies.
+
+Since plasma nicotine and cotinine levels in samples obtained during the
+pilot studies were at or below the detection limit of the method, no plasma
+samples were taken in the final study. Determinations of nicotine anda
+cotinine in the saliva and urine specimens obtained during the final study
+were made by Dr. N. Benowitz's laboratory at the University of California
+at San Francisco, because samples from higher priority projects were being
+analyzed in our laboratory.
+
+E. Establish and oversee research project on saliva and taste at Florida
+State University. (L. M. Beidler, P.I.)
+
+This research was designed to study mechanisms through which cigarette
+smoke can stimulate the trigeminal and gustatory systems in the oral
+cavity. The immediate oro-sensory impact of smoke and "aftertaste" are of
+interest. Work to date has been in the rat model. The key accomplishments
+during 1988 were as follows:
+
+a. A monoclonal antibody was made to the portion of the saccharin molecule
+that is important in taste. It was shown to bind a battery of
+sweet-tasting compounds with affinities that are in agreement with human
+taste sensitivities to these tastants. This antibody is likely to have
+properties similar to a taste receptor protein, and will be used to study
+the structural requirements for the perception of both bitter and sweet.
+
+b. A procedure for the radioactive labeling of proteins separated from
+different taste papillae was developed.
+
+c. A technique for studying the retention of tastants by the tongue was
+developed... Nicotine, caffeine and several sweet tastants are being used in
+initial studies on aftertaste.
+
+d. A detailed analysis of the effects of partial removal of salivary glands
+on the eating and drinking behavior of the rat was completed. The rats
+showed a modest decline in body weight, consumed slightly less food and
+water and consumed much more sucrose in fewer anda longer drinking sessions.
+These results suggest that taste perception was altered in these animals
+because of a change in the chemical composition of saliva.
+
+Program 2. Smoke Component Dose
+
+[ Personnel: Anderson, Bodnar, Davis, Griffith, Ingram, Reynolds, Robinson,
+Stiles }
+
+1. Improve methodology to measure, replicate and analyze human smoking
+behavior. '
+
+A. Convert the HP86 controller on the Human Mimic Smoking Machine to the
+Masscomp computer. (12/88)
+
+LISS 6ESTS
+
+Significant progress was made in converting the computer for controlling
+the HMSM for use on the Masscomp computer. This work was performed with
+the aid of a contract programmer. The conversion is now scheduled for
+completion early in 1989.

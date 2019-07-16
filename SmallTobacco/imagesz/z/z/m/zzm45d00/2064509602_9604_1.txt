@@ -1,0 +1,63 @@
+Cigarette Development:
+
+Menthol subjectives can be improved through proper selection of cut filler tobacco blends. A series of blend
+variations will be tested to achieve optimum subjectives. Preliminary subjective screening also showed that
+K1 plasticizer and replacement of the HAT with a polypropylene tube improve menthol impact. Analytical
+results on these models will be available next week.
+
+Coated Mat Process Development:
+
+The March 16 Ancram trial was successful in producing tobacco extract liquor at 7%, allewing us to proceed
+with current cigarette mat formulation. Handsheets of mat made at Ancram were used to make hand-made
+cigarettes in Ashland this week. Subjective evaluations of the trial will be completed by March 28.
+
+Performance Assessment:
+
+.
+
+M
+
+Cigarettes placed in similar humidity as Japan have shown evidence that column strength in the cavity area is
+not adequate to sustain insertion into a lighter. Cigarettes used thus far in this evaluation are with 9%
+glycerin. A test is in progress to determine the effect of mat glycerin level on high humidity crush strength.
+Cigarettes with mat glycerin levels of 9, 7, and 5% are in test.
+
+inery Development:
+
+Commercial DAPTC (Combiners):
+
+Strategy is currently being developed to incorporate a Max tipper fan inte the DAPTC to provide vacuum,
+dust collection and boost to the Garden dust collection system. The need for a stand alone vacuum source at
+the DAPTC was not anticipated in the original scope of the development work.
+
+DAPTC Tobacco Mat Automatic Splicing System:
+
+Electrical debug continues to delay initial trials with the Phase I prototype. On March 20, Ashland electrical
+personnel identified and resolved a problem with a faulty processor in the system.
+
+MK9 / Max-S (Tobacco Rod Makers):
+
+A chip was replaced in the Mk9 PIM (electrical controls) in response to a recent P.M. Safety Bulletin.
+Louisville had identified a Mk9 PIM control problem that allowed the machine to be operated in the jog mode
+with a safety inter-lock engaged.
+
+Set-up of the Accuray long-term weight-control system is continuing.
+
+Commercial D.H. Max (Tipping Machinery):
+
+Slitter:
+
+Problems with cellulose acetate build-up on the combined tobacco rod second-cut knife have been eliminated
+by changing to a different style carbide knife.
+
+Optimization emphasis has shifted back to the combined tobacco rod alignment drum where consistent
+alignment prior to the next drum transfer continues to be a problem. Maximum speed with consistent quality
+is currently at 1200 cigarettes per minute, although short runs at 3000 cigarettes per minute have been
+observed.
+
+Construction on MR3 (Machine Room #3) has begun and should be completed in approximately one month.
+MR3 will provide a controlled environment (temperature and humidity) for slitting operations.
+
+£0960Gh902
+
+2

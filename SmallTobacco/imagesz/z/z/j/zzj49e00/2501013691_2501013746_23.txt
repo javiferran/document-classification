@@ -1,0 +1,52 @@
+TNO-report
+
+_ OOO
+
+B-92-0388 May 1992 page 24
+
+9 EXPERIMENTS WITH ETS
+
+The experiments were continued with the selected optimal membrane module Enka
+MD020CP2N for ETS in a test room. -
+
+The general conditions were:
+
+Room volume : 60.2 m3
+
+Ventilation air flow ; 72.0 m3/h
+
+Air change rate : 1.2 hel
+
+Membrane module : MD 020 CP 2N
+
+Air speed : 1.5 m/s
+
+Air flow module : 9.3 dm3/min = 560 dm3/h
+Water flow module : 1.0 dm3/min = 60 dm3/h
+
+ETS was generated with the smoke generator according to ISO standard 7210. The filtration
+efficiency was measured for the following compounds:
+- formaldehyde;
+
+- higher aldehydes;
+
+- hydrogen cyanide;
+
+- nitrogen dioxide;
+
+- ammonia;
+
+nicotine:
+
+HL ZELOLOS2
+
+- acetone;
+
+- hydrocarbons;
+phenol;
+
+- amines.
+
+The respirable dust concentration (RSP = respirable suspended particulates) in the room was
+
+monitored with a tyndallometer, Hund type Digital uP.

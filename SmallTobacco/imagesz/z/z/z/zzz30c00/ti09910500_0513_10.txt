@@ -1,0 +1,57 @@
+approach it in some areas. In general, other indoor pollutants~in this
+building, including tobacco smoke, were only found at low levels, but there
+can be no doubt that this building was found to be poorly ventilated,
+especially in the areas where complaints originated.
+
+As an incidental point, this study complements other work'® in that
+airborne measurements alone might fail to reveal the obvious causes of air
+quality problems in a building such as this. While individual pollutant
+levels remain under acceptable standards, a knowledgeable and thorough
+inspection of the mechanical systems helps to reveal not only the origin of
+current complaints, but potential for future ones. .
+
+Recommendations for improvements in this building included opening of the
+outside air dampers to allow in the minimum outside air ventilation rate of 20
+cfm per person, as recommended in ASHRAE Standard 62-89. Also, that the
+loading dock be equipped with signs instructing drivers to switch their
+engines off; cleaning and sanitizing of the condensate trays and other areas
+inside the main AHUs showing visible fungal growth; opening of the ceiling
+void in areas where slab-to-slab partitioning had been erected; and review of
+the VAV damper setting policy to ensure adequate fresh air delivery into the
+occupied spaces.
+
+DISCUSSION
+
+A simplistic overview of these contrasting buildings indicates that the
+older government building on the east coast suffered from very poor filtration
+and relatively high levels of dirt, while the newer commercial office building
+suffered mainly from ventilation related problems. The contrasting
+engineering characteristics, however, gave rise to very similar complaints
+from the building occupants. In our view, this demonstrates that at least at
+the initial stages of an investigation, little information can be gained from
+occupant questionnaires which will be ultimately useful in solving indoor air
+quality problems.
+
+Major flaws in air quality related operation and maintenance practices
+need to be corrected first before indulging in questionnaires, or indeed, any
+other disruptive practices such as occupant shuffling, carpet removal, or
+smoking bans. Further problems with occupant questionnaires are likely to be
+resistance to such an exercise by building management or occupant employers,
+and the real possibility that questions on health symptoms generate occupant
+anxiety and eventually lead to a "snowballing" political issue, uncontained by
+the original and possibly quite genuine complaints. Premature removal of
+suspect carpets or smoking bans before checking the engineering evaluation
+would usually only provide temporary relief and other pollutant accumulations
+would probably manifest themselves at a later date.
+
+Eiltration. One of the biggest contrasts noted in these two buildings were
+the filtration systems, one of which was rated as very poor, and the other as
+excellent. Because choice and maintenance of filtration systems plays an
+important part in indoor air quality, standards for rating them are crucial to
+a successful engineering appraisal of an HVAC system. The current ASHRAE
+Standard 52-76 requests that filter manufacturers specify both a weight test
+and a dust spot test for each class of filter.
+
+11
+
+TI10991-0510

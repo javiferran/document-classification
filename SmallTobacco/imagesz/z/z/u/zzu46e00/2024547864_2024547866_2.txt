@@ -1,0 +1,24 @@
+Table 1
+
+TA98 Specific Activity (S.A.) of 2 Cigarette: Codes:
+
+Analysis of Variance &
+
+CSC Yield = _ _
+Cigarette Code Smoking Number (mg/cigt) xX SAS xX
+XOD5BFR control 1 35.6 2070
+2 33.4 34.3 2020 2130
+3 33.8 2250
+4 34.2 2180
+X6D5BFS test. 1 341.0: 2650
+2 32.8 34.3. 2300: 2370
+3 35.2: 2070
+4 35.2 2470
+
+a.  2R1 controll S.A. - 1800
+b. All samples exhibited a dose-response and were 2X background.
+Cc. The mean S.A.s were rounded to the nearest ten.
+
+*. Samples within the same bracket are not. different from each: other.
+
+I982LPSpz0>

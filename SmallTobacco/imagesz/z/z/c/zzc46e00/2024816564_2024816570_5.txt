@@ -1,0 +1,66 @@
+CIGARETTE 8- PORT
+CODE EXT. COEFF
+
+NSD9CRI
+
+NSDOCRI-1 15
+
+XSDICRO 42
+
+XSD9CRP' 55
+
+( ) Indicates an increase.
+
+(8)
+
+GO
+
+(6)
+(4)
+
+(4).
+
+MEDTUM BASIS. WEIGHT SHEETS
+
+% SIDESTREAM REDUCTIONS
+
+(26):
+(41)
+(31)
+
+TABLE 3
+
+TEOM
+
+39
+
+46
+
+SOPACTTY
+
+42
+
+48
+
+STATIG
+TPM
+
+23
+42
+
+41
+
+DYNAMIC
+MS. TPM
+
+14
+
+DYNAMIC
+SS' TPM
+
+16
+43
+
+47}
+
+69S9TSbz07

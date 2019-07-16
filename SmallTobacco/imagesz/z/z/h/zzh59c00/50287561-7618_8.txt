@@ -1,0 +1,33 @@
+Table 1. Cumulative incidence of AD in first degree relatives of 50 cases
+
+diagnosed by contemporary clinical research diagnostic criteria
+
+ 
+
+Age No. at riskl Incidert eases % Cumulative incidence _ 8.0.
+60 173.5 1 0.58 0.57
+65 139.5 3 2.71 1.34
+69 103 3 5.55 2.07
+70 91 1 6.59 2.30
+71 83 1 7.71 2.58
+72 16 1 8.93 2.77
+73 67.5 3 12.97 3.50
+15 53 1 14.62 3.80
+76 44.5 2 18.45 4.49
+79 31 1 21.08 5.06
+80 26.5 1 24.06 5.68
+81 23.5 1 27.29 6.29
+82 20 2 34.56 TAT
+83 16 1 38.65 8.05
+86 8.5 1 45.87 9.82
+
+ 
+
+1Number alive and disease free at start of year, minus one-half the number of deaths
+or withdrawals
+
+Standard errors estimated by Greenwocd's formula (27)
+
+ 
+
+50287569

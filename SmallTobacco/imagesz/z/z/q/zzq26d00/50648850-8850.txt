@@ -1,0 +1,160 @@
+Complexes of Ras-GTP with Raf-1 and
+Mitogen-Activated Protein Kinase Kinase
+
+Shonna A. Moodie,* Berthe M. Willumsen, Michael J. Weber,
+Alan Wolfman
+
+‘The guanosine triphosphate (GTP)—binding protein Ras functions in regulating growth and
+differentiation; however, little is known about the protein interactions that bring about its
+biological activity. Wild-type Ras or mutant forms of Ras were covalently attached to an
+insoluble matrix and then used to examine the interaction of signaling proteins with Ras.
+Forms of Ras activated either by mutation (Gly12Val) or by binding of the GTP analog,
+guanylyl-imidodiptiosphate (GMP-PNP) interacted specifically with Raf-1 whereas an ef-
+fector domain mutant, lle36Ala, failed to interact with Raf-1. Mitogen-activated protein
+kinase (MAP kinase) activity was only associated with activated forms of Ras. The specific
+interaction of activated Ras with active MAP kinase kinase (MAPKK) was confirmed by
+direct assays. Thus the forming of complexes containing MAPKK activity and Raf-1 protein
+
+are dependent upon the activity of Ras.
+
+ 
+
+The majority of cellular Ras in quiescent
+cells is in the inactive guanosine diphos-
+phate (GDP)-bound. conformation. Stimu-
+lation of cells with mitogens or differentia-
+tion factors increases the abundance of the
+active GTP-bound form of Ras (1). The
+activity of Ras is required for regulatory
+signaling by plasma membrane tyrosine ki-
+nase oncogenes and receptors (2). Blocking
+the action of Ras, either by microinjection
+of antibodies or through the expression of a
+dominant negative mutant, prevents the
+activation of the cytosolic serine-threonine
+protein kinases Raf-1 and MAP kinase (3,
+4). The expression of activated Ras, either
+in whole cells or in vitro activates thesc
+cytosolic serine-threanine protein kinases
+
+§. A. Moodie and A. Wolfman, Oepartment of Cell
+Biology, Cleveland Clinic foundation, 9500 Euclid
+Avenue, Cleveland, OH 44106.
+
+8. M. Willumsen, Institute of Microbiology, University
+of Copenhagen, @ster Farimagsgade 24, OK 1353
+Copenhagen, Denmark.
+
+M. J.-Weber, Department of Microbiology, Health
+
+Sciences Centre, University of Virginia, Charlottesville,
+VA 22908.
+
+*To whom correspondence should be addressed
+
+1658
+
+(5-7). These cytosolic enzymes can func-
+tion as part of a kinase cascade, in which
+MAP kinases are activated by a MAPKK
+(8), which in turn can be phosphorylated
+and activated by the Raf-1 protein kinase
+(9). The components of this pathway may
+not always be coupled to each other, how-
+ever, because neither Ras or Raf-1 activates
+MAP kinases in Ratla cells (10).
+
+Though it is clear that Ras participates
+in signaling between the cell membrane
+and the cytosol, the biochemical interac-
+tions that mediate the action of Ras are
+poorly understood. To determine if Ras
+might physically interact with cytosolic
+signaling components in a GTP-depen-
+dent manner, we covalently bound recom-
+binant c-Ha-Ras (referred to as Ras) to
+silica beads activated by an N-hydroxyl
+succinimide group (11, 12). The coupled
+Ras was active in binding guanine nucle-
+otides and has been used to examine
+interactions between Ras and neurofbro-
+min, a regulator of Ras function (12). The
+immobilized Ras was used to probe rat
+brain cytosol for signaling proteins that
+
+SCIENCE * VOL. 260 * 11 JUNE 1993
+
+50648850
+
+specifically interacted with Ras-GTP.
+
+Immobilized Ras bound to GMP-PNP. (a
+nonhydrolyzable GTP analog) formed a sta-
+ble complex with Raf-1 (Fig. 1A). Approx-
+imately 15% of the total cytosolic Raf-1
+associated with immobilized Ras-GMP-
+PNP. The transforming Ras mutant,”
+Ras¥#!!2 bound to GMP-PNP, was about
+10% as effective as wild-type Ras in forming
+stable complexes with Raf-1 (Fig. LA). An
+even. smaller amount of Raf-1 associated
+with the GDP-bound form of Ras¥#4?, A
+form, of Ras with a mutation in the effector
+domain, Ras*'36, bound to either GDP or
+GMP-PNP failed to bind detectable
+amounts of Raf-1 (Fig. 1B). Thus, the stable
+association of Raf-1 with immobilized Ras
+correlated well with the formation of the
+active GTP-bound form of Ras.
+
+We investigated the GTP-dependent as-
+sociation of Ras with MAPKK and MAP
+kinase, which have been reported to func-
+tion downstream of Raf-1. Immunoprecipi-
+tates of MAP kinase from the rat brain
+lysate did not catalyze the phosphorylation
+of myelin basic protein (MBP) in the pres-
+ence of {y-**Pladenosine triphosphate
+(ATP) (13). This enabled us to use the
+activation of endogenous MAP kinase ac-
+tivity as an assay for MAPKK. Incubation
+of cytosolic proteins bound to immobilized
+Ras:GMP-PNP with ATP produced soluble
+kinase activity with a high substrate speci-
+ficity for MBP as compared with cither
+histone or casein (Fig. 2A) (14). The sol-
+uble kinase activity was also detected with
+
+Fig. 1. Association of
+Raf-1 with immobilized
+Ras. (A) Lysate was in-
+cubated with immabi-
+lized Ras-GDP {lane 1},
+Ras-GMP-PNP (jane 2},
+Ras’*"?-GDP (lane. 3),
+or Ras¥#!?-GMP-PNP
+(lane 4) for 60 min at
+4°C (15); 2x Laemmli
+sample buffer was add-
+ed to the sedimented
+material and the eluted
+proteins were analyzed
+by SDS-polyacrylamide gel electropheresis
+(SDS-PAGE}, transferred, and immunoblotted
+with a rabbit polycional antibody to Raf-1. The
+position of Raf-1 is denoted by the arrow.
+(B) As in (A) except that lysate was incu-
+bated with immobilized Ras-~GMP-PNP (lane 1),
+Ras“'935-GDP (lane 2), or Ras*'#26-GMP-PNP
+(lane 3). Control immunoprecipitation of lysate
+with the antibody revealed a single band of 68
+kD whereas the rabbit non-immune serum did
+not react with this protein. Quantitation of Raf-1
+bound to immobilized Ras was done on a phos-
+phorimager and expressed as the percentage of
+Raf-1 protein immunoprecipitated from identical
+amounts of crude lysate. Comparable amounts
+of antibody and lysate were used to those in the
+experiment described in Table 1.
+
+A

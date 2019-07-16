@@ -1,0 +1,92 @@
+TNO-report
+
+eS
+B-92-0388 May 1992 page 26
+
+DI2ZE10L0S2
+
+Table 7, Summarized results of the measurments with ETS.
+
+Compound Inlet Outlet Efficiency RSP
+conc. conc. % conc,
+ug/m? pg/m3 mg/m?
+
+4/12/91 Acetone 2500
+Benzene 150
+Toluene 340
+Xylene is. 200
+Ethylbenzene 49
+Trimethylbenz.is 30
+Styrene 1000
+n-octane 19
+n-nonane 11
+n-decane 12
+n-alkanes C>10 14
+
+53/12/91 nicotine 144
+370
+
+6/12/91 formaldehyde 243
+323
+
+9/12/91 aliph. amines <320
+<600
+
+16/12/91 formaldehyde
+
+. acetaldehyde
+acroleine
+acetone
+
+12
+172
+15
+365
+
+propionaldehyde 31
+butyraldehyde 14
+crotonaldehyde 21
+
+A A
+
+metharoleine
+benzaldehyde
+
+lso-valeraldehyde
+
+hexanal
+8/1/92 ammonia
+
+15/1/92 nitrogen dioxide
+
+17/1/92 phenol
+
+20/1/92 cyanide
+
+*) not detectible.
+
+L5
+24
+12
+5.
+174
+167
+
+54
+45
+
+34
+43
+
+5.
+5.
+
+2
+
+0
+3
+
+A
+NOOO 0O00 0000000
+
+hr

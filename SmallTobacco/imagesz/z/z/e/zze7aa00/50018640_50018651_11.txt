@@ -1,0 +1,54 @@
+196 E. R. STEPHENS
+
+APPENDIX
+
+Following is the derivation of the formula for determining how large the beam on the large mirrors must
+be in order to just fill the spectrometer aperture.
+
+Refer to Fig. 7, and let
+H = height (or width) of beam on large mirror inside cell
+
+R = distance between internal mirrors (or image J at edge of mirror)
+
+kL = slit height (or width)
+
+L = image of slit
+
+AM = magnification U/L = M)
+
+M, = parabolic mirror height (or width)
+
+P,, Py = prism height (or width)
+
+zZ = distance from parabolic mirror M, to prism, P,, plus twice the distance from the prism to the
+
+Littrow mirror; i.e., M,P.
+F = focal length of monochromator parabolic mirror M,
+RY distance from monochromator slit to external mirror (A = height of mirror)
+a separation of central ray and extreme ray on My,
+(For convenience and clarity, only one half the system has been shown in the figure, showing an extreme
+
+ray and a central ray.)
+Draw a line parallel to the optic axis through the end of the image J from H to A. Then
+
+— ML
+H a (1)
+
+A+ MEL MS
+Draw a similar line through the end of L between A and M,. Then
+
+. A-L Ss
+M,—a+tLkL F
+
+M, = P(P;, P.) anda = 2
+PTaFSI ~} @
+From (1): Az me - . G3)
+From (2): A= SFP — SIZ + FSL + FPL (4)
+
+F2
+
+By eliminating A from (3) and (4), and rearranging terms,
+
+Llp I 4 Z\V
+H=Rél4—fitrfi+i-2 jie
+(8+ ale (; s A) |) Me

@@ -1,0 +1,28 @@
+OVERALL SUMMARY
+
+# Only one-third printed box is within specification for total solvents
+
+* By both C-14 toluene and headspace 6C, only trace amounts of solvents are
+absorbed in Alpha products
+
+* Sensory discriminant analysis resulted in mo significant difference between
+control and products packed in 1/3 printed and full printed boxes
+
+RECOMMENDATION:
+# For both 1/3 printed and full printed boxes:
+
+- Specification should be maintained at .5 mp. toluene/CPB and 1.48 mg. total
+solvents/CPB
+
+NEXT STEPS:
+* To reduce solvent levels
+‘= Use aqueous lacquer (reduction of 66 X% solvents)
+
+~- Use vacuum chamber (reduction of 25 % solvents: additional cost of
+$2@.006/CPB)
+
+~ Lenothen aging time (will likely not reduce solvents enough?
+
+~ Re-desion drying system (not feasible within project time frame)
+
+9925 99595

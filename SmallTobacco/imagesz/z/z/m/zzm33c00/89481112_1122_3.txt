@@ -1,0 +1,54 @@
+Pilot Plant DIET Puffer
+
+Jennifer Johnson has worked with Dave Smart, Joe Douglas and
+John Chapman to build a Pilot Plant scale DIET puffer. Jennifer
+and Dave modified the Pilot Plant FC-11 expansion bench so that
+the temperatures required for DIET expansion tests, 365°C to
+410°C, could be maintained in the tower inlet, memo 10/5/94.
+
+The team successfully designed a Pilot Plant scale DIET puffer.
+Initial tests of the Pilot Plant puffer achieved a 107% expansion
+of tobacco. The expansion achieved by the Lorillard DIET TPP
+typically ranges from 85% to 87% expansion.
+
+The team recommended that an improved Pilot Plant “impregnation*
+vessel be purchased. Such a vessel has been approved for pur-
+chase in the 1995 capital budget. Jennifer trained Joe Douglas
+in the operation of the expansion bench.
+
+GC-MS Analysis of Residues from the DIET v20 Tank
+
+The yellow residue that is removed from the DIET process V20 tank
+during routine maintenance operations has been analyzed for
+nicotine by leaf laboratory and Emily Cochran. The residue is
+formed as a result of the “precipitation* of compounds from the
+“used" liquid carbon dioxide that is stored in the tank.
+
+The compounds which “precipitate" include those that are removed
+from tobacco during the impregnation step of the DIET process.
+Laboratory studies have shown that various tobacco compounds are
+extracted by liquid carbon dioxide at sub-critical conditions,
+memo 7/6/93.
+
+Aruna Prakash is currently analyzing the V20 residue using a
+GC-MS method. The objective is to identify the compounds in the
+residue. The composition of this residue may be of interest
+during future DIET optimization studies.
+
+Study of Fabric Volatiles
+
+Ignition propensity results obtained for denim fabrics treated
+with potassium sulfate have been unusual compared to correspond-
+ing results obtained for denim treated with potassium acetate.
+E-Chung Wu and Scott Passer have proposed that the unusual
+results might be related to either 1) the volatile compounds that
+are emitted when the sulfate treated fabric is charred or 2) the
+chemical composition of the sulfate and acetate chars.
+
+Samples of control, potassium sulfate and potassium acetate
+denims, as well as various cellulose mixtures and denim blue dye
+were submitted. The analyses requested included 1) GC-MS analy-
+sis of volatiles produced during charring and 2} FTIR analysis of
+the chars.
+
+CTTTSH6s

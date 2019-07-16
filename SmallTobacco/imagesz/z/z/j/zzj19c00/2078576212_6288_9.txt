@@ -1,0 +1,28 @@
+INBIFO Institut fir biologische Forschung GmbH - K6In BOR oD i &
+Report P 0500/3284 Page 8
+
+ 
+
+In each well, 1.0 - 10* cells were seeded and cultivated in culture medium containing 10 % FBS.
+Approximately 24h after seeding, the cells were exposed for 24h to the smoke fractions
+dissolved/suspended in culture medium containing 4.8 % FBS. At the end of exposure, the
+culture medium containing the smoke fractions was replaced with culture medium containing
+neutral red. Following a 3-h incubation period, the optical density of neutral red as a measure
+
+for the number of viable cells was determined photometrically at 540 nm.
+
+5.3. Test System Characterization and Criteria for Test Validity
+
+The morphology of the cells was checked routinely with a microscope and showed no signs of
+abnormalities. In addition, cells were screened for mycoplasma and there was no indication of
+
+infection.
+The population doubling times of the cell cultures were in the required range of 24 + 5h.
+
+The sensitivity and reproducibility of the NRU assay was checked by determining the
+responsiveness of the cells to the positive control substance acrolein in the cytotoxicity assay
+(Table 4 to Table 5 and Figure 1). The cytotoxicity of acrolein as well as that of the smoke
+fractions of the 1R4F was in accordance with results obtained in previous INBIFO studies
+(Table 6).
+
+2078576221

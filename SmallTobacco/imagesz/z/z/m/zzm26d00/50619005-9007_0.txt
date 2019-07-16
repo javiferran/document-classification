@@ -1,0 +1,51 @@
+Chromosome Rearrangements and DNA Repair
+Preliminary Proposal
+George Weinstock, Ph.D.
+
+Summary
+
+Research in my laboratory has been concerned with DNA repair and
+recombination. For the past several years we have been studying unequal crossing
+over (UCO) or ectopic recombination. UCO is the recombination that occurs
+between repeated sequences that align out of register with the rest of the
+chromosome. This type of recombination leads to chromosome rearrangements
+such as duplications, deletions, inversions and translocations. Moreover, UCO is
+stimulated by DNA damage. The purpose of the proposed research is to:
+
+1 Continue studies in E. coli to understand the mechanism of UCO and develop
+an assay for UCO that will allow us to investigate this phenomena in all
+organisms.
+
+2. Use this assay to investigate UCO in eukaryotic cells and determine the effect of
+DNA damaging treatments, DNA repair systems, ageing, and other factors.
+
+Background
+
+UCO is recombination between repeated sequences that gives rise to
+duplications, deletions, inversions, and chromosome translocations. In man these
+types of rearrangements are associated with a variety of diseases. On the X
+chromosome alone, examples of diseases resulting from rearrangements causing
+deletions are Kallmann syndrome, Aicardi syndrome, Goltz syndrome, X-linked
+xeroderma pigmentosum. An example of a duplication and a deletion that occur
+between the same repeated sequences is Charcot-Marie-Tooth disease, caused by the
+duplication, and HNPP syndrome, in which case the same region is deleted. There
+are, of course, other examples of less severe diseases that are caused by
+rearrangements on the X chromosome, perhaps most notable being the variations
+in color vision caused by recombination between tandemly repeated opsin genes.
+The effects on color discrimination point out another consequence of UCO; namely
+that hybrid sequences are formed. In the case of color vision, recombination
+between these slightly different opsin genes leads to new hybrid genes with altered
+spectral sensitivities. In addition, numerous examples of rearrangements on the
+other human chromosomes have been related to disease. It is anticipated that many
+human disorders will be ultimately related to these types of chromosome
+rearrangements. Thus, understanding the mechanism by which rearrangements
+occur and developing more sensitive assays for detecting rearrangements is
+important to the molecular medicine of the future.
+
+Our laboratory has studied UCO in E. coli. Our use of this bacteria as a model
+system was mainly prompted by its ease of genetic manipulation. However, UCO is
+also important in bacterial pathogenesis. For example, Vibrio cholera amplifies the
+
+ 
+
+50619005

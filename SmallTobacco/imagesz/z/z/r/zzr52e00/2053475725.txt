@@ -1,0 +1,55 @@
+PROJECT NUMBER: 1740 DATE: November 1, 1983
+
+PROJECT TITLE: Flavor Components of Tobacco and Filler
+
+PROJECT LEADER: C. S. Kroustalis
+
+PERIOD COVERED: September 26 = October 25, 1983
+
+I. TOBACCO AND FILLER
+
+A.
+
+The following compounds were identified in the 8-glucosidase
+
+hydrolyzate of the E-55 glucosidic fraction by Dr. F. Hsu
+
+using GC/MS: 3-methyl-l-butanol, 2-methyl-2-buten-l-ol,
+3—hexen-l-ol, benzaldehyde, benzyl alcohol, phenethylalcohol,
+2-methy1-5-(2-methyl-5-isopropenyl tetrahydro-2-furyl) furan
+(tentative identification), 3-oxo-a-ionol, blumenol C,
+4-(3-hydroxybutylidene)-3,5,5-trimethyl-2-cyclohexone (two
+isomers), cadineol, and hydroxysolavetivone (two isomers).
+
+Propyl paraben determinations have been made on 45 RL samples
+and size. Size samples at timed intervals during a Pilot
+Plant run showed no concentration variation over several
+hours. RL sheet samples analyzed randomly indicated a small
+amount of application cycling in concentration levels.
+Standard response in the range of 100 to 2200 ng/yl was
+linear. Lower limit of detection under current analytical
+practices is 1.20 ng/ul. The RL sheet generated will be made
+into cigarettes to determine dust generation from RL as well
+as possible transfer of propyl paraben to non-RL blend
+components.
+
+We are currently working with Ms. E. T. Oakley in developing
+a procedure for estimating oriental tobacco in cigarettes.
+The methyl ester of 8-methylvaleric acid is used as the
+marker for oriental. Contributions from bright and burley
+tobaccos appear to be minimal (<10 ug/g versus 950 ug/g for
+oriental).
+
+Preliminary results with synthetic Marlboro blends show good
+correlations, but B-methylvaleric acid concentration ranges in
+various grades of oriental from different countries need to be
+determined.
+
+A procedure is being developed for determining C2-C,. volatile
+fatty acids in tobacco and filler. Although we were not
+successful with butyl ester derivatives because of dilution
+problems, benzyl ester derivatization shows promise. This
+procedure involves the reaction of the tetrabutylammonium
+salts of the acids with benzyl bromide in acetone.
+
+SGLGLbEGQ?

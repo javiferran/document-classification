@@ -1,0 +1,63 @@
+540 Weinkam and Sterling
+
+4. Have there been changes in the rate with which young people start or stop
+smoking and if so, are such changes related to occupational choice?
+
+5. Are there occupational differences in the way the smoking behavior of a
+subpopulation changes as it grows older?
+
+6. How do smoking habits differ between employed and unemployed individuals?
+
+7. Has publicity about smoking had an effect on the accuracy of occupationally
+related smoking data obtained by interview methods?
+
+By combining data on the distribution of smoking habits by occupation, industry,
+sex, and race, obtained from the National Health Interview Survey (NHIS) of 1970
+and that of 1979/80 [USDHEW, 1974], we can obtain answers to these questions.
+
+METHODS
+
+The NHIS collects information on a continuing nationwide sample of households
+as part of the ongoing activity of the National Center for Health Statistics (NCHS).
+The data collected in these surveys are made available to investigators on Public Use
+
+‘Tapes obtainable through the National Technical Information Service (NTIS). Both in
+
+1970 and 1979/80, the NHIS utilized questionnaires that requested from respondents,
+among other information, a detailed description of smoking habits, as well as infor-
+mation on the nature of respondents’ employment status and, for those who had been
+employed, the occupation and industry in which they worked. The surveys were
+conducted by interviewing, each week, a sample of households selected from the
+civilian, noninstitutionalized U.S. population, using a sophisticated stratified proba-
+bility sampling technique in such a way that each weekly sample of households is
+representative of the target population, and that weekly samples are additive over
+time. Associated with each individual is a weighting factor, which is basically the
+reciprocal of the probability of that individual's being selected. In 1970, all subjects
+aged 17 or over were asked detailed questions about their smoking behavior, and the
+resultant data were part of the regular Public Use Tapes. In 1979, a randomly chosen
+one-third subsample of those 17 and over were asked somewhat less detailed questions
+about smoking, and in 1980, the fraction was one sixth; in both of these years
+smoking information was distributed separately as a so-called Smoking Supplement
+Tape. For the 1979 and 1980 surveys, NHIS has adjusted the weights within the
+Smoking Supplement Sample so that in each year estimates can be made that apply to
+the whole population. (A detailed description of the design of the survey and general
+qualifications of the data obtained from it may be found in USDHEW, 1974.)
+
+For 1970, NHIS data were available on 116,466 individuals. Smoking informa-
+tion was obtained only from individuals who were 17 years of age or older. We did
+not include subjects of races other than white or black in our analy “>, since there
+were too few of them (749) to permit meaningful comr-risons. “uso, about 50
+subjects with invalid occupational coding were dropped. Tu.ve wer. /5,497 subjects
+from the 1970 survey available for analysis.
+
+Combining the one-third sample from 1979 with the one-sixth sample from 1980
+yields a group of 37,604 individuals, which is just under half the number of observa-
+tions available for 1970. After excluding individuals of other races and those with
+invalid data, 34,800 subjects from the 1979/80 surveys remained for analysis.
+
+Occupations are encoded on the NHIS tapes using the Classified Index of
+Occupations and Industries (Bureau of the Census, 1960, 1970]. The 1970 data used
+
+CTR SP-FILES 012489
+
+11012509

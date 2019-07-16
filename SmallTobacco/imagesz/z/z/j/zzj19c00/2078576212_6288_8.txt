@@ -1,0 +1,33 @@
+INBIFO Institut fir biologische Forschung GmbH - K6In
+Report P 0500/3284
+
+ 
+
+5 Experimental Design and Procedures
+5.1 Media and Reagent Preparation
+
+All media and reagents were prepared using ultrapurified water. All equipment, glassware, and
+media used were sterile. The chemicals were obtained from GIBCO, Biochrom, Merck,
+Boehringer, or Sigma at a purity of between 96 and 100 %. Fetal bovine serum (FBS) was
+obtained from ICN.
+
+For cell cultivation, Dulbecco’s modified Eagle’s medium (DMEM), containing 10% FBS,
+penicillin G (1- 10° U/l), and streptomycin sulfate (100 mg/l) was used. It was stored at
+approximately 4 °C until use, the maximum storage period being 6 weeks.
+
+5.2. Test System and Procedures
+
+The principle of the NRU assay is the uptake of neutral red, a vital dye, into the
+lysosomes/endosomes of viable cells thereby enabling their quantification (Borenfreund and
+Puerner, 1985). The NRU assay was performed in basic conformity with INVITTOX protocol
+(1990) with mouse embryo BALB/c 3T3 cells, clone A31 obtained at passage no. 67 from the
+American Type Culture Collection (ATCC CCL 163). These cells were subcultivated and
+
+aliquots were stored in liquid nitrogen vapor until use.
+The NRU assay was performed 3 times on separate study days (3 substudies). In each
+
+substudy, 4 replicate 96-well microtiter plates per smoke fraction were used, 8 concentrations
+
+per smoke fraction, each concentration replicated 6 times per microtiter plate.
+
+2078576220

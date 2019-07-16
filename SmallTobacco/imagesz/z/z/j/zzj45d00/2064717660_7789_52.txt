@@ -1,0 +1,99 @@
+INBIFO institut far biologische Forschung GmbH : Koln
+
+PRIORITY
+
+ 
+
+Report P 0500/3237 97/10/8
+
+Page 47
+
+ 
+
+MUTAGENICITY (rev. /plate)
+PLATE M SE
+
+BATCH DOSE
+
+NO.
+
+RSO REGR. SD
+COEF.
+
+(mg/ (%) (rev./ (rev./
+
+plate) mg) ng)
+
+REGRESSION ANALYSIS
+
+CORR. TEST
+COEF.
+
+ 
+
+0794 «60.200 «6132 139 133 134.7
+
+255 «14
+0795 «60.200 «6150 153 156 153.
+
+239 «14
+0796 «60.200 «145 139 140 141.
+
+321 «14
+
+1.000 350 379 357 362.0
+all 0.200
+
+1
+0
+1
+3
+5
+0
+9
+0797) «0.200 =6153 138 130 140.3 6
+4
+4
+7
+8 293 «4
+2
+4
+
+DwHndDwW WNW Winsow NOUR CENA
+
+°
+ay
+So
+a
+Nm
+So
+an
+nh
+
+2777
+
+0.980 HL
+
+0.972 +4L
+
+0,985 +H+L
+
+0,982 +4N
+
+0.965 -H+L
+
+ 
+
+Table 31
+VIRGO-CC
+
+Remarks: date of assay: 26-FEB-97
+regression analysis: using Poisson weights
+test: statistically significant difference from 0
+N: nonlinearity, L: linearity
+
+970917 11:04:22 P. 1 USER_DISK:CIT_A_HIMUT_3237.LIS;12
+
+MUTAGENICITY OF TPM WITH S9 ACTIVATION IN STRAIN TA100,
+
+eLZZELp90z

@@ -1,0 +1,75 @@
+72. “Simulations of Dynamical Properties of a Michaelis Complex: Porcine
+Pancreatic Elastase and the Hexapeptide, Thr-Pro-norVal-Leu-Tyr-Thr"
+M.Geller, S.Swanson & E. Meyer, J.Bio.Struct.&Dynam., (1990)7,1043-1052
+
+73. “Enzymes as Synthetic Catalysts: Mechanistic and Active Site
+Considerations of Natural and Modified Chymotrypsin", J.B.West,
+wW.J.Hennen, J.L.Lalonde, J.A.Bibbs, z.Zhong, BE.Meyer & C.-H.Wong,
+J.Am.Chem.Soc. (1990) 112,5313-5320.
+
+74. "How Rigid is the Active Site of Native Porcine Pancreatic Elastase?
+Molecular Dynamics Simulations", M. Geller, G. Carlson-Golab, B. Lesyng,
+$.M, Swanson, and E.F. Meyer, Biopolymers, (in press)
+
+75. "Thermodynamic Cycle-Perturbation Study of the Binding of Trifluoro-
+acetyl Dipeptide Anilide Inhibitors with Porcine Pancreatic Elastase", 5.
+Lesyng & E. Meyer, Biopolymers, (in press).
+
+76. “The 2.2A Resolution X-ray Crystal Structure of the Complex Formed
+by Reaction of the Thrombin Inhibitor 4-Chloro-3~-ethoxy-7-guanidinoiso-
+coumarin with Trypsin", M.M. Chow, E. Meyer, W. Bode, C.-H. Kam, R.
+Radhakrishnan,J. Vijayalakshmi & J.C. Powers, J.Am.Chem.Soc.(1990)
+112:7783-7789.
+
+77. “Dynamic Properties of The First Steps of Enzymatic Reaction of
+Porcine Pancreatic Elastase. Part IT. Molecular Dynamics Simulation of a
+Michaelis Complex: PPE and the Hexapeptide, Thr-Pro-nVal-Leu-Tyr-Thr"
+
+M. Geller, S.M. Swanson & E. Meyer, J.Am.Chem.Soc., in press
+
+78. "Structural Study of Porcine Pancreatic Elastase Complexed with 7-
+amino-3-(2-Bromo)ethoxy-4-chlorosiocoumarin as a Nonreactivable Enzyme
++ Inhibitor Complex", J. Vijayalakshmi, E. Meyer, & J.C. Powers;
+
+Biochemistry (in press)
+
+79. "Dynamical Analysis of the Conformation of the Active Site of
+Porcine Pancreatic Elastase in Native and Michaelis Complex States.
+Molecular Dynamics Simulations", M. Geller, A. Laczkowski, S.M.Swanson
+& E, Meyer, Comp. in Chem., in press
+
+80. “The X-ray Crystal Structure of the Covalent Complex Between Porcine
+
+Pancreatic Elastse and Acetyl-Ala-Pro-Val-2-Benzoxazole, A Novel, Non-Slow
+
+Binding Electrophilic Ketone Inhibitor of the Elastases", P.D.Edwards, E&.
+
+Meyer, J.Vijayalakshmi, P.Tuthill & D.Andisik, J.Am.Chem.Soc. (submitted)
+CHAPTERS
+
+47. "Molecular Modelling: 1) Playing the game when you don’t know the
+
+rules, 2) How to learn the rules, and 3) Some results", E. Meyer,
+
+Proceedings, Xth International Symposium on Medicinal Chemistry,
+
+H. van der Goot, G. Domany, L. Pallos & H. Timmerman, eds.
+
+Vol 12, "Pharmacology Library", Elsevier, Amsterdam(1989} 121-144.
+
+8. “Irregular Elastase Complexes: Crystallographic and Molecular Dynamics
+Studies of Small Inhibitors and Water, E. Meyer & M. Geller,
+
+Hoppe-Seyler (1990) 371:59-64.
+
+Recent invited lectures and activities:
+
+Protease Inhibitors and Biological Control, Brdo by Ljubljana, Yugoslavia
+June 25-28, 1989 (ref. 8)
+
+Gordon Conference, Proteinases and Proteinase Inhibitors, June, 1990
+
+Am.Chem.Society Southeast/Southwest Regional Meeting, New Orleans.
+Symposium on Enzymes: Structures, Mechanisms and Inhibitors. Dec. 1990
+
+NIH study section SSS-7D; October, 1990

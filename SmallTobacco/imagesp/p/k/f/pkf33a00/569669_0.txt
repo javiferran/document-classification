@@ -1,0 +1,49 @@
+USE OF COTININE BLOOD CONCENTRATION
+AS A DETECTION METHOD
+OF NICOTINE DELIVERY WITH CIGARETTE SMOKING
+PART IIT. DISTRIBUTION OF AVERAGE VALUES FOR NICOTINE DELIVERY
+PER CIGARETTE SMOKER
+
+T. D. Darby, Ph.D.
+and
+James E. McNamee, Ph.D.
+
+University of South Carolina School of Medicine
+
+These evaluations of cotinine plasma values from a study of thirty-nine
+smokers of ultra-low nicotine and tar cigarettes conducted by Franklin Institute
+provide further assurance that the Barclay brand is an ultra-low delivery cigarette.
+Several methods have been used to date that provide for classification of different
+brands according to the nicotine and tar content delivered to the smoker. The FTC
+method is the standard procedure for establishing nicotine and tar delivery for
+each cigarette smoked,
+
+The use of cotinine plasma level determinations obtained from smokers under
+established smoking conditions allows for comparison between predicted values for
+plasma cotinine and observed values. Using the kinetic equations described in
+Part I and the sequential solution computer model, it is possible to arrive at a
+predicted plasma Jevel for cotinine based upon cigarette consumption utilizing
+labeled value for nicotine delivery. With establishment of the mathematical
+relationship between observed and predicted continine values, it is possible to
+estimate the average delivery for each cigarette smoked. Figures 7 through 4
+
+provide a histogram of the average delivery for the brands studies. Figures 5
+
+265920T0S
+
+and 6 illustrate the variation in number of cigarettes smoked per day for the
+
+ 
+
+different brands studied. The diary values were used to construct these histograms.
+
+ 
+
+Since smoking patterns varied within days for each smoker, it is possible that
+
+these values may not reflect exact values for use with the computer model.
+
+ 
+
+501026597
+PRODUCED FROM BéW WEB SITE

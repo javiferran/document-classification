@@ -1,0 +1,58 @@
+HKB2045
+
+204 Cell Biology International Reports, Vol. 7, No. 3, March 1983
+
+In this paper we present data on the lateral mobility of S!g, RT)
+and thy-1 as measured by fluurescence recovery after photobleaching
+(FRAP) when labeled by cross-linking and non-cross~linking anti-
+bodies and correlate these results with the capping characteristics
+of these proteins. This data shows that while there appear to be
+only two classes of lymphocyte membrane protein capping, the lateral
+mobility of membrane proteins is more heterogeneous. The relative
+order of lateral mobility of membrane proteins is thy-1 >> RT1 >
+
+SIg.
+MATERIALS AND METHODS
+
+Cells -Lewis rat spleen cell suspensions were prepared as previous-
+ly described (Woda and Feldman, 1979).
+
+212
+
+Antibodies - The preparation of fluorescein labeled (F1) F(ab'), anc
+
+Fab' goat anti-rat immunoglobulin (GARG), Fl IgG, F(ab'), and Fab*
+BN anti-Lewis alloantibody (RT1), F(ab), rabbit anti-rat y chain
+(RAG) and Fl-F{ab*), goat anti-mouse IqgG°(GAM) have been deserihed
+(Woda and Feldman, ¢979, Woda, et. a1., 1979). Monoclonal mouse
+anti-rat thy-3, MRC OX-7, (Mason and Williams, 1980) was a gift of
+Dr. A. Williams. Alloantibody specitic for thy-1 (AKR/CUM anti-
+AKR/J) was a gift of Dr. A. Altman. FI-F(ab'), and Fi-Fab' anti-
+thy-1 were prepared by previously published methods (Woda, et. al.,
+1979).
+
+Cell Staining
+
+SIg - For capping experiments, spleen cells or thymocytes were
+stained with 200 ug/ml F1l-F(ab'), GARG for 30 min on ice and washed
+two times. For FRAP experiments“spleen cells were stained with 400
+ug/ml Fl-Fab' GARG or 100 ug/ml FI-F(ab"), GARG.
+
+RT1- For capping experiments, spleen cells were stained with 300
+ug/ml FY antieRT? foliowed Ly 250 ug/ml RAG. For FRAP experiments,
+spleen cells were stained with 400 ug/l Fl-Fab’ anti-RT! or 100-400
+ug/ml FI-F(ab"), anti-RTl.
+
+Thy-1 - For capping experiments thymocytes were incubated with
+1:2400 monoclonal anti-thy-1 or 1:40 alloanti-thy-1 followed by 150
+ug/ml Ft-F(ab*)., GAM. For FRAP experiments, cells were stained with
+50 ug/ml Fl-Fab* monoclonal ant i-thy-) or 50 ug/ml Fl-F(ab‘)., or 50
+ug/ml FI-F(ab"), anti-thy-1 followed by 125 ug/m? F(ab"), GAR.
+
+Capping and Fluorescence Recovery After Photobleaching (FRAP)
+
+Studies were done as previously described (Woda and Feldman, 1979;
+Woda, et. al., 1979; Woda, et. al., 1980). The % capped cells =
+tapped cells/fluorescent cells x 100. 0D represents the diffusion
+coefficient and the percentage recovery (% R) represents the mobile
+fraction of fluorophore.

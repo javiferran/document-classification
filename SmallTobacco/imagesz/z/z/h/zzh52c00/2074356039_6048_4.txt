@@ -1,0 +1,25 @@
+ATTACHMENT B
+
+ew Brand Launch - Rapid Distribution All n RDA
+
+YE,
+Parliament: 937A $16/12M Case
+
+T - LE:
+For wholesale accounts that participate in the Wholesale Leaders program, the RDA should be paid based
+
+on MSA/STARS shipment data. An MSA/STARS report that shows shipments during the RDA period
+will be available on the SI Support-File Server-120/11 in a folder named: Parliament Full Flavor
+and Lights Kings Box RDA rpt. This folder should be accessed after July 18, 1999 to verify
+
+quantities sold. Using this total, Account Managers should create an invoice in FSI to pay the RDA.
+
+RUCTI : -WHOLESALE LEADI
+For wholesale accounts that do not participate in Wholesale Leaders, use the RDA Count/Recount
+Worksheet (Attachment B-1). This worksheet must be completed and signed by the account and the PM
+
+account manager before payment is made.
+
+If you have any questions, please contact your immediate supervisor.
+
+__ Sb09SeHz07

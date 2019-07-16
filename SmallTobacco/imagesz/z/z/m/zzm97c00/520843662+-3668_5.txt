@@ -1,0 +1,66 @@
+ihasinseienbntenNGciN iscsi AS ca eat heen antnee abinnBR bso eat ECONO DNR EDM DIS a Te oo Gwe ae nadie iatratansaisadoa det
+
+Household Composition
+
+For households with multiple smokers, we consider Household Composition in
+determining mailfile specifications. When designing the specifications, we consider the
+following situations: '
+
+® When a mailing has different cells of smokers (e.g., Franchise & Competitive) with
+different offers, we generally want to send the same offer to all smokers in the same
+household. Sending a more lucrative offer to the competitive smoker in a household
+could alienate the franchise smoker in that household. In this scenario, the mailing
+universe may be specified as follows:
+
+- Smokers living in Franchise-only households receive a less lucrative offer.
+
+i
+
+- Smokers living in Competitive-only households receive a more lucrative offer.
+
+- Franchise and Competitive smokers living in the same household receive the same
+offer. The appropriate offer to send smokers in these type of households is .
+determined by Brand Marketing. .
+
+e Ifamailing is only going to Competitive smokers, household composition is still an
+issue. Generally, we do not want to mail to a competitive smoker who lives with a
+franchise smoker.
+
+For example, if WINSTON is mailing to Marlboro smokers and a Marlboro smoker
+lives with a WINSTON smoker, the likelihood that the Marlboro smoker will participate
+in the offer is slim. More likely, the Marlboro smoker will pass the offer to the -
+WINSTON smoker who will participate in the offer. Therefore, in an effort to increase
+Competitive participation, those Competitive smokers who live with a promoted Brand
+smoker are generally excluded from the mailing. In order to protect full price brands,
+competitive Savings mailings generally exclude households with RJR Franchise
+
+ 
+
+smokers in them.
+
+Promoted Brand Exclude Households with These Smokers
+WINSTON WINSTON
+
+CAMEL CAMEL
+
+SALEM SALEM
+
+VANTAGE VANTAGE
+
+MORE MORE
+
+NOW NOW
+
+DORAL ALL RJR
+
+MONARCH ALL RJR
+
+w
+N
+Ss :
+oo
+ad
+w
+n
+an
+“

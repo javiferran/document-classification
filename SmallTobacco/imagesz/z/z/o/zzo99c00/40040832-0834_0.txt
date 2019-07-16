@@ -1,0 +1,58 @@
+P.I.: Emilia Oleszak, Ph.D.
+MOLECULAR MIMICRY BETWEEN Fc GAMMA RECEPTOR AND MOUSE HEPATITIS VIRUS PEPLOMER PROTEIN
+
+Background. Molecular mimicry is defined as the presence of epitopes, either linear
+or conformational, shared between viral and host antigens (1) and may play a role in the
+pathogenesis of viral infections and the induction of autoimmune diseases. Several homolo-
+gous peptides between human myelin basic protein (MBP) and viral proteins have been idanti-
+fied including adenovirus, influenza, measles, canine distemper and Epstein-Barr viruses(2).
+Molecular mimicry of a peptide comprised of 8 amino acids of MBP by Hepatitis B polymerase
+(HBP) can cause autoimmune disease (3). Rabbits injected with this octapeptide developed
+experimental allergic encephalomyelitis (EAE)(3). We have demonstrated (4,5) molecular
+mimicry between Fc gamma receptor (FcyR) and the peplomer protein S (formerly E2) of the
+Mouse Hepatitis Virus (MHV}.
+
+MHV strain JHM (MHV-JHM), a member of the Coronavirus family, experimentally produces
+several diseases in mice and rats, depending on the dose and route of inoculation and the
+age and strain of the infected animals (7-10). MHV-JHM is highly neurotropic (6). Infection
+of susceptible mice causes fatal encephalomyelitis characterized by destruction of CNS
+neurons with prominent demyelination. Mice surviving encephalitis (5-10% of those infected)
+subsequently develop a persistent, demyelinating disease. The virus was found to persist
+in the nervous system and the demyelinating process is associated with primary infection
+of oligodendrocytes (7}. However, a relapsing-remitting demyelinating disease, reminiscent
+of multiple sclerosis has been reported (8). Furthermore, infection of rats or mice with
+MHV-JHM results in lymphocyte sensitization against MBP (9). Adoptive transfer of these
+lymphocytes after in vitro restimulation with MBP results in EAE. These results suggest
+that during MHV infection primary demyelination occurs by direct lysis of oligodendrocytes
+followed by induction of autoimmune response. Thus, this virus provides an excellent system
+for the study of the molecular basis of virus-induced demyelinating disease.
+
+Both humoral and cellular immune responses have been implicated in protection from MHV
+infection. Anti-MHV-JHM antibodies prevent death from MHV-JHM infection, but they do not
+suppress viral replication in CNS (10,11). Furthermore, in the presence of antibodies MHV-
+JHM replicates mainly in oligodendrocytes but not in neurons (10). Delayed-type hypersensi-
+tivity ¥ cell clones also protects mice against lethal infection with MHV-JHM although, in
+agreement with the findings with antibodies, they do not inhibit virus replication in CNS
+(12). Additionally, cytotoxic T cells (13), cytolytic B cells (14,15) and NK cells (16)
+exhibit cytotoxic activity against MHV-JHM-infected cells. Recently, it has been reported
+that clearance of MHV-JHM from CNS requires both CD4* and CD8* cells (17).
+
+The S peplomer protein is encoded by MHV mRNA 3 and is synthesized on ribosomes (18,19)
+as an 120 kD polypeptide.It is cotranstationally glycosylated to a 150 kD $ precursor which
+is subsequently further glycosylated to the 180 kD species. Two forms of the S protein are
+present on the surface of the virion, the 180 kD and its two non-identical cleaved products
+90A kD and 908 kD. S is responsible for attachment of the virus to the host cell, MHV-
+induced cell fusion, and for eliciting neutralizing antibodies (20,21). Therefore, the
+peplomer S protein plays a central role in the outcome of MHV infections. We have
+demonstrated molecular mimicry between FcyR and the peplomer protein S of MHV (4,5).
+
+Infection with herpes virus (HSV-1) resulted in the expression on the cell surface of
+molecules with Fe binding ability (22,23). The IgG Fc-binding receptors induced by HS¥-1]
+are formed by a complex of viral glycoproteins g& and gl (g70). Recently it has been
+reported (24) that HSV-1 FcR has a novel function: it participates in antibody bipolar
+bridging. This has been described as the binding of a single anti-viral IgG molecule by its
+Fab end to a viral epitope and by its Fc end to an Fe receptor. It was demonstrated (24)
+that bipolar bridging of immune IgG protects the virus from antibody and complement-
+dependent neutralization and, therefore, offers a survival advantage to the virus.
+
+40040832

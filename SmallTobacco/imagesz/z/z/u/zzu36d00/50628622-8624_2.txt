@@ -1,0 +1,74 @@
+II. Isolating "novel" DIN genes induced by ionizing radiation.
+
+The strain construction described above may also be used to isolate novel DIN genes
+that are preferentially expressed when cells are irradiated with X-rays. A yeast library has
+been obtained from Michael Snyder (Yale University) in which the Escherichia coli lacZ
+gene encoding f-galactosidase has been randomly inserted within the yeast genomic DNA
+by virture of a transposable element containing the yeast selectable marker LEU2; the lacZ
+construct lacks translational start sites and must be fused to a functional gene in order for
+expression to occur. The library DNA will be used to transform yeast to Leu+, and Leu+
+transfomants will be then patched and replica plated onto plates containing X-gal (a
+chromogenic indicator that turns blue when cleaved by #-galactosidase). Leu + transformants
+which express -galactosidase preferentially in response to ionizing radiation will then be
+further characterized. The chromosomal assignment of these genes will be made by pulse
+field electrophoresis using lacZ as a probe. Genes which map to positions not previously
+assigned to DIN genes will be studied. Experiments will be done to determine whether the
+genes are expressed when either the MAT locus is cleaved or when only chromosome IV is
+cleaved. Since antibodies are available to 8-galactosidase we may then be able to determine
+the cellular localization of the fusion protein. Further experiments will be performed to
+replace the wild-type gene with a mutated or disrupted gene made in vitro, and determine
+whether any of these de novo mutants are radiation sensitive.
+
+We anticipate that the duration of the project to be three years. Direct costs/yr = $55,000
+
+References:
+
+Fornace, A. 1992 Mammalian Genes induced by radiation; Activation of Genes
+Associated with Growth Control. Annu. Rev. Genet 26, 507-526.
+
+Hallahan,D.E., Virudachalam, S., Sherman, M.L, Huberman, E, Kufe, D. W.,
+Weichselbaum, R. R. 1991. TNF gene expression is mediated by PKC following
+activation by ionizing radiation. Cancer Res. 51:4565-4569.
+
+Herrlich, P. Ponta, H., Rahmsdorf, HJ. 1992, DNA damage induced gene exrpression:
+signal transduction and relation to growth factor sinaling. Rev. Physio.Biochem.
+Pharmacol. In press.
+
+Ruby, S. W., Szostak, J. W. 1985. Specific Saccharomyces cerevisiae genes are expressed in
+response to DNA-damaging agents. Mol. Cell. Biol 5:75-84.
+
+INDUCTION OF HO EHDOHUCLEASE INDUCES THE EXPRESSION OF D1NI
+
+ 
+
+ 
+
+ccus io cur site
+
+w ve seatnt } tpt gard
+
+a 0 =
+
+3 cre a
+
+£ oaup.00
+
+‘ | 008) peer
+
+: — aueres |
+
+z cena
+
+5 (aes ups galt
+
+fp
+2 ‘ ‘ . cena Seat
+
+Qe s
+
+HOURS AFTEA INDUCTION OF HO EMDOHUCLEASE
+
+Induction of HO. endonuclease induces DINI as measured by 6-gal assays in a strain that
+has only one cut site.
+
+50628624

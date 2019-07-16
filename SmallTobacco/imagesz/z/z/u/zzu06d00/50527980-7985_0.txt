@@ -1,0 +1,146 @@
+Tue Jovrvat or Btotocican Cuemtetry
+© 1994 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+Vol. 269, No. 45, Issue of November 11, pp. 28181-28186, 1994
+Printed in USA.
+
+Expression of the Transcription Factor NFATp in a Neuronal Cell
+Line and in the Murine Nervous System*
+
+(Received for publication, March 30, 1994, and in revised form, August 8, 1994)
+
+Andrew M. Hoi, Jugnu Jain§1, Anjana Rao§t, and Patrick G. Hogan:|
+
+From the EDepartment of Neurobiology, Harvard Medical School, the §Division of Cellular and Molecular Biology, Dana
+Farber Cancer Institute, and the Department of Patholagy, Harvard Medical School, Boston, Massachusetts 02115
+
+The transcription factor NFATp, which has a central
+role in cytokine gene induction inT cells, was previously
+thought to be expressed only in T cells and other im-
+mune cells. Here we report that NFATp is also expressed
+in the rat PC12 pheochromocytoma cell line and in the
+murine nervous system. Antisera against T cell NFATp
+recognize proteins of similar apparent molecular weight
+in T cells, PC12 cells, and murine olfactory bulb. The
+immunoreactive proteins from PC12 cells and from ol-
+factory bulb bind to an NFAT site of the murine inter-
+leukin-2 promoter with the same specificity as T cell
+NFATp. Immunohistochemical staining localizes NFATp
+to neurons, specifically to olfactory receptor neurons
+and to their terminals in the olfactory bulb. The pres-
+ence of NFATp in the nervous system suggests that it has
+arole in the transcription of specific neuronal genes in
+response to increases in cytosolic calcium.
+
+ee
+
+The transcription factor NFATp is essential for transcription
+of cytokine genes in activated T cells (1-7). NFATp cooperates
+with Fos and Jun family proteins in the nucleus of stimulated
+T cells to activate transcription of the interleukin-2 (IL-2)! gene
+(8-11) and acts in concert with these or other transcription fac-
+tors to increase transcription of other cytokine genes (3, 4, 6, 12).
+NFAT p was originally identified as the “preexisting” component
+of the inducible nuclear factor NFAT (8, 13-15); its activation in
+T cells depends on a caleium/calmodulin/caleineurin signaling
+pathway and is sensitive to cyclosporin A and FK506 (15, 16).
+NEATp is a phosphoprotein of apparent molecular mass ~120
+kDa (11, 15, 17), which exists in T cells as several isoforms aris-
+ing from alternatively spliced mRNA transcripts (18).
+
+‘A nuclear factor similar or identical to NFATp has also been
+identified in B ceils (2, 19-21). Extracts of unstimulated B cells
+contain factors that bind to the distel NFAT site of the IL-2
+promoter and form a complex on this site with Fos and Jun
+family proteins (19). As in T cells, the activation of NFAT is
+initiated by an increase in cytoplasmic calcium and is pre-
+vented by treatment of the cells with cyclosporin A (20, 21).
+Antisera against T cell NFATp recognize the protein-DNA com-
+plexes from B cells” and identify proteins comparable in appar-
+ent molecular weight to T cell NFATp in Western analysis of B
+cell proteins.’ Recent work has documented the presence of
+
+* This work was supported in part by National Institutes of Health
+Grant CA4!471 {to A. R.}. The costs of publication of this article were
+defrayed in part by the payment of page charges. This article must
+therefore be hereby marked “advertisement” in accordance with 18
+U.S.™ Section 1734 solely to indieate this fact.
+
+| To v-hom correspondence should be addressed. Tel.: 617-432-1767;
+Fax: 617-734-7587.
+
+! The abbreviation used is: IL, interleukin.
+
+2 N. RB. Yaseen, d. Park, A. L. Maizel, A. Rao, and 8. Sharma, unpub-
+lished data.
+
+3D, Z. Wang and A. Rao, unpublished data.
+
+ 
+
+NFAT? in certain other cells of the immune system."
+
+There has been little reason to think that NFATp is ex-
+pressed in brain or other nonlymphoid tissues. Electrophoretic
+mobility shift assays did not detect proteins that bind to an
+NFAT oligonucleotide in brain or liver extracts (22). In trans-
+genic mice, expression of a reporter gene under control of a
+multimer of the NFAT site was restricted almost entirely to
+activated T cells and B cells and was not apparent in brain (22).
+On the other hand the components of the caleium/calmodulin/
+caleineurin pathway that activates NFATp in T cells are abun-
+dantly expressed in the brain (23, 24), Likewise, Fos, Jun, and
+other transcription factors that combine with NFAT» in T cells
+are induced in neural cells by growth factors and other physi-
+ological stimuli (25-29).
+
+Here we have reexamined the possibility that NFATp is ex-
+pressed in neural cells. We present evidence that NFATp is
+expressed by the PC12 cell line, a rat adrenal chromaffin tumor
+cell line (30) that has been used in studies of intracellular
+signaling, transcriptional regulation, and neuronal differentia-
+tion. Further, we demonstrate that NFATp is present at rela-
+tively high levels in the murine olfactory bulb, largely in ter-
+minals of olfactory receptor neurons, and may be expressed at
+lower levels in certain other regions of the murine central nerv-
+ous system.
+
+MATERIALS AND METHODS
+
+Cell Culture—PC12 cells were maintained in L.15CO2 medium with
+7% horse serum, 7% fetal calf serum, and other additives as described
+(31). Murine T cell clones Ar-6 and CLL7W2 were grown as described
+(32).
+
+Antisera—The principal antiserum used in these experiments was
+affinity-purified antiserum against peptide 67.1 (AISSPSGLAYPDDV-
+LDYGL), a sequence located near the N terminus of murine NFATp.
+Antiserum was produced by immunization of rabbits with the peptide
+conjugated to keyhole limpet hemocyanin and was purified hy affinity
+chromatography on a resin (Affi-Gel 10, Bio-Rad) bearing immobilized
+peptide 67.1. Other reagents used were antisera against the peptides
+67.2 and 72 (18) and an antiserum directed against a recombinant frag-
+ment af NFATp that includes the DNA-binding domain (18). Horseradish
+peroxidase-conjugated goat anti-rabbit-IgG (F(ab’), fragment) was from
+Cappel; Cy3-conjugated donkey anti-rabbit-IgG was from Jackson
+ImmunoResearch Laboratories, Inc.; and normal rabbit Ig (Pentex rab-
+bit gamma globulins, fraction [1) was from Miles Laboratories.
+
+SDS-Polyacrylamide Gel Electrophoresis and Western Aualysis—
+Cytosolic extracts from PC12 cells and from T cells were prepared as
+previously described (15). Spleen and the indicated brain regions were
+dissected from 3- to 4-week-old mice and were homogenized in lysis
+buffer (50 mat NaCl, 10 mm Tris, pH 8.0, 1 ma EDTA, 100 pg/ml suybean
+trypsin inhibitor, 100 yg/ml aprotinin, 250 us leupeptin, 10 mm iodo-
+acetamide, 2 mm phenylmethylsulfonyl fluoride) at 0.3 g, wet tissue
+weight/ml. 10% SDS was added to bring the final concentration of SDS
+to 2%. The solution was boiled for 10 min and then centrifug: d for 5 min
+in a microcentrifuge, and the supernatant was collected. Pretein con-
+ventration in the samples was determined with bovine serum albumin
+as standard (33).
+
+ 
+
++4. Raghavan and P. G. Hogan, unpublished data.
+
+28181

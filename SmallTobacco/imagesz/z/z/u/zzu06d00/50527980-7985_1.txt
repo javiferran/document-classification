@@ -1,0 +1,147 @@
+28182
+
+Samples were fractionated on a 6% SDS-polyacrylamide gel (24) and
+transferred overnight onto nitrocellulose. After transfer the lanes con-
+taining molecular weight markers (SDS-polyacrylamide ge} electro-
+phoresis molecular weight standards, high range, Bio-Rad) were
+stained with Ponceau red. The remainder of the nitrocellulose mem-
+brane was preincubated with 2% gelatin (Bio-Rad) in Tris-buffered sa-
+line (150 mm NaCl, 10 mm Tris, pH 8.0), incubated in Tris-buffered
+saline containing 0.02% gelatin and 0.05% Tween 20 for 3 h at room
+temperature with 0.4~-1 ng/ml affinity-purified antiserum raised
+against peptide 67.1 or 15-75 ng/ml affinity-purified antiserum against
+recombinant NFATp, and then incubated with goat anti-rabbit-IgG
+coupled to horseradish peroxidase for 1 h at room temperature. Labeled
+bands were detected with the ECL system (Amersham Corp.). Controla
+for nonspecific staining were incubation of the primary antiserum with
+the corresponding peptide (0.5-1.5 pe/ml) or substitution of an equal
+concentration of normal rabbit Ig for anti-recombinant-NFATp anti-
+serum in the primary incubation. .
+
+Electrophoretic Mobility Shift Assay—Cytosolic extracts for electro-
+phoretic mobility shift assay were prepared from PC12 cells and from T
+cells as detailed above. In some cases the cytosolic extracts were frac-
+tionated by SDS-polyacrylamide gel electrophoresis (34), the proteins
+were eluted from gel slices, and elated proteins were renatured (15)
+before addition to the DNA binding assay. Olfactory bulb extracts and
+spleen extracts were prepared by homogenizing the tissue in the lysis
+buffer deseribed above and then adding 5% Nonidet P-40 to bring the
+final concentration of Nonidet P-40 to 0.05%. The homogenate was
+incubated on ice for 15 min, the extract was centrifuged at 1000 x g for
+20 min at 4 °C, and the supernatant was centrifuged at 100,000 x g for
+Lhat4°C. The resulting supernatant was filtered through a 0.45-ym
+filter and precipitated with an equal volume of 3 mM ammonium sulfate,
+and the precipitate was dissolved in 0.1 volume of buffer A (150 ma
+NaCl, 20 mu HEPES, pH 7.4, 2 ma EDTA, 0.5 mx dithiothreitol, 10%
+glycerol) with protease inhibitors (300 pg/mi aprotinin, 75 wat leupeptin,
+10 mm icdoacetamide, 2 mm phenylmethylsulfonyl fluoride) (18). After
+dialysis at 4 °C against two changes of buffer A, aliquots of the extract
+were quick-frozen and stored at ~70 °C. Protein concentration was de-
+termined (35) with bovine serum albumin as standard.
+
+The DNA binding ability of the extracts (or fractions) was assessed by
+electrophoreti+ mobility shift assay with labeled murine NFAT oligonu-
+cleotide (15), The specificity of DNA recognition was tested by examin-
+ing the ability of unlabeled oligonucleotides to compete with the labeled
+murine NFAT oligonucleotide for binding of the protein (8, 36). Antisera
+against recombinant NFATp (0.5 pg/ml), antisera against NFATp pep-
+tides (67 pg/ml), and synthetic NFATp peptides (67 pg/ml) were used in
+the electrophoretic mobility shift assay as described (18).
+
+Immunohistoehemistry—Coronal eryostat sections (12 pm) through
+olfactory bulb and olfactory epithelium were stained for NFATp with 1
+ng/ml affinity-purified rabbit antiserum against peptide 67.1 as pri-
+mary antibody and with Cy3-conjugated goat anti-rabbit-IgG as second-
+ary antibody. For negative controls, the primary antibody was incu-
+bated with 0.4 ng/ml of the corresponding peptide, or normal rabbit Ig
+was used as the primary antibody.
+
+RESULTS
+
+Cytosolic proteins from PC12 cells were examined by West-
+ern analysis using an antiserum raised against a peptide of
+NFAT». PC12 cell extracts (Fig. 1, lane 1), like extracts from
+spleen (Jane 2) or from a murine T cell clone (dane 3), showed a
+broad band af labeled material that migrated with an apparent
+molecular mass of ~120 kDa. Binding of the antiserum to the
+PC12 cell, spleen, and T cell proteins was blocked by preincu-
+bation of the antiserum with its cognate peptide (lanes 4-4),
+demonstrating that these proteins were specifically recognized
+by the antiserum. Similar results were obtained by Western
+analysis with an antiserum to a recombinant fragment of
+NFATp (data not shown), indicating that the PC12 cell protein
+shared antigenic determinants with at least twa distinct re-
+gions <f NFATp.
+
+We tested whether the 120-kDa PC12 cell protein identified
+by Western analysis was functional in DNA binding. PC12 cell
+cytosolic proteins formed two protein-DNA complexes in an
+electrophoretic mobility shift assay with a “P-labeled oligonu-
+cleotide corresponding to the distal NFAT site of the murine
+IL-2 promoter (Fig. 2A, /ane 1). The mobility of the lower of
+
+Expression of NFATp in PC12 Cells and in Neurons
+
+ 
+
+: eptide
+antiserum eebek
+« 8 3 a 8
+gee gee
+a7 -
+66-
+45-
+lane 1 2 3 45 6
+
+Fic. 1. Western analysis of NFATp in cytosolic extracts of PC12
+cells and T cells, Extracts from PC12 cells (dane 1), spleen cells Jane
+2), and CL.7W2 T cells (lane 3) were concentrated by precipitation with
+ammonium sulfate and analyzed by Western blotting with an anti-
+serum directed against a peptide of NFATp. No bands were detected
+when the antipeptide antiserum was blocked by preincubation with the
+corresponding peptide (anes 4-6), The positions of 97, 66, and 45 kDa
+molecular mass standards are indicated on the left.
+
+these two complexes (filled arrowhead) was identical to that of
+the NFATp-DNA complex formed using a T cell cytosolic extract
+(lane 7). Its DNA binding specificity was also identical to that
+of T cell NFATp (compare lanes 2-6 with lanes 8-12; see also
+Ref. 8) in that unlabeled NFAT oligenucleotide and the M1
+oligonucleotide, which is mutated outside the NFATp recogni-
+tion site, competed for binding of the protein. M2 competed less
+effectively, and M3, mutated in the core of the NFATp recogni-
+tion site, failed to compete. Incubation of PC12 cell cytosolic
+proteins with antiserum against an NFATp peptide caused the
+lower of the twa bands to “supershift” into an antibody-protein-
+DNA complex (Fig. 2B, dane 2). The supershift of the lower band
+could be blocked by preincubation of the antiserum with its
+cognate peptide (lane 3) but not by preincubation with an ir-
+relevant peptide (lane 4). The antiserum itself did not bind
+appreciably to the probe (Jane 5), indicating that the supershift
+represented specific recognition of the lower protein-DNA com-
+plex. Furthermore, the same results were obtained with anti-
+sera against two other NFATp peptides (data not shown). All
+the antisera tested failed to supershift the upper complex from
+PC12 cell cytosol, indicating that only the lower complex in-
+volved a protein closely similar to T cell NFATp.
+
+Similar results were obtained when PC12 cell cytosolic pro-
+teins were incubated with an antiserum raised against a re-
+combinant fragment of NFATp. Incubation of the PC12 cell
+proteins with the preimmune serum had no effect (Fig. 2C,
+compare lanes £ and 2), while incubation with the immune
+serum supershifted the lower, but not the upper, band (ane 3).
+Most of the NFATp-DNA complex formed in the presence of this
+antiserum migrated near the top of the gel and probably re-
+flected cross-linking of the protein-DNA complex into large ag-
+gregates by the polyclonal serum. Again, the antibody did not
+show appreciable binding to the probe (lane 7).
+
+To confirm that the PC12 cell proteins that bound to the
+NFAT oligonucleotide were related to the 120-kDa proisin de-
+tected by Western analysis, we assessed their apparent molec-
+ular mass by renaturation of the proteins from SDS-polyacry!-
+amide gels. PC12 cell cytosolic proteins were fractionated on an
+SDS-polyacrylamide gel, eluted from individual gel slices, and
+renatured as previously described (15). When the renalured
+PC12 cell proteins were tested by electrophoretic mobility shift

@@ -1,0 +1,62 @@
+reward pathway. This cell line could be used to screen potential nicotine substitutes, agents whith
+could substitute for nicotine in "smokeless" cigarettes, for example, but which May not affect
+nicotinic receptors in other parts of the body.
+
+Why_use_a brain slice preparation? The brain slice methodology is useful for the
+pharmacological and physiological study of specific brain areas, The advantages of the brain slice
+preparation for electrophysiological study of pharmacology are numerous: known concentrations
+of drugs can be applied to neurons of study; numerous drugs solutions can be applied and removed
+from the medium while studying a single neuron. Unlike cells from primary culture, mature, fully
+differentiated neurons can be studied in slices taken from adult rats. Using brain slices, a single
+brain area can be studied in isolation from the bulk of the brain, unlike recordings made from
+intact preparations. Furthermore, the brain tissue is not exposed to general anesthetic, so
+complicating interactions between anesthetic and the drugs to be tested can be avoided by use of
+brain slice preparations.
+
+There are many advantages of brain slices over anatomical or molecular biological techniques (like
+insitu hybridization) to identify the nicotinic receptor subtype present in the VTA. More important
+
+than identifying the types of nicotinic receptors present in a given brain region is identifying the
+functional nicotinic receptors present. The advantage the proposed studies offer over molecular
+biological expression systems are: 1) the study of adult rat neurons which have developed normally,
+2) the study of neurons which are thought to be involved in the rewarding actions of nicotine, and
+3) the investigation of the functional identity of the specific subunits involved in excitation of
+reward pathways.
+
+How will this information be useful? The pleasurable effects of nicotine are thought to be
+responsible for maintenance of smoking and related behaviors. The goal of this project is to better
+understand the actions of nicotine on an important brain pathway involved in reward. By
+understanding how nicotine affects reward pathways, we may be able to manipulate the action of
+nicotine on reward systems, thereby controlling when and why people smoke. For example, a
+compound which selectively activates the nicotinic receptor in the reward pathway, but which does
+not affect nicotinic receptors in other parts of the body, might be useful in the development of
+“smokeless” cigarettes. Information from this project should be valuable to health professionals as
+well as others interested in the effects of smoking.
+
+3) Anticipated duration of the outlined study: Three years,
+4) Estimated cost for the first year: $59,791.
+References:
+
+Brodie, M.S., ADVANCES IN PHARMACOLOGICAL SCIENCES Effects of Nicotine on Biological
+Systems, F. Adlkofer and K. Thurau (ed.), Birkhauser Verlag, 1991, pp. 373-377.
+
+Brodie, M.S. and Dunwiddie, T.V., Naunyn-Schmiedeberg’s Archives of Pharmacology, 342: 660-
+665, 1990.
+
+Brodie, M.S. and Mueller, A.L., Soc. Neurosci. Abstr. 14: 1327, 1988.
+
+Brodie, M.S. and Shefner, S.A., Soc. Neurosci, Abstr. 15: 524, 1989,
+
+Brodie, M.S., Shefner, S.A. and Dunwiddie, T.V., Brain Research 508: 65-69, 1990.
+
+Calabresi, P., Lacey, M.G. and North, R.A., Brit. J, Pharmacol. 98: 135-140, 1989.
+
+Lacey, M.G., Calabresi, P. and North, R.A., Soc. Neurosci. Abstr. 14: 1026, 1988.
+
+Lutje, C.W. and Patrick, J., J. Neuroscience 11: 837-846, 1991.
+
+Mulle, C., Vidal, C., Benoit, P. and Changeux, J.-P., J. Neuroscience 11: 2588-2597, 1991.
+
+ 
+
+3

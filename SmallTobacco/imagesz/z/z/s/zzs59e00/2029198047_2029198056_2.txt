@@ -1,0 +1,48 @@
+09/08
+
+ 
+
+'93 10:35 FAX 41 38 312 476 FTR R&D Ntel CH +3+ INBIFO Koeln 005
+
+Although no statistically siqnificant maximum standard deviation is
+observed for a given level, the comparison of absolute figures {table
+2) shows that repeatability achieved in PM-USA-1 and PM-USA-2Z
+laboratories is better as compared to PMP and ULT.
+
+The comparison of mean HPLG values (pooled Jaboratories}) with average
+Iso results is reported in table 3: The mean HPLC figures are clearly
+significantly lower than the values obtained by the reference I50
+method. As shown in fig.6, the mean difference "ISO - average of 4
+
+HPLC laboratories" is dependent on the MH level.
+
+fable 3: Mean MH-30 values (ppm) of pooled HPLC Laboratories and IS0
+figures (5 levels, 6 replicates).
+(*} [MH-301 (150) — [ME-30] (HPLC}
+
+Difference (*)
+
+CONCLUSION
+
+The HPLC method demonstrated a good repreducibility between the four
+laboratories. However, two problems Were revealed which need to be
+
+addressed.
+
+i. Lower repeatability observed in PME and UT labs as compared to
+PM-USA'S.
+
+di. Significant differences between EPLC and ISO values.
+
+The latter issue is particularly impostant with respect to the legal
+context prevailing in some Burcpean countries, i.e., Germany, Italy
+and Spain, where a MH maximum residue limit has been sat.
+
+REFERENCES
+
+[1] Determination of maleic hydrazide in tobacco leaf and filler,
+draft method, PM/ReD Richmond.
+
+[2] Memo from Renaud-J.M., June 3, 1933.
+
+6POSE6T6Z02

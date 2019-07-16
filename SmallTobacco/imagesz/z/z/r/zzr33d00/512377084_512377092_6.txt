@@ -1,0 +1,69 @@
+Fabric
+
+H1
+
+H2
+
+H3
+
+H4
+
+H5
+
+H6
+
+J1
+
+J2
+
+J3
+
+J4
+
+JS
+
+J6
+
+standard deviations
+
+TABLE III
+
+FABRIC TREATMENT RESULTS
+
+California Standard
+
+Target (ppm)
+
+2000
+
+2250
+
+2500
+2750
+3000
+3250
+900
+1200
+1500
+1800
+2400
+
+3200
+
+ 
+
+‘Actual (ppm )
+2057 + 60
+2212 + 4
+2731 + 24
+2645 23
+3005 40
+2949 43
+1080 10
+1312 6
+1588 11
+1935 37
+2423 52
+3275 36
+
+@6@L LEZTS

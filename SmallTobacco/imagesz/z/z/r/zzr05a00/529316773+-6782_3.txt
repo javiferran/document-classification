@@ -1,0 +1,49 @@
+McLane Inventory Analysis
+
+Objective:
+
+Recommend to McLane a plan for achieving 60/65 inventory turns in 1997
+accounting for promotions, overstocks and other pre-defined parameters. Then
+indicate the resulting impact on customer service level(CSL) if less the 99.9%. If
+60/65 turns does not allow 99.9% CSL, recommend the appropriate number of turns
+that will achieve this CSL.
+
+Information Required:
+
+AIM weekly sales from McLane to refail.
+CRP daily inventory and sales.
+
+Promotion information.
+
+Shop calendar - RJR and McLane.
+Forecasting Methodology.
+
+Ordering rules and operational procedures.
+
+Approach:
+
+Develop a computer simulation that will model product flow from RJR’s public
+warehouse through each of the McLane divisions. This requires a detailed
+understanding of the product flow process from forecasting through delivery to retail.
+Meeting will have to be scheduled with BIAD to understand the forecasting process,
+Distribution to understand the ordering rules and trips scheduled to a number of
+McLane divisions to understand their operational procedures.
+
+Benefits:
+
+¢ This model could be used to address inventory turn and customer service level
+requirements for other direct accounts.
+
+¢ This will enable RJR to enhance our working relationship with McLane.
+¢ Knowledge learned from the model could reduce forecasting error, therefore
+
+reducing safety stock at the public warehouses and smoothing out the production
+schedule.
+
+e Miscellaneous Issues
+
+91ZL9 L&6eS
+
+RJRO0000001515051494
+
+70036 7171

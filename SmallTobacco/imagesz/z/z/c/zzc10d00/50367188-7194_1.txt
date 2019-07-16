@@ -1,0 +1,135 @@
+Apical
+
+direct
+apical
+
+transcytosis
+
+ 
+
+ 
+
+TGN Endosome
+direct endocytosis recycling
+basolateral A \
+
+Basolateral
+
+Figure 1. Pathways of protein traffic in polarized epithelial cetls. For
+details see text. Only selected pathways are shown.
+
+tion. Proteins can be selectively retained at one surface by
+interaction with other proteins, such as the cytoskeleton, ex-
+tracellular matrix, or adhesion proteins on adjacent cells.
+For example, in MDCK cells the Na-K ATPase is delivered
+to both surfaces. The basolateral molecules form a long-
+lived complex with the submembranous cytoskeleton,
+whereas the apical ones are rapidly removed (26). Selective
+retention adds another level of regulation of the polarized
+distribution of membrane components.
+
+Sorting Information: The Default Pathway
+
+What information is needed to direct molecules to the proper
+location? Some molecules may not have any sorting informa-
+tion, but travel instead by a default pathway. Soluble secre-
+tory proteins that lack any sorting information are believed
+to simply follow the movement of fluid through the entire
+secretory pathway to the surface of non-polarized cells (67).
+To be a marker for the default pathway, a molecule must have
+no interaction with the sorting machinery or other molecule
+that is being sorted. Even so, such a marker can be excluded
+from vesicles by a tight packing of other proteins, such as
+apparently occurs in dense core secretory vesicles (9).
+
+Finding a default pathway marker for membrane compo-
+nents is difficult. Molecules in a bilayer are effectively at a
+much higher concentration than those in solution, so the
+effects of weak interactions and excluded volume can be
+much greater. For example, in MDCK cells the outer leaflet
+of the apical surface is comprised mainly of glycosphin-
+golipids, which are hydrogen bonded to each other and ap-
+parently exclude glycerol-based phospholipids (63). While
+water may be the ideal marker for the fluid-phase default
+pathway, it is unclear what the marker for the membrane de-
+fault pathway should be. In the absence of such a marker,
+less-direct arguments have been made as to whether traffic
+of proteins to either epithelial surface occurs by default. Un-
+til recently the most widely accepted model was that baso-
+lateral sorting is by default (57). The principal reasons ad-
+vanced were: (@) Hepatocytes lack a direct apical pathway;
+(b) “housekeeping” proteins found on the surface of non-
+epithelial cells (e.g., transferrin receptor in fibroblasts) are
+on the basolateral surface of epithelial cells; and (c) the api-
+cal surface is a differentiated domain or organelle specialized
+for interacting with the outside world.
+
+The Journal of Cell Biology, Volume 116, 1992
+
+However, evolutionary and developmental considerations
+suggest that the basolateral surface is in some ways the more
+specialized domain and it is plausible that apical sorting is
+by default. In a single-cell organism the entire plasma mem-
+brane interacts with the outside world and is in that sense api-
+cal. Multicellular animals develop from a single-cell “organ-
+ism”, the fertilized egg. When a fertilized Xenopus egg
+divides into two cells it forms de novo a basolateral surface,
+sealed by tight junctions (21, 50). (In mammalian embryos,
+which develop in a protected environment, epithelialization
+takes place later at the compaction stage.) An essential fea-
+ture of the evolution of multicellular animals is not an exter-
+nal surface, but rather an internal, i.e., basolateral surface
+that interacts with the underlying connective tissue. From
+this perspective, the apical surface would seem to be the
+more primitive domain, rather than a specialization. The no-
+tion that epithelia develop from primitive cells which lack
+the apparently specialized apical surface has resulted from
+studies of events such as induction of kidney tubules from
+loose mesenchyme (52). In fact, the more common develop-
+mental process is the conversion of epithelia into other tissue
+types, such as the induction of mesoderm and of neural tissue
+(1). This may involve the loss or modification of the apical
+surface, e.g., into axons in neurons.
+
+One experimental model for epithelial development is to
+culture MDCK cells in low calcium medium where the cells
+lack intracellular contact and are poorly polarized. When
+normal levels of calcium are added one can monitor the de-
+velopment of polarity (52). Apical proteins are correctly de-
+livered to the apical surface very early after adding calcium.
+In contrast, the basolateral markers are delivered to both
+surfaces, although the apically missorted molecules are short-
+lived (67a). One interpretation of these results is that the ma-
+chinery for TGN to apical sorting is present even in non-
+polarized cells, whereas the machinery for basolateral sort-
+ing only develops when polarity is induced. Although these
+arguments support the hypothesis that apical sorting might
+be by default, the issue is clearly not settled.
+
+Sorting Signals
+
+Traffic to one or possibly both surfaces of the epithelial celi
+requires information. In several other sorting processes this
+information resides in a sorting signal, i.c., a structural fea-
+ture of the protein undergoing sorting (6). Sorting signals
+can act positively to direct a protein to a pathway, or nega-
+tively by retaining a protein in a compartment or preventing
+entry into a vesicle. Direct demonstration of a sorting se-
+quence requires both inactivation by mutation, as well as
+transferring the signal to a heterologous protein and showing
+that the construct is predictably sorted to a new location.
+
+The first signal for polarized sorting to be rigorously es-
+tablished was the glycosyl-phosphatidylinositol (GPI) an-
+chor which anchors the carboxy terminus of certain proteins
+to the outer leaflet of the lipid bilayer. GPI-anchored proteins
+are found exclusively on the apical surface of a variety of epi-
+thelial cells (37). Replacing the transmembrane peptide an-
+chor ofa normally basolateral protein with a GPI anchor will
+redirect the protein to the apical surface (8, 38). This clearly
+shows that the GPI anchor is an apical sorting signal, al-
+though it does not rule out the possibility that apical targeting
+of proteins with transmembrane peptide anchors is by de-
+fault.
+
+378

@@ -1,0 +1,133 @@
+-y-radiation. The mice were bled prior to irradiation (day 1),
+and on the following day given the first 300 rad dose (day
+2). Three days later (day 5), the mice were again bled and
+on day 6 the mice were irradiated a second time. The third
+and final bleed was performed on day 9. The three day
+interval between radiation and bleeding was included in the
+experimental protocol to allow time for the micronuclei in
+marrow erythroid progenitors to appear in the peripheral
+blood. Blood samples were assayed for the presence of
+MNC, as described in the Materials and Methods. As
+shown in a representative experiment in Figure 2A, a ps3
+transgenic mouse accumulated markedly more micronuclei
+following radiation than its wild-type littermate. A
+summary of the average effect of 600 rad of total body -y-
+radiation on micronuclei number in p53p'!93 transgenic
+and control mice is shown in Figure 2B. After 600 rad of
+radiation, the p53 transgenic mice had an average of 980
+MNC/106 RBCs, a value which is significantly (»<0.005)
+higher than the average 430 MNC/ 10° RBC observed in
+non-transgenic control mice. p53%!!35 transgenic mice also
+exhibited an increased accumulation of micronuclei
+compared to their non-transgenic littermates (data not
+shown).
+
+In order to determine whether this increased accumulation
+of MNC following irradiation was a unique property
+
+_ MNC/106 RBC
+
+   
+
+Q 200 400. 600
+cumulative dase (rad)
+
+AMNC/06 RBC
+pm done
+
+3
+eens
+co 000
+Gee GS 6
+
+|
+
+ 
+
+ 
+
+jittermates p53-3
+Figure 2. :
+The appéafatice of micronucleated cells in the peripheral blood of mice
+expressing 4 p53 transgene (p53PF° 3) as a function of radiation dose.
+The number of micronucleated cells (MNC) was determined by
+fluorescent cell sorting and expressed as the number ofr 10° red blood
+cells (RBC). (A) The appearance of MNC ina p53PT0193 transgenic mice
+( @ ) and a wild type littermate ( O ). Each symbol represents data fora
+single animal. (B) Increase in the number of MNC following 600 rad of
+g-radiation in p5gprol93. transgenic mice { @ ) and their wild-type
+littermates ( O } Each symbol represents the data for a single animal.
+
+CHROMOSOMAL BREAKS IN p53 DEFICIENT MICE = 3733
+
+associated with expression of mutant p53 alleles, we
+performed identical experiments on mice which were
+homozygous (p53-/-) or heterozygous (p53+/-) for targeted
+null alleles of the p53 gene (Donehower ef al., 1992). As
+
+“ shown in a representative experiment in Figure 3A,.pS3 -/-
+
+mice accumulated more micronuclei following irradiation
+than either their p53 +/+ littermates or heterozygous ps3
++/- mice. The differences between the baseline
+micronuclei levels between the p53. transgenic mice and
+littermates (Figure 2A) and the p33 null mice and
+littermates (Figure 3A) may reflect genetic differences
+between the CD1 genetic background of the transgenic
+mice and the C57BL6 background of the knock-out mice.
+As summarized in Figure 3B, p53 -/- animals, exposed fo
+600 rad of -y-radiation, accumulated an average of 3800
+micronuclei, which was significantly higher (p<0.002) than
+the 1100 MNC increase observed in both the -/+ and +/+
+animals. It is noteworthy that p53 +/- animals are not as
+susceptible to radiation-induced DNA damage
+accumulation as the -/- animals. Taken together, Figures 3
+and 4 demonstrate that mice expressing a mutant p53
+transgene or homozygous for a targeted p53 deletion
+are more susceptible than their wild-type littermates to
+the accumulation of radiation-induced chromosomal
+damage. ‘ .
+
+ 
+
+ 
+
+yg
+m
+a
+=
+3
+z
+=
+0 200 400 400
+cumulative dose (rad)
+a ]
+B
+6000
+Q j a.
+z 7
+5 4000-4
+5
+<4 | Ls
+2000 4 8 z i
+e
+i 8 ;
+o ,
+| 8%
+0
+See +e th -l-
+Figure 3.
+
+ 
+
+The appearance of micronucleated cells in the peripheral blood of mice ~
+with targeted deletions of the pS3 gene as a function of radiation dose. The
+number of micronucleated cells (MNC} was determined by fluorescent cell
+sorting and expressed as a number per 10° red blood cells (RBC). (A) The
+appearance of MNC in p53 -/- (ME), p53 +/- ( @ ) and p53 +/+ mice (OQ )..
+Each symbol represents data for a single animal. (B} Increase in the
+number of MNC following 600 rad of g-radiation in p53 -l- ( BB), p53 +/-
+( @ ) and p53 +/+ mice (OC ). Each symbol represents the data for asingle -
+animal.
+
+PHBLICATIONS 045104 —

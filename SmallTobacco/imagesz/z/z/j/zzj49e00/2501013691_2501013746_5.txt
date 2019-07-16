@@ -1,0 +1,35 @@
+TNO-report
+
+eee
+
+B-92-0388 May 1992 page 6
+Microporous
+A membrane
+Gas-
+Filled
+Pores
+
+ 
+
+Gas Absorption liquid
+
+Figure 1. Principle of membrane Stripper
+
+2.1 Optimalisation of the membrane stripper
+
+The relevant parameters for filters (generally) are;
+
+- the filtration efficiency of pollutants:
+
+9695 101062
+
+- the resistance against air flow (pressure drop),
+
+For membrane filters, the filtration efficiency increases with thinner and longer fibres, but
+then also the pressure drop increases. The pressure drop increases with the air flow (linearly
+if the air flow is laminar).
+
+The optimalisation has been performed with six small scale modules with different fibre
+lengths and fibre diameters. The filtration efficiency of each module is determined with at
+
+least three different gas flow rates in the range of 2 - 30 l/min.

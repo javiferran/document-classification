@@ -1,0 +1,101 @@
+113
+
+TasLe 1. Single Variable Cox Modet Analysis of Risk Factors
+in Uveal Malignant Melanoma (Chi-Square Test Based
+on Likelihood Ratio Test}
+
+ 
+
+Risk factor Chi-square Probability
+
+Cell type 37.1 <0,0001
+Tumor size (LTD) 36.4 <0.0001
+Necrosis 24.9 <0.0001
+Lymphocytic infiltration 21.2 <0.0001
+Mitotic activity 7.2 0.0063
+Orbital invasion 5.2 0.021
+Plasmacytic infiltration 18 O17
+Seleral invasion 0.2 0.64
+
+ 
+
+LTD: largest dimension of tumor.
+
+tumor, 2 = 5%-25% of the tumor, 3 = greater (han 25%~
+40% of the tumor, 4 = more than 50% of the tumor); (6)
+mitotic activity as log of the count plus one in 40 HPF,
+and (7) scleral invasion and orbital invasion as present or
+absent. Life tables and statistical analyses were based on
+deaths due to metastatic melanoma. The Cox Proportional
+Hazard Model’? was used to analyze the association be-
+tween these risk factors and cause-specific survival of the
+patients. This model allowed for incomplete clinical fol-
+Jow-up and quantified with a chi-square test (likelihood
+ratio test) the relationship between the prognostic factors
+and force of mortality (hazard rate),
+
+Fic, |. Patients divided into good
+prognosis and poor prognosis groups
+based on cell type (spindle vs mixed
+cell type}, size (less than 13.5 mm vs
+{3.5 mm or greater), and lympho-
+cytic infiltration (Jess than 100 per
+20 HPF vs 100 per 20 HPF or
+greater). Cell type provided the best
+discrimination and lymphocytic in-
+filtration the worst.
+
+PROPORTION ALIVE
+
+ 
+
+CANCER January I 1990
+
+ 
+
+Vol. 65
+Results
+
+Of the 1078 cases in which the tumors were studied
+histologically, 134 tumors contained 100 or more lym-
+phocytes per 20 HPF (prevalence, 12.4%). Nine cases were
+deleted because of lack of follow-up data resulting in 125
+cases in the high lymphocytic group. One hundred twenty-
+five cases of tumors with low lymphocytic infiltration were
+the control group.
+
+Lymphocytic infiltration was the fourth most significant
+risk factor in the univariate Cox model analysis (Table
+1). Greater lymphocytic infiltration was associated with
+diminished survival rate. Cell type and tumor size were
+the most significant factors. Mitotic activity and orbital
+invasion were less significant factors than lymphocytic
+infiltration. Plasmacytic infiltration was not significantly
+associated with the risk of death from metastasis.
+
+We also analyzed the distribution of lymphocytes and
+found no difference in survival of patients comparing tu-
+mors with diffusc lymphocytic infiltration and perivas-
+cular infiltration. To illustrate their relative prognostic
+value, survival was calculated using life tables for patients
+divided into groups predicted to have good and poor
+prognosis based on lymphocytic infiltration, cell type, and
+tumor size (Fig. 1).
+
+We analyzed multivariate Cox models to determine if
+the association between lymphocytic infiltration and
+
+——- _ Lymphocytic Inf.
+
+ 
+
+ 
+
+—— T T T 1
+5 10 15
+
+TIME (years)
+
+ 
+
+50601615

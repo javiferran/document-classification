@@ -1,0 +1,35 @@
+7
+
+Predicted from SEV. When S values derived from this process are used to calculate
+m, from Eq. (4), and these are then used to fit the data to Eq. (5), B values are
+changed from -7.3 to -6.0 for males, and from -8.3 to -6.3 for females. Since this
+represents only a modest reduction in our discrepancy, and since it is questionable to
+use S-values derived from m-values to predict m-values, these S-values were not used
+in our other studies. But this exercise indicates that the obvious probiems in our
+derivation of S-values are not the cause of our discrepancy.
+
+As an entirely different approach to evaluating effects of uncertain S-values, we
+then set out to determine how strong a negative r-S correlation would be needed to
+explain our discrepancy. We re-assigned S-values for our 1601 counties in perfect
+reverse order of their r-values, and used these S-values in our analysis. This “perfect”
+negative r-S correlation reduced our 8-values essentially to zero (+0.7 for males, -0.3
+for females), only cutting our discrepancy in half. The problem is that our distribution
+of S-vaiues is rather narrow - for males, mean - §1.7, SD - 6.9, min/max - 28/70. If
+we arbitrarily double the width of this distribution by doubling the difference from the
+mean for each county to give mean - 51.7, SD - 13,8, min/max - 0/88, we are able
+to eliminate our discrepancy by reassigning S-values in a manner that gives the
+coefficient of correlation (CORR) between S and r to be -0.90.
+
+We then consider the question of how strong an r-S correlation is credible.
+Since any such correlation must arise from confounding by socioeconomic variables,
+we studied correlations of our 54 SEV (Table 1) with r. The largest |CORR-r| for any
+
+of our SEV is 0.37, the second largest is 0.30, and for 49 of our 54 SEV, CORR-r is
+
+s
+
+woe
+
+aOR
+
+L2L260G202

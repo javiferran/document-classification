@@ -1,0 +1,38 @@
+2
+
+lines in Fig. 1 have been corrected. As part of this correction, data for Florida,
+California, and Arizona, where many people move after retirement, have been deleted,
+reducing the number of counties to 1601. (This deletion does not affect results.)
+
+A more serious problem is that Fig. 1 is what epidemiologists call an "ecological
+
+study”. Epidemiologists normatly study the relationship between mortality risks to _
+
+individuals, m!, vs their personal exposure, r, whereas an ecological study like ours
+deals with the relationship between the average risk to groups of individuals
+(populations of counties) and their average exposure. it is well known to
+epidemiologists that, in general, the average dose does not determine the average risk,
+and to assume otherwise Is called “the ecological fallacy". However, it is easy to
+
+show? that, in testing a linear-no threshald theory, “the ecological fallacy” does not
+
+apply; in that theory, the average dose does determine the average risk. This is
+
+widely recognized from the fact that "person-rem" determines the number of deaths.
+Dividing person-rem by population gives average dose, and dividing number of deaths
+
+by copulation gives mortality rate.
+
+Because of the "ecological fallacy", epidemiology textbooks often state that an -
+
+ecological study cannot determine a causal relationship between risk and exposure.
+That may be true, but it is Irrelevant here because the purpose of our study fs not to
+determine a causal relationship; it is rather to test the linear-no threshold dependence
+
+of monr.
+
+ 
+
+coe
+
+SLLL60S202

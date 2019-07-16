@@ -1,0 +1,53 @@
+PHILIP MORRIS U. S. A.
+INTER-OFFICE CORRESPONDENCE
+Richmond, Virginia
+
+F. G. Owen DATE: December 7, 1989
+
+SUBJECT: EVALUATION OF KABAT SAMPLING/ANALYSIS TEST AT LPF
+
+Objectives;
+
+1.
+
+Determine the amount of variation in the Kabat concentration (PPM) within
+a hogshead of strip.
+
+Determine the amount of variation in the Kabat application and process
+systems at the Leaf Processing Facility (LPF).
+
+Determine the average difference between Kabat (methoprene) results
+generated at Universal Leaf Tobacco Company (ULT) using the GC method and
+results generated at PM using the HPLC method.
+
+Conclusions:
+
+1.
+
+The average amount of variation in the Kabat concentration for the
+fifteen (15) hogsheads which were sampled during the test was 1.1 PPM.
+The "projected" average variation in the fourteen (14) hogsheads which
+were not sampled was 1.3 PPM. Based on a 95% confidence interval of the
+overall average variation, the Kabat concentration within an individual
+hogshead can vary by + 2.4 PPM around the average value.
+
+The Kabat flow for each system was set at a rate which was calculated to
+achieve a projected Kabat value of 7.5 PPM at a constant rate of tobacco
+throughput. The variation in each Kabat system at LPF was determined on
+
+a 95% confidence interval. The data for each of the systems is as
+follows:
+
+System er# NL _x_ Projected Ae a foroaee sx_ 95% CI.
+1 49 5.7 7.5 - 1.8 1.3 + 2.6
+2 49 6.0 7.5 - 1.5 1.3 + 2.7
+3 49 6.2 7.5 - 1.3 2.2 + 4,3
+
+All parameters were held as steady as possible during the tests which
+were conducted, therefore the estimates of variation for each system are
+probably the best that can be achieved at this time. Under normal
+operating conditions, the variation would probably be greater.
+
+0769AF
+
+ESOSTPEZO?

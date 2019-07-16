@@ -1,0 +1,105 @@
+438 Oberto et al.
+
+ 
+
+Fig. 3. Characterization of apoptosis in cerebellar granule neurons.
+Panels A to C depict cerebellar granule neurons stained with the
+fluorescent dye Hoechst 33342 and visualized under a UV light micro-
+scope (1000x). Bar = 10 4M. Panels D to F depict cerebellar granule
+neurons stained with TUNEL and visualized under a light microscope
+(1000x). Bar = 10 4M. A and D) Neurons exposed to normal culture
+medium for 8 h. 8 and E) Neurons exposed to the apoptotic medium for
+8h, © and F) Neurons exposed to the apoptotic medium in the pres-
+ence of 25 4M Pb!‘ for 8h. Note in panels C and F that the numbers
+of Hoechst 33342 fluorescent and of TUNEL positive cells are in-
+creased after Pb** exposure. Also note in panels D, & and F that
+TUNEL staining of apeptotic cells shows shrinkage and incorporation of
+labeled nucleotide into the nucleus and that in the early stage of
+apoptosis, labeling is most intense at the periphery of the nucleus.
+Panel G depicts agarose gel electrophoresis of internucleosomal DNA
+fragments from cerebeltar granule neurons kept in culture medium (lane
+2), 24 h after application of the apoptotic medium (lane 3) and 24h after
+a 30-min pulse with 100 2M glutamate in Mg * ‘-free medium (ane 7).
+The addition of 25 4M Po~~ to the apoptotic medium reveals a micro-
+somal-size DNA fragmentation pattern after 8 h {lane 4), which is
+abolished when cells are preincubated in 3.5 ~M cycloheximide (lane 5)
+or 0.8 4M actinomycin D (lane 6). DNA size markers appear in lane 1.
+
+the onset of neuronal death. The majority of neurons under-
+went death in 4 to 6 h, and virtually all neurons were dead
+after 8 h of exposure to the apoptotic medium (fig. 4A).
+Whereas the ED,, value for Pb** facilitation of apoptosis is
+
+ 
+
+ 
+
+ 
+   
+
+Vol. 279
+A
+* * *
+100
+— 80
+Fa) 4
+=
+w 60
+o *
+uw
+ay control
+oO
+2
+3
+2 cont.tact D
+20 * / Pb**+act. D
+@ 2 4 6 & 10 12 24 48 72
+8 hours (exposure to apoptotic medium)
+100 * .
+a0 apoptotic
+R® medium
+xo
+‘= 60
+wo
+uw
+S 40
+oO
+2
+a
+D> *
+= 20 culture
+; 5g meg“
+0 =
+@ 1078 Sxio"® 1078 Sxia7$ 1074
+(Pb?*] M
+
+Fig. 4. Pb** facilitates the onset of apoptosis in cerebellar granule
+neurons. A} Time-dependent onset of apoptosis induced by the apo-
+ptotic medium and by the apoptotic medium and 100 2M Pbt*. All
+cultures were stained with fluorescein diacetate and propidium iodide
+to determine cell death. The data represent the % neuronal death
+(mean + S.E.M.) of 4 to 6 culture dishes from a representative exper-
+iment (" P < 0.01 when compared with the corresponding control celis).
+The experiment was repeated three times with consistent results. Note
+that 0.8 2M actinomycin D (act. D) prevents apoptotic death elicited by
+the apoptotic medium either in the absence or in the presence of PbT*.
+(B) Pb** facilitation of neuronal apoptosis is concentration-dependent.
+Cerebellar granule neurons were exposed for 8 h to normal culture
+medium or to apaptotic medium containing different concentrations of
+Pb**. The data represent the % neuronal death (mean + S.E.M.) of
+triplicate experiments (“ P < 0.01 when compared with the respective
+controls).
+
+around 10 uM, neurotoxic effects were already detectable at
+1 uM (fig. 4B). The following evidence confirms that the
+neurotoxicity accelerated by Pb’ ' was due to apoptosis: 1)
+The neuronal death, in the apoptotic medium, after 8 h of
+exposure to Pb*” was greatly reduced by adding serum and
+increasi:g the concentration of K* from 5 to 25 mM (fig. 4B).
+2) There was an earlier onset of DNA laddering (fig. 3G),
+chromatin condensation and DNA fragmentation (fig. 3, C
+and F), 3) Actinomycin D or cycloheximide in doses them-
+selves devoid of neurotoxicity prevented neuronal death (fig.
+4A) and internuclcosomal DNA fragmentation (fig. 8G).
+
+40050532

@@ -1,0 +1,64 @@
+— ti
+
+bona oO | : INBIFO Institut fir biologische Forschung GmbH - Kéin PRIORITY
+
+po ‘i Report P 0500/3237 97/10/8 Page 39
+i
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATCH DOSE MUTAGENICITY (rev. /plate) REGRESSION ANALYSIS
+NO.
+PLATE M SE RSD REGR. SD CORR. TEST
+COEF. COEF.
+: 1 2 3
+' Cng/ (7) Crev./ (rev./
+so plate) mg) mg)
+0794 «60.200 §=683- 105 «116 «101.3 9.7 16.6
+0.400 142 132 146 140.0 4.2 5.2
+0.600 134 155 135 141.3 6.8 8.4
+. 0.800 154 156 169 159.7 4.7 5.1
+1.000 165 169 180 171.3 4.5 4.5 83 11 0.889 +L
+0795 «#0.200 110 136 115 113.7 1.9 2.8
+0.400 138 135 143 138.7 2.3 2.9
+0.600 126 156 119 133.7 11.3 14.7
+\ ‘ 0.800 144 155 159 152.7 4.5 5.1
+1.000 197 153 167 172.3 13.0 13.0 65 11 0.826 HL
+0796 «©0.200 #110 107 135 117.3 8.9 13.1
+0.400 132 156 156 148.0 8.0 9.4
+: 0.600 167 161 145 157.7 6.6 7.2
+0.800 157 171 165 164.3 4.1 4.3
+1.000 177 169 196 180.7 8.0 7.7 74 11 0.867 +4L
+| ) 0797 «0.200 131 116 104 117.0 7.8 11.6
+|! 0.400 119 138 145 134.6 7.8 10.0
+0.600 163 148 149 153.3 4.8 5.5
+0.800 165 163 154 160.7 3.4 3.6
+, 1.000 196 204 193 197.7 3.3 2.9 92 11 0.929 +4L
+|
+b al] 0.200 - - - 112.3 3.8 11.8
+0.400 - : - 140.2 3.0 7.4
+0.600 - . : 146.5 4.4 10.4 7
+0.800 - + - 159.3 2.2 4.8
+1.000 - : : 180.5 4.7 9.0 79 5 0.861 -+H+L
+
+ 
+
+Table 23 MUTAGENICITY OF TPM WITHOUT ACTIVATION IN STRAIN TALOO,
+VIRGO-CC
+
+: Remarks: date of assay: 26-FEB-97
+' : regression analysis: using Poisson weights
+fot test: statistically significant difference from 0
+io N: nonlinearity, L: linearity
+
+970917 11:03:59 P, 1 USER_DISK:[IT_A_HJMUT_3237.LIS;12
+
+ 
+
+POLLLLP907

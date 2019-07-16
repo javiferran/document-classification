@@ -1,0 +1,121 @@
+The Journal of Immunology
+
+A
+anti-lg CD40L
+
+M 45! 2h 45! 2h Mw
+— 74k
+
+— 45kD
+
+— 29kD
+
+ 
+
+anti-lg CD40L
+
+ 
+
+ 
+
+M30 2h 30' 2h Mw
+
+— 74kD
+
+   
+
+mom 45k
+— 29kD
+
+FIGURE 7. Nuclear expression of FosB and c-Fos proteins
+in B cells stimulated through slg and CD40. Primary murine
+splenic B lymphocytes were incubated in medium alone (M)
+or were treated with either F(ab’),GaMlgM at 10 g/ml (anti-
+Ig} or with CD40L/CD8q fusion protein cross-linked with an-
+titCD8& Ab (CD40L; see Materials and Methods) for 30 or 45
+min (30° or 45’) or for 2 h. Cells were harvested and lysed in
+hypotonic buffer, after which nuclei were collected and nu-
+clear proteins extracted with SDS buffer. Nuclear proteins
+were size separated by denaturing electrophoresis and West-
+ern blotted with Abs specific for FosB or c-Fos. The locations
+of FosB and the alternatively spliced shart form of FosB (SF
+FosB; A) and the location of c-Fos (8) are indicated, as are
+the locations of m.w. standards. Results are representative of
+two separate experiments for each of the Fos proteins.
+
+line levels, unlike anti-Ig, which produced substantial in-
+duction of nuclear FosB protein, as shown in Figure 74. In
+contrast, blotting with a c-Fos-specific antiserum showed
+substantial induction of c-Fos as a result of B cell stimu-
+lation via either slg or CD40 (Fig. 7B). These results in-
+dicate that receptor-specific induction of fosB gene expres-
+sion, observed by RT-PCR, is also apparent at the level
+of protein expression. It is interesting to note that FosB,
+like c-Fos, appears as a post-translationally modified
+product of variable molecular size (16). In B cells, induc-
+ible FosB proteins of larger molecular size appear only
+later in the time course following stimulation, whereas
+constitutive levels of these species are present at base line
+as well. Enhanced, time-dependent, post-translational
+modification of newly synthesized Fos proteins has been
+noted before (16, 39).
+
+3307
+
+Discussion
+
+In the present study, we examined receptor-driven stimu-
+lation of primary B cells to determine the degree to which
+jun and fos family members, the gene products of which
+dimerize to form the transcription factor complex, AP-1,
+are coordinately regulated during lymphocyte activation.
+The consequences of sIg- and CD40-mediated signaling
+were similar to the extent that each receptor was individ-
+ually capable of inducing expression of junB, junD, and
+c-fos. However, two critical points of divergence between
+these receptors were observed. 1) The fosB gene was
+found to be expressed in a receptor-specific fashion, being
+substantially induced following sIg cross-linking, but not
+(Le., almost an order of magnitude less) following CD40-
+mediated signaling. 2) Signaling for junB was found to be
+teceptor specific, with sIg-mediated expression being
+completely PKC dependent but CD40-mediated expres-
+sion only partially so. Studies of DNA-binding AP-1 and
+nuclear proteins confirmed these differences at the protein
+level. In aggregate, these observations represent the first
+indication of differences in the recruitment of AP-1 com-
+ponents that can be associated with physiologic, receptor-
+driven means of stimulation in a primary cell system, and
+they focus attention on FosB and JunB as regulators of
+receptor-specific, AP-1-mediated, B cell responses.
+
+In this work, we utilized cross-linked, soluble CD40L to
+stimulate B cells through CD40. This was used as an en-
+riched supernatant because of the difficulty in obtaining
+active CD40L following affinity-based purification schemes.
+For this reason, the precise quantity of CD40L in the super-
+natant could not be determined; instead, the supernatant was
+used at a dilution chosen for the ability to stain B cells and to
+induce primary B cell proliferation comparable with that ob-
+served with anti-Ig. It is worth noting that, in the present
+work, peak levels of c-fos and junB expression were similar
+for CD4O0L, and for anti-Ig-stimulated B cells, indicating that
+the failure of fosB expression following B cell stimulation
+through CD40 did not result from any deficiency in the
+stimulus.
+
+The inability of anti-FosB Abs, either those commer-
+cially obtained or kindly provided by Dr. R. Bravo (Bris-
+tol-Myers Squibb Pharmaceutical Research Institute,
+Princeton, NJ), to alter AP-1 nucleoprotein complex for-
+mation in B cells led us to demonstrate receptor-specific
+induction of fosB expression at the protein level by West-
+em blotting of nuclear proteins. It is highly likely that the
+FosB protein we detected resides in AP-1 nucleoprotein
+complexes because the proportion of Fos protein that is
+free (not dimerized) in cells is low (in contrast to the pro-
+portion of Jun protein that is free), and because Fos and
+Jun proteins associate in a nonpreferential fashion (39,
+40). For these reasons, receptor-associated shifts in fos
+gene expression are likely to alter the nature of resultant
+AP-1, at least in primary B cells in which AP-1 induction

@@ -1,0 +1,38 @@
+Changes in the temperature of the carrier gas and evolution volume of pyrolytic gases
+can directly affect the flow through the tube furnace and consequently can affect the observed
+kinetics. In order to assess the magnitude of such perturbations of flow, the rate was monitored
+during the course of the pyrolysis process, No significant change in the flow rate was observed.
+
+Second heating zone Another feature of the current fast EGA-FTIR technique
+is the addition of a stationary heater placed downstream just before the gas flows into the IR cell
+creating a second reaction zone. The effect of temperature on further reaction of primary
+pyrolysis products was determined in this way. No condensation was observed between the two
+heated zones, indicating that most primary pyrolysis products generated in the first heating zone
+pass into the second heating zone. The temperature and residence time was precisely controlled
+providing an cxpcrimental way to distinguish primary and secondary reactions. Quartz wool
+packed at different densities in this zone changed the residence time of primary pyrolysis
+products.
+
+FTIR spectrometer In order to measure the formation profiles of gas
+compounds in real time during a fast heating process, the FTIR spectrometer is required lo have a
+fast scanning velocity, The Bruker IFS 66/s FTIR spectrometer is sect to repetitively collect 500
+interferograms at a resolution of 1 wavenumber and sampling frequency of 200 kHz (i.e. 0.0805
+second per scan, 40 scconds total for an experiment). At the present nitrogen flow rate of 2100
+ml/minute and gas flow cell configuration of 50 ml volume and 1.0 m path length, the time
+required to completely displace one cell volume is 1.43 second, or every 17.8 scans. Ideally, the
+TR cell would have a minimum volume and a maximum path length. A narrow range liquid
+nitrogen cooled mercury cadmium telluride (MCT) detector was used to cover the spectral range
+of 3800-750 cm''. Calibration curves were obtained for several standard gas samples. The
+interferograms are collected during the pyrolysis and post-processed to obtain the absorption
+spectra and gas formation profiles. Two fresh Cambridge pads (15.9 mm in diameter) are placed
+al the entrance of the gas flow cell in each analysis to filler out the particulate matter. The flow
+cell is heated to 180 °C during the experiment to prevent condensation of gases on the KBr
+windows and on the cell wall.
+
+Procedures Both the stationary heater and movable heater are set at the
+desired temperatures with the movable heater positioned on the rail away from the sample. It
+should be pointed out that all the experimental results in our kinetic studies [32,33] was obtained
+
+by using single healing zone with the secondary heating zone set al room temperature. The
+
+2078582267

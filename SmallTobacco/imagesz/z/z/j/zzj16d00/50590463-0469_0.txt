@@ -1,0 +1,126 @@
+Cell, Vol. 59, 1107-1113, December 22, 1989, Copyright © 1989 by Cell Press
+
+Amplification, Expression, and Packaging
+of a Foreign Gene by Influenza Virus
+
+Willem Luyties, Mark Krystal, Masayoshi Enami,”
+Jeffrey D. Parvin,t and Peter Palese
+
+Department of Microbiology
+
+Mount Sinai School of Medicine
+
+One Gustave L. Levy Place
+
+New York, New York 10029
+
+Summary
+
+A system is described that allows use of recombinant
+DNA technology to modify the genome of Influenza vi-
+Tus, a negative-strand RNA virus, and to engineer vec-
+tors for the expression of foreign genes. Recombinant
+RNA is expressed from plasmid DNA in which the cod-
+ing sequence of the influenza A virus NS gene is
+replaced with that of the chloramphenicol acetyltrans-
+ferase gene. When transfected with purified influenza
+A virus polymerase protelns—In the presence of helper
+virus—the recombinant RNA is amplified, expressed,
+and packaged into virus particles, which can be pas-
+saged several times. The data indicate that the 22
+5’ terminal and the 26 3‘ terminal bases of the influenza
+A virus RNA are sufficient to provide the signals for
+RNA transcription, RNA replication, and packaging of
+RNA into infiuenza virus particles.
+
+Introduction
+
+Influenza A virus is a negative-strand RNA virus that con-
+tains eight different genome segments (Palese, 1977).
+These RNAs, together with the PB1, PB2, PA, and NP pro-
+teins of the virus, make up the ribonucleoprotein (RNP)
+core, which exhibits the RNA-dependent RNA polymerase
+activity of the virus (Krug, 1983). Because earlier attempts
+to solubilize the polymerase were unsuccessful, it has
+only recently become possible to study the sequence re-
+quirements for the influenza virus polymerase. Szewezyk
+et al. (1988) were able to purify the three P proteins and
+the NP protein from acrylamide gels and renature the
+complex along with naked RNA using thioredoxin. In addi-
+tion, Honda et al. (1988) and Parvin et al. (1989) suc-
+ceeded in isolating active polymerase complexes from ri-
+bonucleoprotein cores using CsCl-glycerol gradient
+centrifugation. In the latter study, the purified PB1, PB2,
+PA, and NP protein complex (depleted of viral RNA) was
+then used to study the promoter signals for the polymer-
+ase activity (Parvin et al., 1989). Short synthetic RNA moi-
+ecules 30-53 nucleotides (nt) in length were transcribed
+from appropriate plasmid constructs by T7 RNA polymer-
+ase. The resulting RNAs contained, at their ends, se-
+
+* On leave of absence from: Department of Meastes Virus, National In-
+stitute of Health, Gakuen, Musashimurayama, Tokyo 190-12, Japan.
+t Present address: Department of Biology and Center for Cancer Re-
+search, Massachusetts Institute of Technology, Cambridge, Massa-
+chusetts 02139.
+
+quences corresponding to the 5’ and 3’ terminal nucleo-
+tides of influenza virus RNAs. These RNAs were able to
+be used as templates for the isolated influenza virus poly-
+merase complex.
+
+This ability to reconstitute RNPs in vitro allowed us to
+establish that the 3’ terminal nucleotides of an influenza
+virus RNA contain the polymerase recognition and pro-
+moter sites for transcription. However, the polymerase, pu-
+tified from whole virus, was not able to efficiently copy
+positive-sense template (Parvin et al., 1989). In addition,
+it had previously been demonstrated that the genomic
+RNAs in purified influenza virus and in infected cells
+formed circles via panhandle structures involving the 3’
+and 5' terminal nucleotides (Hsu et al., 1987; Honda et al.,
+1988}. We thus speculated that the untranslated regions
+of an influenza virus RNA might be required to obtain effi-
+cient replication in vivo and possibly allow for the packag-
+ing of the RNAs into virus particles.
+
+In this paper we discuss in vivo experiments using a
+recombinant RNA molecule containing sequences corre-
+sponding to the untranslated 3’ and 5‘ terminal sequences
+of the NS RNA of influenza virus A/PR/8/34 flanking the
+antisense-oriented open reading frame of the chloram-
+phenicol acetyltransferase (CAT) gene. This RNA was
+mixed with purified influenza virus polymerase complex
+and transfected into Madin-Darby canine kidney (MDCK),
+293, or Madin-Darby bovine kidney (MDBK) cells. Follow-
+ing infection with influenza AAWSN/33 virus, CAT activity
+was detected in the RNP-transfected cells, indicating am-
+plification and expression of the gene. In addition, the
+recombinant influenza virus gene was packaged into virus
+particles, since CAT activity was demonstrated in cells fol-
+lowing infection with the recombinant virus preparation.
+Virus containing the recombinant gene could be pas-
+saged several times in cells.
+
+Results
+
+Synthesis of IVACAT1 Template RNA
+
+To study the transcription and replication signals of in-
+fluenza A virus RNAs in vivo, we constructed plasmid
+pIVACATt (Figure 1), which directs the synthesis of an NS
+RNA-like transcript. This RNA shares the 22 5’ terminal
+and the 26 3’ terminal nucleotides with the NS RNA of in-
+fluenza A/PR/8/34 virus and contains — instead of the cod-
+ing sequences for the NS1 and NS2 proteins— sequences
+encoding a full-length CAT protein. For cloning purposes
+it also contains an additional 8 nt including a Bglll site be-
+tween the stop codon of the CAT gene and the stretch of
+U's in the 5’ noncoding region. The T7 promoter adjacent
+to the 5’ noncoding sequences and the Hgal site down-
+stream of the 3’ end allow for the exact tailoring of the 5°
+and 3’ ends. Run-off transcription using T7 polymerase
+generates a 716 nt long RNA: lanes 2-4 in Figure 2 show
+that the IVACAT1 RNA is of discrate length and shorter
+than the 890 nt long marker NS RNA synthesized by T7
+polymerase transcription of pHgaNS (lane 1).

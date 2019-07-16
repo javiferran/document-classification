@@ -1,0 +1,58 @@
+-5~
+
+The pentane batch processor demonstrated the technical feasibility
+of puffing tobacco in the unit using a cycle of evacuation, pressurizing
+with pentane vapor, holding for an impregnation time, partial venting,
+steaming, evacuation, and slow venting to atmospheric pressure. The’
+mobility of pentane through the tobacco appears slower than that for FC~11.
+The impregnation time was about twice that required for FC-11 (sixty minutes
+vs. about 30 minutes).and an additional steaming period of 1.5 minutes was
+required to assure residual pentane level less than 0.05 percent. A series
+of laboratory tests confirmed these conclusions. The impregnation time
+required at any given vapor pressure to yield equal filling capacity was
+approximately twice as long when using pentane than when using FC~11l.° The
+time required for residual pentane to drop from about one percent to 0.05
+percent in 60% R.H. storage was about one day at 110°F., five days at 95°F.,
+and greater than 15 days at 76°F,
+
+The G-13 pentane batch processor was equipped with a liquid jet, a
+"pot" and a tank, rather than a steam jet, hot tank, and cold tank as used
+on the FC-11 batch processor, Originally, the "pot" water was circulated
+with the tank water to cool the "pot" water, During initial evacuation,
+“pot" water was used in the liquid jet, and the air was vented to the
+atmosphere, During final evacuation, tank water was used to recover the
+pentane vapor. An emulsion formed in the tank and transferred to the "pot",
+resulting in pentane vapors being vented to the atmosphere. The "pot" water
+was isolated from the tank to allow continued operation, Emulsion problems
+in the tank became more severe. The tank was emptied, flushed, and refilled
+with fresh pentane and water. A filter was installed in the vent line between
+the impregnation chamber and the liquid jet to trap particulate matter, Dry
+runs made without tobacco revealed pentane entrained in the water going to
+the liquid jet. Once runs began with tobacco, emulsion reappeared. The
+emulsion separated overnight to the extent. that one run per day could be made.
+If a second run was attempted, the liquid jet would not pull an adequate
+vacuum to cool and dry the tobacco. Further evaluation of operating parameters
+of the pentane batch would require modification of the evacuation systen,
+probably to a steam jet system.
+
+To satisfy the current G-13 production requirements of the Company,
+approximately twenty-five cycles per hour (fifty batch units) would be required,
+based on 600 1b. batches, and two hour cycles. Loading and unloading units
+would be labor intensive, The tremendous number of unit opening cycles exposes
+the workers to potential danger at any time the pentane is not completely removed
+from the chamber or the tobacco. Because of labor and safety considerations,
+the concept of a belt system with remote control should be considered if pentane
+investigations are to continue.
+
+CBr borg pir
+
+Oren H,. Wagner
+Special Processes
+
+/mm
+xc: Mr. H. L. Speas, Jr. Mr. M. W. Wood Mr. Ds R. Nanney a
+Mr. G. M. Stewart Mr. L. C,. Conrad 2
+Mr. G. P. Moser” Dr. M. Stowe ST
+Mr. D. R. Pugh Mr. Jack White by |
+Mr. R. A. Merricks Mr. Rs C. Johnson S|
+|

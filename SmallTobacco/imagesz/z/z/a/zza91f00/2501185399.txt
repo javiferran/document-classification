@@ -1,0 +1,60 @@
+od
+
+PME RESEARCH LABORATORY, June 1978
+
+PROJECT TITLE . : ANALYTICAL INVESTIGATIONS
+PERIOD COVERED : JUNE list - JUNE 28th
+WRITTEN BY : K.D. BRUNNEMANN
+
+APPROVED BY : W. FINK
+
+snr re
+
+PROJECT : ANALYSIS OF N-NITROSONORNICOTINE (NNN)
+at EE RIMM ELVEN OUNININ
+
+INTRODUCTION
+
+The analysis of volatile nitrosamines in tobacco smoke
+(mainstream and sidestream) has been worked out in this
+
+lab using the TEA detector. It is now desirable to have
+available a routine procedure for the non-volatile, tobacco-
+specific nitrosamines in both processed tobacco and tobacco
+smoke. It is also planned to apply this method to indoor
+studies and to monitor NINO extracts.
+
+PROCEDURES
+
+A review of the current literature was made and there are
+several chromatographic methods available : rucl), GLC2-4)
+Gc-ms5), uprcé-8) and HPLC-TEAY) , Although the analysis
+of NNN is the major goal, it is conceivable to incluée
+
+ 
+
+other tobacco-specific nitrosamines such as NNK and N-nitroso-
+
+anatabin (NAtB). The possible presence of the latter was
+first mentioned by Klus and Kuhn!) and later confirmed by
+mass spectrometry, for both tobacco and tobacco smoke
+
+It is planned to apply GLC, HPLC and HPLC-TEA methods and
+to compare the results obtained in addition to the feasi-
+bility to have a technician use a practical method on a
+routine basis.
+
+INSTRUMENTATION
+GLC : Hewlett-Packard 5710 A with FID and
+
+3385 A Automation/Integrator System
+HPLC : Hewlett-Packard 1084 A with auto-injector
+
+and integrator/terminal 79850 A
+GC-MS : Hewlett-Packard Model HP 5992 B
+
+expected in 2 months
+
+Liquid Scintillation Counter : Packard PLD TRI-CARB PRIAS
+
+66£581 1062

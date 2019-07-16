@@ -1,0 +1,48 @@
+4s From: Joyce Bagby To: Brian Robbins Date: 6/14/96 Time: 12:22:12 Page & of 7
+
+ 
+
+RESPONSE CODE REQUEST
+Page2
+arc; U20 ————_—__—-—-____
+Use this side for Conversion or Consumer Mission:
+SYSTEM _Corp/Multibrand DEFAULT
+EVENT
+CONVERSION
+PROGRAM NA DEFAULT
+CONV SRC
+PROGRAM
+
+GROUP _102-GTG PROMOTING
+BRAND
+
+SOURCE 13 00
+TARGETING
+TYPE _S ROUTINE
+CLUB PROGRAM
+AFFILIATION NA ROUTINE
+cLuB staTuUS_NA BOUNCEBACK
+
+ROUTINE ___
+MFID _ TBD. DTS 9/13/96
+
+BOUNCEBACK
+SPECIAL SPECIAL
+
+PROCESSES. PROCESSES
+
+CALL
+ROUTINE
+
+ 
+
+COMMENTS:
+
+Completed By: Orew Huyett Date: une 14,1996
+
+Helpful Hints: System = Brand Sub-system(s) if this code is for evaluation and/or entry into conversion pgm.
+System = Conversion Sub-system if this code is for response to mailings from conversion pgm
+Special Processes: 800 = Personai Selling source / 830 = Flow 2 (RevMed/Cont) source.
+Default Event = "BRC" for Flow 2 (Rev/Med/Cont} sources
+
+6692 PLOTS

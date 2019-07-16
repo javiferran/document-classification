@@ -1,0 +1,75 @@
+2. Biochemical characterization of the interactions of neu/erbB2 with erbB3. Given that
+the growth factor heregulin binds to the neu/erbB2 tyrosine kinase in some cells (e.g. mammary
+carcinomas, pheochromocytoma cells) but does not bind to neu/erbB2 in fibroblasts or in insect cells, and
+that heregulin does bind to erbB3 in all cell systems tested (including insect cells), we have postulated that
+a heterodimer comprised of the neu/erbB2 tyrosine kinase and the erbB3 protein is a high affinity target for
+heregulin and that neu/erbB2 can phosphorylate erbB3 in a here ulin-dependent manner. We will test
+these possibilities by developing reconstituted phospholipid vesicle systems containing the recombinant,
+purified neu/erbB2 and erbB3 proteins. We will examine if high affinity binding of heregulin to a
+neu/erbB2-erbB3 heterodimer can be inhibited by different forms of the erbB3 ED or by anti-erbB3
+antibodies that are being generated.
+
+3. Delineation of EGF receptor-erbB3 or neu/erbB2-erbB3 signaling pathways.
+Phosphorylated tyrosine residues of the erbB3 protein are predicted to constitute a consensus region for
+binding the SH-2 domain of src. Thus, an attractive hypothesis for a signaling cascade is that heregulin
+binding to erbB3 stimulates the formation of a high affinity (heregulin)-erbB3-neu/erbB2 ternary complex
+that enables neu/erbB2 to phosphorylate erbB3 at specific binding sites for src. Similarly, the formation of
+an EGF receptor-erbB3 heterodimer could couple EGF binding to the recruitment of the stc kinase to an
+EGF receptor-erbB3 heterodimer. In this series of studies, we will examine the possible interactions of
+the neu/erbB2 tyrosine kinase (or the EGF receptor) with erbB3 and the src t rosine kinase in lung
+carcinoma cells. Specifically, anti-erbB3 antibodies that are being generated, as well as anti-EGF receptor,
+anti-neu/erbB2, anti-sre, and anti-phosphotyrosine antibodies that are available in the laboratory will be
+used to identify EGF receptor-erbB3, neu/erbB2-erbB3, and erbB3-src interactions in different lung
+cancer cells through immunoprecipitation experiments. These studies will be complemented by in vitro
+studies where we will take advantage of the development of insect cell expression systems for EGF
+receptor, neu/erbB2, erbB3, and c-sre to reconstitute an EGF-stimulated, or a heregulin-stimulated,
+signaling pathway using purified components.
+
+EXPERIMENTAL APPROACHES-FEASIBILITY
+
+The overall goal of the proposed studies is to delineate the role of the erbB3 protein in the signaling
+pathways of the EGF receptor and neu/erbB2, with the ultimate aim of determining the importance of this
+protein in both normal and aberrant growth regulation. At the present time, virtually nothing is known
+about the biochemical activities of erbB3 or its participation in growth factor-coupled signal transduction.
+Our laboratory has developed a number of insect cell expression systems for the individual members of the
+subclass 1 receptor tyrosine kinases as well as protocols for the purification of these receptors to apparent
+homogeneity. e also have developed procedures for reconstituting these receptors into phospholipid
+bilayers. Thus, while the proposed studies will be labor intensive, we nonetheless feel that we have
+expertise in the necessary approaches to allow us to examine the interactions between the EGF receptor or
+neu/erbB2 and erbB3 in a well defined manner. We also intend to take advantage of these biochemical
+approaches to examine the role of the src kinase in the signaling pathways of the EGF receptor or
+neu/erbB2, as mediated via the ‘adapter’ action of the erbB3 protein. An important aim will be to
+reconstitute these signaling pathways and to demonstrate that they are operating in the control of lung cell
+growth. Toward that end, we will take advantage of different antibody reagents that we have generated or
+are available in the laboratory for immunoprecipitation studies performed in different lung cancer cells.
+We also intend to examine the potential use of different erbB3 antibodies and limit domains in modulating
+EGF receptor and nev/erbB? signaling as a possible novel source of therapeutic reagents.
+
+REFERENCES
+
+1. Ullrich, A., and Schlessinger, J. (1990) Cell 61, 203-212.
+
+2. Slamon, D.J. et al. (1989) Science 244, 707-712.
+
+3, Veale, D. et al. (1987) British J. Canc. 55, 513-516.
+
+4. Ker, J.A. etal. (1990) Cancer Research 50, 5184-5191.
+
+5, Kokai, Y. etal. (1989) Cell 58, 287-292.
+
+6. Carraway, K.L. et al. (manuscript is enclosed)
+
+7. Holmes et al. (1992) Science 256, 1205-1211.
+
+8. Carraway, K.L. et al. (1989) J. Biol. Chem. 264, 8699-8707.
+
+9. Carraway, K.L., and Cerione, R.A. (1991) J. Biol. Chem. 266, 8899-8906.
+10. Guy, P.M. et al. (1992) J. Biol. Chem. 267, 13851-13856.
+
+11. Carraway, K.L., and Cerione, R.A. (1993) J. Biol. Chem. 268, 23860-23867.
+12. Guy, P.M. et al., (manuscript is enclosed).
+13. Songyang, Z. etal. (1993) Cell 72, 767-773.
+
+14. Kiefer, P-E. et al. (1990) J. Cancer Res. Clin. Oncol. 116, 29-37.
+
+50665811

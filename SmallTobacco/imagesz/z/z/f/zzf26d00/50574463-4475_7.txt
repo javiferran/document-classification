@@ -1,0 +1,37 @@
+IONOPHORES AND ELECTROPHOTOLUMINESCENCE 221
+
+steady-state result is :
+
+(1) En = 1.5 (R/d) E cos @ (with Bye R, d, E and @ defined in
+Fig.4).
+
+Eq. (1) is obtained by solving the Laplace equation for the
+
+potential U in the 3 regions (o, m and i), with the appropriate
+
+boundary conditions (as first done by Maxwell [18], and assuming
+Re>d and A = A, >> dD (A-the conductivities).
+
+m (kV/cm)
+(Ein Ven) K
+
+E_()=KEL(t)cos®
+m .
+
+EM KE
+m
+3(R/d)
+2ae€ K=D,3(R/A) OnThg)
+f(ty=1-¢ ONARG?
+
+20E Re (0.6 - 20) pm
+
+   
+
+i 0 Do Ot 10% 107
+x = A\m/ Xo
+
+FIG. 5., Transmembrane field (&) dependence on the relative
+conductivities for different bleb sizes.
+
+50574470

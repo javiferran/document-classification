@@ -1,0 +1,24 @@
+A ITuman PB-PK Model for Simulating Nicotine Uptake from Transdermal Delivery
+and Cigarette Smoking
+
+Speaker: Dr. J). Donald deBethizy Presentation Time: 45 minutes
+
+Human exposure to nicotine can occur from tobacco use, ETS, diet, gum, nasal spray, or
+transdermal delivery. A human PBPK model for nicotine and a major nicotine
+metabolite, cotinine, was developed from a previously published rat PBPK model. A
+novel forearm compartment was used to describe the blood sampling site in humans.
+
+The model accounted for 20% decrease in nicotine clearance during cigarette smoking.
+The human model predicts plasma concentrations of nicotine and cotinine following
+intravenous injection, smoking, and transdermal delivery of nicotine. The model
+suggests that tissue kinetics following transdermal delivery closely resemble those via
+steady-state intravenous infusion. The human forearm compartment overcomes some
+limitations when scaling a rat PBPK model to humans where the venous sampling sites
+
+are different.
+
+This human PBPK model for nicotine will be useful for examining differences in the
+time course of pharmacodynamic responses to nicotine following the indicated routes
+of administration.
+
+6%L2 E80TS

@@ -1,0 +1,54 @@
+2. Modify the pentane batch unit to include steam jet evacuation,
+hot tank, and cold tank.
+
+Memorandum:
+
+Tests were run to evaluate the use of pentane as an alternate
+puffing agent for the G-13, This report includes test data and results
+for comparison of untreated G-13A, production (FC-11) G-13A, pentane batch
+G-13A, and porous belt G-13A, both as total composition, and blended into
+the WINSTON LIGHT 84. The report also discusses the feasibility of using ‘
+pentane as an alternate puffing agent, with particular emphasis on the
+pentane batch process.
+
+I. Test Evaluation
+
+A. Test Preparation | .
+
+G-13A feed and product before top dressing were procured from
+No. 601 Processing. The feed was dried to 12.7 percent moisture, One
+portion of the dried feed was used for pentane batch processing, another
+portion was supplied to Mr. Jack White, Research Department, for pentane
+porous belt processing, and a third portion was used for evaluation.
+
+The portion processed through the pentane batch unit was Lot G-13
+P-37, run April 5, 1979. Three baskets, each holding 125 pounds, were
+evacuated to four mm. Hg. abs., pressurized to 65 psia. with pentane vapor,
+held for sixty minutes without venting, vented to 20 psia. steamed for four
+minutes, fifteen seconds, evacuated to 13 mm. Hg. abs., and vented to
+atmospheric pressure over a twenty-three minute period. Total cycle time
+was 120 minutes. No heat shield was used during the run. During the one
+hour impregnation time, the chamber pressure increased from 65 to 90 psia.,
+and the tobacco temperature increased from 185°F, to 210°F. During the
+steaming cycle, the tobacco temperature reached 244°F. Composite samples
+taken before and after processing indicated feed filling capacity of 388
+and product filling capacity of 691 for 78 percent increase.
+
+ 
+
+The tobacco for the porous belt was moistened, pentane vapor impregnated
+at atmospheric pressure for at least three days, and steamed 3-5 seconds on
+the porous belt,
+
+The three expanded samples (FC-11, pentane batch, and pentane porous
+belt) were top dressed with F-47, as described in L-13,155 Tobacco Product
+Test Information, Appendix A-l. Unfiltered cigarettes were made from the
+unpuffed feed and from these three samples. Physical, chemical, smoke,
+expert smoking panel and essential oils evaluations were obtained from the
+cigarettes. Results appear in Appendix A-2 thru A~-6,
+
+Tobacco from each of these four lots was used as the G~13A portion in
+WINSTON LIGHT 84 blends. ‘These blends are described in L-13,156 Tobacco
+Product Test Information, Appendix B-1. Cigarettes were made from these blends.
+
+SZL7 9780S

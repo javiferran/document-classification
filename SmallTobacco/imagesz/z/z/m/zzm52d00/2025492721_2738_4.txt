@@ -1,0 +1,36 @@
+5
+
+The effects of outlying points in our analyses of data on mim, vs r was
+investigated by using five of the most popular statistical tests to discard either 10 or
+20 outlyers. In all cases, for both males and females, this increased our discrepancy.
+Outlyers were not discarded.
+
+Ten different random samples each of 200, 400, and 800 or our 1601 counties
+
+_ were analyzed independently. tn all cases, results for B were quite similar to those
+
+for our entire data set, B=-7.3 for males and -8.3 for females. For example, for our
+ten random sets of 200 counties, all B values were between -5.0 and -8.5 for males,
+and between -4.8 and -12.7 for females. Our study might therefore be considered
+equivalent to eight independent studies, each giving roughly the same discrepancy
+with theory.
+
+One might wonder how unexpected it is to find such a strong and statistically
+robust correlation between m and ¢ as we find for lung cancer in Fig. 1. To
+
+investigate this, we studied the regression of m ont for the 33 principal cancer types.
+
+The number of standard deviations by which the slope B differs from zero was 2.7
+
+times larger for lung cancer than for any other type, and with just two exceptions it
+was at least 4 times larger. Double regressions on r and $ gave similar results; as
+expected, the m-S correlation is very large and positive for lung cancer, and the m-r
+correlation is large (two-thirds as large as m-S). The only unexpected result was that
+the m-r correlation is negative rather than Positive. We conclude that the strong
+observed correlation between m and r for lung cancer is quite unique and remarkable.
+
+in inties in smoking prevalen
+
+Pose
+
+SZLZ60SZ0z

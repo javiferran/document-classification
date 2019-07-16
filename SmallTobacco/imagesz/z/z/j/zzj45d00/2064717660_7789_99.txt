@@ -1,0 +1,80 @@
+INBIFO Institut fir biologische Forschung GmbH - Kéln PRIORITY
+n Addendum to Report P 0500/3237 97/10/8 Page 7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATCH DOSE MUTAGENICITY (rev./plate) REGRESSION ANALYSIS
+— NO.
+i PLATE N SE RSD REGR. SD CORR. TEST
+. : COEF. COEF.
+= : 1 2 3
+i dng? (%) (rev./ (rev./
+py plate) mg) mg)
+1031 0.050 29 29 23 27.0 2.012.8
+0.100 27 24 21 24.0 1.7 12.5
+0.200 26 24 35 28.3 3.420.7 14 28 0.2165 L
+0.400 27 26 22 25.0 1.5106 -2 I -.07= L
+| 1.000 32 36 36 34.7 13 6.7 9 4 O612= L
+Li
+1032 0.050 27 22 21 23.3 1.9 13.8
+7 0.100 25 29 28 27.3 1.2 7.6
+i 0.200 29 35 29 31.0 2.01.2 50 28 O7= 1
+0.400 27 32 34 31.0 2111.6 20 ll 0.647= L
+b 1.000 40 40 38 39.3 0.7 29 15 4 0.845 +L
+i
+i 1033 0.050 32 «18 «26 25.3 4.1 27.7
+0.100 25 2 2 25.0 0.0 0.0
+! 0.200 21 19 15 18.3 1,816.7 -80 25 -.6695 L
+bod 0.400 30 21 32 27.7 3421.2 5 I O17= L
+1.000 23 28 33 28.0 2.917.9 5 4 0.3335 L
+.
+‘ 1034 0.050 23 «21-26 23.3 1.5 10.8
+_ 0.100 28 2 31 28.0 1.7 10.7
+als 0.200 39 32 40 37.0 2,511.8 91 30 0.899% L
+i 0.400 30 26 35 30.3 2614.9 19 11 O.457= N -
+yo 1.000 31 32 30 31.0 0.6 3.2 5 4 O311= N
+Joa all 0.050 - = 24.8 1.2 16.5
+id O.100 - - - 26.1 0.8 10.1
+i 0.200 - - - 28.7 2.327.7 26 14 0.304= L
+iy 0.400 - - - 28.5 1.315.6 10 6 0.269= L
+i ii 1.000 - - - 33.3 1515.2 8 2 0.476 HHL
+
+ 
+
+Table A6 MUTAGENICITY OF TPM WITHOUT ACTIVATION IN STRAIN TA1S37,
+STANDARD REFERENCE CIGARETTE 1R4F ‘
+
+Remarks: date of assay: 09-APR-97
+regression analysis: using Poisson weights
+test: statistically significant difference from 0
+N: nonlinearity, L: linearity
+
+970918 08:37:11 P. 1 USER_DISK:[IT_A HJINTCO2_3237.LIS;6
+
+ 
+
+ 
+
+6SZLLZP90z

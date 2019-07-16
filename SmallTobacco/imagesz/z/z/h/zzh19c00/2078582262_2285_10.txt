@@ -1,0 +1,34 @@
+temperature, 25°C, only a small amount of formaldehyde, CO, CO2, water, and some carbonyl
+compounds were formed because levoglucosan is known to be easily volatized. Vacuum
+pyrolysis, which facilitates the remove of reaction products, has resulted in a recovery of rather
+large portion of intact levoglucosan. When the second heater was set at 800 °C, however, gas
+phase products were significantly increased. Formaldehyde yield was increased by a factor of
+more than ten, This indicates that gas phase levoglucosan further decomposed in the second
+heater at the higher temperature. The pyrolysis products from cellulose and levoglucosan under
+the same experimental conditions are compared in Figure 4. Here the cellulose and levoglucosan
+were heated up to 800 °C by the first heater, and then passed through the second heater also set at
+800 °C. Indeed, very similar infrared spectra and gas phase products were found in these two
+experiments. The spectral regions of 3200-2700 cm™, where methane, formaldehyde, and
+acetaldehyde absorb, are almost identical in both levoglucosan and cellulose pyrolysis. The CO,
+and CO regions (2400-2000 em’) are also very similar in both cascs. The similaritics between
+pyrolysis of cellulose and levoglucosan support our proposed formation mechanism on
+formaldchyde formation, An important difference between Ievoglucosan and cellulose pyrolysis
+is that levoglucosan did not produce hydroxyacctaldchyde, but cellulose did as determined from
+the hydrox yacetaldehyde absorption at 860.4 cm” in the gas phase IR spectra.
+
+Shafizadch had proposed a reaction scheme to explain the origin of
+hydrox yacelaldehyde [1]. In his mechanism, levoglucosan was first produced in the pyrolysis,
+which yiclds glucose and then undergoes C2-C; scission to form hydroxyacctaldchyde and a
+tetrose that then degrades further: cellulose > levoglucosan > glucose > hydroxyacetaldehyde
++ tetrose. Piskorz et al. [19] have used the similar reaction mechanism to explain the formation
+of hydroxyacctaldchyde in their studics of rapid pyrolysis of cellulose. Richards [23], in a study
+of vacuum pyrolysis of cellulose at 350 °C, argues that this mechanism is very unlikely based on
+the fact that conditions which increase levoglucosan yield cause a dramatic decrease in
+hydrox yacetaldehyde yield. Richards has proposed that the hydrox yacetaldehyde formation must
+involve diversion of reaction channels prior to the formation of levoglucosan. In our experiments
+on pyrolysis of levoglucosan, no hydroxyacetaldehyde was observed as the product, indicating
+that levoglucosan is not a good candidate as the major precursor of hydroxyacctaldchyde in
+
+cellulose pyrolysis.
+
+2078582272

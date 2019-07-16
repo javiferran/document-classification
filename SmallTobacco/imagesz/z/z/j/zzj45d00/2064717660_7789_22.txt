@@ -1,0 +1,38 @@
+Report P 0500/3237 97/10/8 Page 12
+
+6 Statistics and Evaluations
+
+The arithmetic mean and as a measure of variance, the standard error of the mean, the
+standard deviation, and/or the relative standard deviation are given as descriptive statistics for
+
+single values.
+
+For each strain in the presence and absence of the activation system, the following statistical
+tests and evaluations were performed based on the number of colonies counted of bacteria that
+reverted to histidine prototrophy:
+
+- linear regression analysis with Poisson-weighted data from the linear part of the dose-
+response curve for each test substance batch. This analysis includes the calculation of the
+slope (specific mutagenicity on a per mg TPM basis), its standard deviation, a test of the
+significant difference of the slope from "0", and a linearity test;
+
+- overall comparison of the response for all doses of each batch from each cigarette type
+with that of the solvent control using the one-way analysis of variance (Sachs, |1982). In
+cases where the overall comparison showed a significant difference between the doses,
+the Dunnett test (Dunnett, 1955) for pairwise comparison was applied.
+
+The mutagenicity on a per mg DPM and on a per cigarette basis was calculated using the
+values for the specific mutagenicity (on a per mg TPM basis), the TPM, and the DPM yields.
+
+The comparison of the mutagenicity values for each test cigarette type with those of the
+standard reference cigarette 1R4F was performed using the t-test (modified according to Welch
+(Sachs, 1982) in case of heterogeneous variances).
+
+All tests were conducted at the nominal level of significance of « = 0.05, a = 0.01, and
+a = 0.001 (2-tailed). No adjustment for multiple testing was applied. Results were considered
+
+statistically significant at p <0.05.
+
+{NBIFO institut fiir biologische Forschung GmbH - Kéln PRIORITY
+
+zeoLLZps0c
