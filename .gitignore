@@ -9,6 +9,8 @@ Tobacco3482/*
 .ipynb_checkpoints/*
 SmallTobacco/*
 pretrained/*
+models/*
+SmallTobacco/*
 
 # C extensions
 *.so
