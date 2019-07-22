@@ -8,6 +8,7 @@ HDF5_files/*
 Tobacco3482/*
 .ipynb_checkpoints/*
 SmallTobacco/*
+pretrained/*
 
 # C extensions
 *.so

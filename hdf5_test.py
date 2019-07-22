@@ -7,9 +7,9 @@ import cv2
 
 #http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html
 
-hdf5_path = './HDF5_files/hdf5_small_tobacco_full.hdf5'
+hdf5_path = './HDF5_files/hdf5_small_tobacco_cover.hdf5'
 
-file_read = open('./Data/Small_Tobacco_cte.csv', "rU")
+file_read = open('./Data/Small_Tobacco_cover.csv', "rU")
 reader = csv.reader(file_read, delimiter=',')
 
 #Original label csv reading into list
@@ -32,21 +32,32 @@ file_read.close()
 
 
 #Split
-train_addrs = addrs[0:int(0.6*len(addrs))]
-train_labels = labels[0:int(0.6*len(labels))]
-train_segmentations = segmentation[0:int(0.6*len(segmentation))]
-train_ocrs = ocr_dirs[0:int(0.6*len(ocr_dirs))]
-val_addrs = addrs[int(0.6*len(addrs)):int(0.8*len(addrs))]
-val_labels = labels[int(0.6*len(addrs)):int(0.8*len(addrs))]
-val_segmentations = segmentation[int(0.6*len(segmentation)):int(0.8*len(segmentation))]
-val_ocrs = ocr_dirs[int(0.6*len(ocr_dirs)):int(0.8*len(ocr_dirs))]
-test_addrs = addrs[int(0.8*len(addrs)):]
-test_labels = labels[int(0.8*len(ocr_dirs)):]
-test_segmentations = segmentation[int(0.8*len(segmentation)):]
-test_ocrs = ocr_dirs[int(0.8*len(ocr_dirs)):]
-#print(test_labels)
-#print(train_labels)
+# train_addrs = addrs[0:int(0.6*len(addrs))]
+# train_labels = labels[0:int(0.6*len(labels))]
+# train_segmentations = segmentation[0:int(0.6*len(segmentation))]
+# train_ocrs = ocr_dirs[0:int(0.6*len(ocr_dirs))]
+# val_addrs = addrs[int(0.6*len(addrs)):int(0.8*len(addrs))]
+# val_labels = labels[int(0.6*len(addrs)):int(0.8*len(addrs))]
+# val_segmentations = segmentation[int(0.6*len(segmentation)):int(0.8*len(segmentation))]
+# val_ocrs = ocr_dirs[int(0.6*len(ocr_dirs)):int(0.8*len(ocr_dirs))]
+# test_addrs = addrs[int(0.8*len(addrs)):]
+# test_labels = labels[int(0.8*len(ocr_dirs)):]
+# test_segmentations = segmentation[int(0.8*len(segmentation)):]
+# test_ocrs = ocr_dirs[int(0.8*len(ocr_dirs)):]
 
+#Papers split 800/200/rest
+train_addrs = addrs[0:800]
+train_labels = labels[0:800]
+train_segmentations = segmentation[0:800]
+train_ocrs = ocr_dirs[0:800]
+val_addrs = addrs[800:1000]
+val_labels = labels[800:1000]
+val_segmentations = segmentation[800:1000]
+val_ocrs = ocr_dirs[800:1000]
+test_addrs = addrs[1000:]
+test_labels = labels[1000:]
+test_segmentations = segmentation[1000:]
+test_ocrs = ocr_dirs[1000:]
 
 
 #Preprocess
@@ -96,20 +107,20 @@ def extract_ocrs(ocrs):
             print('File: {}/{}'.format(i, len(ocrs)))
         # read an image and resize to (224, 224)
         # cv2 load images as BGR, convert it to RGB
-        
+
         addr = ocrs[i]
         #print(addr)
         f = open(addr, "r")
         text = f.read()
         #print(text)
-        
+
         if ocrs == train_ocrs:
             hdf5_file["train_ocrs"][i,...] = text
         elif ocrs ==val_ocrs:
             hdf5_file["val_ocrs"][i,...] = text
         else:
             hdf5_file["test_ocrs"][i,...] = text
-        
+
         #mean += img / float(len(train_labels))
 
 
@@ -129,7 +140,7 @@ for i in range(len(train_addrs)):
         print('Train data: {}/{}'.format(i, len(train_addrs)))
     # read an image and resize to (224, 224)
     # cv2 load images as BGR, convert it to RGB
-    
+
     addr = train_addrs[i]
     img = cv2.imread(addr)
     img = cv2.resize(img, (224, 224), interpolation=cv2.INTER_CUBIC)
