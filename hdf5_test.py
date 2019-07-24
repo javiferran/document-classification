@@ -4,20 +4,60 @@ from random import shuffle
 import glob
 import csv
 import cv2
+import pandas as pd
+
+
 
 #http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html
 
-hdf5_path = './HDF5_files/hdf5_small_tobacco_cover.hdf5'
-
+hdf5_path = './HDF5_files/hdf5_small_tobacco_papers.hdf5'
 file_read = open('./Data/Small_Tobacco_cover.csv', "rU")
 reader = csv.reader(file_read, delimiter=',')
+
+df = []
+
+for element in reader:
+    new_row = [element[0],element[1], element[2],element[3]]
+    df.append(new_row)
+
+file_read.close()
+
+columns = ['img_dir','class', 'label', 'ocr_dir']
+df = pd.DataFrame(df, columns = columns)
+df = df.sample(frac=1).reset_index(drop=True) #shuffle
+
+values = df.values
+train_sample = []
+test_sample = []
+classes = ['0','1','2','3','4','5','6','7','8','9']
+for clas in classes:
+    counter = 0
+    for row in values:
+        if row[1] == clas and counter < 100:
+            counter += 1
+            new_row = [row[0], row[1], row[2], row[3]]
+            train_sample.append(new_row)
+
+for row in values:
+    counter = 0
+    for element in train_sample:
+        if row[0] != element[0]:
+            counter += 1
+        if counter == len(train_sample):
+            new_row = [row[0], row[1], row[2], row[3]]
+            test_sample.append(new_row)
+import random
+random.shuffle(test_sample)
+random.shuffle(train_sample)
+
+
 
 #Original label csv reading into list
 addrs = []
 labels = []
 segmentation = []
 ocr_dirs = []
-for row in reader:
+for row in train_sample:
       adress = row[0]
       lab = int(row[1])
       seg = int(row[2])
@@ -28,7 +68,17 @@ for row in reader:
       segmentation.append(seg)
       ocr_dirs.append(ocr)
 
-file_read.close()
+for row in test_sample:
+      adress = row[0]
+      lab = int(row[1])
+      seg = int(row[2])
+      ocr = row[3]
+      #label = np.array(label).astype(int)
+      addrs.append(adress)
+      labels.append(lab)
+      segmentation.append(seg)
+      ocr_dirs.append(ocr)
+
 
 
 #Split
