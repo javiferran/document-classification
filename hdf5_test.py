@@ -10,8 +10,8 @@ import pandas as pd
 
 #http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html
 
-hdf5_path = './HDF5_files/hdf5_small_tobacco_papers.hdf5'
-file_read = open('./Data/Small_Tobacco_cover.csv', "rU")
+hdf5_path = './HDF5_files/hdf5_small_tobacco_audebert.hdf5'
+file_read = open('./Data/Small_Tobacco_cover_final.csv', "rU")
 reader = csv.reader(file_read, delimiter=',')
 
 df = []
@@ -109,15 +109,16 @@ test_labels = labels[1000:]
 test_segmentations = segmentation[1000:]
 test_ocrs = ocr_dirs[1000:]
 
+img_size = 384
 
 #Preprocess
 data_order = 'tf'  #'tf' for Tensorflow order
 dt = h5py.special_dtype(vlen=str)     # PY3
 
 # check the order of data and chose proper data shape to save images
-train_shape = (len(train_addrs), 224, 224, 3)
-val_shape = (len(val_addrs), 224, 224, 3)
-test_shape = (len(test_addrs), 224, 224, 3)
+train_shape = (len(train_addrs), img_size, img_size, 3)
+val_shape = (len(val_addrs), img_size, img_size, 3)
+test_shape = (len(test_addrs), img_size, img_size, 3)
 
 # open a hdf5 file and create arrays
 hdf5_file = h5py.File(hdf5_path, mode='w')
@@ -155,7 +156,7 @@ def extract_ocrs(ocrs):
         # print how many images are saved every 1000 images
         if i % 100 == 0 and i > 1:
             print('File: {}/{}'.format(i, len(ocrs)))
-        # read an image and resize to (224, 224)
+        # read an image and resize to (img_size, img_size)
         # cv2 load images as BGR, convert it to RGB
 
         addr = ocrs[i]
@@ -188,12 +189,12 @@ for i in range(len(train_addrs)):
     # print how many images are saved every 1000 images
     if i % 100 == 0 and i > 1:
         print('Train data: {}/{}'.format(i, len(train_addrs)))
-    # read an image and resize to (224, 224)
+    # read an image and resize to (img_size, img_size)
     # cv2 load images as BGR, convert it to RGB
 
     addr = train_addrs[i]
     img = cv2.imread(addr)
-    img = cv2.resize(img, (224, 224), interpolation=cv2.INTER_CUBIC)
+    img = cv2.resize(img, (img_size, img_size), interpolation=cv2.INTER_CUBIC)
     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     # add any image pre-processing here
     # # if the data order is Theano, axis orders should change
@@ -209,11 +210,11 @@ for i in range(len(val_addrs)):
     # print how many images are saved every 1000 images
     if i % 100 == 0 and i > 1:
         print('Validation data: {}/{}'.format(i, len(val_addrs)))
-    # read an image and resize to (224, 224)
+    # read an image and resize to (img_size, img_size)
     # cv2 load images as BGR, convert it to RGB
     addr = val_addrs[i]
     img = cv2.imread(addr)
-    img = cv2.resize(img, (224, 224), interpolation=cv2.INTER_CUBIC)
+    img = cv2.resize(img, (img_size, img_size), interpolation=cv2.INTER_CUBIC)
     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     # add any image pre-processing here
     # # if the data order is Theano, axis orders should change
@@ -226,11 +227,11 @@ for i in range(len(test_addrs)):
     # print how many images are saved every 1000 images
     if i % 100 == 0 and i > 1:
         print('Test data: {}/{}'.format(i, len(test_addrs)))
-    # read an image and resize to (224, 224)
+    # read an image and resize to (img_size, img_size)
     # cv2 load images as BGR, convert it to RGB
     addr = test_addrs[i]
     img = cv2.imread(addr)
-    img = cv2.resize(img, (224, 224), interpolation=cv2.INTER_CUBIC)
+    img = cv2.resize(img, (img_size, img_size), interpolation=cv2.INTER_CUBIC)
     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     # add any image pre-processing here
     # # if the data order is Theano, axis orders should change
