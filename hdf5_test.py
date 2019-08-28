@@ -10,7 +10,7 @@ import pandas as pd
 
 #http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html
 
-hdf5_path = './HDF5_files/hdf5_small_tobacco_audebert.hdf5'
+hdf5_path = './HDF5_files/hdf5_small_tobacco_papers_10.hdf5'
 file_read = open('./Data/Small_Tobacco_cover_final.csv', "rU")
 reader = csv.reader(file_read, delimiter=',')
 
@@ -109,7 +109,7 @@ test_labels = labels[1000:]
 test_segmentations = segmentation[1000:]
 test_ocrs = ocr_dirs[1000:]
 
-img_size = 384
+img_size = 224
 
 #Preprocess
 data_order = 'tf'  #'tf' for Tensorflow order

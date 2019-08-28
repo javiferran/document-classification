@@ -30,6 +30,7 @@ import torchtext.datasets as datasets
 import os
 from flair.embeddings import WordEmbeddings, FlairEmbeddings, StackedEmbeddings, Sentence, DocumentPoolEmbeddings
 from flair.embeddings import BytePairEmbeddings
+from flair.embeddings import BertEmbeddings
 
 #import torch
 import torch.nn as nn
@@ -44,7 +45,8 @@ from models.imagenet import mobilenetv2
 
 #from sklearn.metrics import confusion_matrix
 import seaborn as sn
-
+import nn_models as mod
+import H5Dataset as H5
 
 
 def set_parameter_requires_grad(model, feature_extracting):
@@ -52,262 +54,95 @@ def set_parameter_requires_grad(model, feature_extracting):
         for param in model.parameters():
             param.requires_grad = False
 
-class Fully_Connected(nn.Module):
 
-    def __init__(self,embedding_dim):
-        super(Fully_Connected, self).__init__()
-
-        input_linear = embedding_dim
-        C = 10
-
-        self.fc1 = nn.Linear(input_linear, C)
-
-    def forward(self, x):
-
-        logit = self.fc1(x)
-
-        return logit
-
-class CNN_Text_Image(nn.Module):
-
-    def __init__(self, image_model, embedding_dim):
-        super(CNN_Text_Image, self).__init__()
-        #self.args = args
-
-        #V = args.embed_num
-        D = embedding_dim #embed_dim, 4196 for doc_embeddings
-        C = 10 #class_num
-        Ci = 1
-        Co = 100 #kernel_num -> number of kernel with the same size
-        Ks = [3,4,5] #kernel_sizes -> size = number of words
-
-        #self.embed = nn.Embedding(V, D)
-        # self.convs1 = [nn.Conv2d(Ci, Co, (K, D)) for K in Ks]
-        self.convs1 = nn.ModuleList([nn.Conv2d(Ci, Co, (K, D)) for K in Ks])
-
-
-        '''
-        self.conv13 = nn.Conv2d(Ci, Co, (3, D))
-        self.conv14 = nn.Conv2d(Ci, Co, (4, D))
-        self.conv15 = nn.Conv2d(Ci, Co, (5, D))
-        '''
-        self.dropout = nn.Dropout(0.5)
-        #self.fc1 = nn.Linear(len(Ks)*Co, C)
-        self.fc1 = nn.Linear(600, C)
-
-        self.image_model = image_model
-
-    def conv_and_pool(self, x, conv):
-        x = F.relu(conv(x)).squeeze(3)  # (N, Co, W)
-        x = F.max_pool1d(x, x.size(2)).squeeze(2)
-
-        #Output will be size (1,Ks*Co) -> Maxpool will get one ĉ value =  max(c_1,c_2...), where c_i is
-        #the result of the convolution operation of the kernel over the input
-
-        return x
-
-
-
-    def forward(self, x, x2):
-        #x = self.embed(x)  # (N, W, D)
-
-        #if self.args.static:
-            #x = Variable(x)
-        #print('CNN Text entry',x.shape)
-
-        x = x.unsqueeze(1)  # (N, Ci, W, D)
-        #print('unsqueeze',x.shape)
-
-
-        #print(x.shape)
-
-        x = [F.relu(conv(x)).squeeze(3) for conv in self.convs1]  # [(N, Co, W), ...]*len(Ks)
-
-
-        x = [F.max_pool1d(i, i.size(2)).squeeze(2) for i in x]  # [(N, Co), ...]*len(Ks)
-
-
-        x = torch.cat(x, 1) #[1,100] + [1,100] + [1,100] = [1,300]
-
-        #print('After cat', x.shape)
-
-        '''
-        x1 = self.conv_and_pool(x,self.conv13) #(N,Co)
-        x2 = self.conv_and_pool(x,self.conv14) #(N,Co)
-        x3 = self.conv_and_pool(x,self.conv15) #(N,Co)
-        x = torch.cat((x1, x2, x3), 1) # (N,len(Ks)*Co)
-        '''
-        x = self.dropout(x)  # (N, len(Ks)*Co)
-
-        x2 = self.image_model(x2)
-
-        x2 = torch.cat((x,x2),1)
-
-
-        logit = self.fc1(x2)
-
-        return logit
-
-class CNN_Text(nn.Module):
-
-    def __init__(self, embedding_dim):
-        super(CNN_Text, self).__init__()
-        #self.args = args
-
-        #V = args.embed_num
-        D = embedding_dim #embed_dim, 4196 for doc_embeddings
-        C = 10 #class_num
-        Ci = 1
-        Co = 100 #kernel_num -> number of kernel with the same size
-        Ks = [3,4,5] #kernel_sizes -> size = number of words
-
-        #self.embed = nn.Embedding(V, D)
-        # self.convs1 = [nn.Conv2d(Ci, Co, (K, D)) for K in Ks]
-        self.convs1 = nn.ModuleList([nn.Conv2d(Ci, Co, (K, D)) for K in Ks])
-
-
-        '''
-        self.conv13 = nn.Conv2d(Ci, Co, (3, D))
-        self.conv14 = nn.Conv2d(Ci, Co, (4, D))
-        self.conv15 = nn.Conv2d(Ci, Co, (5, D))
-        '''
-        self.dropout = nn.Dropout(0.5)
-        #self.fc1 = nn.Linear(len(Ks)*Co, C)
-        self.fc1 = nn.Linear(300, C)
-
-
-    def conv_and_pool(self, x, conv):
-        x = F.relu(conv(x)).squeeze(3)  # (N, Co, W)
-        x = F.max_pool1d(x, x.size(2)).squeeze(2)
-
-        #Output will be size (1,Ks*Co) -> Maxpool will get one ĉ value =  max(c_1,c_2...), where c_i is
-        #the result of the convolution operation of the kernel over the input
-
-        return x
-
-
-
-    def forward(self, x):
-        #x = self.embed(x)  # (N, W, D)
-
-        #if self.args.static:
-            #x = Variable(x)
-        #print('CNN Text entry',x.shape)
-
-        x = x.unsqueeze(1)  # (N, Ci, W, D)
-        #print('unsqueeze',x.shape)
-
-
-        #print(x.shape)
-
-        x = [F.relu(conv(x)).squeeze(3) for conv in self.convs1]  # [(N, Co, W), ...]*len(Ks)
-
-
-        x = [F.max_pool1d(i, i.size(2)).squeeze(2) for i in x]  # [(N, Co), ...]*len(Ks)
-
-
-        x = torch.cat(x, 1) #[1,100] + [1,100] + [1,100] = [1,300]
-
-        #print('After cat', x.shape)
-
-        '''
-        x1 = self.conv_and_pool(x,self.conv13) #(N,Co)
-        x2 = self.conv_and_pool(x,self.conv14) #(N,Co)
-        x3 = self.conv_and_pool(x,self.conv15) #(N,Co)
-        x = torch.cat((x1, x2, x3), 1) # (N,len(Ks)*Co)
-        '''
-        x = self.dropout(x)  # (N, len(Ks)*Co)
-
-
-        logit = self.fc1(x)
-
-        return logit
-
-
-class H5Dataset(Dataset):
-
-    def __init__(self, path, data_transforms, embedding_model, embeddings_combination ,phase):
-        print('dataset init')
-        self.model_embedding = embedding_model
-        self.combination_embeddings = embeddings_combination
-        self.file_path = path
-        self.dataset = None
-        self.data = None
-        self.target = None
-        self.ocr = None
-        self.phase = phase
-        with h5py.File(self.file_path, 'r') as file:
-            if phase == 'train':
-                self.dataset_len = len(file["train_img"])
-            elif phase == 'val':
-                self.dataset_len = len(file["val_img"])
-            elif phase == 'test':
-                self.dataset_len = len(file["test_img"])
-
-        self.data_transforms = data_transforms
-
-    def __len__(self):
-        return self.dataset_len
-
-    def __getitem__(self, idx):
-        if self.dataset is None:
-            if self.phase == 'train':
-                self.dataset = h5py.File(self.file_path, 'r')
-                self.data = self.dataset.get('train_img')
-                self.target = self.dataset.get('train_labels')
-                self.ocr = self.dataset.get('train_ocrs')
-            elif self.phase == 'val':
-                self.dataset = h5py.File(self.file_path, 'r')
-                self.data = self.dataset.get('val_img')
-                self.target = self.dataset.get('val_labels')
-                self.ocr = self.dataset.get('val_ocrs')
-            elif self.phase == 'test':
-                self.dataset = h5py.File(self.file_path, 'r')
-                self.data = self.dataset.get('test_img')
-                self.target = self.dataset.get('test_labels')
-                self.ocr = self.dataset.get('test_ocrs')
-
-        img = self.data[idx,:,:,:],
-        img = Image.fromarray(img[0].astype('uint8'), 'RGB')
-        #doc_class = torch.from_numpy(self.target[idx,:,:,:]).float()
-        doc_class = self.target[idx]
-        doc_class = doc_class.astype(np.uint8)
-        doc_class = torch.tensor(doc_class)
-
-        ocr_text = self.ocr[idx]
-
-        if self.data_transforms is not None:
-            try:
-                image = self.data_transforms(img)
-            except:
-                print("Cannot transform image: {}")
-
-        ocr = ocr_text #ocr_text
-        # #print(ocr)
-        if ocr == '':
-            ocr = 'empty'
-
-        sentence = Sentence(ocr, use_tokenizer = True)
-
-        #flair_embedding_fast = FlairEmbeddings('multi-forward-fast')
-        #flair_embedding_fast.embed(sentence)
-        self.model_embedding.embed(sentence)
-
-        if self.combination_embeddings == 'documentpool':
-            embeddings_matrix = sentence.get_embedding() #extracts one single vector per document
-        else:
-            #counter = 0
-            embeddings_matrix = torch.zeros(1910,self.model_embedding.embedding_length) #max number of tokens in document = 1910
-            for i, token in enumerate(sentence):
-                #print(token)
-                token_embedding = token.embedding
-                token_embedding = token_embedding.unsqueeze(0)
-                embeddings_matrix[i] = token_embedding
-
-
-        sample = {'image': image, 'class': doc_class, 'ocr': embeddings_matrix}#embeddings_matrix
-
-        return sample
+# class H5Dataset(Dataset):
+#
+#     def __init__(self, path, data_transforms, embedding_model, embeddings_combination, type_model, phase):
+#         print('dataset init')
+#         self.model_embedding = embedding_model
+#         self.combination_embeddings = embeddings_combination
+#         self.file_path = path
+#         self.dataset = None
+#         self.data = None
+#         self.target = None
+#         self.ocr = None
+#         self.phase = phase
+#         self.type_model = type_model
+#         with h5py.File(self.file_path, 'r') as file:
+#             if phase == 'train':
+#                 self.dataset_len = len(file["train_img"])
+#             elif phase == 'val':
+#                 self.dataset_len = len(file["val_img"])
+#             elif phase == 'test':
+#                 self.dataset_len = len(file["test_img"])
+#
+#         self.data_transforms = data_transforms
+#
+#     def __len__(self):
+#         return self.dataset_len
+#
+#     def __getitem__(self, idx):
+#         if self.dataset is None:
+#             if self.phase == 'train':
+#                 self.dataset = h5py.File(self.file_path, 'r')
+#                 self.data = self.dataset.get('train_img')
+#                 self.target = self.dataset.get('train_labels')
+#                 self.ocr = self.dataset.get('train_ocrs')
+#             elif self.phase == 'val':
+#                 self.dataset = h5py.File(self.file_path, 'r')
+#                 self.data = self.dataset.get('val_img')
+#                 self.target = self.dataset.get('val_labels')
+#                 self.ocr = self.dataset.get('val_ocrs')
+#             elif self.phase == 'test':
+#                 self.dataset = h5py.File(self.file_path, 'r')
+#                 self.data = self.dataset.get('test_img')
+#                 self.target = self.dataset.get('test_labels')
+#                 self.ocr = self.dataset.get('test_ocrs')
+#
+#         img = self.data[idx,:,:,:],
+#         img = Image.fromarray(img[0].astype('uint8'), 'RGB')
+#         #doc_class = torch.from_numpy(self.target[idx,:,:,:]).float()
+#         doc_class = self.target[idx]
+#         doc_class = doc_class.astype(np.uint8)
+#         doc_class = torch.tensor(doc_class)
+#
+#         ocr_text = self.ocr[idx]
+#         embeddings_matrix = torch.zeros(1910,self.model_embedding.embedding_length)
+#
+#         if self.data_transforms is not None:
+#             try:
+#                 image = self.data_transforms(img)
+#             except:
+#                 print("Cannot transform image: {}")
+#
+#         if self.type_model != 'image':
+#
+#             ocr = ocr_text #ocr_text
+#             # #print(ocr)
+#             if ocr == '':
+#                 ocr = 'empty'
+#
+#             sentence = Sentence(ocr, use_tokenizer = True)
+#
+#             #flair_embedding_fast = FlairEmbeddings('multi-forward-fast')
+#             #flair_embedding_fast.embed(sentence)
+#             self.model_embedding.embed(sentence)
+#
+#             if self.combination_embeddings == 'documentpool':
+#                 embeddings_matrix = sentence.get_embedding() #extracts one single vector per document
+#             else:
+#                 #counter = 0
+#                 embeddings_matrix = torch.zeros(1910,self.model_embedding.embedding_length) #max number of tokens in document = 1910
+#                 for i, token in enumerate(sentence):
+#                     #print(token)
+#                     token_embedding = token.embedding
+#                     token_embedding = token_embedding.unsqueeze(0)
+#                     embeddings_matrix[i] = token_embedding
+#
+#
+#         sample = {'image': image, 'class': doc_class, 'ocr': embeddings_matrix}#embeddings_matrix
+#
+#         return sample
 
 
 def main():
@@ -315,12 +150,12 @@ def main():
     batch_size = 32
     num_classes = 10
     full_model = 'text'
-    image_model = 'dense'
+    image_model = 'mobilenetv2'
     image_training_type = 'finetuning'
     text_model = 'cnn' #rnn to include
     combined_embeddings = 'stack'
     model_path = './resources/taggers/small_tobacco/'
-    learning_rate = 0.01
+    learning_rate = 0.001
 
     """
     :param batch_size: batch size
@@ -340,7 +175,9 @@ def main():
     byte_embedding = BytePairEmbeddings(language= 'en')#Files stores in .flair/embeddings/en/...
     flair_embedding_backward = FlairEmbeddings('./Data/news-backward-0.4.1.pt')#1024
     glove_embedding = WordEmbeddings('glove')
-    embeddings_models_list = [flair_embedding_forward,flair_embedding_backward,fast_embedding]
+    bert_embedding = BertEmbeddings()
+    embeddings_models_list = [bert_embedding]
+
 
     if combined_embeddings == 'documentpool':
         embedding_model = DocumentPoolEmbeddings([fast_embedding,
@@ -365,13 +202,22 @@ def main():
     # Class and Segmentation
     __all__ = ['MobileNetV2', 'mobilenetv2_19']
 
-    input_size = 224#N.Audebert et al ->384
+    input_size = 384#N.Audebert et al ->384
 
     #Image preprocessing
+    # data_transforms = {
+    # 'test': transforms.Compose([
+    #     transforms.Resize(input_size),
+    #     transforms.CenterCrop(input_size),
+    #     transforms.ToTensor(),
+    #     transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
+    # ]),
+    # }
     data_transforms = {
     'test': transforms.Compose([
         transforms.Resize(input_size),
-        transforms.CenterCrop(input_size),
+        transforms.Grayscale(num_output_channels=3),
+        #transforms.CenterCrop(input_size),
         transforms.ToTensor(),
         transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
     ]),
@@ -407,7 +253,7 @@ def main():
 
         if full_model == 'combined':
             if text_model == 'cnn':
-                model = CNN_Text_Image(net, total_embedding_length)
+                model = mod.CNN_Text_Image(net, total_embedding_length)
         elif full_model == 'image':
             net.classifier = nn.Linear(num_ftrs, num_classes) #Change classifier to 10 classes
             model = net
@@ -415,21 +261,22 @@ def main():
     #Add here RNN
     else:
         if text_model == 'cnn':
-            model = CNN_Text(total_embedding_length)
+            model = mod.CNN_Text(total_embedding_length)
         else:
-            model = Fully_Connected(total_embedding_length)
+            model = mod.Fully_Connected(total_embedding_length)
 
     #Move model to gpu
     model = model.to(device)
 
-    h5_dataset_test = H5Dataset(path='./HDF5_files/hdf5_small_tobacco_papers.hdf5', data_transforms=data_transforms['test'], embedding_model = embedding_model, embeddings_combination = combined_embeddings, phase = 'test')
+    h5_dataset_test = H5.H5Dataset(path='./HDF5_files/hdf5_small_tobacco_audebert.hdf5', data_transforms=data_transforms['test'], embedding_model = embedding_model, embeddings_combination = combined_embeddings, type_model = full_model, phase = 'test')
 
     dataloader_test = DataLoader(h5_dataset_test, batch_size=1, shuffle=False, num_workers=0)#=0 in inetractive job
 
     optimizer = optim.SGD(model.parameters(), lr=learning_rate, momentum=0.9, weight_decay=0.00004)
 
-    PATH = model_path + 'combined_2.pt'
-    PATH = model_path + 'text700.01.pt'
+    PATH = model_path + 'text/700.005bert700.pt'#/image/2000.01_loading_best.pt
+    #PATH = model_path + 'text700.01.pt'
+
     checkpoint = torch.load(PATH)
     model.load_state_dict(checkpoint['model_state_dict'])
     optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
@@ -443,6 +290,7 @@ def main():
     print('Testing...')
     model.eval()
 
+    correct = 0
     max_size = 0
     confusion_matrix = torch.zeros(num_classes, num_classes)
     with torch.no_grad():
@@ -467,10 +315,14 @@ def main():
             _, preds = torch.max(outputs.data, 1)
             for t, p in zip(labels.view(-1), preds.view(-1)):
                     confusion_matrix[t.long(), p.long()] += 1
+                    if t.long() == p.long():
+                        correct += 1
 
     print(confusion_matrix)
 
     print(confusion_matrix.diag()/confusion_matrix.sum(1))
+
+    print('Accuracy: ', correct/2482)
 
 
 

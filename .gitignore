@@ -11,6 +11,8 @@ SmallTobacco/*
 pretrained/*
 models/*
 SmallTobacco/*
+Results/*
+PastFiles/*
 
 # C extensions
 *.so
