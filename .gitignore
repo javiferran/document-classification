@@ -13,6 +13,8 @@ models/*
 SmallTobacco/*
 Results/*
 PastFiles/*
+runs/*
+Notebooks/*
 
 # C extensions
 *.so
