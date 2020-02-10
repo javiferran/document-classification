@@ -21,3 +21,9 @@ final_easy.py: training of models
 nn_models.py: models classes
 
 H5Dataset.py: pytorch Dataset with data preprocess
+
+eff_big_training.py: EfficientNet training in BigTobacco
+
+eff_small_training.py: EfficientNet training in SmallTobacco, can load a model from scratch or pre-trained in BigTobacco
+
+eff_training_help.py: EfficientNet helper with common functions for Small and Big training
