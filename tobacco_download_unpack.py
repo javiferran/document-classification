@@ -12,10 +12,10 @@ import os
 import cv2
 from PIL import Image, ImageSequence
 
-hard_disk_path = '/media/bscuser/PEEKBOX/' #Change roots with hard_disk_path
+hard_disk_path = '/media/bscuser/bsc/' #Change roots with hard_disk_path
 alphabet = list(string.ascii_lowercase)
-save_path = '/media/bscuser/PEEKBOX/Tobacco/'
-save_path_extracted = '/media/bscuser/PEEKBOX/Tobacco_extracted/'
+save_path = '/media/bscuser/bsc/Tobacco_cover/'
+#save_path_extracted = '/media/bscuser/bsc/Tobacco_extracted/'
 
 def main():
     # file_to_split = 'images' + 'a' + '/' + 'a' + '/' + 'a'
@@ -29,7 +29,7 @@ def main():
             url = "https://ir.nist.gov/cdip/cdip-images/images" + "." + letter + "." + letter_2 + "." + "cpio"
             print(url)
             file_name = url.split('/')[-1]
-            if counter > 1000: #663 = z.n
+            if counter > 0: #663 = z.n
                 print(file_name)
                 u = urllib2.urlopen(url)
                 meta = u.info()
@@ -57,13 +57,13 @@ def main():
                 f.close()
 
                 #Unpack
-                Archive('/media/bscuser/PEEKBOX/Tobacco/' + file_name).extractall(save_path_extracted)
-                os.remove('/media/bscuser/PEEKBOX/Tobacco/' + file_name)
-                file_to_split = 'images' + letter + '/' + letter + '/' + letter_2
-                print(file_to_split)
-                split(file_to_split) #Send folder, i.e imagesb/b/d
-                print(counter)
-            
+                # Archive('/media/bscuser/PEEKBOX/Tobacco/' + file_name).extractall(save_path_extracted)
+                # os.remove('/media/bscuser/PEEKBOX/Tobacco/' + file_name)
+                # file_to_split = 'images' + letter + '/' + letter + '/' + letter_2
+                # print(file_to_split)
+                # split(file_to_split) #Send folder, i.e imagesb/b/d
+                # print(counter)
+
             #Else below used for individual cases, set counter to a high value >700
             else:
                 letter = 'z'
@@ -71,7 +71,7 @@ def main():
                 file_to_split = 'images' + letter + '/' + letter + '/' + letter_2
                 print(file_to_split)
                 split(file_to_split)
-                
+
 #Checks every document in file (folder, i.e imagesb/b/d) with BigTobacco csv dataset
 #For every coincidence, split into multiple images
 #Store new images in new_labels.csv
@@ -128,9 +128,9 @@ def split(file):
             if os.path.exists(save_path):
                 pass
             else:
-                try:  
+                try:
                     os.makedirs(save_path)
-                except OSError:  
+                except OSError:
                     print ("Creation of the directory %s failed" % save_path)
             try:
                 os.rename(ocr_path +folder + '.xml', save_path + doc_title + '.xml')
@@ -157,6 +157,6 @@ def split(file):
     except:
         print('Couldnt delete')
 
-    
+
 
 main()

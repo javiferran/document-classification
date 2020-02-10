@@ -8,10 +8,9 @@ import pandas as pd
 
 
 
-
 #http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html
 
-hdf5_path = './HDF5_files/hdf5_small_tobacco_papers_audebert_7.hdf5'
+hdf5_path = './HDF5_files/test_lazy2.h5'
 file_read = open('./Data/Small_Tobacco_cover_final.csv', "rU")
 reader = csv.reader(file_read, delimiter=',')
 
@@ -22,8 +21,6 @@ for element in reader:
     df.append(new_row)
 
 file_read.close()
-
-max_samples_class = 100#100
 
 columns = ['img_dir','class', 'label', 'ocr_dir']
 df = pd.DataFrame(df, columns = columns)
@@ -36,7 +33,7 @@ classes = ['0','1','2','3','4','5','6','7','8','9']
 for clas in classes:
     counter = 0
     for row in values:
-        if row[1] == clas and counter < max_samples_class:
+        if row[1] == clas and counter < 100:
             counter += 1
             new_row = [row[0], row[1], row[2], row[3]]
             train_sample.append(new_row)
@@ -99,20 +96,18 @@ for row in test_sample:
 # test_ocrs = ocr_dirs[int(0.8*len(ocr_dirs)):]
 
 #Papers split 800/200/rest
-num_samples_train = 800#800
-num_samples_val = 1000#1000
-train_addrs = addrs[0:num_samples_train]
-train_labels = labels[0:num_samples_train]
-train_segmentations = segmentation[0:num_samples_train]
-train_ocrs = ocr_dirs[0:num_samples_train]
-val_addrs = addrs[num_samples_train:num_samples_val]
-val_labels = labels[num_samples_train:num_samples_val]
-val_segmentations = segmentation[num_samples_train:num_samples_val]
-val_ocrs = ocr_dirs[num_samples_train:num_samples_val]
-test_addrs = addrs[num_samples_val:]
-test_labels = labels[num_samples_val:]
-test_segmentations = segmentation[num_samples_val:]
-test_ocrs = ocr_dirs[num_samples_val:]
+train_addrs = addrs[0:800]
+train_labels = labels[0:800]
+train_segmentations = segmentation[0:800]
+train_ocrs = ocr_dirs[0:800]
+val_addrs = addrs[800:1000]
+val_labels = labels[800:1000]
+val_segmentations = segmentation[800:1000]
+val_ocrs = ocr_dirs[800:1000]
+test_addrs = addrs[1000:]
+test_labels = labels[1000:]
+test_segmentations = segmentation[1000:]
+test_ocrs = ocr_dirs[1000:]
 
 img_size = 384
 
@@ -128,33 +123,41 @@ test_shape = (len(test_addrs), img_size, img_size, 3)
 # open a hdf5 file and create arrays
 hdf5_file = h5py.File(hdf5_path, mode='w')
 
-hdf5_file.create_dataset("train_img", train_shape, np.int8)
-hdf5_file.create_dataset("val_img", val_shape, np.int8)
-hdf5_file.create_dataset("test_img", test_shape, np.int8)
+# hdf5_file.create_dataset("train_img", train_shape, np.int8)
+# hdf5_file.create_dataset("val_img", val_shape, np.int8)
+# hdf5_file.create_dataset("test_img", test_shape, np.int8)
 
-hdf5_file.create_dataset("train_mean", train_shape[1:], np.float32)
+# #Train
+#New
+#hdf5_file.create_dataset("train_labels", (len(train_labels),), np.int8)
+for i in range (800):
+    hdf5_file['%s/train_labels' % i] = train_labels[i]
+    hdf5_file['%s/train_segmentations' % i] = train_segmentations[i]
+    #hdf5_file['%s/train_ocrs' % i] = train_ocrs[i]
 
-#Train
-hdf5_file.create_dataset("train_labels", (len(train_labels),), np.int8)
-hdf5_file["train_labels"][...] = train_labels
-hdf5_file.create_dataset("train_segmentations", (len(train_segmentations),), np.int8)
-hdf5_file["train_segmentations"][...] = train_segmentations
-hdf5_file.create_dataset("train_ocrs", (len(train_ocrs),), dtype=dt)
 
 
-#Validation
-hdf5_file.create_dataset("val_labels", (len(val_labels),), np.int8)
-hdf5_file["val_labels"][...] = val_labels
-hdf5_file.create_dataset("val_segmentations", (len(val_segmentations),), np.int8)
-hdf5_file["val_segmentations"][...] = val_segmentations
-hdf5_file.create_dataset("val_ocrs", (len(val_ocrs),), dtype=dt)
 
-#Test
-hdf5_file.create_dataset("test_labels", (len(test_labels),), np.int8)
-hdf5_file["test_labels"][...] = test_labels
-hdf5_file.create_dataset("test_segmentations", (len(test_segmentations),), np.int8)
-hdf5_file["test_segmentations"][...] = test_segmentations
-hdf5_file.create_dataset("test_ocrs", (len(test_ocrs),), dtype=dt)
+# hdf5_file.create_dataset("train_labels", (len(train_labels),), np.int8)
+# hdf5_file["train_labels"][...] = train_labels
+# hdf5_file.create_dataset("train_segmentations", (len(train_segmentations),), np.int8)
+# hdf5_file["train_segmentations"][...] = train_segmentations
+# hdf5_file.create_dataset("train_ocrs", (len(train_ocrs),), dtype=dt)
+
+
+# #Validation
+# hdf5_file.create_dataset("val_labels", (len(val_labels),), np.int8)
+# hdf5_file["val_labels"][...] = val_labels
+# hdf5_file.create_dataset("val_segmentations", (len(val_segmentations),), np.int8)
+# hdf5_file["val_segmentations"][...] = val_segmentations
+# hdf5_file.create_dataset("val_ocrs", (len(val_ocrs),), dtype=dt)
+#
+# #Test
+# hdf5_file.create_dataset("test_labels", (len(test_labels),), np.int8)
+# hdf5_file["test_labels"][...] = test_labels
+# hdf5_file.create_dataset("test_segmentations", (len(test_segmentations),), np.int8)
+# hdf5_file["test_segmentations"][...] = test_segmentations
+# hdf5_file.create_dataset("test_ocrs", (len(test_ocrs),), dtype=dt)
 
 def extract_ocrs(ocrs):
     for i in range(len(ocrs)):
@@ -171,7 +174,7 @@ def extract_ocrs(ocrs):
         #print(text)
 
         if ocrs == train_ocrs:
-            hdf5_file["train_ocrs"][i,...] = text
+            hdf5_file['%s/train_ocrs' % i] = text
         elif ocrs ==val_ocrs:
             hdf5_file["val_ocrs"][i,...] = text
         else:
@@ -181,14 +184,12 @@ def extract_ocrs(ocrs):
 
 
 extract_ocrs(train_ocrs)
-extract_ocrs(val_ocrs)
-extract_ocrs(test_ocrs)
+# extract_ocrs(val_ocrs)
+# extract_ocrs(test_ocrs)
 
 
 
 
-# a numpy array to save the mean of the images
-mean = np.zeros(train_shape[1:], np.float32)
 # loop over train addresses
 for i in range(len(train_addrs)):
     # print how many images are saved every 1000 images
@@ -206,44 +207,43 @@ for i in range(len(train_addrs)):
     # if data_order == 'th':
     #     img = np.rollaxis(img, 2)
     # save the image and calculate the mean so far
-    hdf5_file["train_img"][i, ...] = img[None]
-    mean += img / float(len(train_labels))
+    hdf5_file['%s/train_img' % i] = img[None]
 
 
-    # loop over validation addresses
-for i in range(len(val_addrs)):
-    # print how many images are saved every 1000 images
-    if i % 100 == 0 and i > 1:
-        print('Validation data: {}/{}'.format(i, len(val_addrs)))
-    # read an image and resize to (img_size, img_size)
-    # cv2 load images as BGR, convert it to RGB
-    addr = val_addrs[i]
-    img = cv2.imread(addr)
-    img = cv2.resize(img, (img_size, img_size), interpolation=cv2.INTER_CUBIC)
-    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-    # add any image pre-processing here
-    # # if the data order is Theano, axis orders should change
-    # if data_order == 'th':
-    #     img = np.rollaxis(img, 2)
-    # save the image
-    hdf5_file["val_img"][i, ...] = img[None]
-# loop over test addresses
-for i in range(len(test_addrs)):
-    # print how many images are saved every 1000 images
-    if i % 100 == 0 and i > 1:
-        print('Test data: {}/{}'.format(i, len(test_addrs)))
-    # read an image and resize to (img_size, img_size)
-    # cv2 load images as BGR, convert it to RGB
-    addr = test_addrs[i]
-    img = cv2.imread(addr)
-    img = cv2.resize(img, (img_size, img_size), interpolation=cv2.INTER_CUBIC)
-    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-    # add any image pre-processing here
-    # # if the data order is Theano, axis orders should change
-    # if data_order == 'th':
-    #     img = np.rollaxis(img, 2)
-    # save the image
-    hdf5_file["test_img"][i, ...] = img[None]
-# save the mean and close the hdf5 file
-hdf5_file["train_mean"][...] = mean
+#     # loop over validation addresses
+# for i in range(len(val_addrs)):
+#     # print how many images are saved every 1000 images
+#     if i % 100 == 0 and i > 1:
+#         print('Validation data: {}/{}'.format(i, len(val_addrs)))
+#     # read an image and resize to (img_size, img_size)
+#     # cv2 load images as BGR, convert it to RGB
+#     addr = val_addrs[i]
+#     img = cv2.imread(addr)
+#     img = cv2.resize(img, (img_size, img_size), interpolation=cv2.INTER_CUBIC)
+#     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+#     # add any image pre-processing here
+#     # # if the data order is Theano, axis orders should change
+#     # if data_order == 'th':
+#     #     img = np.rollaxis(img, 2)
+#     # save the image
+#     hdf5_file["val_img"][i, ...] = img[None]
+# # loop over test addresses
+# for i in range(len(test_addrs)):
+#     # print how many images are saved every 1000 images
+#     if i % 100 == 0 and i > 1:
+#         print('Test data: {}/{}'.format(i, len(test_addrs)))
+#     # read an image and resize to (img_size, img_size)
+#     # cv2 load images as BGR, convert it to RGB
+#     addr = test_addrs[i]
+#     img = cv2.imread(addr)
+#     img = cv2.resize(img, (img_size, img_size), interpolation=cv2.INTER_CUBIC)
+#     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+#     # add any image pre-processing here
+#     # # if the data order is Theano, axis orders should change
+#     # if data_order == 'th':
+#     #     img = np.rollaxis(img, 2)
+#     # save the image
+#     hdf5_file["test_img"][i, ...] = img[None]
+# # save the mean and close the hdf5 file
+# hdf5_file["train_mean"][...] = mean
 hdf5_file.close()
