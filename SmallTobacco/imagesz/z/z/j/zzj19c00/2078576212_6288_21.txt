@@ -1,8 +1,0 @@
-INBIFO Institut fir biologische Forschung GmbH - K6In
-Report P 0500/3284
-
- 
-
-980415 15:20:46 P. 1 USER_DISK: [IT_MC]Y_ACROL 3284.L18;4
-
-2078576233

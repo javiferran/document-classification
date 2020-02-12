@@ -15,6 +15,7 @@ Results/*
 PastFiles/*
 runs/*
 Notebooks/*
+README_v1.md
 
 # C extensions
 *.so
