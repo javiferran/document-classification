@@ -1,6 +1,5 @@
 """
-Script containing various utilities related to data processing and cleaning. Includes tokenization,
-text cleaning, feature extractor (token type IDs & attention masks) for BERT, and IMDBDataset.
+Code adapted from https://github.com/uzaymacar/comparatively-finetuning-bert
 """
 
 import logging
@@ -71,7 +70,7 @@ def tokenize_and_encode(text, tokenizer, apply_cleaning=False, max_tokenization_
 
     # Tokenize and encode
     tokenized_text = tokenizer.tokenize(text)
-    
+
     input_ids = tokenizer.convert_tokens_to_ids(tokenized_text)
 
     # Subtract 2 ([CLS] and[SEP] tokens) to get the actual text tokenization length

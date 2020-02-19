@@ -1,11 +1,8 @@
-from bert_help import *
+from bert_utils import *
 
 import os.path
 parent_path = os.path.abspath(os.path.join('./', os.pardir))
 model_path = '/resources/taggers/small_tobacco/'
-
-from models.imagenet import mobilenetv2
-import nn_models as mod
 
 from efficientnet_pytorch import EfficientNet
 
@@ -56,6 +53,7 @@ for file_number in files:
     BERT_WEIGHT_DECAY = 0.01
     EPS = 1e-8
 
+    # load bert model
     bert_model = FineTunedBert(pretrained_model_name=PRETRAINED_MODEL_NAME,
                           num_pretrained_bert_layers=NUM_PRETRAINED_BERT_LAYERS,
                           max_tokenization_length=MAX_TOKENIZATION_LENGTH,
@@ -69,7 +67,7 @@ for file_number in files:
                           aggregate_on_cls_token=AGGREGATE_ON_CLS_TOKEN,
                           concatenate_hidden_states=CONCATENATE_HIDDEN_STATES,
                           use_gpu=True if torch.cuda.is_available() else False)
-
+    # dataset creation (ensemble)
     test_dataset = H5Dataset_ensemble(path=hdf5_file,
                                 data_transforms=data_transforms['test'],
                                 tokenizer=bert_model.get_tokenizer(),
@@ -78,14 +76,14 @@ for file_number in files:
                                 truncation_method=TRUNCATION_METHOD,
                                 device=DEVICE,
                                 phase= 'test')
-
+    # dataloader creation (test)
     test_loader = DataLoader(dataset=test_dataset,
                              batch_size=BATCH_SIZE,
                              shuffle=False,
                              num_workers=NUM_WORKERS)
 
 
-    # Loading image model
+    # Loading EfficientNet
     net = EfficientNet.from_pretrained('efficientnet-' + efficientnet_model, num_classes=1000)
     num_ftrs = net._fc.in_features
     net._fc = nn.Linear(num_ftrs, NUM_CLASSES)
@@ -94,18 +92,16 @@ for file_number in files:
     checkpoint = torch.load(PATH1)
     net.load_state_dict(checkpoint['model_state_dict'])
 
-    # Loading text model
+    # Loading Bert weights
     bert_model.load_state_dict(torch.load(scratch_path + '/text_models' + '/bert_aud' + file_number + '.pt'))
 
-    criterion = nn.CrossEntropyLoss()
 
-    bert_model, criterion = bert_model.to(DEVICE), criterion.to(DEVICE)
+    bert_model = bert_model.to(DEVICE)
     net = net.to(DEVICE)
 
     test_corrected, conf_mat_test = test_ensemble(bert_model=bert_model,
                                 image_model=net,
                                iterator=test_loader,
-                               criterion=criterion,
                                device=DEVICE,
                                include_bert_masks=True)
 

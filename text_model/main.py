@@ -1,5 +1,9 @@
-from bert_help import *
 
+"""
+Code adapted from https://github.com/uzaymacar/comparatively-finetuning-bert
+"""
+
+from bert_utils import *
 
 
 def main():
@@ -20,7 +24,7 @@ def main():
         results_file = []
 
         NUM_CLASSES = 10
-        NUM_EPOCHS = 5
+        NUM_EPOCHS = 1
         BATCH_SIZE = 6
         PRETRAINED_MODEL_NAME = 'bert-base-uncased'#'bert-base-cased'
         NUM_PRETRAINED_BERT_LAYERS = 6

@@ -1,15 +1,6 @@
+
 """
-Class file for FineTunedBert(), an architecture that finetunes a pretrained BERT model. It provides
-practical ways to configure pretraining options, and add experimental components on top. For ease of
-notation, the following abbreviations are used in comments next to some tensor operations:
-i)     B  = batch size,
-ii)    P  = maximum number of positional embeddings from BERT tokenizer (default: 512),
-iii)   H  = hidden size dimension in pretrained BERT layers (default: 768),
-iv)    H* = hidden size dimension for the additional recurrent (LSTM) layer,
-v)     H' = hidden size dimension when multiple BERT layers are concatenated, H' = H iff K = 1
-vi)    L  = number of recurrent layers
-vi)    K  = number of pretrained BERT layers utilized out of 12,
-viii)  N  = number of heads in multi-head, self-attention mechanism of BERT out of 12
+Code adapted from https://github.com/uzaymacar/comparatively-finetuning-bert
 """
 
 

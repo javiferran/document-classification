@@ -1,4 +1,4 @@
-from eff_training_help import *
+from eff_utils import *
 
 def func():
     number_gpus = torch.cuda.device_count()
@@ -11,7 +11,6 @@ def func():
     max_epochs = 20
     batch_size = 16*number_gpus
     big_tobacco_classes = 16
-    image_training_type = 'finetuning'
     lr_multiplier = 0.2
     learning_rate = (lr_multiplier*batch_size)/256
     number_workers = 4*number_gpus
@@ -19,10 +18,9 @@ def func():
     input_size = 384# not needed to resize since images are already 384x384
 
     """
-    :param batch_size: batch size (16 for B0,B1,B2 8 for B3,B4)
+    :param batch_size: batch size (16 for B0,B1,B2; 8 for B3,B4)
     :param big_tobacco_classes: number of classes in BigTobacco dataset (16)
-    :param image_model: if image model used, specify which type: 'dense' (densenet121) or 'mobilenetv2'
-    :param image_training_type: type of training of the image model: 'finetuning' (whole net is trained) or 'feature_extract' (only classifier is trained)
+    :param triangular_lr: uses triangular learning rate STLR
     """
 
     # csv_file = open(scratch_path + '/image_models/paper_experiments/' + description + '.csv', "w")
@@ -34,36 +32,43 @@ def func():
     print('number of workers: ',number_workers)
     print('image size', input_size)
 
-    documents_datasets = {x: H5.H5Dataset(path=str(hdf5_file + x + '.hdf5'), data_transforms=data_transforms[x], phase = x) for x in ['train', 'val']}
-    dataloaders_dict = {x: DataLoader(documents_datasets[x], batch_size=batch_size if x == 'train' else int(batch_size/(number_gpus*2)), shuffle=True, num_workers=number_workers, pin_memory=True) for x in ['train', 'val']}
-
-    print(len(dataloaders_dict['train'].dataset))
+    # dataset creation (train and validation)
+    documents_datasets = {x: H5.H5Dataset(path=str(hdf5_file + x + '.hdf5'),
+            data_transforms=data_transforms[x], phase = x) for x in ['train', 'val']}
+    # dataloader creation (train and validation)
+    dataloaders_dict = {x: DataLoader(documents_datasets[x],
+            batch_size=batch_size if x == 'train' else int(batch_size/(number_gpus*2)),
+            shuffle=True, num_workers=number_workers, pin_memory=True)
+            for x in ['train', 'val']}
 
     feature_extracting = True
 
-    #Loading EfficientNet
+    # loading EfficientNet with Linear layer on top
     net = EfficientNet.from_pretrained('efficientnet-' + efficientnet_model, num_classes=1000)
     num_ftrs = net._fc.in_features
     net._fc = nn.Linear(num_ftrs, big_tobacco_classes)
     model = net
 
-    #Move model to gpu
+    # move model to gpu
     model = model.to(device)
     model = nn.DataParallel(model)
 
+    # loss function and optimizer
     criterion = nn.CrossEntropyLoss()
-    optimizer = optim.SGD(model.parameters(), lr=learning_rate, momentum=0.9, weight_decay=0.00004)
+    optimizer = optim.SGD(model.parameters(), lr=learning_rate,
+        momentum=0.9, weight_decay=0.00004)
 
     batches_per_epoch = len(dataloaders_dict['train'].dataset)/batch_size
 
+    # learning rate scheduler
     if triangular_lr == True:
-        scheduler = SlantedTriangular(optimizer,num_epochs=max_epochs,num_steps_per_epoch=batches_per_epoch,gradual_unfreezing=False)
+        scheduler = SlantedTriangular(optimizer,num_epochs=max_epochs,
+            num_steps_per_epoch=batches_per_epoch,gradual_unfreezing=False)
     else:
         scheduler = ReduceLROnPlateau(optimizer, 'min', patience=4, factor=0.5)
 
     loss_values = []
     epoch_values = []
-
     val_acc_history = []
 
     best_model_wts = copy.deepcopy(model.state_dict())
@@ -71,16 +76,17 @@ def func():
     initial_train_time = 0
     initial_val_time = 0
 
+    # training loop
     for epoch in range(max_epochs):
         results_file = []
         since = time.time()
-        steps = 0
         correct = 0
         for phase in ['train', 'val']:
+            # time measure
             if phase == 'train':
                 initial_train_time = time.time()
                 if epoch >= 1:
-                    end_validation_time = time.time() -initial_val_time
+                    end_validation_time = time.time() - initial_val_time
                     print('Validation time: ',end_validation_time)
                 model.train()  # Set model to training mode
             else:
@@ -98,24 +104,24 @@ def func():
                 batchs_number = len(dataloaders_dict[phase].dataset)/batch_size
                 batch_counter += 1
 
-                if batch_counter % 100==0:
-                    print(batch_counter)
+                # if batch_counter % 100==0:
+                #     print(batch_counter)
 
+                # load image/class, transform them to tensor and load to GPU
                 image, labels = Variable(local_batch['image']), Variable(local_batch['class'])
                 image, labels = image.to(device), labels.to(device)
 
-                steps += 1
                 # zero the parameter gradients
                 optimizer.zero_grad()
-
+                # model output
                 outputs = model(image)
-
+                # greatest class value output by the model
                 _, preds = torch.max(outputs.data, 1)
-
 
                 labels = labels.long()
                 loss = criterion(outputs, labels)
 
+                # correct predictions
                 running_corrects += torch.sum(preds == labels.data)
 
                 # backward + optimize if in training phase
@@ -144,16 +150,11 @@ def func():
 
             actual_lr = get_lr(optimizer)
             print('[Epoch {}/{}] {} lr: {:.4f}, Loss: {:.4f} Acc: {:.4f}'.format(epoch, max_epochs,phase, actual_lr , epoch_loss, epoch_acc))
-            # deep copy the model
+
+            # save best model (lower validation accuracy)
             if phase == 'val' and epoch_acc > best_acc:
                 best_acc = epoch_acc
                 #best_model_wts = copy.deepcopy(model.state_dict())
-                # torch.save({
-                #     'epoch': epoch,
-                #     'model_state_dict': model.state_dict(),
-                #     'optimizer_state_dict': optimizer.state_dict(),
-                #     'loss': epoch_loss,
-                #     }, save_path)
 
             # #saves after epoch
             # torch.save({
@@ -178,10 +179,14 @@ def func():
 
         print()
 
+    # dataset creation (test)
+    h5_dataset_test = H5.H5Dataset(path=str(hdf5_file + 'test' + '.hdf5'),
+        data_transforms=data_transforms['test'], phase = 'test')
 
-    h5_dataset_test = H5.H5Dataset(path=str(hdf5_file + 'test' + '.hdf5'), data_transforms=data_transforms['test'], phase = 'test')
-
-    dataloader_test = DataLoader(h5_dataset_test, batch_size=int(batch_size/(number_gpus*2)), shuffle=False, num_workers=4)#=0 in inetractive job
+    # dataloader creation (test)
+    dataloader_test = DataLoader(h5_dataset_test,
+        batch_size=int(batch_size/(number_gpus*2)),
+        shuffle=False, num_workers=4)#=0 in inetractive job
 
     print('Testing...')
     model.eval()
@@ -194,8 +199,9 @@ def func():
             image, labels = Variable(local_batch['image']), Variable(local_batch['class'])
             image, labels = image.to(device), labels.to(device)
             outputs = model(image)
-
             _, preds = torch.max(outputs.data, 1)
+
+            # confusion_matrix
             for t, p in zip(labels.view(-1), preds.view(-1)):
                     confusion_matrix[t.long(), p.long()] += 1
                     if t.long() == p.long():

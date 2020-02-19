@@ -1,6 +1,6 @@
+
 """
-Script containing various utilities related to data processing and cleaning. Includes tokenization,
-text cleaning, feature extractor (token type IDs & attention masks) for BERT, and IMDBDataset.
+Code adapted from https://github.com/uzaymacar/comparatively-finetuning-bert
 """
 
 import logging
