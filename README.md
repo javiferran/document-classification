@@ -17,13 +17,19 @@ Paper: [Improving accuracy and speeding up Document Image Classification through
 
 ```
 ├── main.py # BERT training in SmallTobacco
+├── bert_utils.py # BERT helpers
+├── training_modules
+	├── data_utils.py # data cleaning and H5Dataset class
+	├── finetuned_models.py # BERT model definition
+	├── model_utils.py # train and test procedures
+```
+
+## Ensemble
+
+```
 ├── ensemble.py # ensemble image and text predictions
 ├── bert_utils.py # BERT helpers
 ├── ensemble_modules
 	├── data_utils2.py # data cleaning and H5Dataset_ensemble class
 	├── model_utils_ensemble.py # BERT and EfficientNet predictions and ensemble
-├── training_modules
-	├── data_utils.py # data cleaning and H5Dataset class
-	├── finetuned_models.py # BERT model definition
-	├── model_utils.py # train and test procedures
 ```
