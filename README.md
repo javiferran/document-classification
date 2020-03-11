@@ -48,4 +48,4 @@ python eff_big_training.py \
 
 _efficientnet_pytorch_ library downloads the models in .cache/torch/checkpoints.
 
-_pytorch_transformers_ library does it in .cache/torch/pytorch_transformers. Make sure you previously download and store in those paths the models if your machine has no acces to internet
+_pytorch_transformers_ library does it in .cache/torch/pytorch_transformers. Make sure you previously download and store in those paths the models if your machine has no internet access.
