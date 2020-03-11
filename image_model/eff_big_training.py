@@ -4,12 +4,41 @@ def func():
     number_gpus = torch.cuda.device_count()
     print("GPUs visible to PyTorch", number_gpus, "GPUs")
 
-    efficientnet_model = 'b0'
+    parser = argparse.ArgumentParser()
+
+    # Required parameters
+    parser.add_argument(
+        "--epochs",
+        default=20,
+        type=int,
+        required=True,
+        help="Number of epochs in the training process. Should be an integer number",
+    )
+
+    parser.add_argument(
+        "--eff_model",
+        default='b0',
+        type=str,
+        required=True,
+        help="EfficientNet model used b0, b1, b2, b3 or b4",
+    )
+
+    parser.add_argument(
+        "--load_path",
+        default='/gpfs/scratch/bsc31/bsc31275/',
+        type=str,
+        required=True,
+        help="EfficientNet model used b0, b1, b2, b3 or b4",
+    )
+
+    args = parser.parse_args()
+
+    efficientnet_model = args.eff_model
 
     description = 'eff' + efficientnet_model + 'BT' + str(number_gpus) + 'gpus_paper_exp_20_graph'
 
-    max_epochs = 20
-    batch_size = 16*number_gpus
+    max_epochs = args.epochs
+    batch_size = 16*number_gpus if int(efficientnet_model[1]) < 3 else 8*number_gpus
     big_tobacco_classes = 16
     lr_multiplier = 0.2
     learning_rate = (lr_multiplier*batch_size)/256
@@ -23,14 +52,17 @@ def func():
     :param triangular_lr: uses triangular learning rate STLR
     """
 
+    scratch_path = args.load_path
+
     # csv_file = open(scratch_path + '/image_models/paper_experiments/' + description + '.csv', "w")
     # writer = csv.writer(file_bert, delimiter=',')
-    save_path = scratch_path + '/image_models/paper_experiments/' + str(max_epochs) + str(learning_rate) + description + '_best.pt'
+    save_path = scratch_path + '/image_models/paper_experiments/' + str(max_epochs) + str(learning_rate) + description + '.pt'
 
-    hdf5_file = '/gpfs/scratch/bsc31/bsc31275/BigTobacco_images_'
+    hdf5_file = scratch_path + '/BigTobacco_images_'
     print('batch size: ',batch_size)
     print('number of workers: ',number_workers)
-    print('image size', input_size)
+    print('max_epochs', max_epochs)
+    print('efficientnet_model', efficientnet_model)
 
     # dataset creation (train and validation)
     documents_datasets = {x: H5.H5Dataset(path=str(hdf5_file + x + '.hdf5'),

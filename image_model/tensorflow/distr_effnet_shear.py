@@ -189,7 +189,8 @@ elif opt_name == 'adam':
 # TRAIN MODEL
 
 time_start = time()
-model.fit(train_dataset, epochs=epochs, steps_per_epoch=train_steps, callbacks=callbacks, validation_data = val_dataset, validation_steps=val_steps)
+model.fit(train_dataset, epochs=epochs, steps_per_epoch=train_steps,
+    callbacks=callbacks, validation_data = val_dataset, validation_steps=val_steps)
 #model.fit_generator(train_iterator, epochs=epochs, callbacks=callbacks, validation_data=val_iterator)
 time_end = time()
 print("Training time: " + str(time_end - time_start))

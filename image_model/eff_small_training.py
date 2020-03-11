@@ -4,7 +4,34 @@ def func():
     number_gpus = torch.cuda.device_count()
     print("Let's use", number_gpus, "GPUs!")
 
-    efficientnet_model = 'b0'
+    # Required parameters
+    parser.add_argument(
+        "--epochs",
+        default=20,
+        type=int,
+        required=True,
+        help="Number of epochs in the training process. Should be an integer number",
+    )
+
+    parser.add_argument(
+        "--eff_model",
+        default='b0',
+        type=str,
+        required=True,
+        help="EfficientNet model used b0, b1, b2, b3 or b4",
+    )
+
+    parser.add_argument(
+        "--load_path",
+        default='/gpfs/scratch/bsc31/bsc31275/',
+        type=str,
+        required=True,
+        help="EfficientNet model used b0, b1, b2, b3 or b4",
+    )
+
+    args = parser.parse_args()
+
+    efficientnet_model = args.eff_model
 
     files = ['1','2','3','4','5','6','7','8','9','10']
     # csv_file = open( scratch_path + '/image_models/paper_experiments/scratch/' +'smalltobacco_results_scratch_' + efficientnet_model +  '.csv', "w")
@@ -15,7 +42,7 @@ def func():
 
         description = 'eff' + efficientnet_model + '_aud' + file_number
 
-        max_epochs = 1
+        max_epochs = args.epochs
         batch_size = 8*number_gpus
         num_workers = 0*number_gpus #1 GPU used
         from_bigtobacco = False
@@ -36,6 +63,8 @@ def func():
         :param from_bigtobacco: (boolean) model loaded pretrained in BigTobacco
         :param feature_extracting: (boolean) to freeze model weights or not
         """
+
+        scratch_path = args.load_path
 
         save_path = scratch_path + '/image_models/paper_experiments/scratch/' + str(max_epochs) + str(learning_rate) + description + '.pt'
         hdf5_file = scratch_path + 'HDF5_files/hdf5_small_tobacco_papers_audebert_' + file_number + '.hdf5'

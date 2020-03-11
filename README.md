@@ -14,6 +14,15 @@ Paper: [Improving accuracy and speeding up Document Image Classification through
 		├── distr_effnet_shear.py # EfficientNet
 ```
 
+#### Example of usage with Pytorch : BigTobacco/SmallTobacco
+
+```bash
+python eff_big_training.py \
+	--epochs 20 \
+	--eff_model b0 \
+	--load_path /gpfs/scratch/bsc31/bsc31275/
+```
+
 ## Text model
 
 ```
@@ -36,3 +45,5 @@ Paper: [Improving accuracy and speeding up Document Image Classification through
 		├── data_utils2.py # data cleaning and H5Dataset_ensemble class
 		├── model_utils_ensemble.py # BERT and EfficientNet predictions and ensemble
 ```
+
+_efficientnet_pytorch_ library downloads the models in .cache/torch/checkpoints. _pytorch_transformers_ library does it in .cache/torch/pytorch_transformers. Make sure you previously download and store in those paths the models if your machine has no acces to internet
