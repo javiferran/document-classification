@@ -16,7 +16,7 @@ module purge;module load gcc/8.3.0 cuda/10.1 cudnn/7.6.4 nccl/2.4.8 tensorrt/6.0
 export PYTHONUNBUFFERED=1
 export SLURM_MPI_TYPE=openmpi
 
-python image_model/eff_big_training.py \
+python eff_big_training.py \
 	--epochs 20 \
 	--eff_model b0 \
 	--load_path /gpfs/scratch/bsc31/bsc31275/
