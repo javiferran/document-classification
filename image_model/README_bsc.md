@@ -1,13 +1,11 @@
-# Improving accuracy and speeding up Document Image Classication through parallel systems
-
-Paper: [Improving accuracy and speeding up Document Image Classification through parallel systems]()
+# Running parallel training of the image model in Pytorch (CTE-POWER machine)
 
 ## Preparation
 
 Since _efficientnet_pytorch_ library downloads the models in .cache/torch/checkpoints, and CTE_POWER has no internet connection, we have to add the models manually. First, we create the directory to store efficientnet models
 
 ```bash
-mkdir -p /gpfs/home/bsc31/bsc31991/image_model_pytorch/.cache/torch/checkpoints
+mkdir -p bsc31991@plogin1.bsc.es:/gpfs/home/bsc31/bsc31991/image_model_pytorch/.cache/torch/checkpoints
 ```
 
 Then we download efficientnet pretrained models in a local computer from the following links:
@@ -44,27 +42,4 @@ python eff_big_training.py \
 	--epochs 20 \ <- number of epochs
 	--eff_model b0 \ <- model to use
 	--load_path /gpfs/scratch/bsc31/bsc31275/ <- path to load the dataset (don't change)
-```
-
-
-## Image model
-
-```
-├── image_model
-	├── eff_big_training.py # EfficientNet training in BigTobacco
-	├── eff_small_training.py # EfficientNet training in SmallTobacco
-	├── eff_utils.py # EfficientNet helper with common functions for Small and Big training
-	├── H5Dataset.py # Dataset class reading hdf5 file
-	├── tensorflow
-		├── distr_effnet_shear.py # EfficientNet
-```
-
-#### Example of usage with Pytorch : BigTobacco/SmallTobacco
-
-
-```bash
-python eff_big_training.py \
-	--epochs 20 \
-	--eff_model b0 \
-	--load_path /gpfs/scratch/bsc31/bsc31275/
 ```
