@@ -5,7 +5,7 @@
 Since _efficientnet_pytorch_ library downloads the models in .cache/torch/checkpoints, and CTE_POWER has no internet connection, we have to add the models manually. First, we create the directory to store efficientnet models
 
 ```bash
-mkdir -p bsc31991@plogin1.bsc.es:/gpfs/home/bsc31/bsc31991/image_model_pytorch/.cache/torch/checkpoints
+ssh bsc31991@plogin1.bsc.es "mkdir -p /gpfs/home/bsc31/bsc31991/image_model_pytorch/.cache/torch/checkpoints"
 ```
 
 Then we download efficientnet pretrained models in a local computer from the following links:
