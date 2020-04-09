@@ -1,5 +1,4 @@
 import tensorflow as tf
-import tensorflow_addons as tfa
 from tensorflow.keras import layers
 from tensorflow.keras import optimizers
 from tensorflow.keras.models import Sequential, load_model, Model
@@ -34,11 +33,9 @@ print("OPTIMIZER", str(args.optimizer))
 
 IMG_SIZE = args.img_size
 
-# efficientnet activation function
 def swish(x):
     return K.sigmoid(x) * x
 
-# takes tf_record dataset, decodes it and applies transformations
 @tf.function
 def read_tfrecord(serialized_example):
     feature_description = {
@@ -46,19 +43,10 @@ def read_tfrecord(serialized_example):
         'label': tf.io.FixedLenFeature([], tf.int64),
     }
     example = tf.io.parse_single_example(serialized_example, feature_description)
-    input_2 = tf.image.decode_png(example['image_raw'], channels=3, dtype=tf.dtypes.uint8)
-    input_2 = tf.image.resize(input_2, [IMG_SIZE, IMG_SIZE])
-    images  = tf.expand_dims(input_2, 0)
-    # random shear
-    shear   = random.choice([-1, 1]) * 0.05
-    images_t    = tfa.image.transform(images, [1., shear, 0., 0., 1., 0., 0., 0.])   # X direction
-    images_t    = tfa.image.transform(images_t, [1., 0., 0., shear, 1., 0., 0., 0.]) # Y direction
-    final_image = tf.squeeze(images_t)
-
-    final_image = input_2
+    final_image = tf.image.decode_png(example['image_raw'], channels=3, dtype=tf.dtypes.uint8)
     return final_image, example['label']
 
-# parameters
+
 epochs        = args.epochs
 image_model   = args.image_model
 train_size    = 320000
@@ -77,19 +65,16 @@ BUFFER_SIZE = train_size
 BATCH_SIZE_PER_REPLICA = args.batch_size
 GLOBAL_BATCH_SIZE = BATCH_SIZE_PER_REPLICA * N_GPUS
 
-# number of steps definition
 train_steps = ceil(train_size/GLOBAL_BATCH_SIZE)
 val_steps   = ceil(val_size/GLOBAL_BATCH_SIZE)
 test_steps  = ceil(test_size/GLOBAL_BATCH_SIZE)
 
-# load tfrecord
 train_tfrecord = tf.data.TFRecordDataset(filenames = ['/gpfs/scratch/bsc31/bsc31961/BigTobacco_images_train_full.tfrecord'])
 val_tfrecord   = tf.data.TFRecordDataset(filenames = ['/gpfs/scratch/bsc31/bsc31961/BigTobacco_images_val.tfrecord'])
 test_tfrecord  = tf.data.TFRecordDataset(filenames = ['/gpfs/scratch/bsc31/bsc31961/BigTobacco_images_test.tfrecord'])
 
-# apply read_tfrecord function to every image
-train_dataset  = train_tfrecord.map(read_tfrecord).batch(GLOBAL_BATCH_SIZE).repeat()
-val_dataset    = val_tfrecord.map(read_tfrecord).batch(GLOBAL_BATCH_SIZE).repeat()
+train_dataset = train_tfrecord.map(read_tfrecord, num_parallel_calls=tf.data.experimental.AUTOTUNE).batch(GLOBAL_BATCH_SIZE).repeat().prefetch(tf.data.experimental.AUTOTUNE)
+val_dataset   = val_tfrecord.map(read_tfrecord, num_parallel_calls=tf.data.experimental.AUTOTUNE).batch(GLOBAL_BATCH_SIZE).repeat().prefetch(tf.data.experimental.AUTOTUNE)
 test_dataset   = test_tfrecord.map(read_tfrecord).batch(GLOBAL_BATCH_SIZE).repeat()
 
 with strategy.scope():
@@ -101,7 +86,6 @@ with strategy.scope():
             baseModel = EfficientNetB2(weights='imagenet', include_top=False, input_shape=input_size)
         elif image_model == 0:
             baseModel = EfficientNetB0(weights='imagenet', include_top=False, input_shape=input_size)
-        # reconstruction of last EfficientNet layers
         probs     = baseModel.layers.pop()
         top_conv  = probs.input
         headModel = layers.Activation(swish, name='top_activation')(top_conv)
@@ -111,9 +95,21 @@ with strategy.scope():
         model     = Model(inputs=baseModel.input, outputs=headModel)
         return model
 
-        model = create_efficientNet()
+    def create_resnet50():
+        baseModel = ResNet50(include_top=False, weights='imagenet', input_tensor=None, input_shape=input_size)
+        # Add final layers
+        x = baseModel.output
+        x = layers.Flatten()(x)
+        predictions = layers.Dense(num_classes, activation='softmax', name='fc16')(x)
 
-    # optimizer definition
+        # This is the model we will train
+        model = Model(inputs=baseModel.input, outputs=predictions)
+        return model
+    if image_model != 50:
+        model = create_efficientNet()
+    else:
+        model = create_resnet50()
+
     if opt_name == 'sgd':
         print("optimizer: SGD")
         opt = optimizers.SGD(lr=max_lr, decay=0.00004, momentum=0.9)
@@ -142,11 +138,14 @@ class PrintLR(tf.keras.callbacks.Callback):
 # Callback for STLR
 class MyLearningRateScheduler(tf.keras.callbacks.Callback):
 
+    def __init__(self, ngpus):
+        self.ngpus = ngpus
+
     #def on_train_batch_begin(self, batch, logs=None):
     def on_epoch_begin(self, epoch, logs=None):
         cut_frac  = 0.1           # 0.1 => lr increases till epoch 2, then decreases
         cut       = max(int(epochs * cut_frac), 1)
-        max_lr    = 0.05          # max_lr = 0.05
+        max_lr    = (0.2 * (16 * self.ngpus))/256
         ratio     = 31            # lr = [0.0016, 0.05]
         min_lr    = max_lr/ratio  # min_lr = 0.0016
         lr_change = max_lr-min_lr # difference between max_lr & min_lr
@@ -170,11 +169,10 @@ class MyLearningRateScheduler(tf.keras.callbacks.Callback):
 #callback_save_model = ModelCheckpoint('weights.{epoch:02d}-{val_loss:.2f}.hdf5', monitor='val_loss', verbose=0, save_best_only=False, save_weights_only=False, mode='auto', period=1)
 callbacks = []
 
-# callbacks depending on optimizer
 if opt_name == 'sgd':
     print("LOADING CALLBACKS FOR SGD")
     callbacks = [
-        MyLearningRateScheduler(),
+        MyLearningRateScheduler(N_GPUS),
         PrintLR()
     ]
 elif opt_name == 'adam':
@@ -187,25 +185,26 @@ elif opt_name == 'adam':
 #callbacks.append(callback_save_model)
 
 # TRAIN MODEL
-
 time_start = time()
-model.fit(train_dataset, epochs=epochs, steps_per_epoch=train_steps,
-    callbacks=callbacks, validation_data = val_dataset, validation_steps=val_steps)
-#model.fit_generator(train_iterator, epochs=epochs, callbacks=callbacks, validation_data=val_iterator)
+model.fit(train_tfrecord.map(read_tfrecord, num_parallel_calls=tf.data.experimental.AUTOTUNE).batch(GLOBAL_BATCH_SIZE), epochs=epochs, steps_per_epoch=train_steps, callbacks=callbacks, validation_data = val_dataset, validation_steps=val_steps)
+
+# TRAIN w/o EVALUATION
+# model.fit(train_dataset, epochs=epochs, steps_per_epoch=train_steps, callbacks=callbacks)
+
 time_end = time()
 print("Training time: " + str(time_end - time_start))
 
+
 # SAVE TRAINED MODEL
 
-try:
-    model.save("model_shear.h5")
-    print("Model saved to: model_shear.h5")
-except Exception:
-    pass
+#try:
+#    model.save(f"model_{image_model}_{epochs}.h5")
+#    print("Model saved to: model.h5")
+#except Exception:
+#    pass
 
 # TEST MODEL
 
 print("Testing model...")
 test_loss, test_acc = model.evaluate(test_dataset, steps=test_steps)
-#test_loss, test_acc = model.evaluate_generator(test_iterator)
 print('Test loss: {}, Test Accuracy: {}'.format(test_loss, test_acc))
