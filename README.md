@@ -1,10 +1,8 @@
 Paper: [Improving accuracy and speeding up Document Image Classification through parallel systems]()
 
-![GitHub Logo](/images/BSC-Logo.jpg =250x)
-
+<img src="/images/BSC-Logo.jpg" alt="drawing" width="200"/>
 
 ![GitHub Logo](/images/BSC-Logo.jpg)
-
 
 
 ## Image model
