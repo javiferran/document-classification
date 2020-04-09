@@ -1,5 +1,9 @@
 Paper: [Improving accuracy and speeding up Document Image Classification through parallel systems]()
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 ## Image model
 
 ```
