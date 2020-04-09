@@ -3,7 +3,7 @@ Paper: [Improving accuracy and speeding up Document Image Classification through
 ![GitHub Logo](/images/BSC-Logo.jpg =250x)
 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/BSC-Logo.jpg)
 
 
 
