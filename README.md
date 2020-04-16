@@ -2,6 +2,17 @@
 
 Paper: [Improving accuracy and speeding up Document Image Classification through parallel systems]()
 
+## Datasets
+
+SmallTobacco files can be downloaded [here](https://lampsrv02.umiacs.umd.edu/projdb/project.php?id=72)
+In _Data_ folder we provide the scripts for getting ocr .txt files (ocr_tobacco.py) and for creating .hdf5 files (hdf5_dataset_creation.py) with images and ocr data.
+
+BigTobacco files can be downloaded [here](http://www.cs.cmu.edu/~aharley/rvl-cdip/)
+In _./Data/BT_hdf5_dataset_creation.py_ creates train, test and validation .hdf5 files based on the aforementioned link partition.
+
+
+## Repository structure
+
 ## Image model
 
 ```
@@ -12,15 +23,6 @@ Paper: [Improving accuracy and speeding up Document Image Classification through
 	├── H5Dataset.py # Dataset class reading hdf5 file
 	├── tensorflow
 		├── distr_effnet_shear.py # EfficientNet
-```
-
-#### Example of usage with Pytorch : BigTobacco/SmallTobacco
-
-```bash
-python eff_big_training.py \
-	--epochs 20 \
-	--eff_model b0 \
-	--load_path /gpfs/scratch/bsc31/bsc31275/
 ```
 
 ## Text model

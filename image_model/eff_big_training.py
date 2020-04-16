@@ -35,10 +35,10 @@ def func():
 
     efficientnet_model = args.eff_model
 
-    description = 'eff' + efficientnet_model + 'BT' + str(number_gpus) + 'gpus_paper_exp_20_graph'
+    description = 'eff' + efficientnet_model + 'BT' + str(number_gpus) + 'gpus_paper_exp_20_16'
 
     max_epochs = args.epochs
-    batch_size = 16*number_gpus if int(efficientnet_model[1]) < 3 else 8*number_gpus
+    batch_size = 16*number_gpus if int(efficientnet_model[1]) < 5 else 8*number_gpus
     big_tobacco_classes = 16
     lr_multiplier = 0.2
     learning_rate = (lr_multiplier*batch_size)/256
@@ -70,7 +70,7 @@ def func():
     # dataloader creation (train and validation)
     dataloaders_dict = {x: DataLoader(documents_datasets[x],
             batch_size=batch_size if x == 'train' else int(batch_size/(number_gpus*2)),
-            shuffle=True, num_workers=number_workers, pin_memory=True)
+            shuffle=False, num_workers=number_workers, pin_memory=True)
             for x in ['train', 'val']}
 
     feature_extracting = True
@@ -82,8 +82,8 @@ def func():
     model = net
 
     # move model to gpu
+    #model = nn.DataParallel(model)
     model = model.to(device)
-    model = nn.DataParallel(model)
 
     # loss function and optimizer
     criterion = nn.CrossEntropyLoss()
@@ -136,12 +136,13 @@ def func():
                 batchs_number = len(dataloaders_dict[phase].dataset)/batch_size
                 batch_counter += 1
 
-                # if batch_counter % 100==0:
-                #     print(batch_counter)
+                if batch_counter % 100==0:
+                    print(batch_counter)
 
                 # load image/class, transform them to tensor and load to GPU
                 image, labels = Variable(local_batch['image']), Variable(local_batch['class'])
                 image, labels = image.to(device), labels.to(device)
+
 
                 # zero the parameter gradients
                 optimizer.zero_grad()
