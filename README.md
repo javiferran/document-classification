@@ -4,11 +4,9 @@ Paper: [Improving accuracy and speeding up Document Image Classification through
 
 ## Datasets
 
-SmallTobacco files can be downloaded [here](https://lampsrv02.umiacs.umd.edu/projdb/project.php?id=72)
-In _Data_ folder we provide the scripts for getting ocr .txt files (ocr_tobacco.py) and for creating .hdf5 files (hdf5_dataset_creation.py) with images and ocr data.
+SmallTobacco files can be downloaded [here](https://lampsrv02.umiacs.umd.edu/projdb/project.php?id=72). In _Data_ folder we provide the scripts for getting ocr .txt files (ocr_tobacco.py) and for creating .hdf5 files (hdf5_dataset_creation.py) with images and ocr data.
 
-BigTobacco files can be downloaded [here](http://www.cs.cmu.edu/~aharley/rvl-cdip/)
-In _./Data/BT_hdf5_dataset_creation.py_ creates train, test and validation .hdf5 files based on the aforementioned link partition.
+BigTobacco files can be downloaded [here](http://www.cs.cmu.edu/~aharley/rvl-cdip/). _./Data/BT_hdf5_dataset_creation.py_ creates train, test and validation .hdf5 files based on the aforementioned link partition.
 
 
 ## Repository structure
