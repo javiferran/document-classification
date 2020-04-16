@@ -125,8 +125,6 @@ Moreover, we present an ensemble pipeline which is able to boost solely image in
 
 <p><em>efficientnet_pytorch</em> library downloads the models in .cache/torch/checkpoints. In case your machine has no internet connection, make sure to add the models manually.</p>
 
-<h3>Running on DistributedDataParallel</h3>
-
 <figure class="highlight"><pre><code class="language-text" data-lang="text"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
 3
@@ -143,7 +141,10 @@ Moreover, we present an ensemble pipeline which is able to boost solely image in
     <p><code class="highlighter-rouge">n</code>: number of nodes</p>
   </li>
   <li>
-    <p><code class="highlighter-rouge">g</code>: number of gpus</p>
+    <p><code class="highlighter-rouge">g</code>: number of gpus in each node</p>
+  </li>
+  <li>
+    <p><code class="highlighter-rouge">nr</code>: the rank of the current node within all the nodes</p>
   </li>
   <li>
     <p><code class="highlighter-rouge">epochs</code>: training number of epochs</p>
@@ -175,11 +176,11 @@ Moreover, we present an ensemble pipeline which is able to boost solely image in
   </li>
 </ul>
 
-<h1>Text Model</h1>
+<h1>Text Model (PyTorch)</h1>
 
-<p>pytorch_transformers library downloads the models in .cache/torch/pytorch_transformers. Make sure you previously download and store the models as explained in the previous section. BERT training is simply done by running <code class="highlighter-rouge">python main.py</code></p>
+<p>pytorch_transformers library downloads the models in .cache/torch/pytorch_transformers. BERT training is simply done by running <code class="highlighter-rouge">python main.py</code>. To get the ensemble results run <code class="highlighter-rouge">python ensemble.py</code>.</p>
 
-<h3 style="margin-top:100px;">Also see <strong>README.md</strong> <a href="https://github.com/javiferran/document-classification/blob/master/README.md"><em>on github!</em></a></h3>
+<h3 style="margin-top:80px;">Also see <strong>README.md</strong> <a href="https://github.com/javiferran/document-classification/blob/master/README.md"><em>on github!</em></a></h3>
 
 
         </div>
