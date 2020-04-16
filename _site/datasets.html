@@ -1,5 +1,20 @@
 <h2>Datasets</h2>
 
-<p>We provide the script to generate BigTobacco train, test and validation sets in .hdf5 and .TfRecord <a href="https://github.com/javiferran/document-classification/Data">here</a>.</p>
+<p>We provide the scripts to generate the .hdf5 and .TfRecord used <a href="https://github.com/javiferran/document-classification/tree/master/Data">here</a>.</p>
 
-<p>For SmallTobacco, we provide the scripts for both optaining Tesserect OCR .txt files and generating random splits .hdf5 files <a href="https://github.com/javiferran/document-classification/Data">here</a>. Please contact the repository owner for more information.</p>
+<p>Run <code class="highlighter-rouge">python ./Data/python BT_hdf5_dataset_creation.py</code> to create the .hdf5 files for train, test and validation sets.</p>
+
+<p>For SmallTobacco, we provide the scripts for both optaining Tesserect OCR .txt files and generating random splits .hdf5 files.</p>
+
+<p>Run:</p>
+
+<ul>
+  <li>
+    <p><code class="highlighter-rouge">python ./Data/ocr_tobacco.py</code> to extract OCR and save .txt files in the same path as the images.</p>
+  </li>
+  <li>
+    <p><code class="highlighter-rouge">python ./Data/python ST_hdf5_dataset_creation.py</code> to create the .hdf5 file dataset.</p>
+  </li>
+</ul>
+
+<p>Please contact the repository owner for more information.</p>
