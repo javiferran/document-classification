@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-Data/*
 HDF5_files/*
 Tobacco3482/*
 .ipynb_checkpoints/*
