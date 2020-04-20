@@ -6,7 +6,7 @@ import csv
 import cv2
 import pandas as pd
 
-# Creation of random splits of SmallTobacco .hdf5 files ensuring max_samples_class
+# Creation of random splits of BigTobacco .hdf5 files ensuring max_samples_class
 # samples per class in training set
 
 sets = ['train','val', 'test']
