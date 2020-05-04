@@ -10,15 +10,12 @@ def main_worker(gpu, args):
 
     torch.manual_seed(SEED)
 
-    #device = torch.device('cuda', args.local_rank)
-
+    # rank of the current GPU
     rank = args.nr * args.gpus + gpu
 
     number_gpus = torch.cuda.device_count()
-    #args.rank = int(os.environ["RANK"])
     args.gpu = gpu
-    #args.rank = args.local_rank * ngpus_per_node + gpu
-    # os.environ['MASTER_ADDR'] = 'localhost'
+
     dist.init_process_group(backend='nccl',init_method='env://',
                             world_size=args.world_size, rank=rank)
 
@@ -32,11 +29,11 @@ def main_worker(gpu, args):
     big_tobacco_classes = 16
     lr_multiplier = 0.2
     learning_rate = (lr_multiplier*batch_size*number_gpus)/256
-    number_workers = 4*number_gpus
+    number_workers = 4
     triangular_lr = True
     input_size = 384# not needed to resize since images are already 384x384
-    save_model = True
-    create_csv = True
+    save_model = False
+    create_csv = False
 
     description = 'eff' + efficientnet_model + 'BT' + str(number_gpus) + '_seed' + str(SEED) + '_epochs' + str(max_epochs) + 'pruebas_finales'
 
@@ -66,13 +63,16 @@ def main_worker(gpu, args):
     documents_datasets = {x: H5.H5Dataset(path=str(hdf5_file + x + '.hdf5'),
             data_transforms=data_transforms[x], phase = x) for x in ['train', 'val']}
 
-    sampler = {x: torch.utils.data.distributed.DistributedSampler(documents_datasets[x],num_replicas=args.world_size,
-                                                                    rank=rank) for x in ['train', 'val']}
+    # non-overlapping dataset partition
+    sampler = {x: torch.utils.data.distributed.DistributedSampler(documents_datasets[x],
+                                                                num_replicas=args.world_size,
+                                                                rank=rank) for x in ['train', 'val']}
 
     # dataloader creation (train and validation)
     dataloaders_dict = {x: DataLoader(documents_datasets[x],
             batch_size=batch_size if x == 'train' else int(batch_size/(number_gpus*2)),
-            shuffle = False, num_workers=number_workers, pin_memory=True, sampler = sampler[x])
+            shuffle = False, num_workers=number_workers, pin_memory=True,
+            sampler = sampler[x])
             for x in ['train', 'val']}
 
     # loading EfficientNet with Linear layer on top
@@ -81,15 +81,11 @@ def main_worker(gpu, args):
     net._fc = nn.Linear(num_ftrs, big_tobacco_classes)
     model = net
 
-    # move model to gpu
-    #device = torch.device('cuda', args.local_rank)
-    #model = model.to(device)
 
     torch.cuda.set_device(gpu)
     model.cuda(gpu)
 
-    # DistributedDataParallel will divide and allocate batch_size to all
-    # available GPUs if device_ids are not set
+    # Wrap the model as a DistributedDataParallel model in device_id
     model = torch.nn.parallel.DistributedDataParallel(model,device_ids=[gpu])
 
     # loss function and optimizer
@@ -300,13 +296,10 @@ def main():
                         help='number of gpus per node')
     parser.add_argument('-nr', '--nr', default=0, type=int,
                         help='ranking within the nodes')
-    parser.add_argument("--local_rank", type=int)
 
     args = parser.parse_args()
 
     ngpus_per_node = number_gpus
-
-    # args.world_size = int(os.environ["WORLD_SIZE"])
 
     args.world_size = args.gpus * args.nodes
     # Use torch.multiprocessing.spawn to launch distributed processes: the
@@ -316,7 +309,7 @@ def main():
 
 
 if __name__ == '__main__':
+    # allow multiprocessing
     torch.multiprocessing.set_start_method('spawn',force = 'True')
     print('GPU available', torch.cuda.is_available())
-    #device = torch.device("cuda:0")
     main()
