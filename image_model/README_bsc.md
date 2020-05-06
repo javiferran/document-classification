@@ -1,45 +1,68 @@
-# Running parallel training of the image model in Pytorch (CTE-POWER machine)
+# Running distributed training of the image model (CTE-POWER machine)
 
-## Preparation
-
-Since _efficientnet_pytorch_ library downloads the models in .cache/torch/checkpoints, and CTE_POWER has no internet connection, we have to add the models manually. First, we create the directory to store efficientnet models
+- Download https://github.com/javiferran/document-classification repository and move it to CTE:
 
 ```bash
-ssh bsc31991@plogin1.bsc.es "mkdir -p /gpfs/home/bsc31/bsc31991/image_model_pytorch/.cache/torch/checkpoints"
+$ cd Downloads
+$ git clone https://github.com/javiferran/document-classification.git
+$ scp Downloads/document-classification bsc31275@plogin1.bsc.es:/gpfs/home/bsc31/bsc31275
 ```
 
-Then we download efficientnet pretrained models in a local computer from the following links:
+## TensorFlow
+- Download efficientnet.tfkeras models:
 
 ```bash
-'efficientnet-b0': 'https://github.com/lukemelas/EfficientNet-PyTorch/releases/download/1.0/adv-efficientnet-b0-b64d5a18.pth',
-'efficientnet-b1': 'https://github.com/lukemelas/EfficientNet-PyTorch/releases/download/1.0/adv-efficientnet-b1-0f3ce85a.pth',
-'efficientnet-b2': 'https://github.com/lukemelas/EfficientNet-PyTorch/releases/download/1.0/adv-efficientnet-b2-6e9d97e5.pth',
-'efficientnet-b3': 'https://github.com/lukemelas/EfficientNet-PyTorch/releases/download/1.0/adv-efficientnet-b3-cdd7c0f4.pth',
-'efficientnet-b4': 'https://github.com/lukemelas/EfficientNet-PyTorch/releases/download/1.0/adv-efficientnet-b4-44fb3a87.pth'
+https://github.com/Callidior/keras-applications/releases/download/efficientnet/efficientnet-b0_weights_tf_dim_ordering_tf_kernels_autoaugment_notop.h5
 ```
 
-Finally, we copy the downloaded models to the created folder (assuming it downloads in 'Downloads' folder)
+Remember we need the ones with _notop_ sufix.
+
+- Create directory to store models:
 
 ```bash
-scp Downloads/efficientnet-b1-f1951068.pth bsc31991@plogin1.bsc.es:/gpfs/home/bsc31/bsc31991/image_model_pytorch/.cache/torch/checkpoints/
+$ ssh bsc31275@plogin1.bsc.es "mkdir -p /gpfs/home/bsc31/bsc3175/document-classification/image_model/tensorflow/.keras/models"
 ```
 
-Now we can run the JOB_parallel.sh file.
-The important things to know before submitting the job are the following ones:
+- Copy model to created directory:
 
 ```bash
-#SBATCH --output /gpfs/home/bsc31/bsc31275/logs/%j.out <- folder to store the logs .out (select user and create folder if necessary)
-
-#SBATCH --error /gpfs/home/bsc31/bsc31275/logs/%j.err <- folder to store the logs .err (select user and create folder if necessary)
-
-#SBATCH --gres gpu:1 <- number of gpus to be used (1, 2, 3 or 4)
-
-#SBATCH -c 40 <- number of cpus, 40*number of gpus (40, 80, 120 or 160)
-
-#SBATCH --time 00:10:00 <- maximum time to run the job (48:00:00 max)
-
-python eff_big_training.py \
-	--epochs 20 \ <- number of epochs
-	--eff_model b0 \ <- model to use
-	--load_path /gpfs/scratch/bsc31/bsc31275/ <- path to load the dataset (don't change)
+$ scp Downloads/efficientnet-b0_weights_tf_dim_ordering_tf_kernels_autoaugment_notop.h5 bsc31275@plogin1.bsc.es:/gpfs/home/bsc31/bsc31275//document-classification/image_model/tensorflow/.keras/models
 ```
+
+- If efficientnet libary is not installed:
+
+Download https://github.com/qubvel/efficientnet repository and copy it in bsc31275@plogin1.bsc.es:/gpfs/home/bsc31/bsc31275/document-classification/image_model/tensorflow
+
+
+- Run job.sh
+
+Select the desidered number of gpus by changing `ntasks` and `gres=gpu:` values. 
+
+### TensorFlow with Horovod
+
+- Run job_hvd.sh
+
+## PyTorch
+
+- Download efficientnet-pytorch models:
+
+```bash
+'https://github.com/lukemelas/EfficientNet-PyTorch/releases/download/1.0/efficientnet-b0-355c32eb.pth
+```
+
+- Create directory to store models:
+
+```bash
+$ ssh bsc31275@plogin1.bsc.es "mkdir -p /gpfs/home/bsc31/bsc31275/document-classification/image_model/.cache/torch/checkpoints"
+```
+
+- Copy model To created directory:
+
+```bash
+$ scp Downloads/efficientnet-b0-355c32eb.pth bsc31275@plogin1.bsc.es:/gpfs/home/bsc31/bsc31275/document-classification/image_model/.cache/torch/checkpoints
+```
+
+- Run JOB_parallel.sh
+
+Select the desidered number of gpus by changing `ntasks` and `gres gpu:` values. 
+

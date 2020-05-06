@@ -15,6 +15,30 @@ from tensorflow.keras.callbacks import LearningRateScheduler
 from tensorflow.keras import backend as K
 from tensorflow.keras.applications.resnet import ResNet50
 from tensorflow.keras.callbacks import ModelCheckpoint
+import horovod.tensorflow as hvd
+
+hvd.init()
+gpus = tf.config.experimental.list_physical_devices('GPU')
+for gpu in gpus:
+    tf.config.experimental.set_memory_growth(gpu, True)
+if gpus:
+    tf.config.experimental.set_visible_devices(gpus[hvd.local_rank()], 'GPU')
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--epochs', type=int, default=20)
+parser.add_argument('--img_size', type=int, default=384)
+parser.add_argument('--batch_size', type=int, default=16)
+parser.add_argument('--optimizer', type=str, default='adam')
+parser.add_argument('--image_model', type=int, default=0)
+
+args = parser.parse_args()
+
+print("----- ARGUMENTS: ------")
+print("EPOCHS:", str(args.epochs))
+print("IMG_SIZE:", str(args.img_size))
+print("BATCH_SIZE", str(args.batch_size))
+print("OPTIMIZER", str(args.optimizer))
+print("-----------------------")
 
 def swish(x):
     return K.sigmoid(x) * x
@@ -28,14 +52,6 @@ def read_tfrecord(serialized_example):
     example = tf.io.parse_single_example(serialized_example, feature_description)
     final_image = tf.image.decode_png(example['image_raw'], channels=3, dtype=tf.dtypes.uint8)
     return final_image, example['label']
-
-def decay(epoch):
-    if epoch < 3:
-        return 1e-3
-    elif epoch >= 3 and epoch < 7:
-        return 1e-4
-    else:
-        return 1e-5
 
 def create_efficientNet():
     if image_model == 4:
@@ -63,6 +79,14 @@ def create_resnet50():
     # This is the model we will train
     model = Model(inputs=baseModel.input, outputs=predictions)
     return model
+
+def decay(epoch):
+    if epoch < 3:
+        return 1e-3
+    elif epoch >= 3 and epoch < 7:
+        return 1e-4
+    else:
+        return 1e-5
 
 # Callback for printing the LR at the end of each epoch.
 class PrintLR(tf.keras.callbacks.Callback):
@@ -96,23 +120,7 @@ class MyLearningRateScheduler(tf.keras.callbacks.Callback):
 
         K.set_value(self.model.optimizer.lr, lr)
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--epochs', type=int, default=20)
-parser.add_argument('--img_size', type=int, default=384)
-parser.add_argument('--batch_size', type=int, default=16)
-parser.add_argument('--optimizer', type=str, default='adam')
-parser.add_argument('--image_model', type=int, default=0)
 
-args = parser.parse_args()
-
-print("----- ARGUMENTS: ------")
-print("EPOCHS:", str(args.epochs))
-print("IMG_SIZE:", str(args.img_size))
-print("BATCH_SIZE", str(args.batch_size))
-print("OPTIMIZER", str(args.optimizer))
-print("-----------------------")
-
-# Define parameters
 IMG_SIZE      = args.img_size
 epochs        = args.epochs
 image_model   = args.image_model
@@ -125,8 +133,7 @@ input_size    = (IMG_SIZE, IMG_SIZE, 3)
 opt_name      = args.optimizer.lower()
 model_path    = str('saved_model_' + opt_name + '/')
 
-strategy = tf.distribute.MirroredStrategy()
-N_GPUS   = strategy.num_replicas_in_sync
+N_GPUS   = hvd.size()
 print ('Number of devices: {}'.format(N_GPUS))
 BUFFER_SIZE = train_size
 BATCH_SIZE_PER_REPLICA = args.batch_size
@@ -136,7 +143,6 @@ train_steps = ceil(train_size/GLOBAL_BATCH_SIZE)
 val_steps   = ceil(val_size/GLOBAL_BATCH_SIZE)
 test_steps  = ceil(test_size/GLOBAL_BATCH_SIZE)
 
-# Load data
 train_tfrecord = tf.data.TFRecordDataset(filenames = ['/gpfs/scratch/bsc31/bsc31961/BigTobacco_images_train_full.tfrecord'])
 val_tfrecord   = tf.data.TFRecordDataset(filenames = ['/gpfs/scratch/bsc31/bsc31961/BigTobacco_images_val.tfrecord'])
 test_tfrecord  = tf.data.TFRecordDataset(filenames = ['/gpfs/scratch/bsc31/bsc31961/BigTobacco_images_test.tfrecord'])
@@ -145,25 +151,23 @@ train_dataset = train_tfrecord.map(read_tfrecord, num_parallel_calls=tf.data.exp
 val_dataset   = val_tfrecord.map(read_tfrecord, num_parallel_calls=tf.data.experimental.AUTOTUNE).batch(GLOBAL_BATCH_SIZE).repeat().prefetch(tf.data.experimental.AUTOTUNE)
 test_dataset   = test_tfrecord.map(read_tfrecord).batch(GLOBAL_BATCH_SIZE).repeat()
 
-# Create and compile model under strategy scope
-with strategy.scope():
+if image_model != 50:
+    model = create_efficientNet()
+else:
+    model = create_resnet50()
 
-    if image_model == 50:
-        model = create_resnet50()
-    else:
-        model = create_efficientNet()
+if opt_name == 'sgd':
+    print("optimizer: SGD")
+    opt = optimizers.SGD(lr=max_lr, decay=0.00004, momentum=0.9)
+else:
+    print("optimizer: Adam")
+    # default Adam parameters: (learning_rate=0.001, beta_1=0.9, beta_2=0.999, amsgrad=False)
+    opt = optimizers.Adam()
 
-    if opt_name == 'sgd':
-        print("optimizer: SGD")
-        opt = optimizers.SGD(lr=max_lr, decay=0.00004, momentum=0.9)
-    else:
-        print("optimizer: Adam")
-        # default Adam parameters: (learning_rate=0.001, beta_1=0.9, beta_2=0.999, amsgrad=False)
-        opt = optimizers.Adam()
-
-    model.compile(loss='sparse_categorical_crossentropy', optimizer=opt,
-                    metrics = ['accuracy'])
-
+opt = hvd.DistributedOptimizer(opt)
+model.compile(loss='sparse_categorical_crossentropy', optimizer=opt, metrics = ['accuracy'])
+hvd.broadcast_variables(model.variables, root_rank=0)
+hvd.broadcast_variables(opt.variables(), root_rank=0)
 
 callbacks = []
 
@@ -181,17 +185,16 @@ elif opt_name == 'adam':
     ]
 
 # TRAIN MODEL
+verbose = 1 if hvd.rank() == 0 else 0
 time_start = time()
-
 # TRAIN without evaluation
-model.fit(train_dataset, epochs=epochs, steps_per_epoch=train_steps, callbacks=callbacks)
-
+model.fit(train_dataset, epochs=epochs, steps_per_epoch=train_steps, callbacks=callbacks, verbose=verbose)
 # TRAIN with evaluation
-# model.fit(train_dataset, epochs=epochs, steps_per_epoch=train_steps, callbacks=callbacks, validation_data = val_dataset, validation_steps=val_steps)
-
+# model.fit(train_dataset, epochs=epochs, steps_per_epoch=train_steps, callbacks=callbacks, validation_data=val_dataset, validation_steps=val_steps, verbose=verbose)
 time_end = time()
-print("Training time: " + str(time_end - time_start))
+print(f"Training time for GPU {hvd.rank()}: {time_end - time_start}")
 
-# TEST MODEL
-test_loss, test_acc = model.evaluate(test_dataset, steps=test_steps)
-print('Test loss: {}, Test Accuracy: {}'.format(test_loss, test_acc))
+if hvd.rank() == 0:
+    print("Testing model...")
+    test_loss, test_acc = model.evaluate(test_dataset, steps=test_steps)
+    print('Test loss: {}, Test Accuracy: {}'.format(test_loss, test_acc))
