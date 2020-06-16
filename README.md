@@ -1,4 +1,4 @@
-# Improving accuracy and speeding up Document Image Classication through parallel systems
+# Improving accuracy and speeding up Document Image Classification through parallel systems
 
 Paper: [Improving accuracy and speeding up Document Image Classification through parallel systems]()
 
