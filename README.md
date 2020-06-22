@@ -1,6 +1,6 @@
 # Improving accuracy and speeding up Document Image Classification through parallel systems
 
-Paper: [Improving accuracy and speeding up Document Image Classification through parallel systems]()
+Paper: [Improving accuracy and speeding up Document Image Classification through parallel systems](https://link.springer.com/chapter/10.1007%2F978-3-030-50417-5_29)
 
 ## Datasets
 
